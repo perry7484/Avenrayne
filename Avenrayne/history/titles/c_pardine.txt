@@ -6,3 +6,7 @@
 800.1.1={
 	liege=d_bochia
 }
+674.1.1={holder=8070} #Anghel[8003]
+694.07.22={holder=8071} #Petre[8003]
+737.11.22={holder=8076} #Bajan[8003]
+758.07.05={holder=8077} #Iuga[8003]

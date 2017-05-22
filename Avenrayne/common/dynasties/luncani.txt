@@ -6,3 +6,11 @@
 	name="Bogadgan"
 	culture="varodaesca"
 }
+8002={
+	name="Simmioion"
+	culture="varodaesca"
+}
+8003={
+	name="Romangan"
+	culture="varodaesca"
+}

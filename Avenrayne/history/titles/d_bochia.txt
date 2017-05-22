@@ -6,3 +6,7 @@
 800.1.1={
 	liege=k_luncani
 }
+655.1.1={holder=8047} #Moise[8002]
+682.03.06={holder=8049} #Petre[8002]
+718.07.18={holder=8050} #Nicolaie[8002]
+744.10.21={holder=8056} #Gavril[8002]
