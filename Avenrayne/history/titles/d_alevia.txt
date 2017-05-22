@@ -1,0 +1,40 @@
+# k_mesia
+1.1.1={
+de_jure_liege=k_minllyn
+}
+250.1.1={
+liege=k_mesia
+}
+300.1.1={
+	de_jure_ass_years=50
+	assimilating_liege=
+{
+
+		title="k_mesia"
+	
+}
+
+}
+350.1.1={
+	de_jure_ass_years=70
+	assimilating_liege=
+{
+
+		title="k_mesia"
+	
+}
+
+}
+400.1.1={
+	de_jure_ass_years=90
+	assimilating_liege=
+{
+
+		title="k_mesia"
+	
+}
+
+}
+500.1.1={
+de_jure_liege=k_mesia
+}

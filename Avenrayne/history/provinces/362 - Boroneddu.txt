@@ -1,0 +1,28 @@
+# c_boroneddu
+
+# County Title
+title = c_boroneddu
+
+# Settlements
+max_settlements = 7
+
+b_boroneddu = city
+b_milis = city
+#b_terubia = temple
+#b_santu_idu = castle
+#b_callina = city
+#b_tiana = temple
+#b_brucei = castle
+
+# Misc
+culture = silana
+religion = pagan
+
+#History
+1.1.1 = { 
+religion = hellenic_pagan
+culture = capracciana
+}
+101.1.1 = { 
+culture = silana
+}

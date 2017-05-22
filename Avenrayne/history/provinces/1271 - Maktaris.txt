@@ -1,0 +1,21 @@
+# c_maktaris
+
+# County Title
+title = c_maktaris
+
+# Settlements
+max_settlements = 7
+
+b_maktaris = castle
+#b_maktaris_2 = city
+#b_maktaris_3 = temple
+#b_maktaris_4 = castle
+#b_maktaris_5 = city
+#b_maktaris_6 = temple
+#b_maktaris_7 = castle
+
+# Misc
+culture = siliani
+religion = donatist
+
+#History

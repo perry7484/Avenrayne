@@ -1,0 +1,21 @@
+# c_zeraia
+
+# County Title
+title = c_zeraia
+
+# Settlements
+max_settlements = 7
+
+b_zeraia = castle
+#b_zeraia_2 = city
+#b_zeraia_3 = temple
+#b_zeraia_4 = castle
+#b_zeraia_5 = city
+#b_zeraia_6 = temple
+#b_zeraia_7 = castle
+
+# Misc
+culture = siliani
+religion = donatist
+
+#History

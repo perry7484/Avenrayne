@@ -1,0 +1,44 @@
+# c_rivevaux
+
+# County Title
+title = c_rivevaux
+
+# Settlements
+max_settlements = 7
+
+b_rivevaux = castle
+b_seule = city
+#b_rotagne = temple
+#b_charasais = castle
+#b_lammes = city
+#b_montseuse = temple
+#b_duvalle = castle
+
+# Misc
+culture = eastern_rayne
+religion = cathar
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = renae
+}
+2.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+480.1.1 = { 
+culture = old_rayne
+}
+479.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+691.1.1 = { 
+religion = cathar
+}
+730.1.1 = { 
+culture = eastern_rayne
+}

@@ -1,0 +1,34 @@
+# c_tocchia
+
+# County Title
+title = c_tocchia
+
+# Settlements
+max_settlements = 7
+
+b_tocchia = castle
+b_sezzano = city
+b_festoni = temple
+#b_sippiciano = castle
+#b_lonida = city
+#b_tocchia_2 = temple
+#b_tocchia_3 = castle
+
+# Misc
+culture = arsiziana
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = hellenic_pagan
+culture = capracciana
+}
+560.1.1 = { 
+culture = arsiziana
+}
+230.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}

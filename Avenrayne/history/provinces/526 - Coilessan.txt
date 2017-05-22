@@ -1,0 +1,21 @@
+# c_coilessan
+
+# County Title
+title = c_coilessan
+
+# Settlements
+max_settlements = 7
+
+b_coilessan = tribal
+#b_coilessan_2 = city
+#b_coilessan_3 = temple
+#b_coilessan_4 = castle
+#b_coilessan_5 = city
+#b_coilessan_6 = temple
+#b_coilessan_7 = castle
+
+# Misc
+culture = ardthirraich
+religion = celtic_pagan
+
+#History

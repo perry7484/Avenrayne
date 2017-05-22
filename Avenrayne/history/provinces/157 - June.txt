@@ -1,0 +1,38 @@
+# c_june
+
+# County Title
+title = c_june
+
+# Settlements
+max_settlements = 7
+
+b_june_2 = castle
+#b_ellsville = city
+#b_june_3 = temple
+#b_june_4 = castle
+#b_june_5 = city
+#b_june_6 = temple
+#b_june_7 = castle
+
+# Misc
+culture = southron
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = abonae
+}
+87.1.1 = { 
+religion = hellenic_pagan
+culture = abonae_capracciana
+}
+500.1.1 = { 
+culture = eascisc
+}
+480.1.1 = { 
+religion = catholic
+}
+1130.1.1 = { 
+culture = southron
+}

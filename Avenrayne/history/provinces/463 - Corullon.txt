@@ -1,0 +1,21 @@
+# c_corullon
+
+# County Title
+title = c_corullon
+
+# Settlements
+max_settlements = 7
+
+b_corullon = castle
+b_voces = city
+#b_corullon_2 = temple
+#b_corullon_3 = castle
+#b_corullon_4 = city
+#b_corullon_5 = temple
+#b_corullon_6 = castle
+
+# Misc
+culture = costano
+religion = zun_pagan
+
+#History

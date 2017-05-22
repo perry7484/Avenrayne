@@ -1,0 +1,21 @@
+# c_arrochar
+
+# County Title
+title = c_arrochar
+
+# Settlements
+max_settlements = 7
+
+b_arrochar = castle
+#b_arrochar_2 = city
+#b_arrochar_3 = temple
+#b_arrochar_4 = castle
+#b_arrochar_5 = city
+#b_arrochar_6 = temple
+#b_arrochar_7 = castle
+
+# Misc
+culture = abonae
+religion = celtic_pagan
+
+#History

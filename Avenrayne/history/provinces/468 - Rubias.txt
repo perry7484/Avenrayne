@@ -1,0 +1,21 @@
+# c_rubias
+
+# County Title
+title = c_rubias
+
+# Settlements
+max_settlements = 7
+
+b_rubias = castle
+#b_rodanillo = city
+#b_rubias_2 = temple
+#b_rubias_3 = castle
+#b_rubias_4 = city
+#b_rubias_5 = temple
+#b_rubias_6 = castle
+
+# Misc
+culture = costano
+religion = zun_pagan
+
+#History

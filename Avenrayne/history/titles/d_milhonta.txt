@@ -1,0 +1,19 @@
+# e_rayne
+500.1.1={
+	law = cognatic_succession
+	law = succ_primogeniture
+}
+761.12.22={
+	holder=3851 #Folquet
+}
+539.10.1={
+	liege=e_nikosia
+}
+
+561.4.1={
+	liege=e_rayne
+}
+
+776.5.31={
+	liege=k_passa
+}

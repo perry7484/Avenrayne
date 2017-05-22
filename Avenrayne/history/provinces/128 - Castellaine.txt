@@ -1,0 +1,21 @@
+# c_castellaine
+
+# County Title
+title = c_castellaine
+
+# Settlements
+max_settlements = 7
+
+b_castellaine = castle
+#b_rognont = city
+#b_greville = temple
+#b_laprade = castle
+#b_brinour = city
+#b_alvasse = temple
+#b_longis = castle
+
+# Misc
+culture = northern_rayne
+religion = catholic
+
+#History

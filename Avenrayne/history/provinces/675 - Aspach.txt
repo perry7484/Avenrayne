@@ -1,0 +1,21 @@
+# c_aspach
+
+# County Title
+title = c_aspach
+
+# Settlements
+max_settlements = 7
+
+b_aspach = castle
+#b_aspach_2 = city
+#b_aspach_3 = temple
+#b_aspach_4 = castle
+#b_aspach_5 = city
+#b_aspach_6 = temple
+#b_aspach_7 = castle
+
+# Misc
+culture = mittelander
+religion = norse_pagan
+
+#History

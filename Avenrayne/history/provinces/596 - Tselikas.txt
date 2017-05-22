@@ -1,0 +1,21 @@
+# c_tselikas
+
+# County Title
+title = c_tselikas
+
+# Settlements
+max_settlements = 7
+
+b_tselikas = castle
+b_agonopolis = city
+#b_tselikas_2 = temple
+#b_tselikas_3 = castle
+#b_tselikas_4 = city
+#b_tselikas_5 = temple
+#b_tselikas_6 = castle
+
+# Misc
+culture = amfissaki
+religion = orthodox
+
+#History

@@ -1,0 +1,21 @@
+# c_xoia
+
+# County Title
+title = c_xoia
+
+# Settlements
+max_settlements = 7
+
+b_xoia = castle
+b_riomol = city
+#b_mesego = temple
+#b_xoia_2 = castle
+#b_xoia_3 = city
+#b_xoia_4 = temple
+#b_xoia_5 = castle
+
+# Misc
+culture = meiro
+religion = zun_pagan
+
+#History

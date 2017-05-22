@@ -1,0 +1,21 @@
+# c_glaspwll
+
+# County Title
+title = c_glaspwll
+
+# Settlements
+max_settlements = 7
+
+b_glaspwll = tribal
+#b_bynea = city
+#b_prestatyn = temple
+#b_glaspwll_2 = castle
+#b_glaspwll_3 = city
+#b_glaspwll_4 = temple
+#b_glaspwll_5 = castle
+
+# Misc
+culture = maesmyge
+religion = celtic_pagan
+
+#History

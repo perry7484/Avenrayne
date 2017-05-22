@@ -1,0 +1,21 @@
+# c_barko
+
+# County Title
+title = c_barko
+
+# Settlements
+max_settlements = 7
+
+b_barko = castle
+b_tindi = city
+b_maatha = temple
+#b_karya = castle
+#b_buramye = city
+#b_barko_2 = temple
+#b_barko_3 = castle
+
+# Misc
+culture = semnite
+religion = west_african_pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_aksin
+
+# County Title
+title = c_aksin
+
+# Settlements
+max_settlements = 7
+
+b_aksin = castle
+#b_aksin_2 = city
+#b_aksin_3 = temple
+#b_aksin_4 = castle
+#b_aksin_5 = city
+#b_aksin_6 = temple
+#b_aksin_7 = castle
+
+# Misc
+culture = taguedi
+religion = miaphysite
+
+#History

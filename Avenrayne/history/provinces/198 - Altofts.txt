@@ -1,0 +1,21 @@
+# c_altofts
+
+# County Title
+title = c_altofts
+
+# Settlements
+max_settlements = 7
+
+b_altofts = castle
+#b_altofts_2 = city
+#b_altofts_3 = temple
+#b_altofts_4 = castle
+#b_altofts_5 = city
+#b_altofts_6 = temple
+#b_altofts_7 = castle
+
+# Misc
+culture = abonae
+religion = celtic_pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_tarro
+
+# County Title
+title = c_tarro
+
+# Settlements
+max_settlements = 7
+
+b_tarro = castle
+#b_tarro_2 = city
+#b_tarro_3 = temple
+#b_tarro_4 = castle
+#b_tarro_5 = city
+#b_tarro_6 = temple
+#b_tarro_7 = castle
+
+# Misc
+culture = calahondo
+religion = sunni
+
+#History

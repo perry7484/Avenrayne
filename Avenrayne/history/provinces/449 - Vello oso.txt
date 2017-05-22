@@ -1,0 +1,21 @@
+# c_vello_oso
+
+# County Title
+title = c_vello_oso
+
+# Settlements
+max_settlements = 7
+
+b_vello_oso = castle
+b_laroa = city
+#b_vello_oso_2 = temple
+#b_vello_oso_3 = castle
+#b_vello_oso_4 = city
+#b_vello_oso_5 = temple
+#b_vello_oso_6 = castle
+
+# Misc
+culture = costano
+religion = zun_pagan
+
+#History

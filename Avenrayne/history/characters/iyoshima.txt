@@ -1,0 +1,21 @@
+1601={
+	name=Kazue
+	dynasty=1600
+	dna="0dhib0dcea0"
+	female=yes
+	culture=iyoshima religion=shinto
+	martial=3 diplomacy=7 stewardship=7 intrigue=5 learning=6
+	add_trait=humble add_trait=chaste add_trait=kind add_trait=envious add_trait=greedy
+	739.9.26={ birth=yes }
+	804.5.5={ death=yes }
+}
+1602={
+	name=Hitoshi
+	dynasty=1600
+	dna="0diib0gceb0"
+	culture=iyoshima religion=buddhist
+	martial=3 diplomacy=7 stewardship=7 intrigue=5 learning=6
+	add_trait=mahayana_buddhist
+	739.9.26={ birth=yes }
+	804.5.5={ death=yes }
+}

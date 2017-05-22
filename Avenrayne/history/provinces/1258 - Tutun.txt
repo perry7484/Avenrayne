@@ -1,0 +1,21 @@
+# c_tutun
+
+# County Title
+title = c_tutun
+
+# Settlements
+max_settlements = 7
+
+b_tutun = castle
+#b_tutun_2 = city
+#b_tutun_3 = temple
+#b_tutun_4 = castle
+#b_tutun_5 = city
+#b_tutun_6 = temple
+#b_tutun_7 = castle
+
+# Misc
+culture = tutun
+religion = egyptian_pagan
+
+#History

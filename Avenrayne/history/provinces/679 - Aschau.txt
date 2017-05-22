@@ -1,0 +1,21 @@
+# c_aschau
+
+# County Title
+title = c_aschau
+
+# Settlements
+max_settlements = 7
+
+b_aschau = castle
+#b_aschau_2 = city
+#b_aschau_3 = temple
+#b_aschau_4 = castle
+#b_aschau_5 = city
+#b_aschau_6 = temple
+#b_aschau_7 = castle
+
+# Misc
+culture = mittelander
+religion = norse_pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_carapelle
+
+# County Title
+title = c_carapelle
+
+# Settlements
+max_settlements = 7
+
+b_carapelle = castle
+b_faeto = city
+b_venosa = temple
+#b_carapelle_2 = castle
+#b_carapelle_3 = city
+#b_carapelle_4 = temple
+#b_carapelle_5 = castle
+
+# Misc
+culture = atessana
+religion = orthodox
+
+#History

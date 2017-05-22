@@ -1,0 +1,66 @@
+# e_rayne
+1.1.1={
+	liege=k_rayne
+}
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+659.2.28={
+	holder=3031 #Henri
+}
+672.3.26={
+	holder=3035 #Alano
+}
+691.6.14={
+	holder=3039 #Centulio
+}
+702.3.26={
+	holder=3100 #Vivian
+}
+729.11.6={
+	holder=3101
+}
+747.3.14={
+	holder=3110
+}
+761.11.2={
+	holder=3116
+}
+827.1.1={
+	holder=3117
+}
+846.1.1={
+	holder=3118
+}
+868.1.1={
+	holder=3119
+}
+899.1.1={
+	holder=3120
+}
+
+925.1.1={
+	holder=3121
+}
+959.1.2={
+	holder=3129
+}
+992.12.31={
+	holder=3130
+}
+1001.6.10={
+	holder=3135
+}
+1026.3.20={
+	holder=3141
+}
+1052.12.8={
+	holder=3142
+}
+1060.10.12={
+	holder=3143
+}
+1072.3.28={
+	holder=3150
+}

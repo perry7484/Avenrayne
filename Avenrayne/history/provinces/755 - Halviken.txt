@@ -1,0 +1,21 @@
+# c_halviken
+
+# County Title
+title = c_halviken
+
+# Settlements
+max_settlements = 7
+
+b_halviken = tribal
+#b_halviken_2 = city
+#b_halviken_3 = temple
+#b_halviken_4 = castle
+#b_halviken_5 = city
+#b_halviken_6 = temple
+#b_halviken_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

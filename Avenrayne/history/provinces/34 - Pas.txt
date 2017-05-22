@@ -1,0 +1,48 @@
+# c_pas
+
+# County Title
+title = c_pas
+
+# Settlements
+max_settlements = 7
+
+b_pas = castle
+b_balazac = city
+b_vinha = temple
+#b_ramir = castle
+#b_canto = city
+#b_cor = temple
+#b_bethcosta = castle
+
+# Misc
+culture = passa_rayne
+religion = cathar
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = renae
+}
+72.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+	b_pas = ca_wall_1
+	b_pas = ca_town_1
+	b_pas = ca_barracks_1
+}
+60.1.1 = { 
+religion = hellenic_pagan
+culture = passa_capracciana
+}
+480.1.1 = { 
+culture = passa_rayne
+}
+510.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+640.1.1 = { 
+religion = cathar
+}

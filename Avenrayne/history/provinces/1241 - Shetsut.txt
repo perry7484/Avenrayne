@@ -1,0 +1,21 @@
+# c_shetsut
+
+# County Title
+title = c_shetsut
+
+# Settlements
+max_settlements = 7
+
+b_shetsut = castle
+#b_shetsut_2 = city
+#b_shetsut_3 = temple
+#b_shetsut_4 = castle
+#b_shetsut_5 = city
+#b_shetsut_6 = temple
+#b_shetsut_7 = castle
+
+# Misc
+culture = taguedi
+religion = west_african_pagan
+
+#History

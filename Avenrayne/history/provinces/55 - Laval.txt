@@ -1,0 +1,41 @@
+# c_laval
+
+# County Title
+title = c_laval
+
+# Settlements
+max_settlements = 7
+
+b_laval = castle
+b_reuille = city
+b_gan = temple
+b_dubreuil = castle
+#b_fagnolle = city
+#b_gouise = temple
+#b_athie = castle
+
+# Misc
+culture = western_rayne
+religion = cathar
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = renae
+}
+2.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+450.1.1 = { 
+culture = old_rayne
+}
+480.1.1 = { 
+religion = catholic
+}
+691.1.1 = { 
+religion = cathar
+}
+730.1.1 = { 
+culture = western_rayne
+}

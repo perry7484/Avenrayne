@@ -1,0 +1,10 @@
+spriteTypes = {
+
+#Event Pics
+
+	spriteType = {
+		name = "GFX_evt_QuoFamiliaHistoria"
+		texturefile = "gfx\event_pictures\Avenrayne\QuoFamiliaHistoria.tga"
+		allwaystransparent = yes
+	}
+}

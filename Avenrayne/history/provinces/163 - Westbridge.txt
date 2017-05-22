@@ -1,0 +1,41 @@
+# c_westbridge
+
+# County Title
+title = c_westbridge
+
+# Settlements
+max_settlements = 7
+
+b_brimpton = castle
+#b_westbridge = city
+#b_westbridge_2 = temple
+#b_westbridge_3 = castle
+#b_westbridge_4 = city
+#b_westbridge_5 = temple
+#b_westbridge_6 = castle
+
+# Misc
+culture = middlefordish
+religion = lollard
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = abonae
+}
+105.1.1 = { 
+religion = hellenic_pagan
+culture = abonae_capracciana
+}
+500.1.1 = { 
+culture = eascisc
+}
+480.1.1 = { 
+religion = catholic
+}
+750.1.1 = { 
+religion = lollard
+}
+1130.1.1 = { 
+culture = middlefordish
+}

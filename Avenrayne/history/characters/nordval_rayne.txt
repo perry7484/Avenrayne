@@ -1,0 +1,90 @@
+3721 = {
+	name=Remy
+	female=no
+	dynasty=3720
+	religion=catholic
+	culture=nordval_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	736.2.6={
+		birth=yes
+	}
+	793.1.1={
+		death=yes
+	}
+}
+3731 = {
+	name=Vincent
+	female=no
+	dynasty=3730
+	religion=cathar
+	culture=nordval_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	736.2.6={
+		birth=yes
+	}
+	793.1.1={
+		death=yes
+	}
+}
+3741 = {
+	name=Godfrey
+	female=no
+	dynasty=3740
+	religion=cathar
+	culture=nordval_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	736.2.6={
+		birth=yes
+	}
+	793.1.1={
+		death=yes
+	}
+}
+3751 = {
+	name=Matin
+	female=no
+	dynasty=3750
+	religion=cathar
+	culture=nordval_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	736.2.6={
+		birth=yes
+	}
+	793.1.1={
+		death=yes
+	}
+}
+3761 = {
+	name=Donat
+	female=no
+	dynasty=3760
+	religion=cathar
+	culture=nordval_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	736.2.6={
+		birth=yes
+	}
+	793.1.1={
+		death=yes
+	}
+}

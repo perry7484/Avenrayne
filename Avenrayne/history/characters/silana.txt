@@ -1,0 +1,10 @@
+186={
+	name=Remundu
+	dynasty=186
+	dna="pfkertrbypw"
+	culture=silana religion=hellenic_pagan
+	martial=4 diplomacy=5 stewardship=6 intrigue=5 learning=7
+	add_trait=gluttonous add_trait=greedy add_trait=kind add_trait=patient 
+	730.11.24={ birth=yes }
+	785.9.15={ death=yes }
+}

@@ -1,0 +1,21 @@
+# c_walton
+
+# County Title
+title = c_walton
+
+# Settlements
+max_settlements = 7
+
+b_walton = castle
+#b_ellerton = city
+#b_bedale = temple
+#b_walton_2 = castle
+#b_walton_3 = city
+#b_walton_4 = temple
+#b_walton_5 = castle
+
+# Misc
+culture = abonae
+religion = lollard
+
+#History

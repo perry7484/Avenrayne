@@ -1,0 +1,37 @@
+# c_bisenti
+
+# County Title
+title = c_bisenti
+
+# Settlements
+max_settlements = 7
+
+b_bisenti = castle
+b_apice = city
+b_bisenti_2 = temple
+#b_bisenti_3 = castle
+#b_bisenti_4 = city
+#b_bisenti_5 = temple
+#b_bisenti_6 = castle
+
+# Misc
+culture = atessana
+religion = pelagian
+
+#History
+1.1.1 = { 
+religion = hellenic_pagan
+culture = capracciana
+}
+560.1.1 = { 
+culture = atessana
+}
+275.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+650.1.1 = { 
+religion = pelagian
+}

@@ -1,0 +1,21 @@
+# c_thalassapolis
+
+# County Title
+title = c_thalassapolis
+
+# Settlements
+max_settlements = 7
+
+b_thalassapolis = castle
+#b_thalassapolis_2 = city
+#b_thalassapolis_3 = temple
+#b_thalassapolis_4 = castle
+#b_thalassapolis_5 = city
+#b_thalassapolis_6 = temple
+#b_thalassapolis_7 = castle
+
+# Misc
+culture = amfissaki
+religion = orthodox
+
+#History

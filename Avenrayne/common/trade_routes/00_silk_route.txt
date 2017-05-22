@@ -1,0 +1,341 @@
+silk_route = { ## Large shipping or land routes
+	wealth = 100			# Total base wealth of silk route
+
+	modifier = {			# How the trade route modifies the provinces it passes
+		castle_tax_modifier = 0.15
+		city_tax_modifier = 0.15
+		temple_tax_modifier = 0.15
+		trade_route_value = 1
+	}
+
+	start = {				# Start provinces of trade route
+
+	}
+
+}
+west_spice_route = { ## Large shipping or land routes
+	wealth = 100			# Total base wealth of silk route
+
+	modifier = {			# How the trade route modifies the provinces it passes
+		castle_tax_modifier = 0.15
+		city_tax_modifier = 0.15
+		temple_tax_modifier = 0.15
+		trade_route_value = 1
+	}
+
+	start = {				# Start provinces of trade route
+	309 #Metlapa
+	310 # Quillazu
+	}
+	#Metlapa-Xonacatlan
+	path = {	# SOUTH
+		309 307
+	}
+	#Xonacatlan-Calheta
+	path = {	# NORTH 
+		307 1071 960 470
+	}
+	#Xonacatlan-Quillazu
+	path = {	# SOUTH
+		307 308 1009 1001 311 1006 310
+	}
+	#Quillazu-Rosais
+	path = {	# NE
+		310 1001 997 304
+	}
+	#Rosais-Sea
+	path = {	# NE
+		304 1007
+	}
+	#Rosais-Arenas P2
+	path = {	# NE
+		1007 963 297
+	}
+	#Rosais-Lopera P2
+	path = {	# NE
+		1007 962 293 290
+	}
+	#Calheta-Coast
+	path = {	# NORTH 
+		470 1008
+	}
+	#Calheta-Costa do Sol P2
+	path = {	# NORTH 
+		1008 1011 
+	}
+	#Calheta-Costa do Sol P3
+	path = {	# NORTH 
+		1011 446
+	}
+	#Calheta-Portonovo P2
+	path = {	# NORTH 
+		1011 1012 435
+	}
+}
+trade_major = { ## Medium shipping or land routes
+	wealth = 87			# Total base wealth of silk route
+
+	modifier = {			# How the trade route modifies the provinces it passes
+		castle_tax_modifier = 0.07
+		city_tax_modifier = 0.10
+		temple_tax_modifier = 0.07
+		trade_route_value = 1
+	}
+
+	start = {				# Start provinces of trade route
+		1 # Rayne
+		333 # Capraccia
+		446 # Costa do Sol
+		335 # Lerca
+		600 # Nikosia
+		275 # Tortella
+		1271 # Maktaris
+	}
+
+}
+trade_median = { ## Medium shipping or land routes
+	wealth = 65			# Total base wealth of silk route
+
+	modifier = {			# How the trade route modifies the provinces it passes
+		castle_tax_modifier = 0.05
+		city_tax_modifier = 0.07
+		temple_tax_modifier = 0.05
+		trade_route_value = 1
+	}
+
+	start = {				# Start provinces of trade route
+		1 # Rayne
+		333 # Capraccia
+		446 # Costa do Sol
+		335 # Lerca
+		375 # Corona
+		600 # Nikosia
+		275 # Tortella
+		1271 # Maktaris
+		297 #Arenas
+		290 #Lopera
+		123 #Castelfol
+	}
+	#Capraccia - Lerca LAND
+	path = {	# NORTH Capraccia - Sentino - Cileia - Lerca
+		333 331 334 335
+	}
+	#Capraccia - Tosca SEA
+	path = {	# SOUTH Capraccia - Tosca
+		333 332
+	}
+	#Lerca-Galiazzo P1
+	path = {	# NORTH Lerca Fiori
+		335 351
+	}
+	#Lerca-Galiazzo P2
+	path = {	# NORTH Fiori Galiazzo
+		351 342
+	}
+	#Fiori-Corona LAND
+	path = {		#EAST Fiori Campanula Caldera Bisenti Corona
+		351 353 350 365 375
+	}
+	#Corona-Torru LAND
+	path = {		#NORTH Corona Altino Sepino Torru
+		375 370 379 377
+	}
+	#Fiori-Luncani P1
+	path = {		#NORTH Fiori Aquilegia Mori Carisa Catalina 
+		351 352 347 346 218
+	}
+	#Fiori-Luncani P2
+	path = {		#NORTH Catalina Pardine Luncani
+		218 220 224
+	}
+	# Torru - Catalina
+	path = {	# WEST Torru Mossa Cerratina Catalina
+		377 368 367 218
+	}
+	# Lerca - Rayne LAND P1
+		path = {	# WEST Lerca-Sormano-Funtana-Valsot-Vald'Or-Nont-Picroux
+	335 336 340 341 28 29 23
+	}
+	# Lerca - Rayne LAND P2
+	path = {	# WEST Picroux-Rocheroyale-Rayne
+		23 5 1
+	}
+	# Rayne - Befent
+	path = { #Rayne Pontreal Befent
+		1 3 52
+	}
+	# Rayne-Laval P2
+	path = { #Befent Presque Laval
+		52 53 55
+	}	
+	# Rayne - La Paix P2
+	path = { #Befent Masardis La_Paix
+		52 51 61 
+	}
+	path = { #La_Paix Champtrefle
+		61 80
+	}
+	# Laval - Vigalle
+	path = { #Laval Coline Estre Vigalle
+		55 56 106 107
+	}
+	path = { # Rayne - Rudeforge - Rigaille
+		1 2 43
+	}
+	path = { # Rigaille - Comeale - Quibelle
+		43 45 47
+	}
+	path = { # Castelfol - Forgeours - Quibelle
+		123 126 47
+	}
+	path = { # Mouen - Quibelle
+		108 47
+	}
+	path = { # Castelfol Ambegles Laplace Mouen
+		123 114 113 108
+	}
+	path = { # Quibelle - Longueuil - Fortineau - Pontneuf
+		47 46 65 73
+	}
+	path = { # Rigaille - Cerfval - Cabrie - Champtrefle
+		43 50 62 80
+	}
+	path = { # Pontneuf - Choigan
+		73 78
+	}
+	path = { # Choigan - Vitres - Saintbrume - Champtrefle
+		78 79 81 80
+	}
+	path = { # Choigan - Montverneau - Rognaise
+		78 86 96
+	}
+	path = { # Champtrefle - Laronce
+		80 102
+	}
+	path = { # Rognaise - Laronce
+		96 102
+	}
+	path = { # Rognaise - Ausoleil - Pevalle - Mibarne - Vigalle
+		96 95 100 99 107
+	}
+	path = { # Rognaise - Rennaise - Guimon - Lastur
+		96 92 93 472
+	}
+	path = { # Laronce - Choineuf - Muron - Vigalle
+		102 104 105 107
+	}
+	path = { # Vigalle - Garanou - Prades - Lastur
+		107 244 245 472
+	}
+	path = { # Lastur - A Montana - Tres Pinheiros - Monteira
+		472 458 457 437
+	}
+	#Cailla - Agurain
+	#Agurain - Monteira
+
+	# Arenas - Costa do Sol
+	path = {	# NORTH Arenas Cabezal Sesena Rubias Enseada Costa do Sol
+		297 301 296 468 448 446
+	}
+	# Tortella-Arenas
+	path = {	# NE <<Tortella Fares Usall Vilademuls Crespia Penacova Arenas
+		297 302 279 280 281 276 275
+	}
+	# Tortella-Portonovo
+	path = {	# N Tortella
+		275 274 273 478 462 435
+	}
+	# Lopera-Tortella
+	path = {	# NE
+		290 291 286 283 275
+	}
+	# Maktaris-Tortella SEA
+	path = {	# W
+	1271 275
+	}
+	# Maktaris-Cailla SEA
+	path = {	# W
+	1271 247
+	}
+}
+
+trade_minor = { # Minor land routes
+	wealth = 35			# Total base wealth of silk route
+
+	modifier = {			# How the trade route modifies the provinces it passes
+		castle_tax_modifier = 0.02
+		city_tax_modifier = 0.05
+		temple_tax_modifier = 0.02
+		trade_route_value = 1
+	}
+
+	start = {				# Start provinces of trade route
+	333 #Capraccia
+	28 #Val D'or
+	375 #Corona
+	365 #Bisenti
+	}
+	# Capraccia - Pettino
+	path = {	# WEST Capraccia-Sentino-Pettino
+	333 331 327
+	}
+	# Pettino-Pas
+	path = {	# WEST Pettino-Ceriana-Tocchia-Solenha-Pas
+	327 326 325 35 34
+	}
+	# Pettino-Funtana
+	path = {	# NORTH Pettino Feltre Avoglie Funtana
+	327 329 328 340
+	}
+	# Pas-Rocheroyale
+	path = {	# WEST Pas-Tolanho-ValdeOest-Noirlieu-Domotte
+	34 33 32 26 24
+	}
+	path = {	# WEST Domotte-Talchamp-Rocheroyale
+	24 25 5
+	}
+	# Domotte-Picroux
+	path = {	# NWEST Domotte-Picroux
+	24 23
+	}
+	# Picroux-Lonrois
+	path = {	# NORTH Picroux Trone Lonrois
+	23 13 15
+	}
+	# Lonrois-Mouen
+	path = {	# WEST Lonrois Falzine Briban Lierretour Mouen
+	15 17 11 10 108
+	}
+	# Mouen-Lonrois
+	path = {	# EAST Mouen Malieu Agrec Lonrois
+	108 115 16 15
+	}
+	# Lonrois-Luncani P1
+	path = {	# NORTH Lonrois Fontenail Bafuse
+	15 19 20
+	}
+	# Lonrois-Luncani P2
+	path = {	# NORTH Bafuse Bochia Luncani
+	20 219 224
+	}
+	# Val D'or-Luncani(to Bafuse)
+	path = {	#NORTH Val D'or-Pegragne-Tonsidord-Bafuse
+	28 22 21 20
+	}
+	# Funtana-Galiazzo
+	path = {	#NORTH Funtana-Galiazzo
+	340 339 338 340
+	}
+	# Pas - Funtana
+	path = {	# NORTH Pas-Malacanta-Bethval-Funtana
+	34 40 42 340
+	}
+	# Bisenti-Meridiano
+	path = {	# Bisenti Ariscia Meridiano
+	365 356 355
+	}
+	# Meridiano-Tosca
+	path = {	# Meridiano Tosca
+	355 332
+	}
+}

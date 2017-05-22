@@ -1,0 +1,21 @@
+# c_arthog
+
+# County Title
+title = c_arthog
+
+# Settlements
+max_settlements = 7
+
+b_llanidloes_2 = tribal
+#b_corwen = city
+#b_rhiwlas = temple
+#b_arthog = castle
+#b_arthog_2 = city
+#b_arthog_3 = temple
+#b_arthog_4 = castle
+
+# Misc
+culture = maesmyge
+religion = celtic_pagan
+
+#History

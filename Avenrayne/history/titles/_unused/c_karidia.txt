@@ -1,0 +1,14 @@
+# e_nikosia
+100.1.1={
+	liege=d_nikosia
+}
+
+736.8.8={
+holder=50013 #Iacobos
+}
+791.7.14={
+holder=50020 #Alexandros
+}
+832.7.17={
+holder=50022 #Boethios
+}

@@ -1,0 +1,21 @@
+# c_sadernes
+
+# County Title
+title = c_sadernes
+
+# Settlements
+max_settlements = 7
+
+b_sadernes = castle
+#b_melianta = city
+#b_sadernes_2 = temple
+#b_sadernes_3 = castle
+#b_sadernes_4 = city
+#b_sadernes_5 = temple
+#b_sadernes_6 = castle
+
+# Misc
+culture = fornellà
+religion = cathar
+
+#History

@@ -1,0 +1,21 @@
+# c_rasimaeki
+
+# County Title
+title = c_rasimaeki
+
+# Settlements
+max_settlements = 7
+
+b_rasimaeki = tribal
+#b_rasimaeki_2 = city
+#b_rasimaeki_3 = temple
+#b_rasimaeki_4 = castle
+#b_rasimaeki_5 = city
+#b_rasimaeki_6 = temple
+#b_rasimaeki_7 = castle
+
+# Misc
+culture = ruomalainen
+religion = finnish_pagan
+
+#History

@@ -1,0 +1,42 @@
+# c_catalina
+
+# County Title
+title = c_catalina
+
+# Settlements
+max_settlements = 7
+
+b_catalina = castle
+#b_panticeu = city
+#b_belzeni = temple
+#b_catalina_2 = castle
+#b_catalina_3 = city
+#b_catalina_4 = temple
+#b_catalina_5 = castle
+
+# Misc
+culture = varodaesca
+religion = orthodox
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = varodesi
+}
+106.1.1 = { 
+religion = hellenic_pagan
+#	b_covragii = ca_wall_1
+#	b_covragii = ca_town_1
+#	b_covragii = ca_barracks_1
+### b_covragii is not in this county; is this leftover text from earlier versions where this was true?
+}
+206.1.1 = { 
+religion = hellenic_pagan
+culture = varo-capracciana
+}
+450.1.1 = { 
+culture = varodaesca
+}
+490.1.1 = { 
+religion = orthodox
+}

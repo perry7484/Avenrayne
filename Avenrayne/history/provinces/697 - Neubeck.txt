@@ -1,0 +1,21 @@
+# c_neubeck
+
+# County Title
+title = c_neubeck
+
+# Settlements
+max_settlements = 7
+
+b_neubeck = tribal
+#b_rade = city
+#b_lockstedt = temple
+#b_morel = castle
+#b_neubeck_2 = city
+#b_neubeck_3 = temple
+#b_neubeck_4 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

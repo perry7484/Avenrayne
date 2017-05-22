@@ -1,0 +1,21 @@
+# c_ebenheim
+
+# County Title
+title = c_ebenheim
+
+# Settlements
+max_settlements = 7
+
+b_ebenheim = castle
+#b_ebenheim_2 = city
+#b_ebenheim_3 = temple
+#b_ebenheim_4 = castle
+#b_ebenheim_5 = city
+#b_ebenheim_6 = temple
+#b_ebenheim_7 = castle
+
+# Misc
+culture = mittelander
+religion = catholic
+
+#History

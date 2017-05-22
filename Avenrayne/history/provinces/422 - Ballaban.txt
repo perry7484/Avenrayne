@@ -1,0 +1,21 @@
+# c_ballaban
+
+# County Title
+title = c_ballaban
+
+# Settlements
+max_settlements = 7
+
+b_ballaban = castle
+b_sheper = city
+#b_domaj = temple
+#b_ulez = castle
+#b_burrel = city
+#b_shenavlash = temple
+#b_perondi = castle
+
+# Misc
+culture = mejana
+religion = orthodox
+
+#History

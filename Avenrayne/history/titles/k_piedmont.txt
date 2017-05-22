@@ -1,0 +1,14 @@
+# e_rayne
+58.7.7={
+	holder=3 #Tacitus
+}
+500.1.1={
+	law = cognatic_succession
+	law = succ_primogeniture
+}
+761.8.14={
+	holder=3424
+}
+800.1.1={
+	liege=e_rayne
+}

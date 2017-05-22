@@ -1,0 +1,21 @@
+# c_esponella
+
+# County Title
+title = c_esponella
+
+# Settlements
+max_settlements = 7
+
+b_esponella = castle
+#b_calabuig = city
+#b_esponella_2 = temple
+#b_esponella_3 = castle
+#b_esponella_4 = city
+#b_esponella_5 = temple
+#b_esponella_6 = castle
+
+# Misc
+culture = fornellà
+religion = catholic
+
+#History

@@ -1,0 +1,21 @@
+# c_canibri
+
+# County Title
+title = c_canibri
+
+# Settlements
+max_settlements = 7
+
+b_canibri = tribal
+b_medulla = temple
+#b_miobri = temple
+#b_percunos = castle
+#b_canibri_2 = city
+#b_canibri_3 = temple
+#b_canibri_4 = castle
+
+# Misc
+culture = renae
+religion = celtic_pagan
+
+#History

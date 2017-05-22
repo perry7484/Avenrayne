@@ -1,0 +1,21 @@
+# c_lenvik
+
+# County Title
+title = c_lenvik
+
+# Settlements
+max_settlements = 7
+
+b_lenvik = tribal
+#b_lenvik_2 = city
+#b_lenvik_3 = temple
+#b_lenvik_4 = castle
+#b_lenvik_5 = city
+#b_lenvik_6 = temple
+#b_lenvik_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_lisnarick
+
+# County Title
+title = c_lisnarick
+
+# Settlements
+max_settlements = 7
+
+b_lisnarick = tribal
+#b_macfin = city
+#b_lisnarick_2 = temple
+#b_lisnarick_3 = castle
+#b_lisnarick_4 = city
+#b_lisnarick_5 = temple
+#b_lisnarick_6 = castle
+
+# Misc
+culture = ardthirraich
+religion = celtic_pagan
+
+#History

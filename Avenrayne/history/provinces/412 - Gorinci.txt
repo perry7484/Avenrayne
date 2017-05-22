@@ -1,0 +1,32 @@
+# c_gorinci
+
+# County Title
+title = c_gorinci
+
+# Settlements
+max_settlements = 7
+
+b_gorinci = castle
+#b_gorinci_2 = city
+#b_gorinci_3 = temple
+#b_gorinci_4 = castle
+#b_gorinci_5 = city
+#b_gorinci_6 = temple
+#b_gorinci_7 = castle
+
+# Misc
+culture = vodeasca
+religion = orthodox
+
+#History
+1.1.1={
+culture=vodeasci
+religion=pagan
+}
+96.1.1={
+culture=vodeasci_capracciana
+religion=hellenic_pagan
+}
+445.1.1={religion=orthodox}
+450.1.1={culture=vodeasca}
+1050.1.1={culture=vodeiska}

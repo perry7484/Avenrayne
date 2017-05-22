@@ -1,0 +1,41 @@
+# c_val_dor
+
+# County Title
+title = c_val_dor
+
+# Settlements
+max_settlements = 7
+
+b_val_dor = castle
+b_choitry = city
+b_montsivan = temple
+#b_argast = castle
+#b_malordre = city
+#b_auzer = temple
+#b_montoldre = castle
+
+# Misc
+culture = eastern_rayne
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = corviliae
+}
+41.1.1 = { 
+religion = hellenic_pagan
+culture = corvigliana
+}
+680.1.1 = { 
+culture = old_rayne
+}
+493.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+755.1.1 = { 
+culture = eastern_rayne
+}

@@ -1,0 +1,21 @@
+# c_agnoni
+
+# County Title
+title = c_agnoni
+
+# Settlements
+max_settlements = 7
+
+b_agnoni = castle
+b_irsina = temple
+b_filzi = temple
+#b_agnoni_2 = castle
+#b_agnoni_3 = city
+#b_agnoni_4 = temple
+#b_agnoni_5 = castle
+
+# Misc
+culture = marrùna
+religion = orthodox
+
+#History

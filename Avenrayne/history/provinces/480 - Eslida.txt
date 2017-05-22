@@ -1,0 +1,21 @@
+# c_eslida
+
+# County Title
+title = c_eslida
+
+# Settlements
+max_settlements = 7
+
+b_eslida = castle
+#b_eslida_2 = city
+#b_eslida_3 = temple
+#b_eslida_4 = castle
+#b_eslida_5 = city
+#b_eslida_6 = temple
+#b_eslida_7 = castle
+
+# Misc
+culture = alayo
+religion = miaphysite
+
+#History

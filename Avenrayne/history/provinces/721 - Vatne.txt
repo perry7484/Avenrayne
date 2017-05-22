@@ -1,0 +1,21 @@
+# c_vatne
+
+# County Title
+title = c_vatne
+
+# Settlements
+max_settlements = 7
+
+b_vatne = tribal
+#b_vatne_2 = city
+#b_vatne_3 = temple
+#b_vatne_4 = castle
+#b_vatne_5 = city
+#b_vatne_6 = temple
+#b_vatne_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

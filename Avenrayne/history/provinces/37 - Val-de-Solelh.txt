@@ -1,0 +1,41 @@
+# c_val_de_solelh
+
+# County Title
+title = c_val_de_solelh
+
+# Settlements
+max_settlements = 7
+
+b_val_de_solelh = castle
+b_docrit = city
+b_marcha = temple
+#b_ales = castle
+#b_larra = city
+#b_vias = temple
+#b_fabas = castle
+
+# Misc
+culture = passa_rayne
+religion = cathar
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = renae
+}
+90.1.1 = { 
+religion = hellenic_pagan
+culture = passa_capracciana
+}
+480.1.1 = { 
+culture = passa_rayne
+}
+505.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+670.1.1 = { 
+religion = cathar
+}

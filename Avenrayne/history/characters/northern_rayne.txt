@@ -1,0 +1,126 @@
+3771 = {
+	name=Guilbert
+	female=no
+	dynasty=3770
+	religion=catholic
+	culture=northern_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	717.5.23={
+		birth=yes
+	}
+	773.10.21={
+		death=yes
+	}
+}
+3781 = {
+	name=Lennard
+	female=no
+	dynasty=3780
+	religion=catholic
+	culture=northern_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	731.12.3={
+		birth=yes
+	}
+	803.11.24={
+		death=yes
+	}
+}
+3791 = {
+	name=Claude
+	female=no
+	dynasty=3790
+	religion=catholic
+	culture=northern_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	745.2.14={
+		birth=yes
+	}
+	804.6.14={
+		death=yes
+	}
+}
+3801 = {
+	name=Marin
+	female=no
+	dynasty=3800
+	religion=catholic
+	culture=northern_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	725.12.3={
+		birth=yes
+	}
+	778.11.16={
+		death=yes
+	}
+}
+3811 = {
+	name=Emery
+	female=no
+	dynasty=3810
+	religion=catholic
+	culture=northern_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	738.5.23={
+		birth=yes
+	}
+	794.12.4={
+		death=yes
+	}
+}
+3821 = {
+	name=Caprac
+	female=no
+	dynasty=3820
+	religion=catholic
+	culture=northern_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	736.8.13={
+		birth=yes
+	}
+	789.9.30={
+		death=yes
+	}
+}
+3831 = {
+	name=Julien
+	female=no
+	dynasty=3830
+	religion=catholic
+	culture=northern_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	739.5.22={
+		birth=yes
+	}
+	771.6.5={
+		death=yes
+	}
+}

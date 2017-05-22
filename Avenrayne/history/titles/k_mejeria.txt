@@ -1,0 +1,5 @@
+# k_mejeria
+1.1.1={
+	law = cognatic_succession
+	law = succ_primogeniture
+}

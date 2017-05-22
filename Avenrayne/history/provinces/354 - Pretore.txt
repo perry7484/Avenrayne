@@ -1,0 +1,28 @@
+# c_pretore
+
+# County Title
+title = c_pretore
+
+# Settlements
+max_settlements = 7
+
+b_pretore = castle
+b_turano = city
+b_marsi = temple
+#b_ruzzi = castle
+#b_pretore_2 = city
+#b_pretore_3 = temple
+#b_pretore_4 = castle
+
+# Misc
+culture = arsiziana
+religion = pelagian
+
+#History
+1.1.1 = { 
+religion = hellenic_pagan
+culture = capracciana
+}
+560.1.1 = { 
+culture = arsiziana
+}

@@ -1,0 +1,21 @@
+# c_abaer
+
+# County Title
+title = c_abaer
+
+# Settlements
+max_settlements = 7
+
+b_abaer = tribal
+#b_abaer_2 = city
+#b_abaer_3 = temple
+#b_abaer_4 = castle
+#b_abaer_5 = city
+#b_abaer_6 = temple
+#b_abaer_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

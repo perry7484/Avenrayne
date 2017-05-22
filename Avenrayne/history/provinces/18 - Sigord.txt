@@ -1,0 +1,41 @@
+# c_sigord
+
+# County Title
+title = c_sigord
+
+# Settlements
+max_settlements = 7
+
+b_sigord = castle
+b_enur = city
+#b_dasque = temple
+#b_camont = castle
+#b_ordois = city
+#b_ednour = temple
+#b_nail = castle
+
+# Misc
+culture = eastern_rayne
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = celtic_pagan
+culture = renae
+}
+121.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+480.1.1 = { 
+culture = old_rayne
+}
+490.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+760.1.1 = { 
+culture = eastern_rayne
+}

@@ -1,0 +1,21 @@
+# c_flos
+
+# County Title
+title = c_flos
+
+# Settlements
+max_settlements = 7
+
+b_flos = castle
+#b_borlon = city
+#b_laulne = temple
+#b_ousater = castle
+#b_balquay = city
+#b_melhis = temple
+#b_bretteville = castle
+
+# Misc
+culture = northern_rayne
+religion = catholic
+
+#History

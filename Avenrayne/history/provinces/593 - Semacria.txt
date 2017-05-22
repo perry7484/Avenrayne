@@ -1,0 +1,21 @@
+# c_semacria
+
+# County Title
+title = c_semacria
+
+# Settlements
+max_settlements = 7
+
+b_semacria = castle
+b_semacria_2 = city
+b_semacria_3 = temple
+#b_semacria_4 = castle
+#b_semacria_5 = city
+#b_semacria_6 = temple
+#b_semacria_7 = castle
+
+# Misc
+culture = amfissaki
+religion = orthodox
+
+#History

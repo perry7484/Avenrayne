@@ -1,0 +1,820 @@
+## Rayne
+
+3000=
+{
+	name="De Nasera"
+	culture="old_rayne"
+	religion="catholic"
+}
+
+
+3100=
+{
+	name="De Nours"
+	culture="rayne"
+	religion="catholic"
+}
+
+## East Rayne
+
+3200=
+{
+	name="Chebalt"
+	culture="eastern_rayne"
+	religion="catholic"
+}
+
+3300=
+{
+	name="Aldet"
+	culture="eastern_rayne"
+	religion="catholic"
+}
+
+3400=
+{
+	name="Leroy"
+	culture="eastern_rayne"
+	religion="catholic"
+}
+
+3410=
+{
+	name="Carrone"
+	culture="eastern_rayne"
+	religion="catholic"
+}
+
+3420=
+{
+	name="Gigaut"
+	culture="eastern_rayne"
+	religion="catholic"
+}
+
+3430=
+{
+	name="Mallin"
+	culture="eastern_rayne"
+	religion="catholic"
+}
+
+3440=
+{
+	name="Andres"
+	culture="eastern_rayne"
+	religion="catholic"
+}
+
+3450=
+{
+	name="Loup"
+	culture="eastern_rayne"
+	religion="catholic"
+}
+
+## Western Rayne
+
+3500=
+{
+	name="Saunier"
+	culture="western_rayne"
+	religion="catholic"
+}
+
+3510=
+{
+	name="Lafleur"
+	culture="western_rayne"
+	religion="catholic"
+}
+
+3520=
+{
+	name="Thiers"
+	culture="western_rayne"
+	religion="catholic"
+}
+3530=
+{
+	name="Fournier"
+	culture="western_rayne"
+	religion="catholic"
+}
+3540=
+{
+	name="Belflor"
+	culture="western_rayne"
+	religion="catholic"
+}
+3550=
+{
+	name="Piers"
+	culture="western_rayne"
+	religion="catholic"
+}
+3560=
+{
+	name="LeBlanc"
+	culture="western_rayne"
+	religion="catholic"
+}
+
+3570=
+{
+	name="Villande"
+	culture="western_rayne"
+	religion="catholic"
+}
+
+3580=
+{
+	name="de La Paix"
+	culture="western_rayne"
+	religion="catholic"
+}
+
+3590=
+{
+	name="Dullin"
+	culture="western_rayne"
+	religion="catholic"
+}
+
+3600=
+{
+	name="de Valecache"
+	culture="western_rayne"
+	religion="catholic"
+}
+
+3610=
+{
+	name="Perigny"
+	culture="western_rayne"
+	religion="catholic"
+}
+
+3620=
+{
+	name="Graniel"
+	culture="western_rayne"
+	religion="catholic"
+}
+
+3630=
+{
+	name="de L'Origes"
+	culture="western_rayne"
+	religion="catholic"
+}
+
+3640=
+{
+	name="des Roches"
+	culture="western_rayne"
+	religion="catholic"
+}
+
+3650=
+{
+	name="d'Ausoleil"
+	culture="western_rayne"
+	religion="catholic"
+}
+
+3660=
+{
+	name="des Aldes"
+	culture="western_rayne"
+	religion="catholic"
+}
+
+3670=
+{
+	name="de Cagac"
+	culture="western_rayne"
+	religion="catholic"
+}
+
+3680=
+{
+	name="Ambrose"
+	culture="western_rayne"
+	religion="catholic"
+}
+
+3690=
+{
+	name="Truyes"
+	culture="western_rayne"
+	religion="catholic"
+}
+
+3700=
+{
+	name="Blou"
+	culture="western_rayne"
+	religion="catholic"
+}
+
+##Passa_Rayne
+
+3840=
+{
+	name="De Tolanho"
+	culture="passa_rayne"
+	religion="cathar"
+}
+3850=
+{
+	name="Braganço"
+	culture="passa_rayne"
+	religion="cathar"
+}
+3860=
+{
+	name="Faudit"
+	culture="passa_rayne"
+	religion="cathar"
+}
+3870=
+{
+	name="Carol"
+	culture="passa_rayne"
+	religion="cathar"
+}
+3880=
+{
+	name="Augustin"
+	culture="passa_rayne"
+	religion="cathar"
+}
+
+
+## Nordval
+
+3720=
+{
+	name="D'Andesne"
+	culture="nordval_rayne"
+	religion="catholic"
+}
+3730=
+{
+	name="De Chagnord"
+	culture="nordval_rayne"
+	religion="catholic"
+}
+3740=
+{
+	name="Fondour"
+	culture="nordval_rayne"
+	religion="catholic"
+}
+3750=
+{
+	name="Rutille"
+	culture="nordval_rayne"
+	religion="catholic"
+}
+3760=
+{
+	name="Neve"
+	culture="nordval_rayne"
+	religion="catholic"
+}
+
+
+
+## Northern Rayne
+
+3770=
+{
+	name="Mayeuse"
+	culture="northern_rayne"
+	religion="catholic"
+}
+3780=
+{
+	name="Puchot"
+	culture="northern_rayne"
+	religion="catholic"
+}
+3790=
+{
+	name="La Porte"
+	culture="northern_rayne"
+	religion="catholic"
+}
+3800=
+{
+	name="Mustel"
+	culture="northern_rayne"
+	religion="catholic"
+}
+
+3810=
+{
+	name="de Voil"
+	culture="northern_rayne"
+	religion="catholic"
+}
+
+3820=
+{
+	name="Gouel"
+	culture="northern_rayne"
+	religion="catholic"
+}
+
+3830=
+{
+	name="Perronne"
+	culture="northern_rayne"
+	religion="catholic"
+}
+
+3900=
+{
+	name="Ambudos"
+	culture="renae"
+	religion="celtic_pagan"
+}
+3901=
+{
+	name="Brennios"
+	culture="renae"
+	religion="celtic_pagan"
+}
+3905=
+{
+	name="Dannotali"
+	culture="renae"
+	religion="celtic_pagan"
+}
+3910=
+{
+	name="Tanotalos"
+	culture="renae"
+	religion="celtic_pagan"
+}
+3915=
+{
+	name="Oclicno"
+	culture="renae"
+	religion="celtic_pagan"
+}
+
+
+## Arsiziana
+
+4000=
+{
+	name="Peruzzi"
+	culture="arsiziana"
+	religion="catholic"
+}
+
+4010=
+{
+	name="Frumento"
+	culture="arsiziana"
+	religion="catholic"
+}
+
+4020=
+{
+	name="Scarpi"
+	culture="arsiziana"
+	religion="catholic"
+}
+4021={
+	name="Battista"
+	culture="arsiziana"
+	religion="catholic"
+}
+4022={
+	name="Floreani"
+	culture="arsiziana"
+	religion="catholic"
+}
+4023={
+	name="Floreo"
+	culture="arsiziana"
+	religion="catholic"
+}
+4024={
+	name="Liruti"
+	culture="arsiziana"
+	religion="catholic"
+}
+4025={
+	name="Lizza"
+	culture="arsiziana"
+	religion="catholic"
+}
+4026={
+	name="Mauro"
+	culture="arsiziana"
+	religion="catholic"
+}
+4027={
+	name="Rizzi"
+	culture="arsiziana"
+	religion="catholic"
+}
+4028={
+	name="Zoratto"
+	culture="arsiziana"
+	religion="catholic"
+}
+4029={
+	name="Vidoni"
+	culture="arsiziana"
+	religion="catholic"
+}
+4030=
+{
+	name="Varotto"
+	culture="arsiziana"
+	religion="catholic"
+}
+4031={
+	name="Venturini"
+	culture="arsiziana"
+	religion="catholic"
+}
+4032={
+	name="Olivieri"
+	culture="arsiziana"
+	religion="catholic"
+}
+4033={
+	name="Castelano"
+	culture="arsiziana"
+	religion="catholic"
+}
+4034={
+	name="Bianco"
+	culture="arsiziana"
+	religion="catholic"
+}
+4035={
+	name="Ettoreo"
+	culture="arsiziana"
+	religion="catholic"
+}
+4036={
+	name="Marini"
+	culture="arsiziana"
+	religion="catholic"
+}
+4037={
+	name="Sentini"
+	culture="arsiziana"
+	religion="catholic"
+}
+4038={
+	name="Capracciani"
+	culture="arsiziana"
+	religion="catholic"
+}
+4039={
+	name="Amfissiani"
+	culture="arsiziana"
+	religion="catholic"
+}
+4320={
+	name="Gabino"
+	culture="arsiziana"
+	religion="catholic"
+}
+## Capracciana
+
+1=
+{
+	name="Pontianus"
+	culture="capracciana"
+	religion="hellenic_pagan"
+}
+2=
+{
+	name="Albinus"
+	culture="capracciana"
+	religion="hellenic_pagan"
+}
+
+4=
+{
+	name="Basilianus"
+	culture="capracciana"
+	religion="hellenic_pagan"
+}
+
+6=
+{
+	name="Anticus"
+	culture="capracciana"
+	religion="hellenic_pagan"
+}
+
+7=
+{
+	name="Saturninus"
+	culture="capracciana"
+	religion="hellenic_pagan"
+}
+
+8=
+{
+	name="Sempronius"
+	culture="capracciana"
+	religion="hellenic_pagan"
+}
+
+9=
+{
+	name="Gratianus"
+	culture="capracciana"
+	religion="hellenic_pagan"
+}
+
+10=
+{
+	name="Claudinius"
+	culture="capracciana"
+	religion="hellenic_pagan"
+}
+
+11=
+{
+	name="Marcellinus"
+	culture="capracciana"
+	religion="hellenic_pagan"
+}
+
+185=
+{
+	name="Camianus"
+	culture="capracciana"
+	religion="hellenic_pagan"
+}
+
+186=
+{
+	name="Alissiu"
+	culture="silana"
+	religion="hellenic_pagan"
+}
+##Galiazzana
+4040=
+{
+	name="Tarpeio"
+	culture="galiazzana"
+	religion="hellenic_pagan"
+}
+4041=
+{
+	name="Lucenzio"
+	culture="galiazzana"
+	religion="hellenic_pagan"
+}
+4041=
+{
+	name="Ambrosino"
+	culture="galiazzana"
+	religion="hellenic_pagan"
+}
+4042=
+{
+	name="Diena"
+	culture="galiazzana"
+	religion="hellenic_pagan"
+}
+4043=
+{
+	name="Cassola"
+	culture="galiazzana"
+	religion="hellenic_pagan"
+}
+4044=
+{
+	name="Brunei"
+	culture="galiazzana"
+	religion="hellenic_pagan"
+}
+4045=
+{
+	name="Belloni"
+	culture="galiazzana"
+	religion="hellenic_pagan"
+}
+4046=
+{
+	name="Corviglio"
+	culture="galiazzana"
+	religion="hellenic_pagan"
+}
+4047=
+{
+	name="Carro"
+	culture="galiazzana"
+	religion="hellenic_pagan"
+}
+4048=
+{
+	name="Vernazza"
+	culture="galiazzana"
+	religion="hellenic_pagan"
+}
+4049=
+{
+	name="Perelli"
+	culture="galiazzana"
+	religion="hellenic_pagan"
+}
+4050=
+{
+	name="Larosa"
+	culture="galiazzana"
+	religion="hellenic_pagan"
+}
+4051=
+{
+	name="Diamanti"
+	culture="galiazzana"
+	religion="hellenic_pagan"
+}
+4052=
+{
+	name="Lucini"
+	culture="galiazzana"
+	religion="hellenic_pagan"
+}
+4053=
+{
+	name="Lerco"
+	culture="galiazzana"
+	religion="hellenic_pagan"
+}
+4054=
+{
+	name="Mino"
+	culture="galiazzana"
+	religion="hellenic_pagan"
+}
+4055=
+{
+	name="Mulini"
+	culture="galiazzana"
+	religion="hellenic_pagan"
+}
+4056=
+{
+	name="Fiorini"
+	culture="galiazzana"
+	religion="hellenic_pagan"
+}
+4056=
+{
+	name="Galilei"
+	culture="galiazzana"
+	religion="hellenic_pagan"
+}
+4057=
+{
+	name="Balme"
+	culture="galiazzana"
+	religion="hellenic_pagan"
+}
+4058=
+{
+	name="Cintano"
+	culture="galiazzana"
+	religion="hellenic_pagan"
+}
+4059=
+{
+	name="Cinzano"
+	culture="galiazzana"
+	religion="hellenic_pagan"
+}
+4060=
+{
+	name="Frassinetto"
+	culture="galiazzana"
+	religion="hellenic_pagan"
+}
+4061=
+{
+	name="Averara"
+	culture="galiazzana"
+	religion="hellenic_pagan"
+}
+4062=
+{
+	name="Cassiglio"
+	culture="galiazzana"
+	religion="hellenic_pagan"
+}
+4063=
+{
+	name="Ornica"
+	culture="galiazzana"
+	religion="hellenic_pagan"
+}
+4064=
+{
+	name="Valsecca"
+	culture="galiazzana"
+	religion="hellenic_pagan"
+}
+4065=
+{
+	name="Livo"
+	culture="galiazzana"
+	religion="hellenic_pagan"
+}
+4066=
+{
+	name="Tornata"
+	culture="galiazzana"
+	religion="hellenic_pagan"
+}
+4067=
+{
+	name="Spriana"
+	culture="galiazzana"
+	religion="hellenic_pagan"
+}
+4068=
+{
+	name="Maggiore"
+	culture="galiazzana"
+	religion="hellenic_pagan"
+}
+4069=
+{
+	name="Carisi"
+	culture="galiazzana"
+	religion="hellenic_pagan"
+}
+4080=
+{
+	name="Framura"
+	culture="galiazzana"
+	religion="hellenic_pagan"
+}
+
+##Frassina
+4200=
+{
+	name="Centulio"
+	culture="frassina"
+	religion="catholic"
+}
+4260=
+{
+	name="Russo"
+	culture="frassina"
+	religion="catholic"
+}
+4310=
+{
+	name="Dei Monti"
+	culture="frassina"
+	religion="catholic"
+}
+#Atessana
+4400=
+{
+	name="Cintio"
+	culture="atessana"
+	religion="catholic"
+}
+
+
+##Amfissaki
+5000=
+{
+	name="Prokopios"
+	culture="nikosian"
+	religion="orthodox"
+}
+
+##Nordlander
+7000=
+{
+	name="Borvardsson"
+	culture="nordlander"
+	religion="norse_pagan"
+}
+
+##Ardthirraich
+7500=
+{
+	name="MacRuadh"
+	culture="ardthirraich"
+	religion="celtic_pagan"
+}

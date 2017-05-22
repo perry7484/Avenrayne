@@ -1,0 +1,21 @@
+# c_abercywarch
+
+# County Title
+title = c_abercywarch
+
+# Settlements
+max_settlements = 7
+
+b_abercywarch = castle
+#b_cwmann = city
+#b_prenteg = temple
+#b_cribyn = castle
+#b_abercywarch_2 = city
+#b_abercywarch_3 = temple
+#b_abercywarch_4 = castle
+
+# Misc
+culture = maesmyge
+religion = celtic_pagan
+
+#History

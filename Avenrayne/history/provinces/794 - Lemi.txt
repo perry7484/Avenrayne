@@ -1,0 +1,21 @@
+# c_lemi
+
+# County Title
+title = c_lemi
+
+# Settlements
+max_settlements = 7
+
+b_lemi = tribal
+#b_lemi_2 = city
+#b_lemi_3 = temple
+#b_lemi_4 = castle
+#b_lemi_5 = city
+#b_lemi_6 = temple
+#b_lemi_7 = castle
+
+# Misc
+culture = ruomalainen
+religion = finnish_pagan
+
+#History

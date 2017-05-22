@@ -1,0 +1,21 @@
+# c_dolfach
+
+# County Title
+title = c_dolfach
+
+# Settlements
+max_settlements = 7
+
+b_dolfach = tribal
+#b_derwen = city
+#b_pentrefelin = temple
+#b_dolfach_2 = castle
+#b_dolfach_3 = city
+#b_dolfach_4 = temple
+#b_dolfach_5 = castle
+
+# Misc
+culture = maesmyge
+religion = celtic_pagan
+
+#History

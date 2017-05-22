@@ -1,0 +1,21 @@
+# c_taguedit
+
+# County Title
+title = c_taguedit
+
+# Settlements
+max_settlements = 7
+
+b_taguedit = castle
+#b_taguedit_2 = city
+#b_taguedit_3 = temple
+#b_taguedit_4 = castle
+#b_taguedit_5 = city
+#b_taguedit_6 = temple
+#b_taguedit_7 = castle
+
+# Misc
+culture = taguedi
+religion = west_african_pagan
+
+#History

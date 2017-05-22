@@ -1,0 +1,16 @@
+spriteTypes={
+
+###Latin
+	spriteType = {
+		name = "GFX_settlement_castle_arsizianagfx"
+		texturefile = "gfx\\interface\\placeholder_castle_arsiziana.png"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_city_arsizianagfx"
+		texturefile = "gfx\\interface\\placeholder_city_arsiziana.png"
+		noOfFrames = 1
+		norefcount = yes
+	}
+}

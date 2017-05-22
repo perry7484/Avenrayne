@@ -1,0 +1,21 @@
+# c_nevatim
+
+# County Title
+title = c_nevatim
+
+# Settlements
+max_settlements = 7
+
+b_nevatim = castle
+#b_nevatim_2 = city
+#b_nevatim_3 = temple
+#b_nevatim_4 = castle
+#b_nevatim_5 = city
+#b_nevatim_6 = temple
+#b_nevatim_7 = castle
+
+# Misc
+culture = hieroshki
+religion = jewish
+
+#History

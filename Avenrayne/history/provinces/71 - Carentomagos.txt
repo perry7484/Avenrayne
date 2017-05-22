@@ -1,0 +1,21 @@
+# c_carentomagos
+
+# County Title
+title = c_carentomagos
+
+# Settlements
+max_settlements = 7
+
+b_carentomagos = city
+#b_ratomagos = city
+#b_bona = temple
+#b_deva = castle
+#b_arausio = city
+#b_lugdunon = temple
+#b_aeudi = castle
+
+# Misc
+culture = renae
+religion = celtic_pagan
+
+#History

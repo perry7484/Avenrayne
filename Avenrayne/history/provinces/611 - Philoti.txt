@@ -1,0 +1,21 @@
+# c_philoti
+
+# County Title
+title = c_philoti
+
+# Settlements
+max_settlements = 7
+
+b_philoti = castle
+b_philoti_2 = city
+#b_philoti_3 = temple
+#b_philoti_4 = castle
+#b_philoti_5 = city
+#b_philoti_6 = temple
+#b_philoti_7 = castle
+
+# Misc
+culture = amfissaki
+religion = orthodox
+
+#History

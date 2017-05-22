@@ -1,0 +1,41 @@
+# c_medford
+
+# County Title
+title = c_medford
+
+# Settlements
+max_settlements = 7
+
+b_medford = castle
+b_fragrant_hill = city
+b_reed = temple
+#b_belledale = castle
+#b_morgan_2 = city
+#b_medford_2 = temple
+#b_medford_3 = castle
+
+# Misc
+culture = southron
+religion = lollard
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = abonae
+}
+87.1.1 = { 
+religion = hellenic_pagan
+culture = abonae_capracciana
+}
+500.1.1 = { 
+culture = eascisc
+}
+480.1.1 = { 
+religion = catholic
+}
+750.1.1 = { 
+religion = lollard
+}
+1130.1.1 = { 
+culture = southron
+}

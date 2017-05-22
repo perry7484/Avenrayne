@@ -1,0 +1,24 @@
+# c_brand
+
+# County Title
+title = c_brand
+
+# Settlements
+max_settlements = 7
+
+b_brand = tribal
+#b_tonder = city
+#b_mjols = temple
+#b_tiset = castle
+#b_alsbo = city
+#b_birkende = temple
+#b_frorup = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History
+1080.1.1 = {
+culture = tirslander
+}

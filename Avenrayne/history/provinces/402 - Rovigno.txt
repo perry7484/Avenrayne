@@ -1,0 +1,21 @@
+# c_rovigno
+
+# County Title
+title = c_rovigno
+
+# Settlements
+max_settlements = 7
+
+b_rovigno = castle
+#b_basovizza = city
+#b_duino = temple
+#b_rovigno_2 = castle
+#b_rovigno_3 = city
+#b_rovigno_4 = temple
+#b_rovigno_5 = castle
+
+# Misc
+culture = medana
+religion = orthodox
+
+#History

@@ -1,0 +1,21 @@
+# c_seva
+
+# County Title
+title = c_seva
+
+# Settlements
+max_settlements = 7
+
+b_seva = castle
+#b_seva_2 = city
+#b_seva_3 = temple
+#b_seva_4 = castle
+#b_seva_5 = city
+#b_seva_6 = temple
+#b_seva_7 = castle
+
+# Misc
+culture = fornellà
+religion = catholic
+
+#History

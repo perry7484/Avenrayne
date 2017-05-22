@@ -1,0 +1,21 @@
+# c_kyeswa
+
+# County Title
+title = c_kyeswa
+
+# Settlements
+max_settlements = 7
+
+b_kyeswa = tribal
+#b_rwano = city
+#b_kesa = temple
+#b_atis = castle
+#b_kyeswa_2 = city
+#b_kyeswa_3 = temple
+#b_kyeswa_4 = castle
+
+# Misc
+culture = semnite
+religion = west_african_pagan
+
+#History

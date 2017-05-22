@@ -1,0 +1,48 @@
+e_capraccia = {
+	color={ 155 40 110 }
+	color2={ 255 255 20 }
+	
+	capital = 333 # c_capraccia
+	culture = capracciana
+}
+
+	k_fiori = {
+		color={ 193 136 107 }
+		color2={ 255 255 255 }
+		
+		capital = 351 # c_fiori
+}
+
+e_atessa = {
+
+	color={ 249 94 89 }
+	color2={ 255 255 255 }
+	
+	capital = 375 # c_corona
+	culture = atessana
+}
+
+	k_marru = {
+		color={ 201 112 151 }
+		color2={ 255 255 255 }
+		
+		capital = 377 # c_torru
+		culture = marrùna
+}
+
+		d_pegrania={
+			color={ 185 55 90 }
+			color2={ 255 255 255 }
+
+			rayne = "Pegragne"
+			western_rayne = "Pegragne"
+			nordval_rayne = "Pegragne"
+			northern_rayne = "Pegragne"
+			eastern_rayne = "Pegragne"
+			southron = "Pegragny"
+			middlefordish = "Pegrany"
+
+
+			capital=22 #Pegragne
+			culture = corvigliana
+}

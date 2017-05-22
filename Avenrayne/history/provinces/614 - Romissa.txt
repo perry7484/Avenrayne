@@ -1,0 +1,21 @@
+# c_romissa
+
+# County Title
+title = c_romissa
+
+# Settlements
+max_settlements = 7
+
+b_romissa = castle
+b_granelli = city
+#b_fanusa = temple
+#b_romissa_2 = castle
+#b_romissa_3 = city
+#b_romissa_4 = temple
+#b_romissa_5 = castle
+
+# Misc
+culture = amfissaki
+religion = hellenic_pagan
+
+#History

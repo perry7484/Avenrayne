@@ -1,0 +1,21 @@
+# c_tjere
+
+# County Title
+title = c_tjere
+
+# Settlements
+max_settlements = 7
+
+b_tjere = castle
+#b_tjere_2 = city
+#b_tjere_3 = temple
+#b_tjere_4 = castle
+#b_tjere_5 = city
+#b_tjere_6 = temple
+#b_tjere_7 = castle
+
+# Misc
+culture = nawwari
+religion = miaphysite
+
+#History

@@ -1,0 +1,11 @@
+# e_capraccia
+1.1.1={
+	law = cognatic_succession
+	law = succ_primogeniture
+}
+1.1.1={
+	liege=k_corviglia
+}
+400.11.5={
+	holder=136 #
+}

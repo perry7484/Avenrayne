@@ -1,0 +1,21 @@
+# c_rossvall
+
+# County Title
+title = c_rossvall
+
+# Settlements
+max_settlements = 7
+
+b_rossvall = tribal
+#b_rossvall_2 = city
+#b_rossvall_3 = temple
+#b_rossvall_4 = castle
+#b_rossvall_5 = city
+#b_rossvall_6 = temple
+#b_rossvall_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

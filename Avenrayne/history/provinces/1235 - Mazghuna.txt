@@ -1,0 +1,21 @@
+# c_mazghuna
+
+# County Title
+title = c_mazghuna
+
+# Settlements
+max_settlements = 7
+
+b_mazghuna = castle
+#b_mazghuna_2 = city
+#b_mazghuna_3 = temple
+#b_mazghuna_4 = castle
+#b_mazghuna_5 = city
+#b_mazghuna_6 = temple
+#b_mazghuna_7 = castle
+
+# Misc
+culture = nawwari
+religion = egyptian_pagan
+
+#History

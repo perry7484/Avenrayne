@@ -1,0 +1,21 @@
+# c_cilcennin
+
+# County Title
+title = c_cilcennin
+
+# Settlements
+max_settlements = 7
+
+b_cilcennin = castle
+#b_ruthin = city
+#b_chwilog = temple
+#b_cilcennin_2 = castle
+#b_cilcennin_3 = city
+#b_cilcennin_4 = temple
+#b_cilcennin_5 = castle
+
+# Misc
+culture = maesmyge
+religion = celtic_pagan
+
+#History

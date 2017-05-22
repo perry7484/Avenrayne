@@ -1,0 +1,21 @@
+# c_santana
+
+# County Title
+title = c_santana
+
+# Settlements
+max_settlements = 7
+
+b_santana = city
+#b_santana_2 = city
+#b_santana_3 = temple
+#b_santana_4 = castle
+#b_santana_5 = city
+#b_santana_6 = temple
+#b_santana_7 = castle
+
+# Misc
+culture = fornellà
+religion = donatist
+
+#History

@@ -1,0 +1,45 @@
+# c_bethval
+
+# County Title
+title = c_bethval
+
+# Settlements
+max_settlements = 7
+
+b_bethval = castle
+b_benavent = temple
+#b_linha = temple
+#b_perossa = castle
+#b_selvage = city
+#b_brelha = temple
+#b_sul = castle
+
+# Misc
+culture = passa_rayne
+religion = cathar
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = renae
+}
+2.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+97.1.1 = { 
+religion = hellenic_pagan
+culture = passa_capracciana
+}
+480.1.1 = { 
+culture = passa_rayne
+}
+490.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+640.1.1 = { 
+religion = cathar
+}

@@ -1,0 +1,34 @@
+# c_fiori
+
+# County Title
+title = c_fiori
+
+# Settlements
+max_settlements = 7
+
+b_fiori = city
+b_papavero = temple
+b_alloro = city
+b_rosarossa = castle
+#b_oleandro = city
+#b_gelsomino = temple
+#b_iris = castle
+
+# Misc
+culture = frassina
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = hellenic_pagan
+culture = capracciana
+}
+560.1.1 = { 
+culture = frassina
+}
+195.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}

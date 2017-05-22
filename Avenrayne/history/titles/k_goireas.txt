@@ -1,0 +1,18 @@
+708.3.1={
+holder=7506 #Arthur
+}
+727.10.25={
+holder=7509 #Uuen
+}
+742.9.4={
+holder=7512 #Garalt
+}
+746.5.27={
+holder=7519 #Tadg
+}
+747.4.20={
+holder=7523 #Cinoid
+}
+783.1.11={
+holder=7524 #Bridei
+}

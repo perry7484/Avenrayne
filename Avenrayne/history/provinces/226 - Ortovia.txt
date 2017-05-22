@@ -1,0 +1,38 @@
+# c_ortovia
+
+# County Title
+title = c_ortovia
+
+# Settlements
+max_settlements = 7
+
+b_orotva = castle
+#b_ortovia = city
+#b_ortovia_2 = temple
+#b_ortovia_3 = castle
+#b_ortovia_4 = city
+#b_ortovia_5 = temple
+#b_ortovia_6 = castle
+
+# Misc
+culture = varodaesca
+religion = orthodox
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = varodesi
+}
+106.1.1 = { 
+religion = hellenic_pagan
+}
+206.1.1 = { 
+religion = hellenic_pagan
+culture = varo-capracciana
+}
+450.1.1 = { 
+culture = varodaesca
+}
+640.1.1 = { 
+religion = orthodox
+}

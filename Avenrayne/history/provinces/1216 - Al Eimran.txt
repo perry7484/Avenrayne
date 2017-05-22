@@ -1,0 +1,21 @@
+# c_al_eimran
+
+# County Title
+title = c_al_eimran
+
+# Settlements
+max_settlements = 7
+
+b_al_eimran = castle
+#b_al_qamarah = city
+#b_al_eimran_2 = temple
+#b_al_eimran_3 = castle
+#b_al_eimran_4 = city
+#b_al_eimran_5 = temple
+#b_al_eimran_6 = castle
+
+# Misc
+culture = aluqi
+religion = sunni
+
+#History

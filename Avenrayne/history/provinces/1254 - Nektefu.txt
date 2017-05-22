@@ -1,0 +1,21 @@
+# c_nektefu
+
+# County Title
+title = c_nektefu
+
+# Settlements
+max_settlements = 7
+
+b_nektefu = castle
+#b_nektefu_2 = city
+#b_nektefu_3 = temple
+#b_nektefu_4 = castle
+#b_nektefu_5 = city
+#b_nektefu_6 = temple
+#b_nektefu_7 = castle
+
+# Misc
+culture = nawwari
+religion = miaphysite
+
+#History

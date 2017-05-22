@@ -1,0 +1,21 @@
+# c_tres_pinheiros
+
+# County Title
+title = c_tres_pinheiros
+
+# Settlements
+max_settlements = 7
+
+b_tres_pinheiros = castle
+b_lucenza = city
+#b_tres_pinheiros_2 = temple
+#b_tres_pinheiros_3 = castle
+#b_tres_pinheiros_4 = city
+#b_tres_pinheiros_5 = temple
+#b_tres_pinheiros_6 = castle
+
+# Misc
+culture = costano
+religion = zun_pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_tosses
+
+# County Title
+title = c_tosses
+
+# Settlements
+max_settlements = 7
+
+b_tosses = castle
+#b_tosses_2 = city
+#b_tosses_3 = temple
+#b_tosses_4 = castle
+#b_tosses_5 = city
+#b_tosses_6 = temple
+#b_tosses_7 = castle
+
+# Misc
+culture = fornellà
+religion = cathar
+
+#History

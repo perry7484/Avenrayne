@@ -1,0 +1,21 @@
+# c_craigmalloch
+
+# County Title
+title = c_craigmalloch
+
+# Settlements
+max_settlements = 7
+
+b_craigmalloch = castle
+#b_craigmalloch_2 = city
+#b_craigmalloch_3 = temple
+#b_craigmalloch_4 = castle
+#b_craigmalloch_5 = city
+#b_craigmalloch_6 = temple
+#b_craigmalloch_7 = castle
+
+# Misc
+culture = abonae
+religion = celtic_pagan
+
+#History

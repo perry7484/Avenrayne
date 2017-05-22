@@ -1,0 +1,21 @@
+# c_muhabi
+
+# County Title
+title = c_muhabi
+
+# Settlements
+max_settlements = 7
+
+b_muhabi = castle
+#b_muhabi_2 = city
+#b_muhabi_3 = temple
+#b_muhabi_4 = castle
+#b_muhabi_5 = city
+#b_muhabi_6 = temple
+#b_muhabi_7 = castle
+
+# Misc
+culture = aluqi
+religion = sunni
+
+#History

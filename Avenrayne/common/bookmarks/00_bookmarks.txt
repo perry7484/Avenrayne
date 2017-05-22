@@ -1,0 +1,114 @@
+#bm_sixty_years_crisis = {
+#	name = "BM_SIXTY_YEARS_CRISIS"
+#	desc = "BM_SIXTY_YEARS_CRISIS_DESC"
+#	date = 238.9.24
+#	
+#	selectable_character = {
+#		id = 30007916 # Lucienne de Nours
+#		age = 26
+#		character = {
+#			dna = aegjcvmccbe
+#			properties = akcad00000
+#			female=yes
+#			religion="cathar"
+#			culture="rayne"
+#			government = feudal_government
+#			dynasty=30007900
+#		}
+#	}
+#}
+#
+bm_old_imperium = {
+	name = "BM_OLD_IMPERIUM"
+	desc = "BM_OLD_IMPERIUM_DESC"
+	date = 402.3.9
+
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_1
+	
+	selectable_character = {
+		id = 84 # Constans Sempronius
+		age = 19
+		character = {
+			dna = dna="cibff0icce0"
+			properties="rl0h0c0d000000"
+			religion="hellenic_pagan"
+			culture="capracciana"
+			government = capracciana_government
+			dynasty=8
+		}
+	}
+}
+
+#bm_fall_of_capraccia = {
+#	name = "BM_FALL_OF_CAPRACCIA"
+#	desc = "BM_FALL_OF_CAPRACCIA_DESC"
+#	date = 478.9.24
+#	
+#	era = yes						## Will be shown on Era screen.
+#	picture = GFX_pick_era_image_1
+#	
+#	selectable_character = {
+#		id = 90 # Gratianus
+#		age = 49
+#		character = {
+#			dna = fpabdecpkia
+#			properties = akcad00000
+#			religion="orthodox"
+#			culture="capracciana"
+#			government = feudal_government
+#			dynasty=90
+#		}
+#	}
+#
+#}
+
+bm_great_shifting = {
+	name = "BM_GREAT_SHIFTING"
+	desc = "BM_GREAT_SHIFTING_DESC"
+	date = 769.7.21
+	
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_3
+	custom_start = yes
+	
+	selectable_character = {
+		id = 30007916 # Lucienne de Nours
+		age = 26
+		character = {
+			dna = "aegjcvmccbe"
+			properties = "akcad00000"
+			female=yes
+			religion="cathar"
+			culture="rayne"
+			government = feudal_government
+			dynasty=30007900
+		}
+	}
+	#Costa do Sol
+	#Aluqiyya
+	#Ciniod of Goireas
+	#Slavic warlord
+	#Anglic(Old_Riverfolk) landings in westerfork/hamford
+	#Nikosian/Byzantine Emperor
+	#Imperio Atessano (titular empire, Atessa&Marru)
+}
+
+bm_northern_kings = {
+	name = "BM_NORTHERN_KINGS"
+	desc = "BM_NORTHERN_KINGS_DESC"
+	date = 872.12.1
+	
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_2
+	custom_start = yes
+	
+	#Costa do Sol
+	#Aluqiyya
+	#Ciniod of Goireas
+	#Slavic warlord
+	#Anglic(Old_Riverfolk) landings in westerfork/hamford
+	#Nikosian/Byzantine Emperor
+	#Imperio Atessano (titular empire, Atessa&Marru)
+}
+

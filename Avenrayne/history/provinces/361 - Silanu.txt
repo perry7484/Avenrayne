@@ -1,0 +1,28 @@
+# c_silanu
+
+# County Title
+title = c_silanu
+
+# Settlements
+max_settlements = 7
+
+b_nuxis = city
+b_norbellu = castle
+b_santu_antiogu = temple
+#b_falonica = castle
+#b_santa_alena = city
+#b_silicua = temple
+#b_futei = castle
+
+# Misc
+culture = silana
+religion = pagan
+
+#History
+1.1.1 = { 
+religion = hellenic_pagan
+culture = capracciana
+}
+101.1.1 = { 
+culture = silana
+}

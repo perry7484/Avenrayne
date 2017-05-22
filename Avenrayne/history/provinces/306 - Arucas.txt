@@ -1,0 +1,21 @@
+# c_arucas
+
+# County Title
+title = c_arucas
+
+# Settlements
+max_settlements = 7
+
+b_arucas = city
+#b_velas = city
+#b_arucas_2 = temple
+#b_arucas_3 = castle
+#b_arucas_4 = city
+#b_arucas_5 = temple
+#b_arucas_6 = castle
+
+# Misc
+culture = soreno
+religion = miaphysite
+
+#History

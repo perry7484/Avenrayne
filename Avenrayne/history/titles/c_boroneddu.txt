@@ -1,0 +1,9 @@
+# e_arsizia
+1.1.2={
+	law = cognatic_succession
+	law = succ_primogeniture
+	liege=d_silanu
+}
+763.2.13={
+	holder=186 #Remundu
+}

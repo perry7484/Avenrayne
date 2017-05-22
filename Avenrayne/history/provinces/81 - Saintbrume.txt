@@ -1,0 +1,21 @@
+# c_saintbrume
+
+# County Title
+title = c_saintbrume
+
+# Settlements
+max_settlements = 7
+
+b_saintbrume = castle
+b_virail = temple
+#b_autarname = temple
+#b_mourier = castle
+#b_ars = city
+#b_crancy = temple
+#b_paluel = castle
+
+# Misc
+culture = nordval_rayne
+religion = cathar
+
+#History

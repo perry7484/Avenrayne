@@ -1,0 +1,21 @@
+# c_obidos
+
+# County Title
+title = c_obidos
+
+# Settlements
+max_settlements = 7
+
+b_obidos = castle
+#b_obidos_2 = city
+#b_obidos_3 = temple
+#b_obidos_4 = castle
+#b_obidos_5 = city
+#b_obidos_6 = temple
+#b_obidos_7 = castle
+
+# Misc
+culture = costano
+religion = zun_pagan
+
+#History

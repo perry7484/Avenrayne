@@ -1,0 +1,21 @@
+# c_abrera
+
+# County Title
+title = c_abrera
+
+# Settlements
+max_settlements = 7
+
+b_abrera = castle
+#b_abrera_2 = city
+#b_abrera_3 = temple
+#b_abrera_4 = castle
+#b_abrera_5 = city
+#b_abrera_6 = temple
+#b_abrera_7 = castle
+
+# Misc
+culture = fornellà
+religion = cathar
+
+#History

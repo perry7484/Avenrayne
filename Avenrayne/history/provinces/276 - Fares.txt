@@ -1,0 +1,21 @@
+# c_fares
+
+# County Title
+title = c_fares
+
+# Settlements
+max_settlements = 7
+
+b_fares = castle
+#b_fares_2 = city
+#b_fares_3 = temple
+#b_fares_4 = castle
+#b_fares_5 = city
+#b_fares_6 = temple
+#b_fares_7 = castle
+
+# Misc
+culture = fornellà
+religion = catholic
+
+#History

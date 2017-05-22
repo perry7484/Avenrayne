@@ -1,0 +1,21 @@
+# c_archi
+
+# County Title
+title = c_archi
+
+# Settlements
+max_settlements = 7
+
+b_archi = castle
+b_colledimediu = city
+#b_archi_2 = temple
+#b_archi_3 = castle
+#b_archi_4 = city
+#b_archi_5 = temple
+#b_archi_6 = castle
+
+# Misc
+culture = marrùna
+religion = pelagian
+
+#History

@@ -1,0 +1,41 @@
+# c_villosque
+
+# County Title
+title = c_villosque
+
+# Settlements
+max_settlements = 7
+
+b_villosque = castle
+b_dulieu = city
+#b_luvry = temple
+#b_bent = castle
+#b_sois = city
+#b_fontalle = temple
+#b_irnenc = castle
+
+# Misc
+culture = eastern_rayne
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = celtic_pagan
+culture = renae
+}
+156.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+480.1.1 = { 
+culture = old_rayne
+}
+280.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+730.1.1 = { 
+culture = eastern_rayne
+}

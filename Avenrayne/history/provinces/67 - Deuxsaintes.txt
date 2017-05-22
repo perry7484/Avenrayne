@@ -1,0 +1,38 @@
+# c_deuxsaintes
+
+# County Title
+title = c_deuxsaintes
+
+# Settlements
+max_settlements = 7
+
+b_deuxsaintes = castle
+#b_balmoral = city
+#b_avin = temple
+#b_grou = castle
+#b_gondeville = city
+#b_clerey = temple
+#b_soisy = castle
+
+# Misc
+culture = nordval_rayne
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = celtic_pagan
+culture = renae
+}
+252.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+450.1.1 = { 
+culture = old_rayne
+}
+480.1.1 = { 
+religion = catholic
+}
+730.1.1 = { 
+culture = nordval_rayne
+}

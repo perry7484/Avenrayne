@@ -1,0 +1,15 @@
+500.1.1=
+{
+	law = succ_patrician_elective
+}
+736.11.23={
+	holder=4001 #Paulo
+}
+761.3.14={
+	holder=4002 #Felice
+}
+
+800.1.1={
+	liege=k_arsizia
+}
+

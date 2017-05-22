@@ -1,0 +1,21 @@
+# c_tortella
+
+# County Title
+title = c_tortella
+
+# Settlements
+max_settlements = 7
+
+b_tortella = castle
+#b_tortella_2 = city
+#b_tortella_3 = temple
+#b_tortella_4 = castle
+#b_tortella_5 = city
+#b_tortella_6 = temple
+#b_tortella_7 = castle
+
+# Misc
+culture = fornellà
+religion = catholic
+
+#History

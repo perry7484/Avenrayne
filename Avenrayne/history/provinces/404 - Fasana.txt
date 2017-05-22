@@ -1,0 +1,21 @@
+# c_fasana
+
+# County Title
+title = c_fasana
+
+# Settlements
+max_settlements = 7
+
+b_fasana = castle
+#b_opicina = city
+#b_samatorza = temple
+#b_fasana_2 = castle
+#b_fasana_3 = city
+#b_fasana_4 = temple
+#b_fasana_5 = castle
+
+# Misc
+culture = medana
+religion = orthodox
+
+#History

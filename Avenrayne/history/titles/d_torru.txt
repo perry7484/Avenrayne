@@ -1,0 +1,11 @@
+# e_capraccia
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+401.1.1={
+holder=132 #Martino
+}
+800.1.1={
+	liege=k_marru
+}

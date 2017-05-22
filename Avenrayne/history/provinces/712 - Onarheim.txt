@@ -1,0 +1,21 @@
+# c_onarheim
+
+# County Title
+title = c_onarheim
+
+# Settlements
+max_settlements = 7
+
+b_onarheim = tribal
+#b_onarheim_2 = city
+#b_onarheim_3 = temple
+#b_onarheim_4 = castle
+#b_onarheim_5 = city
+#b_onarheim_6 = temple
+#b_onarheim_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

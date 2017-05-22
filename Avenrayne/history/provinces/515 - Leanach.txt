@@ -1,0 +1,21 @@
+# c_leanach
+
+# County Title
+title = c_leanach
+
+# Settlements
+max_settlements = 7
+
+b_leanach = tribal
+#b_leanach_2 = city
+#b_leanach_3 = temple
+#b_leanach_4 = castle
+#b_leanach_5 = city
+#b_leanach_6 = temple
+#b_leanach_7 = castle
+
+# Misc
+culture = ardthirraich
+religion = celtic_pagan
+
+#History

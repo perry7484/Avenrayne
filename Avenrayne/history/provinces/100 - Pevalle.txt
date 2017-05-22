@@ -1,0 +1,21 @@
+# c_pevalle
+
+# County Title
+title = c_pevalle
+
+# Settlements
+max_settlements = 7
+
+b_pevalle = castle
+#b_dumidy = city
+#b_morinais = temple
+#b_breheville = castle
+#b_amereis = city
+#b_essonne = temple
+#b_carnot = castle
+
+# Misc
+culture = western_rayne
+religion = cathar
+
+#History

@@ -1,0 +1,21 @@
+# c_castelfol
+
+# County Title
+title = c_castelfol
+
+# Settlements
+max_settlements = 7
+
+b_castelfol = castle
+b_ronesy = city
+b_alronde = temple
+#b_ballade = castle
+#b_brilosse = city
+#b_saint_ricard = temple
+#b_biseaux = castle
+
+# Misc
+culture = northern_rayne
+religion = catholic
+
+#History

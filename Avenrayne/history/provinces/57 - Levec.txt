@@ -1,0 +1,38 @@
+# c_levec
+
+# County Title
+title = c_levec
+
+# Settlements
+max_settlements = 7
+
+b_levec = city
+b_bondisse = castle
+b_lavaltrie = temple
+#b_gagnon_2 = castle
+#b_floyon = city
+#b_trelin = temple
+#b_marennes = castle
+
+# Misc
+culture = western_rayne
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = celtic_pagan
+culture = renae
+}
+112.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+450.1.1 = { 
+culture = old_rayne
+}
+480.1.1 = { 
+religion = catholic
+}
+730.1.1 = { 
+culture = western_rayne
+}

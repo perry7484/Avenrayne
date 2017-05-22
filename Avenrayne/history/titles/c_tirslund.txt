@@ -1,0 +1,43 @@
+427.1.1={
+	liege=d_tirslund
+}
+451.7.21={
+	holder=7001 #Borkvard
+}
+500.8.14={
+	holder=7002 #Balder
+}
+512.4.30={
+	holder=7006 #Gurli
+}
+518.9.8={
+	holder=7007 #Somerled
+}
+548.1.9={
+	holder=7012 #Knut
+}
+560.3.21={
+	holder=7012 #Knut
+}
+587.12.11={
+	holder=7018 #Vagn
+}
+607.10.12={
+	holder=7020 #Emund
+}
+651.11.11={
+	holder=7023 #Arngrimr
+}
+679.5.4={
+	holder=7025 #Birger
+}
+721.4.16={
+	holder=7030 #Örvar
+}
+#719.11.14={
+#	holder=7034 #Hjalmar
+#}
+749.6.26={
+	holder=7038 #Arnulf
+}
+###790.9.7 - Arnulf dies, new dynasty takes over for a while ###

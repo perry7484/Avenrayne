@@ -1,0 +1,8 @@
+# e_arsizia
+500.1.1={
+	law = succ_feudal_elective
+	law = succ_agnatic_cognatic
+}
+753.1.1={
+holder=4320
+}

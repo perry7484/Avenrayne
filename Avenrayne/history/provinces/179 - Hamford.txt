@@ -1,0 +1,41 @@
+# c_hamford
+
+# County Title
+title = c_hamford
+
+# Settlements
+max_settlements = 7
+
+b_hamford = castle
+b_reach = city
+b_burwell = temple
+#b_hamford_2 = castle
+#b_hamford_3 = city
+#b_hamford_4 = temple
+#b_hamford_5 = castle
+
+# Misc
+culture = middlefordish
+religion = lollard
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = abonae
+}
+105.1.1 = { 
+religion = hellenic_pagan
+culture = abonae_capracciana
+}
+500.1.1 = { 
+culture = eascisc
+}
+480.1.1 = { 
+religion = catholic
+}
+750.1.1 = { 
+religion = lollard
+}
+1130.1.1 = { 
+culture = middlefordish
+}

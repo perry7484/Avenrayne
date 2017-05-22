@@ -1,0 +1,21 @@
+# c_choineuf
+
+# County Title
+title = c_choineuf
+
+# Settlements
+max_settlements = 7
+
+b_choineuf = castle
+#b_huot = city
+#b_loranger = temple
+#b_diors = castle
+#b_marville = city
+#b_delut = temple
+#b_mennecy = castle
+
+# Misc
+culture = western_rayne
+religion = cathar
+
+#History

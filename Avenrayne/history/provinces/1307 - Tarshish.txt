@@ -1,0 +1,21 @@
+# c_tarshish
+
+# County Title
+title = c_tarshish
+
+# Settlements
+max_settlements = 7
+
+b_tarshish = castle
+#b_tarshish_2 = city
+#b_tarshish_3 = temple
+#b_tarshish_4 = castle
+#b_tarshish_5 = city
+#b_tarshish_6 = temple
+#b_tarshish_7 = castle
+
+# Misc
+culture = hieroshki
+religion = jewish
+
+#History

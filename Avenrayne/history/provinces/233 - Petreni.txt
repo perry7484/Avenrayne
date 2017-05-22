@@ -1,0 +1,28 @@
+# c_petreni
+
+# County Title
+title = c_petreni
+
+# Settlements
+max_settlements = 7
+
+b_petreni = castle
+#b_petreni_2 = city
+#b_petreni_3 = temple
+#b_petreni_4 = castle
+#b_petreni_5 = city
+#b_petreni_6 = temple
+#b_petreni_7 = castle
+
+# Misc
+culture = varodaesca
+religion = pagan
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = varodesi
+}
+450.1.1 = { 
+culture = varodaesca
+}

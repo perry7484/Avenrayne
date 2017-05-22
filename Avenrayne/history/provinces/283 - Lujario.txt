@@ -1,0 +1,21 @@
+# c_lujario
+
+# County Title
+title = c_lujario
+
+# Settlements
+max_settlements = 7
+
+b_lujario = castle
+#b_lujario_2 = city
+#b_lujario_3 = temple
+#b_lujario_4 = castle
+#b_lujario_5 = city
+#b_lujario_6 = temple
+#b_lujario_7 = castle
+
+# Misc
+culture = fornellà
+religion = donatist
+
+#History

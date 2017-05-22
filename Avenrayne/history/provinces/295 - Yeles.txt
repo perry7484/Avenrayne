@@ -1,0 +1,21 @@
+# c_yeles
+
+# County Title
+title = c_yeles
+
+# Settlements
+max_settlements = 7
+
+b_yeles = castle
+b_yeles_2 = city
+#b_yeles_3 = temple
+#b_yeles_4 = castle
+#b_yeles_5 = city
+#b_yeles_6 = temple
+#b_yeles_7 = castle
+
+# Misc
+culture = soreno
+religion = miaphysite
+
+#History

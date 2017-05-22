@@ -1,0 +1,21 @@
+# c_mascarello
+
+# County Title
+title = c_mascarello
+
+# Settlements
+max_settlements = 7
+
+b_mascarello = castle
+#b_mascarello_2 = city
+#b_mascarello_3 = temple
+#b_mascarello_4 = castle
+#b_mascarello_5 = city
+#b_mascarello_6 = temple
+#b_mascarello_7 = castle
+
+# Misc
+culture = alayo
+religion = miaphysite
+
+#History

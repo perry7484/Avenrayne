@@ -1,0 +1,34 @@
+# c_ronzano
+
+# County Title
+title = c_ronzano
+
+# Settlements
+max_settlements = 7
+
+b_ronzano = castle
+b_vallevona = temple
+#b_ronzano_2 = temple
+#b_ronzano_3 = castle
+#b_ronzano_4 = city
+#b_ronzano_5 = temple
+#b_ronzano_6 = castle
+
+# Misc
+culture = atessana
+religion = pelagian
+
+#History
+1.1.1 = { 
+religion = hellenic_pagan
+culture = capracciana
+}
+560.1.1 = { 
+culture = atessana
+}
+275.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}

@@ -1,0 +1,21 @@
+# c_penacova
+
+# County Title
+title = c_penacova
+
+# Settlements
+max_settlements = 7
+
+b_penacova = castle
+#b_penacova_2 = city
+#b_penacova_3 = temple
+#b_penacova_4 = castle
+#b_penacova_5 = city
+#b_penacova_6 = temple
+#b_penacova_7 = castle
+
+# Misc
+culture = soreno
+religion = miaphysite
+
+#History

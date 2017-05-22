@@ -1,0 +1,20 @@
+# k_marru
+20.1.1={
+liege=e_capraccia
+}
+401.1.1={
+holder=132 #Martino
+}
+450.1.1={
+liege=0
+}
+537.1.1 = {
+	liege = e_nikosia
+}
+741.12.3 = {
+	liege = e_atessa # De facto
+}
+840.11.25={
+	holder=0 ###Placeholder, empire disintegrates aft. Seb's death?
+	liege=0
+}

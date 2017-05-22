@@ -1,0 +1,21 @@
+# c_dillah
+
+# County Title
+title = c_dillah
+
+# Settlements
+max_settlements = 7
+
+b_dillah = castle
+#b_dillah_2 = city
+#b_dillah_3 = temple
+#b_dillah_4 = castle
+#b_dillah_5 = city
+#b_dillah_6 = temple
+#b_dillah_7 = castle
+
+# Misc
+culture = aluqi
+religion = sunni
+
+#History

@@ -1,0 +1,38 @@
+# c_bochia
+
+# County Title
+title = c_bochia
+
+# Settlements
+max_settlements = 7
+
+b_bochia = castle
+b_slonu = city
+#b_albac = temple
+#b_bochia_2 = castle
+#b_bochia_3 = city
+#b_bochia_4 = temple
+#b_bochia_5 = castle
+
+# Misc
+culture = varodaesca
+religion = orthodox
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = varodesi
+}
+106.1.1 = { 
+religion = hellenic_pagan
+}
+206.1.1 = { 
+religion = hellenic_pagan
+culture = varo-capracciana
+}
+450.1.1 = { 
+culture = varodaesca
+}
+520.1.1 = { 
+religion = orthodox
+}

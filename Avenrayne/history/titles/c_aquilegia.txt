@@ -1,0 +1,14 @@
+# e_arsizia
+500.1.1={
+	law = cognatic_succession
+}
+753.3.3={
+	holder=4227
+}
+798.11.15={
+	holder=4231
+}
+
+800.1.1={
+	liege=d_fiori
+}

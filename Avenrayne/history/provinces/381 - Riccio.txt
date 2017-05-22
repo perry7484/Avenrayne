@@ -1,0 +1,21 @@
+# c_riccio
+
+# County Title
+title = c_riccio
+
+# Settlements
+max_settlements = 7
+
+b_riccio = castle
+b_morrecini = city
+#b_riccio_2 = temple
+#b_riccio_3 = castle
+#b_riccio_4 = city
+#b_riccio_5 = temple
+#b_riccio_6 = castle
+
+# Misc
+culture = atessana
+religion = pelagian
+
+#History

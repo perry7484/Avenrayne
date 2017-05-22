@@ -1,0 +1,38 @@
+# c_potoc
+
+# County Title
+title = c_potoc
+
+# Settlements
+max_settlements = 7
+
+b_potoc = castle
+#b_selaru = city
+#b_bilca = temple
+#b_potoc_2 = castle
+#b_potoc_3 = city
+#b_potoc_4 = temple
+#b_potoc_5 = castle
+
+# Misc
+culture = vodeasca
+religion = orthodox
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = varodesi
+}
+106.1.1 = { 
+religion = hellenic_pagan
+}
+206.1.1 = { 
+religion = hellenic_pagan
+culture = varo-capracciana
+}
+450.1.1 = { 
+culture = varodaesca
+}
+570.1.1 = { 
+religion = orthodox
+}

@@ -1,0 +1,21 @@
+# c_hosvik
+
+# County Title
+title = c_hosvik
+
+# Settlements
+max_settlements = 7
+
+b_hosvik = tribal
+#b_leynar = city
+#b_hosvik_2 = temple
+#b_hosvik_3 = castle
+#b_hosvik_4 = city
+#b_hosvik_5 = temple
+#b_hosvik_6 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

@@ -1,0 +1,41 @@
+# c_isle_esmeralde
+
+# County Title
+title = c_isle_esmeralde
+
+# Settlements
+max_settlements = 7
+
+b_isle_esmeralde = castle
+b_roncemarte = city
+b_rochedure = temple
+#b_grand_riviere = castle
+#b_falaises_blanches = city
+#b_eaugrise = temple
+#b_chezelles = castle
+
+# Misc
+culture = rayne
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = renae
+}
+2.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+480.1.1 = { 
+culture = old_rayne
+}
+250.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+775.1.1 = { 
+culture = rayne
+}

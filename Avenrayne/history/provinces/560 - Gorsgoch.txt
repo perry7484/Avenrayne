@@ -1,0 +1,21 @@
+# c_gorsgoch
+
+# County Title
+title = c_gorsgoch
+
+# Settlements
+max_settlements = 7
+
+b_gorsgoch = tribal
+#b_brynnog = city
+#b_dwyran = temple
+#b_gorsgoch_2 = castle
+#b_gorsgoch_3 = city
+#b_gorsgoch_4 = temple
+#b_gorsgoch_5 = castle
+
+# Misc
+culture = maesmyge
+religion = celtic_pagan
+
+#History

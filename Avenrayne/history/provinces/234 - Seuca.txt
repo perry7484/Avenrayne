@@ -1,0 +1,28 @@
+# c_seuca
+
+# County Title
+title = c_seuca
+
+# Settlements
+max_settlements = 7
+
+b_seuca = castle
+#b_seuca_2 = city
+#b_seuca_3 = temple
+#b_seuca_4 = castle
+#b_seuca_5 = city
+#b_seuca_6 = temple
+#b_seuca_7 = castle
+
+# Misc
+culture = varodaesca
+religion = pagan
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = varodesi
+}
+450.1.1 = { 
+culture = varodaesca
+}

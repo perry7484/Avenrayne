@@ -1,0 +1,32 @@
+# c_vodei
+
+# County Title
+title = c_vodei
+
+# Settlements
+max_settlements = 7
+
+b_vodei = castle
+#b_trava = city
+#b_vodei_2 = temple
+#b_vodei_3 = castle
+#b_vodei_4 = city
+#b_vodei_5 = temple
+#b_vodei_6 = castle
+
+# Misc
+culture = vodeasca
+religion = orthodox
+
+#History
+1.1.1={
+culture=vodeasci
+religion=pagan
+}
+96.1.1={
+culture=vodeasci_capracciana
+religion=hellenic_pagan
+}
+445.1.1={religion=orthodox}
+450.1.1={culture=vodeasca}
+1050.1.1={culture=vodeiska}

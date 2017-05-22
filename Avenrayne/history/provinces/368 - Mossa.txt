@@ -1,0 +1,21 @@
+# c_mossa
+
+# County Title
+title = c_mossa
+
+# Settlements
+max_settlements = 7
+
+b_mossa = castle
+b_lioni = city
+#b_mossa_2 = temple
+#b_mossa_3 = castle
+#b_mossa_4 = city
+#b_mossa_5 = temple
+#b_mossa_6 = castle
+
+# Misc
+culture = marrùna
+religion = orthodox
+
+#History

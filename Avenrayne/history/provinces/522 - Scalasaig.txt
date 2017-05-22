@@ -1,0 +1,21 @@
+# c_scalasaig
+
+# County Title
+title = c_scalasaig
+
+# Settlements
+max_settlements = 7
+
+b_scalasaig = tribal
+#b_scalasaig_2 = city
+#b_scalasaig_3 = temple
+#b_scalasaig_4 = castle
+#b_scalasaig_5 = city
+#b_scalasaig_6 = temple
+#b_scalasaig_7 = castle
+
+# Misc
+culture = ardthirraich
+religion = celtic_pagan
+
+#History

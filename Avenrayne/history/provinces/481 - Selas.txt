@@ -1,0 +1,21 @@
+# c_selas
+
+# County Title
+title = c_selas
+
+# Settlements
+max_settlements = 7
+
+b_selas = castle
+#b_selas_2 = city
+#b_selas_3 = temple
+#b_selas_4 = castle
+#b_selas_5 = city
+#b_selas_6 = temple
+#b_selas_7 = castle
+
+# Misc
+culture = alayo
+religion = miaphysite
+
+#History

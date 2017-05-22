@@ -1,0 +1,8 @@
+# e_costa_do_sol
+1.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+800.1.1={
+	liege=e_costa_do_sol
+}

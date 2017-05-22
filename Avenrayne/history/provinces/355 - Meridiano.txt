@@ -1,0 +1,37 @@
+# c_meridiano
+
+# County Title
+title = c_meridiano
+
+# Settlements
+max_settlements = 7
+
+b_meridiano = castle
+b_orvinio = temple
+#b_isoletta = temple
+#b_ausonia = castle
+#b_carrito = city
+#b_meridiano_2 = temple
+#b_meridiano_3 = castle
+
+# Misc
+culture = arsiziana
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = hellenic_pagan
+culture = capracciana
+}
+560.1.1 = { 
+culture = arsiziana
+}
+275.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+650.1.1 = { 
+religion = pelagian
+}

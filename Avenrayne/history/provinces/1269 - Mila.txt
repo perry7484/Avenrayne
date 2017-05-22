@@ -1,0 +1,21 @@
+# c_mila
+
+# County Title
+title = c_mila
+
+# Settlements
+max_settlements = 7
+
+b_mila = castle
+#b_mila_2 = city
+#b_mila_3 = temple
+#b_mila_4 = castle
+#b_mila_5 = city
+#b_mila_6 = temple
+#b_mila_7 = castle
+
+# Misc
+culture = siliani
+religion = donatist
+
+#History

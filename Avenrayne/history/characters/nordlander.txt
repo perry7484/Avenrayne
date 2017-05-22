@@ -1,0 +1,848 @@
+7001={
+	name=Borvard
+	dynasty=7000
+	dna="cffbccjmiap"
+	culture=nordlander religion=norse_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=4 learning=8
+	add_trait=intricate_webweaver add_trait=just add_trait=hedonist
+	add_trait=content add_trait=charitable 
+	429.7.20={ birth=yes }
+	500.8.14={ death=yes }
+}
+7002={
+	name=Balder
+	dynasty=7000
+	dna="gfnnccjoial"
+	culture=nordlander religion=norse_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=4 learning=6
+	add_trait=midas_touched add_trait=cruel add_trait=honest add_trait=cynical add_trait=arbitrary 
+	add_trait=content add_trait=lustful 
+	father=7001	#Borkvard
+	452.7.7={ birth=yes }
+	512.4.30={ death=yes }
+}
+7003={
+	name=Ragnvald
+	dynasty=7000
+	dna="cfhccgfcikp"
+	culture=nordlander religion=norse_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=5 learning=8
+	add_trait=misguided_warrior add_trait=content add_trait=craven add_trait=just 
+	father=7001	#Borkvard
+	455.4.18={ birth=yes }
+	530.12.20={ death=yes }
+}
+7004={
+	name=Asbjörn
+	dynasty=7000
+	dna="kfflcijaajp"
+	culture=nordlander religion=norse_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=7 learning=8
+	add_trait=martial_cleric add_trait=impaler add_trait=cruel add_trait=just add_trait=wroth 
+	add_trait=drunkard 
+	father=7001	#Borkvard
+	457.6.23={ birth=yes }
+	519.12.30={ death=yes }
+}
+7005={
+	name=Ylva
+	female=yes
+	dynasty=7000
+	dna="clfiacpmfap"
+	culture=nordlander religion=norse_pagan
+	father=7001	#Borkvard
+	459.4.13={ birth=yes }
+	527.12.3={ death=yes }
+}
+7006={
+	name=Gurli
+	female=yes
+	dynasty=7000
+	dna="cenhebbofpl"
+	culture=nordlander religion=norse_pagan
+	father=7002	#Balder
+	473.7.13={ birth=yes }
+	518.9.8={ death=yes }
+}
+7007={
+	name=Somerled
+	dynasty=7000
+	dna="jgnjhcpodii"
+	culture=nordlander religion=norse_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=7 learning=8
+	add_trait=martial_cleric add_trait=kind add_trait=honest add_trait=ambitious 
+	father=7002	#Balder
+	475.7.5={ birth=yes }
+	548.1.9={ death=yes }
+}
+7008={
+	name=Aleta
+	female=yes
+	dynasty=7000
+	dna="gnnnhekoaal"
+	culture=nordlander religion=norse_pagan
+	father=7002	#Balder
+	479.7.7={ birth=yes }
+	536.11.11={ death=yes }
+}
+7009={
+	name=Haelga
+	female=yes
+	dynasty=7000
+	dna="afnmckoomhp"
+	culture=nordlander religion=norse_pagan
+	father=7002	#Balder
+	481.7.11={ birth=yes }
+	548.4.13={ death=yes }
+}
+7010={
+	name=Bentje
+	female=yes
+	dynasty=7000
+	dna="pfnnbloglem"
+	culture=nordlander religion=norse_pagan
+	father=7002	#Balder
+	483.12.8={ birth=yes }
+	535.6.5={ death=yes }
+}
+7011={
+	name=Alfhildr
+	female=yes
+	dynasty=7000
+	dna="afgbhdpomii"
+	culture=nordlander religion=norse_pagan
+	father=7007	#Somerled
+	499.8.10={ birth=yes }
+	573.7.9={ death=yes }
+}
+7012={
+	name=Knut
+	dynasty=7000
+	dna="jdjemcpodii"
+	culture=nordlander religion=norse_pagan
+	martial=4 diplomacy=6 stewardship=4 intrigue=4 learning=8
+	add_trait=charismatic_negotiator add_trait=gardener add_trait=paranoid add_trait=craven add_trait=temperate 
+	add_trait=wroth 
+	father=7007	#Somerled
+	503.10.27={ birth=yes }
+	560.3.21={ death=yes }
+}
+7013={
+	name=Şordr
+	dynasty=7000
+	dna="jonjpcpodih"
+	culture=nordlander religion=norse_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=5 learning=4
+	add_trait=elusive_shadow add_trait=diligent add_trait=ambitious add_trait=wroth add_trait=lustful 
+	father=7007	#Somerled
+	508.4.26={ birth=yes }
+	558.1.18={ death=yes }
+}
+7014={
+	name=Alvör
+	female=yes
+	dynasty=7000
+	dna="gcnjhgpodip"
+	culture=nordlander religion=norse_pagan
+	father=7007	#Somerled
+	511.12.23={ birth=yes }
+	576.9.21={ death=yes }
+}
+7015={
+	name=Ofeig
+	dynasty=7000
+	dna="jhjdkcpedii"
+	culture=nordlander religion=norse_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=7 learning=6
+	add_trait=scholarly_theologian add_trait=arbitrary add_trait=temperate add_trait=chaste add_trait=wounded 
+	father=7012	#Knut
+	530.5.3={ birth=yes }
+	587.12.11={ death=yes }
+}
+7016={
+	name=Björg
+	female=yes
+	dynasty=7000
+	dna="jajeecmodii"
+	culture=nordlander religion=norse_pagan
+	father=7012	#Knut
+	533.11.7={ birth=yes }
+	575.7.27={ death=yes }
+}
+7017={
+	name=Gudröd
+	dynasty=7000
+	dna="fdobkceodai"
+	culture=nordlander religion=norse_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=4 learning=6
+	add_trait=martial_cleric add_trait=just add_trait=content 
+	father=7012	#Knut
+	535.10.16={ birth=yes }
+	609.6.30={ death=yes }
+}
+7018={
+	name=Vagn
+	dynasty=7000
+	dna="opjdkchiggf"
+	culture=nordlander religion=norse_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=4 learning=6
+	add_trait=grey_eminence add_trait=poet add_trait=honest add_trait=chaste add_trait=paranoid 
+	add_trait=cynical add_trait=temperate add_trait=stressed add_trait=possessed 
+	father=7015	#Ofeig
+	557.2.5={ birth=yes }
+	607.10.12={ death=yes }
+}
+7019={
+	name=Faste
+	dynasty=7000
+	dna="flpgkhpdiii"
+	culture=nordlander religion=norse_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=6 learning=8
+	add_trait=grey_eminence add_trait=arbitrary add_trait=ambitious add_trait=proud add_trait=envious 
+	father=7015	#Ofeig
+	560.11.20={ birth=yes }
+	607.12.6={ death=yes }
+}
+7020={
+	name=Emund
+	dynasty=7000
+	dna="knjnahhiggf"
+	culture=nordlander religion=norse_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=7 learning=4
+	add_trait=detached_priest add_trait=trusting add_trait=lustful add_trait=content add_trait=greedy 
+	father=7018	#Vagn
+	584.11.19={ birth=yes }
+	651.11.11={ death=yes }
+}
+7021={
+	name=Ragnvald
+	dynasty=7000
+	dna="lpjdkghigdi"
+	culture=nordlander religion=norse_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=4 learning=4
+	add_trait=scholarly_theologian add_trait=lustful add_trait=gregarious add_trait=temperate add_trait=brave 
+	add_trait=deceitful add_trait=stressed 
+	father=7018	#Vagn
+	588.2.11={ birth=yes }
+	641.8.2={ death=yes }
+}
+7022={
+	name=Örvar
+	dynasty=7000
+	dna="okgdfccilbf"
+	culture=nordlander religion=norse_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=8 learning=5
+	add_trait=mastermind_theologian add_trait=temperate add_trait=lustful add_trait=zealous add_trait=craven 
+	add_trait=slow 
+	father=7018	#Vagn
+	592.4.23={ birth=yes }
+	641.6.23={ death=yes }
+}
+7023={
+	name=Arngrimr
+	dynasty=7000
+	dna="knjnahjigff"
+	culture=nordlander religion=norse_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=8 learning=4
+	add_trait=intricate_webweaver add_trait=greedy add_trait=deceitful add_trait=ambitious 
+	father=7020	#Emund
+	611.9.24={ birth=yes }
+	679.5.4={ death=yes }
+}
+7024={
+	name=Valdemar
+	dynasty=7000
+	dna="kekfbehiadn"
+	culture=nordlander religion=norse_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=5 learning=5
+	add_trait=flamboyant_schemer add_trait=cruel add_trait=slothful add_trait=zealous 
+	father=7020	#Emund
+	615.3.3={ birth=yes }
+	662.5.28={ death=yes }
+}
+7025={
+	name=Birger
+	dynasty=7000
+	dna="knjnaieigff"
+	culture=nordlander religion=norse_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=7 learning=6
+	add_trait=flamboyant_schemer add_trait=slothful add_trait=just add_trait=paranoid add_trait=honest 
+	add_trait=possessed 
+	father=7023	#Arngrimr
+	637.12.3={ birth=yes }
+	721.4.16={ death=yes }
+}
+7026={
+	name=Skule
+	dynasty=7000
+	dna="lnjnaajigbc"
+	culture=nordlander religion=norse_pagan
+	martial=6 diplomacy=7 stewardship=7 intrigue=5 learning=6
+	add_trait=flamboyant_schemer add_trait=wroth add_trait=proud add_trait=paranoid add_trait=envious 
+	add_trait=lustful 
+	father=7023	#Arngrimr
+	639.3.27={ birth=yes }
+	698.9.3={ death=yes }
+}
+7027={
+	name=Torbrand
+	dynasty=7000
+	dna="onpnibhidff"
+	culture=nordlander religion=norse_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=4 learning=7
+	add_trait=detached_priest add_trait=celibate add_trait=temperate add_trait=craven add_trait=ambitious 
+	add_trait=cruel add_trait=diligent add_trait=depressed 
+	father=7023	#Arngrimr
+	643.4.26={ birth=yes }
+	698.7.7={ death=yes }
+}
+7028={
+	name=Gyla
+	female=yes
+	dynasty=7000
+	dna="knjoamhkgfc"
+	culture=nordlander religion=norse_pagan
+	father=7023	#Arngrimr
+	645.11.26={ birth=yes }
+	690.8.27={ death=yes }
+}
+7029={
+	name=Thora
+	female=yes
+	dynasty=7000
+	dna="knjmfhdljff"
+	culture=nordlander religion=norse_pagan
+	father=7023	#Arngrimr
+	646.5.5={ birth=yes }
+	699.11.13={ death=yes }
+}
+7030={
+	name=Örvar
+	dynasty=7000
+	dna="kpmiaoeigme"
+	culture=nordlander religion=norse_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=8 learning=6
+	add_trait=charismatic_negotiator add_trait=poet add_trait=patient add_trait=deceitful add_trait=greedy 
+	add_trait=diligent add_trait=drunkard 
+	father=7025	#Birger
+	664.3.5={ birth=yes }
+	721.11.14={ death=yes }
+}
+7031={
+	name=Astrid
+	female=yes
+	dynasty=7000
+	dna="aejnemeegff"
+	culture=nordlander religion=norse_pagan
+	father=7025	#Birger
+	668.1.15={ birth=yes }
+	721.9.1={ death=yes }
+}
+7032={
+	name=Ottar
+	dynasty=7000
+	dna="kllnacekgdp"
+	culture=nordlander religion=norse_pagan
+	martial=4 diplomacy=6 stewardship=7 intrigue=6 learning=8
+	add_trait=martial_cleric add_trait=greedy add_trait=gluttonous add_trait=patient add_trait=lustful 
+	father=7025	#Birger
+	671.12.2={ birth=yes }
+	742.2.1={ death=yes }
+}
+7033={
+	name=Haukr
+	dynasty=7000
+	dna="ijjcoiiigna"
+	culture=nordlander religion=norse_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=6 learning=6
+	add_trait=naive_appeaser add_trait=envious add_trait=proud add_trait=zealous add_trait=deceitful 
+	add_trait=paranoid add_trait=stressed add_trait=lisp 
+	father=7025	#Birger
+	677.7.5={ birth=yes }
+	734.10.30={ death=yes }
+}
+7034={
+	name=Hjalmar
+	dynasty=7000
+	dna="ddmiafchgme"
+	culture=nordlander religion=norse_pagan
+	martial=6 diplomacy=8 stewardship=6 intrigue=7 learning=7
+	add_trait=charismatic_negotiator add_trait=trusting add_trait=chaste add_trait=humble add_trait=just 
+	add_trait=slothful add_trait=charitable 
+	father=7030	#Örvar
+	693.2.19={ birth=yes }
+	749.6.26={ death=yes }
+}
+7035={
+	name=Asta
+	female=yes
+	dynasty=7000
+	dna="klmahobpgge"
+	culture=nordlander religion=norse_pagan
+	father=7030	#Örvar
+	696.7.2={ birth=yes }
+	748.11.5={ death=yes }
+}
+7036={
+	name=Alfriğ
+	female=yes
+	dynasty=7000
+	dna="dgfiapeilmi"
+	culture=nordlander religion=norse_pagan
+	father=7030	#Örvar
+	699.7.7={ birth=yes }
+	747.6.21={ death=yes }
+}
+7037={
+	name=Alfhild
+	female=yes
+	dynasty=7000
+	dna="kpgkaoolhpe"
+	culture=nordlander religion=norse_pagan
+	father=7030	#Örvar
+	72.3.2={ birth=yes }
+	756.2.5={ death=yes }
+}
+7038={
+	name=Arnulf
+	dynasty=7000
+	dna="nomiekcpgkb"
+	culture=nordlander religion=norse_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=6 learning=8
+	add_trait=midas_touched add_trait=humble add_trait=arbitrary add_trait=zealous add_trait=craven 
+	father=7034	#Hjalmar
+	718.8.11={ birth=yes }
+	790.9.7={ death=yes }
+}
+7039={
+	name=Sigurğr
+	dynasty=7000
+	dna="pokaalchghk"
+	culture=nordlander religion=norse_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=5 learning=4
+	add_trait=charismatic_negotiator add_trait=zealous add_trait=diligent add_trait=wroth add_trait=lustful 
+	add_trait=stressed 
+	father=7034	#Hjalmar
+	721.1.5={ birth=yes }
+	783.5.10={ death=yes }
+}
+7040={
+	name=Kjartan
+	dynasty=7000
+	dna="ddligfjhnpe"
+	culture=nordlander religion=norse_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=4 learning=6
+	add_trait=indulgent_wastrel add_trait=poet add_trait=temperate add_trait=zealous add_trait=trusting 
+	add_trait=proud add_trait=diligent add_trait=kind 
+	father=7034	#Hjalmar
+	724.9.7={ birth=yes }
+	795.10.12={ death=yes }
+}
+7041={
+	name=Björg
+	female=yes
+	dynasty=7000
+	dna="nomoochmgkj"
+	culture=nordlander religion=norse_pagan
+	father=7038	#Arne
+	743.8.25={ birth=yes }
+	806.5.5={ death=yes }
+}
+7042={
+	name=Bodil
+	female=yes
+	dynasty=7000
+	dna="nohiencfbkc"
+	culture=nordlander religion=norse_pagan
+	father=7038	#Arne
+	748.1.22={ birth=yes }
+	793.7.12={ death=yes }
+}
+7043={
+	name=Emund
+	dynasty=7000
+	dna="komiggcpgbc"
+	culture=nordlander religion=norse_pagan
+	martial=4 diplomacy=4 stewardship=6 intrigue=5 learning=5
+	add_trait=scholarly_theologian add_trait=chaste add_trait=slothful add_trait=just add_trait=temperate 
+	father=7038	#Arne
+	750.3.6={ birth=yes }
+	806.1.3={ death=yes }
+}
+7044={
+	name=Kettilmund
+	dynasty=7000
+	dna="phkbebcpcmb"
+	culture=nordlander religion=norse_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=7 learning=7
+	add_trait=intricate_webweaver add_trait=humble add_trait=kind add_trait=brave add_trait=content 
+	add_trait=stressed add_trait=possessed 
+	father=7038	#Arne
+	754.2.5={ birth=yes }
+	818.3.14={ death=yes }
+}
+7045={
+	name=Eilif
+	dynasty=7000
+	dna="kejjggaahbl"
+	culture=nordlander religion=norse_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=7 learning=8
+	add_trait=tough_soldier add_trait=just add_trait=honest add_trait=shy add_trait=cynical 
+	father=7043	#Emund
+	778.5.22={ birth=yes }
+	848.8.26={ death=yes }
+}
+7046={
+	name=Gyğa
+	female=yes
+	dynasty=7000
+	dna="kbmicacpgbc"
+	culture=nordlander religion=norse_pagan
+	father=7043	#Emund
+	780.12.19={ birth=yes }
+	830.10.12={ death=yes }
+}
+7047={
+	name=Gnupa
+	dynasty=7000
+	dna="ohmilgpojbk"
+	culture=nordlander religion=norse_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=8 learning=7
+	add_trait=intricate_webweaver add_trait=slothful add_trait=kind add_trait=cruel add_trait=greedy 
+	add_trait=chaste add_trait=ambitious 
+	father=7043	#Emund
+	783.8.24={ birth=yes }
+	844.2.5={ death=yes }
+}
+7048={
+	name=Hrane
+	dynasty=7000
+	dna="koniojcoglh"
+	culture=nordlander religion=norse_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=6 learning=6
+	add_trait=intricate_webweaver add_trait=hedonist add_trait=gregarious add_trait=brave add_trait=wroth 
+	add_trait=arbitrary 
+	father=7043	#Emund
+	788.5.6={ birth=yes }
+	851.4.7={ death=yes }
+}
+7049={
+	name=Ingolf
+	dynasty=7000
+	dna="knjjkgajnjk"
+	culture=nordlander religion=norse_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=4 learning=8
+	add_trait=charismatic_negotiator add_trait=ambitious add_trait=charitable add_trait=diligent add_trait=trusting 
+	father=7045	#Eilif
+	802.12.2={ birth=yes }
+	874.11.10={ death=yes }
+}
+7050={
+	name=Gyla
+	female=yes
+	dynasty=7000
+	dna="kefncmjfbel"
+	culture=nordlander religion=norse_pagan
+	father=7045	#Eilif
+	805.6.24={ birth=yes }
+	87.8.13={ death=yes }
+}
+7051={
+	name=Ragnar
+	dynasty=7000
+	dna="gbfaaliahbl"
+	culture=nordlander religion=norse_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=7 learning=8
+	add_trait=intricate_webweaver add_trait=trusting add_trait=envious add_trait=zealous add_trait=craven 
+	father=7045	#Eilif
+	809.2.12={ birth=yes }
+	855.10.10={ death=yes }
+}
+7052={
+	name=Bothildr
+	female=yes
+	dynasty=7000
+	dna="knjjkladnjk"
+	culture=nordlander religion=norse_pagan
+	father=7049	#Ingolf
+	830.5.24={ birth=yes }
+	863.3.17={ death=yes }
+}
+7053={
+	name=Hakon
+	dynasty=7000
+	dna="kojjkgaingl"
+	culture=nordlander religion=norse_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=4 learning=5
+	add_trait=tough_soldier add_trait=ambitious add_trait=chaste add_trait=gluttonous add_trait=just 
+	add_trait=honest 
+	father=7049	#Ingolf
+	833.5.13={ birth=yes }
+	893.10.2={ death=yes }
+}
+7054={
+	name=Vagn
+	dynasty=7000
+	dna="nnjjkgbjnhk"
+	culture=nordlander religion=norse_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=4 learning=5
+	add_trait=martial_cleric add_trait=ambitious add_trait=paranoid add_trait=zealous 
+	father=7049	#Ingolf
+	838.7.11={ birth=yes }
+	897.12.8={ death=yes }
+}
+7055={
+	name=Aleta
+	female=yes
+	dynasty=7000
+	dna="eajjkkhfnha"
+	culture=nordlander religion=norse_pagan
+	father=7049	#Ingolf
+	841.1.24={ birth=yes }
+	888.10.5={ death=yes }
+}
+7056={
+	name=Ingegerd
+	female=yes
+	dynasty=7000
+	dna="blbgpnjjnjk"
+	culture=nordlander religion=norse_pagan
+	father=7049	#Ingolf
+	843.5.23={ birth=yes }
+	913.1.24={ death=yes }
+}
+7057={
+	name=Ottarr
+	dynasty=7000
+	dna="khjkkdojnjm"
+	culture=nordlander religion=norse_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=4 learning=8
+	add_trait=grey_eminence add_trait=shy add_trait=cruel add_trait=zealous add_trait=proud 
+	add_trait=possessed 
+	father=7049	#Ingolf
+	845.4.19={ birth=yes }
+	899.1.28={ death=yes }
+}
+7058={
+	name=Arne
+	dynasty=7000
+	dna="hnmjebljnfg"
+	culture=nordlander religion=norse_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=7 learning=4
+	add_trait=martial_cleric add_trait=honest add_trait=greedy 
+	father=7049	#Ingolf
+	848.8.14={ birth=yes }
+	915.1.8={ death=yes }
+}
+7059={
+	name=Arngrimr
+	dynasty=7000
+	dna="kojjkjjingl"
+	culture=nordlander religion=norse_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=7 learning=5
+	add_trait=tough_soldier add_trait=cruel add_trait=envious add_trait=arbitrary add_trait=chaste 
+	father=7053	#Hakon
+	857.12.13={ birth=yes }
+	909.10.28={ death=yes }
+}
+7060={
+	name=Barid
+	dynasty=7000
+	dna="jbjnkhajfgg"
+	culture=nordlander religion=norse_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=5 learning=4
+	add_trait=grey_eminence add_trait=deceitful add_trait=cruel add_trait=paranoid add_trait=just 
+	add_trait=zealous add_trait=lustful 
+	father=7053	#Hakon
+	862.10.3={ birth=yes }
+	927.1.9={ death=yes }
+}
+7061={
+	name=Sumarliği
+	dynasty=7000
+	dna="kcmldoaapci"
+	culture=nordlander religion=norse_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=4 learning=7
+	add_trait=intricate_webweaver add_trait=kind add_trait=honest add_trait=trusting add_trait=cruel 
+	father=7053	#Hakon
+	863.3.11={ birth=yes }
+	916.9.30={ death=yes }
+}
+7062={
+	name=Torbjörn
+	dynasty=7000
+	dna="cocjkgaiebe"
+	culture=nordlander religion=norse_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=8 learning=7
+	add_trait=intricate_webweaver add_trait=patient add_trait=kind add_trait=paranoid add_trait=cynical 
+	add_trait=wounded add_trait=hunchback 
+	father=7053	#Hakon
+	867.2.8={ birth=yes }
+	914.1.8={ death=yes }
+}
+7063={
+	name=Kolbjörn
+	dynasty=7000
+	dna="knejcmaangl"
+	culture=nordlander religion=norse_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=7 learning=5
+	add_trait=misguided_warrior add_trait=deceitful add_trait=wroth add_trait=ill 
+	father=7053	#Hakon
+	87.11.27={ birth=yes }
+	927.1.14={ death=yes }
+}
+7064={
+	name=Sölve
+	dynasty=7000
+	dna="ofhjigainhl"
+	culture=nordlander religion=norse_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=7 learning=5
+	add_trait=midas_touched add_trait=impaler add_trait=trusting add_trait=just add_trait=honest 
+	add_trait=temperate add_trait=zealous 
+	father=7053	#Hakon
+	872.1.9={ birth=yes }
+	929.2.11={ death=yes }
+}
+7065={
+	name=Haukr
+	dynasty=7000
+	dna="kahjgajaigp"
+	culture=nordlander religion=norse_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=6 learning=8
+	add_trait=midas_touched add_trait=paranoid add_trait=ambitious add_trait=chaste add_trait=kind 
+	add_trait=patient add_trait=strong 
+	father=7053	#Hakon
+	875.5.1={ birth=yes }
+	931.1.1={ death=yes }
+}
+7066={
+	name=Elisabet
+	female=yes
+	dynasty=7000
+	dna="eejjkjpcegn"
+	culture=nordlander religion=norse_pagan
+	father=7059	#Arngrimr
+	878.8.14={ birth=yes }
+	926.12.24={ death=yes }
+}
+7067={
+	name=Ulfr
+	dynasty=7000
+	dna="konjkhaingl"
+	culture=nordlander religion=norse_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=6 learning=4
+	add_trait=intricate_webweaver add_trait=humble add_trait=cruel add_trait=just add_trait=ambitious 
+	add_trait=wounded add_trait=lunatic 
+	father=7059	#Arngrimr
+	882.1.2={ birth=yes }
+	944.5.18={ death=yes }
+}
+7068={
+	name=Ofeig
+	dynasty=7000
+	dna="kfjjkppiegk"
+	culture=nordlander religion=norse_pagan
+	martial=5 diplomacy=4 stewardship=6 intrigue=8 learning=5
+	add_trait=elusive_shadow add_trait=gardener add_trait=deceitful add_trait=cruel add_trait=slothful 
+	add_trait=wounded 
+	father=7059	#Arngrimr
+	885.5.21={ birth=yes }
+	949.1.30={ death=yes }
+}
+7069={
+	name=Anundr
+	dynasty=7000
+	dna="kehjkjgibep"
+	culture=nordlander religion=norse_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=5 learning=7
+	add_trait=charismatic_negotiator add_trait=brave add_trait=patient add_trait=ambitious add_trait=cruel 
+	father=7059	#Arngrimr
+	888.10.23={ birth=yes }
+	957.12.6={ death=yes }
+}
+707={
+	name=Aleta
+	female=yes
+	dynasty=7000
+	dna="kofjihnpnge"
+	culture=nordlander religion=norse_pagan
+	father=7059	#Arngrimr
+	892.7.8={ birth=yes }
+	960.2.8={ death=yes }
+}
+7071={
+	name=Ingjerğr
+	female=yes
+	dynasty=7000
+	dna="lkjjmjjijel"
+	culture=nordlander religion=norse_pagan
+	father=7059	#Arngrimr
+	895.4.13={ birth=yes }
+	965.8.26={ death=yes }
+}
+7072={
+	name=Gyğa
+	female=yes
+	dynasty=7000
+	dna="komikejfnho"
+	culture=nordlander religion=norse_pagan
+	father=7059	#Arngrimr
+	898.9.1={ birth=yes }
+	958.7.26={ death=yes }
+}
+7073={
+	name=Holmfrid
+	female=yes
+	dynasty=7000
+	dna="kgnjfipjbll"
+	culture=nordlander religion=norse_pagan
+	father=7067	#Ulfr
+	906.11.9={ birth=yes }
+	938.8.18={ death=yes }
+}
+7074={
+	name=Ottar
+	dynasty=7000
+	dna="fonighpidga"
+	culture=nordlander religion=norse_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=6 learning=7
+	add_trait=grey_eminence add_trait=charitable add_trait=gregarious 
+	father=7067	#Ulfr
+	910.8.20={ birth=yes }
+	980.11.1={ death=yes }
+}
+7075={
+	name=Gorm
+	dynasty=7000
+	dna="feeigpgidia"
+	culture=nordlander religion=norse_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=5 learning=6
+	add_trait=grey_eminence add_trait=gluttonous add_trait=charitable add_trait=gregarious add_trait=ambitious 
+	add_trait=slothful 
+	father=7074	#Ottar
+	936.7.11={ birth=yes }
+	988.7.21={ death=yes }
+}
+7076={
+	name=Gandalfr
+	dynasty=7000
+	dna="boclgapidfm"
+	culture=nordlander religion=norse_pagan
+	martial=5 diplomacy=5 stewardship=8 intrigue=6 learning=5
+	add_trait=intricate_webweaver add_trait=chaste add_trait=just add_trait=diligent add_trait=paranoid 
+	add_trait=craven 
+	father=7074	#Ottar
+	939.2.12={ birth=yes }
+	1000.9.21={ death=yes }
+}
+7077={
+	name=Snorri
+	dynasty=7000
+	dna="joeooipjhna"
+	culture=nordlander religion=norse_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=4 learning=4
+	add_trait=charismatic_negotiator add_trait=chaste add_trait=brave add_trait=diligent add_trait=patient 
+	father=7074	#Ottar
+	940.4.26={ birth=yes }
+	998.9.19={ death=yes }
+}

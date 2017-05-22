@@ -1,0 +1,21 @@
+# c_bandar
+
+# County Title
+title = c_bandar
+
+# Settlements
+max_settlements = 7
+
+b_bandar = castle
+#b_bandar_2 = city
+#b_bandar_3 = temple
+#b_bandar_4 = castle
+#b_bandar_5 = city
+#b_bandar_6 = temple
+#b_bandar_7 = castle
+
+# Misc
+culture = bandari
+religion = sunni
+
+#History

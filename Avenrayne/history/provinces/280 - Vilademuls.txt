@@ -1,0 +1,21 @@
+# c_vilademuls
+
+# County Title
+title = c_vilademuls
+
+# Settlements
+max_settlements = 7
+
+b_vilademuls = castle
+#b_vilademuls_2 = city
+#b_vilademuls_3 = temple
+#b_vilademuls_4 = castle
+#b_vilademuls_5 = city
+#b_vilademuls_6 = temple
+#b_vilademuls_7 = castle
+
+# Misc
+culture = fornellà
+religion = donatist
+
+#History

@@ -1,0 +1,32 @@
+# c_rena
+
+# County Title
+title = c_rena
+
+# Settlements
+max_settlements = 7
+
+b_rena = castle
+#b_carsin = city
+#b_belona = temple
+#b_dina = castle
+#b_affis = city
+#b_floris = temple
+#b_lanta = castle
+
+# Misc
+culture = passa_rayne
+religion = cathar
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = renae
+}
+97.1.1 = { 
+religion = hellenic_pagan
+culture = passa_capracciana
+}
+480.1.1 = { 
+culture = passa_rayne
+}

@@ -1,0 +1,41 @@
+# c_befent
+
+# County Title
+title = c_befent
+
+# Settlements
+max_settlements = 7
+
+b_befent = castle
+b_thielle = city
+b_clarenville = temple
+#b_sadone = castle
+#b_sabouret = city
+#b_la_craye = temple
+#b_touillon = castle
+
+# Misc
+culture = western_rayne
+religion = cathar
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = renae
+}
+2.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+450.1.1 = { 
+culture = old_rayne
+}
+289.1.1 = { 
+religion = catholic
+}
+691.1.1 = { 
+religion = cathar
+}
+730.1.1 = { 
+culture = western_rayne
+}

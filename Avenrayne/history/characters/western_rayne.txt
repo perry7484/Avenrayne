@@ -1,0 +1,430 @@
+3504 = {
+	name=Guy
+	female=no
+	dynasty=3500
+	religion=cathar
+	culture=western_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	736.2.6={
+		birth=yes
+	}
+	793.1.1={
+		death=yes
+	}
+}
+
+3514 = {
+	name=Jeanne
+	female=yes
+	dynasty=3510
+	religion=cathar
+	culture=western_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	736.2.6={
+		birth=yes
+	}
+	793.1.1={
+		death=yes
+	}
+}
+
+3524 = {
+	name=Denis
+	female=no
+	dynasty=3520
+	religion=catholic
+	culture=western_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	736.2.6={
+		birth=yes
+	}
+	793.1.1={
+		death=yes
+	}
+}
+3534 = {
+	name=Adele
+	female=no
+	dynasty=3530
+	religion=catholic
+	culture=western_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	736.2.6={
+		birth=yes
+	}
+	793.1.1={
+		death=yes
+	}
+}
+3544 = {
+	name=Albert
+	female=no
+	dynasty=3540
+	religion=catholic
+	culture=western_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	736.2.6={
+		birth=yes
+	}
+	793.1.1={
+		death=yes
+	}
+}
+3550 = {
+	name=Pierre
+	female=no
+	dynasty=3550
+	religion=catholic
+	culture=western_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	736.2.6={
+		birth=yes
+	}
+	793.1.1={
+		death=yes
+	}
+}
+
+3564 = {
+	name=Jean-Pierre
+	female=no
+	dynasty=3560
+	religion=catholic
+	culture=western_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	736.2.6={
+		birth=yes
+	}
+	793.1.1={
+		death=yes
+	}
+}
+
+3571 = {
+	name=Leonard
+	female=no
+	dynasty=3570
+	religion=catholic
+	culture=western_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	734.1.6={
+		birth=yes
+	}
+	796.7.17={
+		death=yes
+	}
+}
+3581 = {
+	name=Catumar
+	female=no
+	dynasty=3580
+	dna="dkaexzjxdjs"
+	religion=catholic
+	culture=western_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	709.1.6={
+		birth=yes
+	}
+	769.7.21={
+		death=yes
+	}
+}
+3582 = {
+	name=Hubert
+	female=no
+	dynasty=3580
+	religion=catholic
+	culture=western_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	trait=twin
+	father=3581 #Catumar
+	744.4.6={
+		birth=yes
+	}
+	767.2.1 = {
+		capital=b_vanier
+	}
+	769.7.21 = {
+		capital=b_saint_antonie
+		give_nickname = nick_the_pious
+	}
+	807.2.18={
+		death=yes
+	}
+}
+3583 = {
+	name=Drustan
+	female=no
+	dynasty=3580
+	religion=cathar
+	culture=western_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	trait=twin
+	father=3581 #Catumar
+	744.4.6={
+		birth=yes
+	}
+	807.2.18={
+		death=yes
+	}
+}
+3591 = {
+	name=Auguste
+	female=no
+	dynasty=3590
+	religion=cathar
+	culture=western_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	734.1.6={
+		birth=yes
+	}
+	796.7.17={
+		death=yes
+	}
+}
+3601 = {
+	name=Clement
+	female=no
+	dynasty=3600
+	religion=cathar
+	culture=western_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	734.1.6={
+		birth=yes
+	}
+	796.7.17={
+		death=yes
+	}
+}
+3611 = {
+	name=Eufray
+	female=no
+	dynasty=3610
+	religion=jewish
+	culture=western_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	734.1.6={
+		birth=yes
+	}
+	796.7.17={
+		death=yes
+	}
+}
+3621 = {
+	name=Gabin
+	female=no
+	dynasty=3620
+	religion=cathar
+	culture=western_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	734.1.6={
+		birth=yes
+	}
+	796.7.17={
+		death=yes
+	}
+}
+3631 = {
+	name=Alban
+	female=no
+	dynasty=3630
+	religion=cathar
+	culture=western_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	739.1.6={
+		birth=yes
+	}
+	796.7.17={
+		death=yes
+	}
+}
+3641 = {
+	name=Gauthier
+	female=no
+	dynasty=3640
+	religion=cathar
+	culture=western_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	720.10.13={
+		birth=yes
+	}
+	772.4.7={
+		death=yes
+	}
+}
+3651 = {
+	name=Héli
+	female=no
+	dynasty=3650
+	religion=cathar
+	culture=western_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	734.1.6={
+		birth=yes
+	}
+	796.7.17={
+		death=yes
+	}
+}
+3661 = {
+	name=Loup
+	female=no
+	dynasty=3660
+	religion=cathar
+	culture=western_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	734.1.6={
+		birth=yes
+	}
+	796.7.17={
+		death=yes
+	}
+}
+3671 = {
+	name=Boson
+	female=no
+	dynasty=3670
+	religion=cathar
+	culture=western_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	734.1.6={
+		birth=yes
+	}
+	796.7.17={
+		death=yes
+	}
+}
+3681 = {
+	name=Valeran
+	female=no
+	dynasty=3680
+	religion=cathar
+	culture=western_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	734.1.6={
+		birth=yes
+	}
+	796.7.17={
+		death=yes
+	}
+}
+3691 = {
+	name=Robin
+	female=no
+	dynasty=3690
+	religion=cathar
+	culture=western_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	734.1.6={
+		birth=yes
+	}
+	796.7.17={
+		death=yes
+	}
+}
+3701 = {
+	name=Charles
+	female=no
+	dynasty=3700
+	religion=cathar
+	culture=western_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	734.1.6={
+		birth=yes
+	}
+	796.7.17={
+		death=yes
+	}
+}

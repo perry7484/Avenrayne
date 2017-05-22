@@ -1,0 +1,24 @@
+# c_lemvig
+
+# County Title
+title = c_lemvig
+
+# Settlements
+max_settlements = 7
+
+b_lemvig = tribal
+#b_stoholm = city
+#b_gjerm = temple
+#b_ikast = castle
+#b_klov = city
+#b_uglev = temple
+#b_frostrup = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History
+1080.1.1 = {
+culture = tirslander
+}

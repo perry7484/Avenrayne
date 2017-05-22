@@ -1,0 +1,21 @@
+# c_luss
+
+# County Title
+title = c_luss
+
+# Settlements
+max_settlements = 7
+
+b_luss = tribal
+#b_luss_2 = city
+#b_luss_3 = temple
+#b_luss_4 = castle
+#b_luss_5 = city
+#b_luss_6 = temple
+#b_luss_7 = castle
+
+# Misc
+culture = ardthirraich
+religion = celtic_pagan
+
+#History

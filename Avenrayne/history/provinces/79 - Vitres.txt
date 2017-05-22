@@ -1,0 +1,21 @@
+# c_vitres
+
+# County Title
+title = c_vitres
+
+# Settlements
+max_settlements = 7
+
+b_vitres = castle
+#b_besame = city
+#b_bovanc = temple
+#b_ladouce = castle
+#b_cadont = city
+#b_chastres = temple
+#b_altretot = castle
+
+# Misc
+culture = nordval_rayne
+religion = cathar
+
+#History

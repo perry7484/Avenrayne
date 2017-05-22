@@ -1,0 +1,21 @@
+# c_likros
+
+# County Title
+title = c_likros
+
+# Settlements
+max_settlements = 7
+
+b_likros = castle
+#b_edissa = city
+#b_likros_2 = temple
+#b_likros_3 = castle
+#b_likros_4 = city
+#b_likros_5 = temple
+#b_likros_6 = castle
+
+# Misc
+culture = nikosian
+religion = miaphysite
+
+#History

@@ -1,0 +1,21 @@
+# c_aberhosan
+
+# County Title
+title = c_aberhosan
+
+# Settlements
+max_settlements = 7
+
+b_aberhosan = castle
+#b_mayals = city
+#b_eryrys = temple
+#b_aberhosan_2 = castle
+#b_aberhosan_3 = city
+#b_aberhosan_4 = temple
+#b_aberhosan_5 = castle
+
+# Misc
+culture = maesmyge
+religion = celtic_pagan
+
+#History

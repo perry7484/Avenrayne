@@ -1,0 +1,118 @@
+3901 = {
+	name=Tarvos
+	dynasty=3900
+	religion=celtic_pagan
+	culture=renae
+	diplomacy = 5
+	military = 8
+	trait=brilliant_strategist
+	trait=wroth
+	trait=patient
+	trait=proud
+	trait=brave
+	364.1.6={
+		birth=yes
+	}
+	436.7.17={
+		death=yes
+	}
+}
+3902 = {
+	name=Diocaros
+	dynasty=3900
+	father=3901 #Tervos
+	religion=celtic_pagan
+	culture=renae
+	diplomacy = 6
+	stewardship = 4
+	trait=charismatic_negotiator
+	trait=patient
+	trait=proud
+	trait=gluttonous
+	391.5.2={
+		birth=yes
+	}
+	460.10.1={
+		death=yes
+	}
+}
+3903 = {
+	name=Gesorios
+	dynasty=3900
+	father=3902 #Diocaros
+	religion=celtic_pagan
+	culture=renae
+	diplomacy = 6
+	stewardship = 4
+	trait=charismatic_negotiator
+	trait=patient
+	trait=proud
+	trait=gluttonous
+	419.8.4={
+		birth=yes
+	}
+	439.4.9={
+	add_trait=scarred
+	}
+	459.4.9={
+	add_trait=one_eyed
+	}
+	460.10.1={
+	add_trait=immortal ##death=yes
+	}
+	491.1.1={
+	add_trait=in_hiding
+	}
+}
+3906 = {
+	name=Boros
+	dynasty=3905
+	religion=celtic_pagan
+	culture=renae
+	diplomacy = 5
+	stewardship = 5
+	trait=misguided_warrior
+	trait=zealous
+	trait=kind
+	trait=just
+	734.1.6={
+		birth=yes
+	}
+	796.7.17={
+		death=yes
+	}
+}
+3911 = {
+	name=Getorix
+	dynasty=3910
+	religion=celtic_pagan
+	culture=renae
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	729.1.6={
+		birth=yes
+	}
+	776.7.17={
+		death=yes
+	}
+}
+3916 = {
+	name=Brennos
+	dynasty=3915
+	religion=celtic_pagan
+	culture=renae
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	746.1.6={
+		birth=yes
+	}
+	806.7.17={
+		death=yes
+	}
+}

@@ -1,0 +1,21 @@
+# c_arduaine
+
+# County Title
+title = c_arduaine
+
+# Settlements
+max_settlements = 7
+
+b_arduaine = tribal
+#b_arduaine_2 = city
+#b_arduaine_3 = temple
+#b_arduaine_4 = castle
+#b_arduaine_5 = city
+#b_arduaine_6 = temple
+#b_arduaine_7 = castle
+
+# Misc
+culture = ardthirraich
+religion = celtic_pagan
+
+#History

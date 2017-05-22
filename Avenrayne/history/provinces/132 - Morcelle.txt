@@ -1,0 +1,21 @@
+# c_morcelle
+
+# County Title
+title = c_morcelle
+
+# Settlements
+max_settlements = 7
+
+b_morcelle = castle
+b_acavreuse = city
+b_canchy = city
+#b_oubiel = castle
+#b_dodour = city
+#b_aubevon = temple
+#b_fondame = castle
+
+# Misc
+culture = northern_rayne
+religion = catholic
+
+#History

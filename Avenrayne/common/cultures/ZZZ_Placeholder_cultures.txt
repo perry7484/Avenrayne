@@ -1,0 +1,79 @@
+placeholder_group = {
+	graphical_cultures = { muslimgfx }
+	
+	semnite = { 
+		graphical_cultures = { arabicgfx muslimgfx }
+		
+		color = { 0.1 0.75 0.1 }
+
+		male_names = {
+			Unnamed
+		}
+		female_names = {
+			Unnamed
+		}
+		from_dynasty_prefix = "of "
+		
+		#male_patronym = "son"
+		#female_patronym = "dohter"
+		#prefix = no
+		
+		#dynasty_title_names = yes
+		#founder_named_dynasties = yes
+		
+		used_for_random = no
+
+		modifier = default_culture_modifier
+	}
+	
+	rajauri = { 
+		graphical_cultures = { arabicgfx muslimgfx }
+		
+		color = { 0.1 0.75 0.1 }
+
+		male_names = {
+			Unnamed
+		}
+		female_names = {
+			Unnamed
+		}
+		from_dynasty_prefix = "of "
+		
+		#male_patronym = "son"
+		#female_patronym = "dohter"
+		#prefix = no
+		
+		#dynasty_title_names = yes
+		#founder_named_dynasties = yes
+		
+		used_for_random = no
+
+		modifier = default_culture_modifier
+	}
+	
+	gahanari = { 
+		graphical_cultures = { arabicgfx muslimgfx }
+		
+		color = { 0.1 0.75 0.1 }
+
+		male_names = {
+			Unnamed
+		}
+		female_names = {
+			Unnamed
+		}
+		from_dynasty_prefix = "of "
+		
+		#male_patronym = "son"
+		#female_patronym = "dohter"
+		#prefix = no
+		
+		#dynasty_title_names = yes
+		#founder_named_dynasties = yes
+		
+		used_for_random = no
+
+		modifier = default_culture_modifier
+	}
+	
+}

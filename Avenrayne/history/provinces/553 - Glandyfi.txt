@@ -1,0 +1,21 @@
+# c_glandyfi
+
+# County Title
+title = c_glandyfi
+
+# Settlements
+max_settlements = 7
+
+b_glandyfi = tribal
+#b_gellioedd = city
+#b_caerhun = temple
+#b_glandyfi_2 = castle
+#b_glandyfi_3 = city
+#b_glandyfi_4 = temple
+#b_glandyfi_5 = castle
+
+# Misc
+culture = maesmyge
+religion = celtic_pagan
+
+#History

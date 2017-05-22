@@ -1,0 +1,21 @@
+# c_klidos
+
+# County Title
+title = c_klidos
+
+# Settlements
+max_settlements = 7
+
+b_klidos = castle
+b_apollonas = city
+#b_klidos_2 = temple
+#b_klidos_3 = castle
+#b_klidos_4 = city
+#b_klidos_5 = temple
+#b_klidos_6 = castle
+
+# Misc
+culture = amfissaki
+religion = orthodox
+
+#History

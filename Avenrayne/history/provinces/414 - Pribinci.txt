@@ -1,0 +1,32 @@
+# c_pribinci
+
+# County Title
+title = c_pribinci
+
+# Settlements
+max_settlements = 7
+
+b_pribinci = castle
+#b_planina = city
+#b_pribinci_2 = temple
+#b_pribinci_3 = castle
+#b_pribinci_4 = city
+#b_pribinci_5 = temple
+#b_pribinci_6 = castle
+
+# Misc
+culture = vodeasca
+religion = orthodox
+
+#History
+1.1.1={
+culture=vodeasci
+religion=pagan
+}
+96.1.1={
+culture=vodeasci_capracciana
+religion=hellenic_pagan
+}
+445.1.1={religion=orthodox}
+450.1.1={culture=vodeasca}
+1050.1.1={culture=vodeiska}

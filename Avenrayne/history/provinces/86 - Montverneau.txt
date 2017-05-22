@@ -1,0 +1,21 @@
+# c_montverneau
+
+# County Title
+title = c_montverneau
+
+# Settlements
+max_settlements = 7
+
+b_montverneau = castle
+b_nambe = temple
+#b_sounalieux = temple
+#b_saint_arnauld = castle
+#b_lesse = city
+#b_baulny = temple
+#b_gueres = castle
+
+# Misc
+culture = western_rayne
+religion = cathar
+
+#History

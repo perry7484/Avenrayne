@@ -1,0 +1,8 @@
+8000={
+	name="Laditorvic"
+	culture="varodaesca"
+}
+8001={
+	name="Bogadgan"
+	culture="varodaesca"
+}

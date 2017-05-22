@@ -1,0 +1,38 @@
+# c_regiu
+
+# County Title
+title = c_regiu
+
+# Settlements
+max_settlements = 7
+
+b_regiu = castle
+#b_regiu_2 = city
+#b_regiu_3 = temple
+#b_regiu_4 = castle
+#b_regiu_5 = city
+#b_regiu_6 = temple
+#b_regiu_7 = castle
+
+# Misc
+culture = varodaesca
+religion = orthodox
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = varodesi
+}
+106.1.1 = { 
+religion = hellenic_pagan
+}
+206.1.1 = { 
+religion = hellenic_pagan
+culture = varo-capracciana
+}
+450.1.1 = { 
+culture = varodaesca
+}
+660.1.1 = { 
+religion = orthodox
+}

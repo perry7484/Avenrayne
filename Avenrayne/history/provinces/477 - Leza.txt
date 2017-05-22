@@ -1,0 +1,21 @@
+# c_leza
+
+# County Title
+title = c_leza
+
+# Settlements
+max_settlements = 7
+
+b_leza = castle
+#b_leza_2 = city
+#b_leza_3 = temple
+#b_leza_4 = castle
+#b_leza_5 = city
+#b_leza_6 = temple
+#b_leza_7 = castle
+
+# Misc
+culture = praviako
+religion = zun_pagan
+
+#History

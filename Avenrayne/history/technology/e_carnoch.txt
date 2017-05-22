@@ -1,0 +1,57 @@
+#CARNOCH
+technology = {
+	titles = {
+		d_aberargie
+		d_abercywarch
+		d_abergweysn
+		d_abernay
+		d_aghavea
+		d_annaglin
+		d_arduaine
+		d_arichonan
+		d_arthog
+		d_bolamy
+		d_braithwell
+		d_brearton
+		d_carnoch
+		d_crinan
+		d_dolfach
+		d_dunbeg
+		d_fordhamshire
+		d_fordshear
+		d_friog
+		d_gearach
+		d_glandyfi
+		d_glencruitten
+		d_hamfordshire
+		d_hayeshire
+		d_luss
+		d_matherton
+		d_medford
+		d_minllyn
+		d_monar
+		d_neuadd
+		d_norville
+		d_rothwellshire
+		d_scalasaig
+		d_selby
+		d_talerddig
+		d_taliesin
+		d_taylorsville
+		d_tywyn
+		d_waltonshire
+		d_wentnor
+		d_westbridge
+		d_ynyslas
+	}
+	350 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+	}
+	1350 = {
+		military = 3.5
+		economy = 3.5
+		culture = 3.5
+	}
+}

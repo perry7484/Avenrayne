@@ -1,0 +1,21 @@
+# c_mouen
+
+# County Title
+title = c_mouen
+
+# Settlements
+max_settlements = 7
+
+b_mouen = castle
+b_vrail = city
+b_besame_2 = temple
+b_peysbont = city
+#b_guilbertville = city
+#b_nouvelcastel = temple
+#b_tirepied = castle
+
+# Misc
+culture = northern_rayne
+religion = catholic
+
+#History

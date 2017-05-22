@@ -1,0 +1,21 @@
+# c_mildstedt
+
+# County Title
+title = c_mildstedt
+
+# Settlements
+max_settlements = 7
+
+b_mildstedt = tribal
+#b_borm = city
+#b_husen = temple
+#b_schinkel = castle
+#b_arnis = city
+#b_tastrup = temple
+#b_hackstedt = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

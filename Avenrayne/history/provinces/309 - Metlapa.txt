@@ -1,0 +1,21 @@
+# c_metlapa
+
+# County Title
+title = c_metlapa
+
+# Settlements
+max_settlements = 7
+
+b_metlapa = castle
+#b_metlapa_2 = city
+#b_metlapa_3 = temple
+#b_metlapa_4 = castle
+#b_metlapa_5 = city
+#b_metlapa_6 = temple
+#b_metlapa_7 = castle
+
+# Misc
+culture = xonaca
+religion = aztec
+
+#History

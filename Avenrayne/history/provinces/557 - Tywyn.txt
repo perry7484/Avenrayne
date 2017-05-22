@@ -1,0 +1,21 @@
+# c_tywyn
+
+# County Title
+title = c_tywyn
+
+# Settlements
+max_settlements = 7
+
+b_trefeglwys = tribal
+#b_carrog = city
+#b_dinas = temple
+#b_tywyn = castle
+#b_tywyn_2 = city
+#b_tywyn_3 = temple
+#b_tywyn_4 = castle
+
+# Misc
+culture = maesmyge
+religion = celtic_pagan
+
+#History

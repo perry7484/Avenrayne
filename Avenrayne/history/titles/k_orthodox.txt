@@ -1,0 +1,9 @@
+10.1.1={
+	liege="e_capraccia"
+}
+480.1.1={
+	liege="e_nikosia"
+}
+768.12.21={
+	holder=301
+}

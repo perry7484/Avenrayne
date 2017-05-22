@@ -1,0 +1,41 @@
+# c_pegragne
+
+# County Title
+title = c_pegragne
+
+# Settlements
+max_settlements = 7
+
+b_pegragne = castle
+b_trever = city
+#b_bels = temple
+#b_tegord = castle
+#b_dix = city
+#b_baleis = temple
+#b_treignac = castle
+
+# Misc
+culture = eastern_rayne
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = corviliae
+}
+41.1.1 = { 
+religion = hellenic_pagan
+culture = corvigliana
+}
+680.1.1 = { 
+culture = old_rayne
+}
+493.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+785.1.1 = { 
+culture = eastern_rayne
+}

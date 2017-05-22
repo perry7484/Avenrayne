@@ -1,0 +1,21 @@
+# c_abergweysn
+
+# County Title
+title = c_abergweysn
+
+# Settlements
+max_settlements = 7
+
+b_abergweysn = castle
+#b_killay = city
+#b_trelogan = temple
+#b_mallwyd = castle
+#b_abergweysn_2 = city
+#b_abergweysn_3 = temple
+#b_abergweysn_4 = castle
+
+# Misc
+culture = maesmyge
+religion = catholic
+
+#History

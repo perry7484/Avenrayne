@@ -1,0 +1,21 @@
+# c_tregan
+
+# County Title
+title = c_tregan
+
+# Settlements
+max_settlements = 7
+
+b_tregan = castle
+b_selishte = city
+#b_mamez = temple
+#b_lunder = castle
+#b_klos = city
+#b_kuqani = temple
+#b_vasjar = castle
+
+# Misc
+culture = mejana
+religion = pelagian
+
+#History

@@ -1,0 +1,21 @@
+# c_quillazu
+
+# County Title
+title = c_quillazu
+
+# Settlements
+max_settlements = 7
+
+b_quillazu = castle
+b_intimarca = temple
+#b_pucacocha = temple
+#b_achaco = castle
+#b_alca = city
+#b_quillazu_2 = temple
+#b_quillazu_3 = castle
+
+# Misc
+culture = quilla
+religion = inti
+
+#History

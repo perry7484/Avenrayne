@@ -1,0 +1,21 @@
+# c_wadi_rim
+
+# County Title
+title = c_wadi_rim
+
+# Settlements
+max_settlements = 7
+
+b_wadi_reem = castle
+#b_wadi_rim = city
+#b_wadi_rim_2 = temple
+#b_wadi_rim_3 = castle
+#b_wadi_rim_4 = city
+#b_wadi_rim_5 = temple
+#b_wadi_rim_6 = castle
+
+# Misc
+culture = aluqi
+religion = sunni
+
+#History

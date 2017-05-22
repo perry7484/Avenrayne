@@ -1,0 +1,21 @@
+# c_friog
+
+# County Title
+title = c_friog
+
+# Settlements
+max_settlements = 7
+
+b_cribyn_2 = castle
+#b_hirwaen = city
+#b_llanarmon = temple
+#b_friog = castle
+#b_friog_2 = city
+#b_friog_3 = temple
+#b_friog_4 = castle
+
+# Misc
+culture = maesmyge
+religion = celtic_pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_calahonda
+
+# County Title
+title = c_calahonda
+
+# Settlements
+max_settlements = 7
+
+b_calahonda = castle
+#b_calahonda_2 = city
+#b_calahonda_3 = temple
+#b_calahonda_4 = castle
+#b_calahonda_5 = city
+#b_calahonda_6 = temple
+#b_calahonda_7 = castle
+
+# Misc
+culture = calahondo
+religion = sunni
+
+#History

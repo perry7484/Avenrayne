@@ -1,0 +1,21 @@
+# c_loreto
+
+# County Title
+title = c_loreto
+
+# Settlements
+max_settlements = 7
+
+b_loreto = castle
+b_cantiz = city
+#b_laxos = temple
+#b_loreto_2 = castle
+#b_loreto_3 = city
+#b_loreto_4 = temple
+#b_loreto_5 = castle
+
+# Misc
+culture = meiro
+religion = zun_pagan
+
+#History

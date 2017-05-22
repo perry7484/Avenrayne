@@ -1,0 +1,21 @@
+# c_tirla
+
+# County Title
+title = c_tirla
+
+# Settlements
+max_settlements = 7
+
+b_tirla = tribal
+#b_kurimo = city
+#b_tirla_2 = temple
+#b_tirla_3 = castle
+#b_tirla_4 = city
+#b_tirla_5 = temple
+#b_tirla_6 = castle
+
+# Misc
+culture = ruomalainen
+religion = finnish_pagan
+
+#History

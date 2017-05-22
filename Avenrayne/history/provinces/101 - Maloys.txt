@@ -1,0 +1,21 @@
+# c_maloys
+
+# County Title
+title = c_maloys
+
+# Settlements
+max_settlements = 7
+
+b_maloys = castle
+b_auvralm = city
+b_fognosse = temple
+#b_conde = castle
+#b_geripont = city
+#b_lignes = temple
+#b_roux = castle
+
+# Misc
+culture = western_rayne
+religion = cathar
+
+#History

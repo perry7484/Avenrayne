@@ -1,0 +1,146 @@
+# e_capraccia
+1.1.1={
+	law = crown_authority_3
+	law = succ_primogeniture
+	law = centralization_3
+	law = imperial_administration
+	law = ze_administration_laws_2
+	law = vice_royalty_2
+	law = revoke_title_law_1
+}
+1.1.1={
+	holder=1 #Pontianus
+}
+58.7.7={
+	holder=3 #Tacitus
+}
+88.3.21={
+	holder=5 #Antonius
+}
+110.3.17={
+	holder=8 #Adrianus
+}
+
+# End of Pontianus Dynasty
+# Start of Albinus Dynasty
+
+132.8.15={
+	holder=20 #Albinus
+}
+157.2.18={
+	holder=21 #Leonus
+}
+162.7.8={
+	holder=25 #Ambrosius
+}
+195.3.21={
+	holder=32 #Deonisius
+}
+
+#End of Albinus Dynasty
+# Start of Basilianus Dynasty
+
+197.11.1={
+	holder=40 #Basilius
+}
+209.1.9={
+	holder=41 #Quintus
+}
+261.7.1={
+	holder=47 #Maximianus
+}
+272.12.2={
+	holder=52 #Julianus
+}
+
+#End of Basilianus Dynasty
+#Start of Abonius Dynasty
+
+236.9.10={
+	holder=60 #Felix
+}
+
+#End of Abonius Dynasty
+
+
+274.7.30={
+	holder=70 #Symmachus
+}
+316.12.23={
+	holder=71 #Annius
+}
+347.12.9={
+	holder=75 #Galerius
+}
+385.11.21={
+	holder=77 #Leo
+}
+
+
+
+371.4.1={
+	holder=80 #Sempronius
+}
+392.2.29={
+	holder=84 #Constans
+}
+451.6.12={
+	holder=85 #Maximinus
+}
+457.10.1={
+	holder=87 #Valerius
+}
+
+
+
+
+477.11.21={
+	holder=90 #Gratianus
+}
+483.2.11={
+	holder=91
+}
+503.10.9={
+	holder=95 #Liberius
+}
+532.9.3={
+	holder=100 #Claudius
+}
+559.1.12={
+	holder=102 #Honorius
+}
+588.7.9={
+	holder=103 #Sergius
+}
+595.4.17={
+	holder=105 #Victorinus
+}
+635.7.11={
+	holder=107 #Aemilius
+}
+649.10.16={
+	holder=108 #Tacitus
+}
+
+
+
+
+646.1.20={
+	holder=110 #Marcellus
+}
+665.11.19={
+	holder=112 #Antonius
+}
+692.4.7={
+	holder=114 #Cornelius
+}
+725.2.14={
+	holder=118 #Gaius
+}
+755.3.23={
+	holder=120 #Maximinus
+}
+
+762.1.3={
+	holder=185 #Caminus
+}

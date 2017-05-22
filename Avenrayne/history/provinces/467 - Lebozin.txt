@@ -1,0 +1,21 @@
+# c_lebozin
+
+# County Title
+title = c_lebozin
+
+# Settlements
+max_settlements = 7
+
+b_lebozin = castle
+b_onamio = city
+#b_lebozin_2 = temple
+#b_lebozin_3 = castle
+#b_lebozin_4 = city
+#b_lebozin_5 = temple
+#b_lebozin_6 = castle
+
+# Misc
+culture = costano
+religion = zun_pagan
+
+#History

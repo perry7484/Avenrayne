@@ -1,0 +1,21 @@
+# c_lessuda
+
+# County Title
+title = c_lessuda
+
+# Settlements
+max_settlements = 7
+
+b_lessuda = castle
+#b_lessuda_2 = city
+#b_lessuda_3 = temple
+#b_lessuda_4 = castle
+#b_lessuda_5 = city
+#b_lessuda_6 = temple
+#b_lessuda_7 = castle
+
+# Misc
+culture = siliani
+religion = donatist
+
+#History

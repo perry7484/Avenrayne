@@ -1,0 +1,129 @@
+29.1.1={
+	law = cognatic_succession
+	law = succ_primogeniture
+	holder=1 #Pontianus
+}
+58.7.7={
+	holder=3 #Tacitus
+}
+88.3.21={
+	holder=5 #Antonius
+}
+110.3.17={
+	holder=8 #Adrianus
+}
+
+# End of Pontianus Dynasty
+# Start of Albinus Dynasty
+
+132.8.15={
+	holder=20 #Albinus
+}
+157.2.18={
+	holder=21 #Leonus
+}
+162.7.8={
+	holder=25 #Ambrosius
+}
+195.3.21={
+	holder=32 #Deonisius
+}
+
+#End of Albinus Dynasty
+# Start of Basilianus Dynasty
+
+197.11.1={
+	holder=40 #Basilius
+}
+209.1.9={
+	holder=41 #Quintus
+}
+261.7.1={
+	holder=47 #Maximianus
+}
+272.12.2={
+	holder=52 #Julianus
+}
+
+#End of Basilianus Dynasty
+#Start of Abonius Dynasty
+
+236.9.10={
+	holder=60 #Felix
+}
+
+#End of Abonius Dynasty
+
+
+274.7.30={
+	holder=70 #Symmachus
+}
+316.12.23={
+	holder=71 #Annius
+}
+347.12.9={
+	holder=75 #Galerius
+}
+385.11.21={
+	holder=77 #Leo
+}
+
+
+
+371.4.1={
+	holder=80 #Sempronius
+}
+392.2.29={
+	holder=84 #Constans
+}
+451.6.12={
+	holder=85 #Maximinus
+}
+457.10.1={
+	holder=87 #Valerius
+}
+
+
+
+
+477.11.21={
+	holder=90 #Gratianus
+}
+483.2.11={
+	holder=91
+}
+503.10.9={
+	holder=95 #Liberius
+}
+532.9.3={
+	holder=100 #Claudius
+}
+559.1.12={
+	holder=102 #Honorius
+}
+588.7.9={
+	holder=103 #Sergius
+}
+595.4.17={
+	holder=105 #Victorinus
+}
+635.7.11={
+	holder=107 #Aemilius
+}
+649.10.16={
+	holder=108 #Tacitus
+}
+
+
+660.1.1={
+	liege="k_papal_state"
+}
+768.12.21={
+	holder=231
+}
+1095.1.1={
+	set_global_flag = christian_crusades_unlocked
+}
+1099.1.1={
+	set_global_flag = muslim_jihads_unlocked
+}

@@ -1,0 +1,21 @@
+# c_alevia
+
+# County Title
+title = c_alevia
+
+# Settlements
+max_settlements = 7
+
+b_alevia = castle
+b_pontepedra = temple
+#b_alevia_2 = temple
+#b_alevia_3 = castle
+#b_alevia_4 = city
+#b_alevia_5 = temple
+#b_alevia_6 = castle
+
+# Misc
+culture = meiro
+religion = zun_pagan
+
+#History

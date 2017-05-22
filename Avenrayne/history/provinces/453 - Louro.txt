@@ -1,0 +1,21 @@
+# c_louro
+
+# County Title
+title = c_louro
+
+# Settlements
+max_settlements = 7
+
+b_louro = castle
+b_rubia = city
+#b_louro_2 = temple
+#b_louro_3 = castle
+#b_louro_4 = city
+#b_louro_5 = temple
+#b_louro_6 = castle
+
+# Misc
+culture = costano
+religion = zun_pagan
+
+#History

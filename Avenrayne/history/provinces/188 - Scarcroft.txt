@@ -1,0 +1,21 @@
+# c_scarcroft
+
+# County Title
+title = c_scarcroft
+
+# Settlements
+max_settlements = 7
+
+b_scarcroft = castle
+#b_reeth = city
+#b_scarcroft_2 = temple
+#b_scarcroft_3 = castle
+#b_scarcroft_4 = city
+#b_scarcroft_5 = temple
+#b_scarcroft_6 = castle
+
+# Misc
+culture = abonae
+religion = lollard
+
+#History

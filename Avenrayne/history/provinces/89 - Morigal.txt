@@ -1,0 +1,21 @@
+# c_morigal
+
+# County Title
+title = c_morigal
+
+# Settlements
+max_settlements = 7
+
+b_morigal = castle
+b_haversin = temple
+#b_fortier = temple
+#b_duroy = castle
+#b_nevers = city
+#b_blandy = temple
+#b_lery = castle
+
+# Misc
+culture = western_rayne
+religion = cathar
+
+#History

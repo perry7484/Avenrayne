@@ -1,0 +1,38 @@
+# c_hilt
+
+# County Title
+title = c_hilt
+
+# Settlements
+max_settlements = 7
+
+b_hilt = castle
+#b_piegan = city
+#b_starr = temple
+#b_hilt_2 = castle
+#b_hilt_3 = city
+#b_hilt_4 = temple
+#b_hilt_5 = castle
+
+# Misc
+culture = middlefordish
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = abonae
+}
+105.1.1 = { 
+religion = hellenic_pagan
+culture = abonae_capracciana
+}
+500.1.1 = { 
+culture = eascisc
+}
+480.1.1 = { 
+religion = catholic
+}
+1130.1.1 = { 
+culture = middlefordish
+}

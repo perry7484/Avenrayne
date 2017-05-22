@@ -1,0 +1,41 @@
+# c_larosee
+
+# County Title
+title = c_larosee
+
+# Settlements
+max_settlements = 7
+
+b_larosee = castle
+b_molline = city
+#b_pefame = temple
+#b_pincourt = castle
+#b_sebourg = city
+#b_papleux = temple
+#b_herme = castle
+
+# Misc
+culture = nordval_rayne
+religion = cathar
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = renae
+}
+2.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+450.1.1 = { 
+culture = old_rayne
+}
+480.1.1 = { 
+religion = catholic
+}
+691.1.1 = { 
+religion = cathar
+}
+730.1.1 = { 
+culture = nordval_rayne
+}

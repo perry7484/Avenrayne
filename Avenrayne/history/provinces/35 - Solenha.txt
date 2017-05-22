@@ -1,0 +1,48 @@
+# c_solenha
+
+# County Title
+title = c_solenha
+
+# Settlements
+max_settlements = 7
+
+b_solenha = castle
+b_luenvath = city
+b_corresa = city
+#b_paus = castle
+#b_gap = city
+#b_espinasse = temple
+#b_blanzy = castle
+
+# Misc
+culture = passa_rayne
+religion = cathar
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = renae
+}
+32.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+	b_solenha = ca_wall_1
+	b_solenha = ca_town_1
+	b_solenha = ca_barracks_1
+}
+60.1.1 = { 
+religion = hellenic_pagan
+culture = passa_capracciana
+}
+480.1.1 = { 
+culture = passa_rayne
+}
+380.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+635.1.1 = { 
+religion = cathar
+}

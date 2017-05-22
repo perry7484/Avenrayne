@@ -1,0 +1,41 @@
+# c_quibelle
+
+# County Title
+title = c_quibelle
+
+# Settlements
+max_settlements = 7
+
+b_quibelle = castle
+#b_laurence = city
+#b_la_poile = temple
+#b_vers = castle
+#b_mezurat = city
+#b_curdin = temple
+#b_eguilly = castle
+
+# Misc
+culture = western_rayne
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = renae
+}
+2.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+480.1.1 = { 
+culture = old_rayne
+}
+480.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+730.1.1 = { 
+culture = western_rayne
+}

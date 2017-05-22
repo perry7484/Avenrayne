@@ -1,0 +1,42 @@
+# c_malacanta
+
+# County Title
+title = c_malacanta
+
+# Settlements
+max_settlements = 7
+
+b_malacanta = castle
+b_becinas = city
+b_torenha = temple
+#b_larc = castle
+#b_croz = city
+#b_nevian = temple
+#b_castans = castle
+
+# Misc
+culture = passa_rayne
+religion = cathar
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = renae
+}
+112.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+97.1.1 = { 
+religion = hellenic_pagan
+culture = passa_capracciana
+}
+480.1.1 = { 
+culture = passa_rayne
+}
+610.1.1 = { 
+religion = catholic
+}
+634.1.1 = { 
+religion = cathar
+}

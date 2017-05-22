@@ -1,0 +1,21 @@
+# c_azkoitia
+
+# County Title
+title = c_azkoitia
+
+# Settlements
+max_settlements = 7
+
+b_azkoitia = castle
+#b_azkoitia_2 = city
+#b_azkoitia_3 = temple
+#b_azkoitia_4 = castle
+#b_azkoitia_5 = city
+#b_azkoitia_6 = temple
+#b_azkoitia_7 = castle
+
+# Misc
+culture = pravio
+religion = zun_pagan
+
+#History

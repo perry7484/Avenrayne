@@ -1,0 +1,21 @@
+# c_yinon
+
+# County Title
+title = c_yinon
+
+# Settlements
+max_settlements = 7
+
+b_yinon = castle
+#b_yinon_2 = city
+#b_yinon_3 = temple
+#b_yinon_4 = castle
+#b_yinon_5 = city
+#b_yinon_6 = temple
+#b_yinon_7 = castle
+
+# Misc
+culture = hieroshki
+religion = jewish
+
+#History

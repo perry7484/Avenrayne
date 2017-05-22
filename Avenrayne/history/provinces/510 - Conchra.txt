@@ -1,0 +1,21 @@
+# c_conchra
+
+# County Title
+title = c_conchra
+
+# Settlements
+max_settlements = 7
+
+b_conchra = tribal
+#b_conchra_2 = city
+#b_conchra_3 = temple
+#b_conchra_4 = castle
+#b_conchra_5 = city
+#b_conchra_6 = temple
+#b_conchra_7 = castle
+
+# Misc
+culture = ardthirraich
+religion = celtic_pagan
+
+#History

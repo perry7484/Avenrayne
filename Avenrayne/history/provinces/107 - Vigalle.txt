@@ -1,0 +1,21 @@
+# c_vigalle
+
+# County Title
+title = c_vigalle
+
+# Settlements
+max_settlements = 7
+
+b_vigalle = castle
+#b_bastien = city
+#b_nour = temple
+#b_baulny_2 = castle
+#b_fleville = city
+#b_charlotte = temple
+#b_pamfou = castle
+
+# Misc
+culture = western_rayne
+religion = cathar
+
+#History

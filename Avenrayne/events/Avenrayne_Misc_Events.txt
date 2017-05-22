@@ -1,0 +1,87 @@
+#Family Chronicle Events
+character_event = { #Family Chronicle Discovered!
+	id = avenrayne.chronicle.1
+	desc = "EVTDESCavenrayne.chronicle.1"
+	picture = GFX_evt_QuoFamiliaHistoria
+	
+	min_age = 25
+	capable_only = yes
+	prisoner = no
+	
+	trigger = {
+		NOT = { trait = blinded }
+		in_command = no
+		NOT = {
+			has_character_flag = Avenrayne_Family_Chronicle
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 260
+		
+		modifier = {
+			factor = 1.2
+			trait = content
+		}
+		modifier = {
+			factor = 0.75
+			learning = 10
+		}
+		modifier = {
+			factor = 0.75
+			learning = 9
+		}
+		modifier = {
+			factor = 0.75
+			learning = 8
+		}
+		modifier = {
+			factor = 1.4
+			trait = cynical
+		}
+		modifier = {
+			factor = 0.2
+			trait = ambitious
+		}
+		modifier = {
+			factor = 0.4
+			trait = zealous
+		}
+		modifier = {
+			factor = 1.1
+			trait = detached_priest
+		}
+		modifier = {
+			factor = 0.75
+			trait = scholarly_theologian
+		}
+		modifier = {
+			factor = 0.5
+			trait = mastermind_theologian
+		}
+	}
+	
+	option = {
+		name = "EVTOPTAAvenrayne.Chronicle.1"			
+		prestige = 20
+		set_character_flag = Avenrayne_Family_Chronicle
+	}
+	
+	option = {
+		name = "EVTOPTBAvenrayne.Chronicle.1"
+		prestige = 10
+		piety = 10
+		set_character_flag = Avenrayne_Family_Chronicle
+		create_random_diplomat = {
+			random_traits = yes
+			dynasty = random
+			female = no
+		}
+		add_trait = Avenrayne_Welcoming
+	}
+	option = {
+		name = "EVTOPTCAvenrayne.Chronicle.1"
+		piety = -5
+		add_trait = Avenrayne_Unwelcoming
+	}
+}

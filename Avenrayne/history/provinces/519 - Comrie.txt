@@ -1,0 +1,21 @@
+# c_comrie
+
+# County Title
+title = c_comrie
+
+# Settlements
+max_settlements = 7
+
+b_comrie = tribal
+#b_culag = city
+#b_comrie_2 = temple
+#b_comrie_3 = castle
+#b_comrie_4 = city
+#b_comrie_5 = temple
+#b_comrie_6 = castle
+
+# Misc
+culture = ardthirraich
+religion = celtic_pagan
+
+#History

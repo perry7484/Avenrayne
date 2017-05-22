@@ -1,0 +1,34 @@
+# c_galiazzo
+
+# County Title
+title = c_galiazzo
+
+# Settlements
+max_settlements = 7
+
+b_galiazzo = castle
+b_livellato = city
+b_gennaro = temple
+#b_galiazzo_2 = castle
+#b_galiazzo_3 = city
+#b_galiazzo_4 = temple
+#b_galiazzo_5 = castle
+
+# Misc
+culture = galiazzana
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = hellenic_pagan
+culture = capracciana
+}
+560.1.1 = { 
+culture = galiazzana
+}
+265.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}

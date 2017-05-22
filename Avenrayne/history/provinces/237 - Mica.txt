@@ -1,0 +1,28 @@
+# c_mica
+
+# County Title
+title = c_mica
+
+# Settlements
+max_settlements = 7
+
+b_mica = castle
+#b_mica_2 = city
+#b_mica_3 = temple
+#b_mica_4 = castle
+#b_mica_5 = city
+#b_mica_6 = temple
+#b_mica_7 = castle
+
+# Misc
+culture = varodaesca
+religion = pagan
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = varodesi
+}
+450.1.1 = { 
+culture = varodaesca
+}

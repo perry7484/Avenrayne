@@ -1,0 +1,21 @@
+# c_glencruitten
+
+# County Title
+title = c_glencruitten
+
+# Settlements
+max_settlements = 7
+
+b_glencruitten = castle
+#b_ardechvie = city
+#b_glencruitten_2 = temple
+#b_glencruitten_3 = castle
+#b_glencruitten_4 = city
+#b_glencruitten_5 = temple
+#b_glencruitten_6 = castle
+
+# Misc
+culture = abonae
+religion = celtic_pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_altura
+
+# County Title
+title = c_altura
+
+# Settlements
+max_settlements = 7
+
+b_altura = castle
+#b_altura_2 = city
+#b_altura_3 = temple
+#b_altura_4 = castle
+#b_altura_5 = city
+#b_altura_6 = temple
+#b_altura_7 = castle
+
+# Misc
+culture = calahondo
+religion = sunni
+
+#History

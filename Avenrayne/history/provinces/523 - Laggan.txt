@@ -1,0 +1,21 @@
+# c_laggan
+
+# County Title
+title = c_laggan
+
+# Settlements
+max_settlements = 7
+
+b_laggan = tribal
+#b_laggan_2 = city
+#b_laggan_3 = temple
+#b_laggan_4 = castle
+#b_laggan_5 = city
+#b_laggan_6 = temple
+#b_laggan_7 = castle
+
+# Misc
+culture = ardthirraich
+religion = celtic_pagan
+
+#History

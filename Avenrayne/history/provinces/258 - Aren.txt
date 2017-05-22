@@ -1,0 +1,21 @@
+# c_aren
+
+# County Title
+title = c_aren
+
+# Settlements
+max_settlements = 7
+
+b_aren = castle
+#b_aren_2 = city
+#b_aren_3 = temple
+#b_aren_4 = castle
+#b_aren_5 = city
+#b_aren_6 = temple
+#b_aren_7 = castle
+
+# Misc
+culture = fornellà
+religion = cathar
+
+#History

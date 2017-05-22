@@ -1,0 +1,21 @@
+# c_hathah
+
+# County Title
+title = c_hathah
+
+# Settlements
+max_settlements = 7
+
+b_hathah = castle
+#b_hathah_2 = city
+#b_hathah_3 = temple
+#b_hathah_4 = castle
+#b_hathah_5 = city
+#b_hathah_6 = temple
+#b_hathah_7 = castle
+
+# Misc
+culture = aluqi
+religion = sunni
+
+#History

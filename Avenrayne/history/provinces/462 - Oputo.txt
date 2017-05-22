@@ -1,0 +1,21 @@
+# c_oputo
+
+# County Title
+title = c_oputo
+
+# Settlements
+max_settlements = 7
+
+b_oputo = castle
+b_casaio = city
+#b_oputo_2 = temple
+#b_oputo_3 = castle
+#b_oputo_4 = city
+#b_oputo_5 = temple
+#b_oputo_6 = castle
+
+# Misc
+culture = costano
+religion = zun_pagan
+
+#History

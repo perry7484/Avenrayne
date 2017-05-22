@@ -1,0 +1,21 @@
+# c_mjekes
+
+# County Title
+title = c_mjekes
+
+# Settlements
+max_settlements = 7
+
+b_mjekes = castle
+b_peshkopi = city
+#b_shkoze = temple
+#b_baz = castle
+#b_ure = city
+#b_bicelle = temple
+#b_lekel = castle
+
+# Misc
+culture = mejë
+religion = orthodox
+
+#History

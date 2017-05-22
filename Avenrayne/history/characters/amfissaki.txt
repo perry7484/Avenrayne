@@ -1,0 +1,972 @@
+451={
+	name=Agapios
+	dynasty=450
+	culture=amfissaki religion=orthodox
+	360.1.1={ birth=yes }
+	413.8.23={ death=yes }
+}
+461={
+	name=Demetrios
+	dynasty=460
+	culture=amfissaki religion=orthodox
+	360.1.1={ birth=yes }
+	413.8.23={ death=yes }
+}
+
+471={
+	name=Hesperos
+	dynasty=470
+	culture=amfissaki religion=orthodox
+	360.1.1={ birth=yes }
+	413.8.23={ death=yes }
+}
+
+481={
+	name=Erasmos
+	dynasty=480
+	culture=amfissaki religion=orthodox
+	360.1.1={ birth=yes }
+	413.8.23={ death=yes }
+}
+
+
+
+
+
+
+5001={
+	name=Valerios
+	dynasty=5000
+	dna="ejlepcomnno"
+	culture=amfissaki religion=orthodox
+	martial=4 diplomacy=4 stewardship=6 intrigue=8 learning=6
+	add_trait=flamboyant_schemer add_trait=mystic add_trait=ambitious add_trait=proud 
+	600.12.1={ birth=yes }
+	653.3.14={ death=yes }
+}
+5002={
+	name=Prokopios
+	dynasty=5000
+	dna="eaoejcommnd"
+	culture=amfissaki religion=orthodox
+	martial=8 diplomacy=7 stewardship=4 intrigue=5 learning=4
+	add_trait=detached_priest add_trait=duelist add_trait=content add_trait=just add_trait=kind 
+	father=5001	#Valerios
+	622.7.14={ birth=yes }
+	668.5.3={ death=yes }
+}
+5003={
+	name=Romylia
+	female=yes
+	dynasty=5000
+	dna="pjlenlmancm"
+	culture=amfissaki religion=orthodox
+	father=5001	#Valerios
+	625.1.14={ birth=yes }
+	688.2.7={ death=yes }
+}
+5004={
+	name=Kyrillos
+	dynasty=5000
+	dna="eobkbeomeeb"
+	culture=amfissaki religion=orthodox
+	martial=7 diplomacy=8 stewardship=6 intrigue=8 learning=7
+	add_trait=misguided_warrior add_trait=lustful add_trait=temperate add_trait=trusting 
+	father=5001	#Valerios
+	629.12.10={ birth=yes }
+	688.3.9={ death=yes }
+}
+5005={
+	name=Kallinikos
+	dynasty=5000
+	dna="eaoejcofmin"
+	culture=amfissaki religion=orthodox
+	martial=7 diplomacy=5 stewardship=8 intrigue=6 learning=4
+	add_trait=martial_cleric add_trait=cruel add_trait=craven add_trait=greedy add_trait=honest 
+	father=5002	#Prokopios
+	643.5.21={ birth=yes }
+	691.8.27={ death=yes }
+}
+5006={
+	name=Stephania
+	female=yes
+	dynasty=5000
+	dna="efjedjogmnd"
+	culture=amfissaki religion=orthodox
+	father=5002	#Prokopios
+	647.1.19={ birth=yes }
+	714.11.19={ death=yes }
+}
+5007={
+	name=Iakobos
+	dynasty=5000
+	dna="maoejcogmof"
+	culture=amfissaki religion=orthodox
+	martial=8 diplomacy=5 stewardship=8 intrigue=8 learning=6
+	add_trait=charismatic_negotiator add_trait=cruel add_trait=honest add_trait=brave add_trait=shy 
+	add_trait=strong 
+	father=5005	#Kallinikos
+	671.9.14={ birth=yes }
+	736.2.22={ death=yes }
+}
+5008={
+	name=Parthena
+	female=yes
+	dynasty=5000
+	dna="kppeebofmin"
+	culture=amfissaki religion=orthodox
+	father=5005	#Kallinikos
+	674.6.13={ birth=yes }
+	732.11.2={ death=yes }
+}
+5009={
+	name=Basillike
+	female=yes
+	dynasty=5000
+	dna="ealebdofmmh"
+	culture=amfissaki religion=orthodox
+	father=5005	#Kallinikos
+	677.4.25={ birth=yes }
+	745.9.4={ death=yes }
+}
+5010={
+	name=Stephanos
+	dynasty=5000
+	dna="doebliogmof"
+	culture=amfissaki religion=orthodox
+	martial=8 diplomacy=6 stewardship=8 intrigue=6 learning=5
+	add_trait=indulgent_wastrel add_trait=honest add_trait=arbitrary add_trait=humble add_trait=depressed 
+	father=5007	#Iakobos
+	691.12.21={ birth=yes }
+	736.8.8={ death=yes }
+}
+5011={
+	name=Helene
+	female=yes
+	dynasty=5000
+	dna="dpofjjbgmha"
+	culture=amfissaki religion=orthodox
+	father=5007	#Iakobos
+	694.10.4={ birth=yes }
+	751.6.21={ death=yes }
+}
+5012={
+	name=Hypatios
+	dynasty=5000
+	dna="eaoeccoaaaf"
+	culture=amfissaki religion=orthodox
+	martial=6 diplomacy=6 stewardship=4 intrigue=8 learning=5
+	add_trait=midas_touched add_trait=trusting add_trait=brave add_trait=deceitful add_trait=kind 
+	father=5007	#Iakobos
+	697.11.19={ birth=yes }
+	753.12.1={ death=yes }
+}
+5013={
+	name=Iakobos
+	dynasty=5000
+	dna="bgbaliohmof"
+	culture=amfissaki religion=orthodox
+	martial=4 diplomacy=8 stewardship=6 intrigue=4 learning=5
+	add_trait=misguided_warrior add_trait=zealous add_trait=proud add_trait=wroth add_trait=diligent 
+	father=5010	#Stephanos
+	718.3.11={ birth=yes }
+	791.7.14={ death=yes }
+}
+5014={
+	name=Theophylaktos
+	dynasty=5000
+	dna="aobilikgmdf"
+	culture=amfissaki religion=orthodox
+	martial=4 diplomacy=5 stewardship=4 intrigue=8 learning=8
+	add_trait=tough_soldier add_trait=zealous add_trait=arbitrary add_trait=honest add_trait=cruel 
+	father=5010	#Stephanos
+	722.9.25={ birth=yes }
+	771.6.26={ death=yes }
+}
+5015={
+	name=Athanasius
+	dynasty=5000
+	dna="aolllgnimoe"
+	culture=amfissaki religion=orthodox
+	martial=5 diplomacy=5 stewardship=6 intrigue=6 learning=4
+	add_trait=misguided_warrior add_trait=gluttonous add_trait=kind 
+	father=5010	#Stephanos
+	726.12.25={ birth=yes }
+	784.12.29={ death=yes }
+}
+5016={
+	name=Georgios
+	dynasty=5000
+	dna="dfmegilfmbn"
+	culture=amfissaki religion=orthodox
+	martial=8 diplomacy=5 stewardship=4 intrigue=8 learning=4
+	add_trait=skilled_tactician add_trait=diligent add_trait=proud add_trait=gluttonous add_trait=arbitrary 
+	add_trait=shy add_trait=paranoid 
+	father=5010	#Stephanos
+	729.6.5={ birth=yes }
+	800.4.30={ death=yes }
+}
+5017={
+	name=Constans
+	dynasty=5000
+	dna="bkgmlfnhmkk"
+	culture=amfissaki religion=orthodox
+	martial=8 diplomacy=6 stewardship=5 intrigue=6 learning=5
+	add_trait=intricate_webweaver add_trait=ambitious add_trait=chaste add_trait=proud add_trait=diligent 
+	father=5013	#Iakobos
+	742.9.5={ birth=yes }
+	791.7.12={ death=yes }
+}
+5018={
+	name=Juliana
+	female=yes
+	dynasty=5000
+	dna="bkcbliifcjf"
+	culture=amfissaki religion=orthodox
+	father=5013	#Iakobos
+	747.1.13={ birth=yes }
+	800.9.3={ death=yes }
+}
+5019={
+	name=Thomas
+	dynasty=5000
+	dna="lgeoajohfom"
+	culture=amfissaki religion=orthodox
+	martial=7 diplomacy=4 stewardship=7 intrigue=8 learning=4
+	add_trait=detached_priest add_trait=just add_trait=honest add_trait=trusting add_trait=cynical 
+	father=5013	#Iakobos
+	752.6.3={ birth=yes }
+	826.7.17={ death=yes }
+}
+5020={
+	name=Alexandros
+	dynasty=5000
+	dna="kkkbmfehmkk"
+	culture=amfissaki religion=orthodox
+	martial=7 diplomacy=5 stewardship=6 intrigue=8 learning=7
+	add_trait=mastermind_theologian add_trait=cynical add_trait=chaste add_trait=content add_trait=deceitful 
+	add_trait=craven add_trait=shy 
+	father=5017	#Constans
+	770.12.8={ birth=yes }
+	832.7.17={ death=yes }
+}
+5021={
+	name=Stephania
+	female=yes
+	dynasty=5000
+	dna="bmgmlfoheah"
+	culture=amfissaki religion=orthodox
+	father=5017	#Constans
+	772.3.6={ birth=yes }
+	841.4.15={ death=yes }
+}
+5022={
+	name=Boethios
+	dynasty=5000
+	dna="kkkblfkkmkj"
+	culture=amfissaki religion=orthodox
+	martial=5 diplomacy=8 stewardship=8 intrigue=6 learning=4
+	add_trait=detached_priest add_trait=celibate add_trait=cynical add_trait=gregarious add_trait=slothful 
+	add_trait=brave 
+	father=5020	#Alexander
+	797.10.20={ birth=yes }
+	865.3.15={ death=yes }
+}
+5023={
+	name=Alexios
+	dynasty=5000
+	dna="kkkbmfghmhk"
+	culture=amfissaki religion=orthodox
+	martial=4 diplomacy=5 stewardship=7 intrigue=4 learning=6
+	add_trait=naive_appeaser add_trait=impaler add_trait=deceitful add_trait=shy add_trait=proud 
+	father=5020	#Alexander
+	802.8.22={ birth=yes }
+	850.2.1={ death=yes }
+}
+5024={
+	name=Philippa
+	female=yes
+	dynasty=5000
+	dna="bokkmfehmkk"
+	culture=amfissaki religion=orthodox
+	father=5020	#Alexander
+	805.8.11={ birth=yes }
+	877.2.17={ death=yes }
+}
+5025={
+	name=Daniel
+	dynasty=5000
+	dna="fkkcpfdmmhk"
+	culture=amfissaki religion=orthodox
+	martial=6 diplomacy=6 stewardship=8 intrigue=5 learning=8
+	add_trait=indulgent_wastrel add_trait=humble add_trait=trusting add_trait=diligent add_trait=greedy 
+	add_trait=chaste add_trait=stressed 
+	father=5020	#Alexander
+	808.8.7={ birth=yes }
+	881.12.5={ death=yes }
+}
+5026={
+	name=Valerios
+	dynasty=5000
+	dna="jhfdlfnjmkd"
+	culture=amfissaki religion=orthodox
+	martial=5 diplomacy=6 stewardship=6 intrigue=7 learning=4
+	add_trait=midas_touched add_trait=patient add_trait=just add_trait=shy add_trait=cruel 
+	father=5022	#Boethios
+	819.3.26={ birth=yes }
+	864.10.3={ death=yes }
+}
+5027={
+	name=Justin
+	dynasty=5000
+	dna="kimklfkkikj"
+	culture=amfissaki religion=orthodox
+	martial=6 diplomacy=5 stewardship=6 intrigue=4 learning=7
+	add_trait=midas_touched add_trait=duelist add_trait=shy add_trait=zealous add_trait=deceitful 
+	add_trait=cruel add_trait=just add_trait=ambitious add_trait=possessed 
+	father=5022	#Boethios
+	823.3.17={ birth=yes }
+	889.12.7={ death=yes }
+}
+5028={
+	name=Anthe
+	female=yes
+	dynasty=5000
+	dna="fkfdjfnfhkl"
+	culture=amfissaki religion=orthodox
+	father=5026	#Valerios
+	845.5.15={ birth=yes }
+	908.7.18={ death=yes }
+}
+5029={
+	name=Damianos
+	dynasty=5000
+	dna="jgbaliopkkd"
+	culture=amfissaki religion=orthodox
+	martial=4 diplomacy=4 stewardship=6 intrigue=5 learning=5
+	add_trait=flamboyant_schemer add_trait=temperate add_trait=chaste add_trait=cruel add_trait=ambitious 
+	add_trait=genius 
+	father=5026	#Valerios
+	849.4.7={ birth=yes }
+	910.3.10={ death=yes }
+}
+5030={
+	name=Eunike
+	female=yes
+	dynasty=5000
+	dna="aamfipdienf"
+	culture=amfissaki religion=orthodox
+	father=5026	#Valerios
+	852.1.8={ birth=yes }
+	898.10.21={ death=yes }
+}
+5031={
+	name=Chrysanthos
+	dynasty=5000
+	dna="bhfboennjkd"
+	culture=amfissaki religion=orthodox
+	martial=7 diplomacy=8 stewardship=6 intrigue=6 learning=5
+	add_trait=flamboyant_schemer add_trait=scholar add_trait=gluttonous add_trait=wroth add_trait=greedy 
+	add_trait=shy add_trait=deceitful 
+	father=5026	#Valerios
+	857.6.4={ birth=yes }
+	915.12.7={ death=yes }
+}
+5032={
+	name=Philotheos
+	dynasty=5000
+	dna="igcabibpkko"
+	culture=amfissaki religion=orthodox
+	martial=7 diplomacy=8 stewardship=4 intrigue=8 learning=5
+	add_trait=elusive_shadow add_trait=just add_trait=deceitful add_trait=gregarious 
+	father=5029	#Damianos
+	870.7.19={ birth=yes }
+	932.8.28={ death=yes }
+}
+5033={
+	name=Theodoros
+	dynasty=5000
+	dna="jgbagbogckd"
+	culture=amfissaki religion=orthodox
+	martial=5 diplomacy=4 stewardship=7 intrigue=6 learning=5
+	add_trait=indulgent_wastrel add_trait=paranoid add_trait=patient add_trait=gluttonous add_trait=charitable 
+	add_trait=content 
+	father=5029	#Damianos
+	873.10.11={ birth=yes }
+	921.8.31={ death=yes }
+}
+5034={
+	name=Samuel
+	dynasty=5000
+	dna="bkbakcmmkkd"
+	culture=amfissaki religion=orthodox
+	martial=4 diplomacy=6 stewardship=4 intrigue=7 learning=4
+	add_trait=detached_priest add_trait=chaste add_trait=brave add_trait=gregarious add_trait=diligent 
+	father=5029	#Damianos
+	874.11.13={ birth=yes }
+	933.2.10={ death=yes }
+}
+5035={
+	name=Valeria
+	female=yes
+	dynasty=5000
+	dna="fgaajiopkkd"
+	culture=amfissaki religion=orthodox
+	father=5029	#Damianos
+	877.1.13={ birth=yes }
+	926.12.22={ death=yes }
+}
+5036={
+	name=Sophia
+	female=yes
+	dynasty=5000
+	dna="jcbcliimkkd"
+	culture=amfissaki religion=orthodox
+	father=5029	#Damianos
+	881.12.19={ birth=yes }
+	943.5.22={ death=yes }
+}
+5037={
+	name=Eusebia
+	female=yes
+	dynasty=5000
+	dna="jgbalinhkgd"
+	culture=amfissaki religion=orthodox
+	father=5029	#Damianos
+	886.9.16={ birth=yes }
+	947.4.9={ death=yes }
+}
+5038={
+	name=Basileios
+	dynasty=5000
+	dna="nodnncbpjkb"
+	culture=amfissaki religion=orthodox
+	martial=7 diplomacy=5 stewardship=7 intrigue=8 learning=8
+	add_trait=flamboyant_schemer add_trait=humble add_trait=chaste add_trait=cruel add_trait=paranoid 
+	father=5029	#Damianos
+	890.10.24={ birth=yes }
+	944.8.6={ death=yes }
+}
+5039={
+	name=David
+	dynasty=5000
+	dna="afgabmlmkko"
+	culture=amfissaki religion=orthodox
+	martial=4 diplomacy=7 stewardship=5 intrigue=8 learning=7
+	add_trait=intricate_webweaver add_trait=paranoid add_trait=gregarious add_trait=zealous add_trait=stressed 
+	father=5032	#Philotheos
+	893.10.24={ birth=yes }
+	964.10.21={ death=yes }
+}
+5040={
+	name=Alexis
+	dynasty=5000
+	dna="igcagiaeklg"
+	culture=amfissaki religion=orthodox
+	martial=7 diplomacy=8 stewardship=5 intrigue=8 learning=7
+	add_trait=tough_soldier add_trait=deceitful add_trait=humble 
+	father=5032	#Philotheos
+	897.2.2={ birth=yes }
+	960.8.10={ death=yes }
+}
+5041={
+	name=Eusebios
+	dynasty=5000
+	dna="lcmaklbpkco"
+	culture=amfissaki religion=orthodox
+	martial=4 diplomacy=8 stewardship=5 intrigue=8 learning=4
+	add_trait=detached_priest add_trait=gregarious add_trait=cruel add_trait=slothful add_trait=content 
+	father=5032	#Philotheos
+	899.3.6={ birth=yes }
+	954.4.27={ death=yes }
+}
+5042={
+	name=Theochariste
+	female=yes
+	dynasty=5000
+	dna="mgeaijoagfo"
+	culture=amfissaki religion=orthodox
+	father=5032	#Philotheos
+	901.8.26={ birth=yes }
+	961.4.22={ death=yes }
+}
+5043={
+	name=Gregoras
+	dynasty=5000
+	dna="bhcnmmbjmen"
+	culture=amfissaki religion=orthodox
+	martial=6 diplomacy=5 stewardship=4 intrigue=6 learning=8
+	add_trait=intricate_webweaver add_trait=patient add_trait=arbitrary add_trait=chaste add_trait=clubfooted 
+	father=5032	#Philotheos
+	906.10.24={ birth=yes }
+	977.8.24={ death=yes }
+}
+5044={
+	name=Jacob
+	dynasty=5000
+	dna="ndjdbhlmfne"
+	culture=amfissaki religion=orthodox
+	martial=6 diplomacy=4 stewardship=5 intrigue=7 learning=4
+	add_trait=midas_touched add_trait=patient add_trait=humble add_trait=trusting 
+	father=5039	#David
+	916.8.20={ birth=yes }
+	987.1.13={ death=yes }
+}
+5045={
+	name=Eudocia
+	female=yes
+	dynasty=5000
+	dna="angobmlbfko"
+	culture=amfissaki religion=orthodox
+	father=5039	#David
+	919.2.18={ birth=yes }
+	978.5.10={ death=yes }
+}
+5046={
+	name=Gabriel
+	dynasty=5000
+	dna="afgaooindio"
+	culture=amfissaki religion=orthodox
+	martial=5 diplomacy=4 stewardship=5 intrigue=4 learning=5
+	add_trait=misguided_warrior add_trait=wroth add_trait=diligent add_trait=gregarious add_trait=brave 
+	add_trait=honest add_trait=arbitrary 
+	father=5039	#David
+	923.7.3={ birth=yes }
+	968.12.23={ death=yes }
+}
+5047={
+	name=Manuel
+	dynasty=5000
+	dna="ogambdnekne"
+	culture=amfissaki religion=orthodox
+	martial=7 diplomacy=8 stewardship=7 intrigue=6 learning=8
+	add_trait=charismatic_negotiator add_trait=kind add_trait=gregarious add_trait=craven add_trait=arbitrary 
+	add_trait=greedy 
+	father=5044	#Jacob
+	939.6.24={ birth=yes }
+	997.6.25={ death=yes }
+}
+5048={
+	name=Pulcheria
+	female=yes
+	dynasty=5000
+	dna="ldjdjhgmgim"
+	culture=amfissaki religion=orthodox
+	father=5044	#Jacob
+	943.11.12={ birth=yes }
+	1001.10.8={ death=yes }
+}
+5049={
+	name=Euphrasia
+	female=yes
+	dynasty=5000
+	dna="ndgdbhlpfge"
+	culture=amfissaki religion=orthodox
+	father=5044	#Jacob
+	945.3.20={ birth=yes }
+	977.1.16={ death=yes }
+}
+5050={
+	name=Theophano
+	female=yes
+	dynasty=5000
+	dna="ndjlohaeloe"
+	culture=amfissaki religion=orthodox
+	father=5044	#Jacob
+	949.5.10={ birth=yes }
+	1020.4.23={ death=yes }
+}
+5051={
+	name=Porphyrios
+	dynasty=5000
+	dna="ngambhlgiae"
+	culture=amfissaki religion=orthodox
+	martial=8 diplomacy=7 stewardship=6 intrigue=8 learning=6
+	add_trait=scholarly_theologian add_trait=hunter add_trait=greedy add_trait=lustful add_trait=cruel 
+	add_trait=diligent add_trait=ambitious 
+	father=5044	#Jacob
+	951.5.12={ birth=yes }
+	1019.1.14={ death=yes }
+}
+5052={
+	name=David
+	dynasty=5000
+	dna="ndelfpodiee"
+	culture=amfissaki religion=orthodox
+	martial=8 diplomacy=5 stewardship=7 intrigue=5 learning=7
+	add_trait=detached_priest add_trait=hunter add_trait=brave add_trait=gluttonous add_trait=shy 
+	add_trait=wounded 
+	father=5044	#Jacob
+	954.2.6={ birth=yes }
+	1003.6.3={ death=yes }
+}
+5053={
+	name=Eunike
+	female=yes
+	dynasty=5000
+	dna="nddobblnfnj"
+	culture=amfissaki religion=orthodox
+	father=5044	#Jacob
+	957.6.4={ birth=yes }
+	1021.4.19={ death=yes }
+}
+5054={
+	name=Pelagios
+	dynasty=5000
+	dna="agcjbadjknn"
+	culture=amfissaki religion=orthodox
+	martial=7 diplomacy=8 stewardship=7 intrigue=4 learning=7
+	add_trait=midas_touched add_trait=gluttonous add_trait=charitable add_trait=drunkard 
+	father=5047	#Manuel
+	966.12.2={ birth=yes }
+	1023.11.29={ death=yes }
+}
+5055={
+	name=Konstantia
+	female=yes
+	dynasty=5000
+	dna="dghcbdcmkde"
+	culture=amfissaki religion=orthodox
+	father=5047	#Manuel
+	969.6.22={ birth=yes }
+	1018.4.25={ death=yes }
+}
+5056={
+	name=Phyllis
+	female=yes
+	dynasty=5000
+	dna="ogambhoijne"
+	culture=amfissaki religion=orthodox
+	father=5047	#Manuel
+	971.8.20={ birth=yes }
+	1018.8.6={ death=yes }
+}
+5057={
+	name=Hektorios
+	dynasty=5000
+	dna="ggnjfncjkfm"
+	culture=amfissaki religion=orthodox
+	martial=8 diplomacy=6 stewardship=5 intrigue=6 learning=7
+	add_trait=martial_cleric add_trait=content add_trait=honest add_trait=lustful add_trait=craven 
+	add_trait=patient 
+	father=5054	#Pelagios
+	989.3.4={ birth=yes }
+	1035.9.25={ death=yes }
+}
+5058={
+	name=Eunike
+	female=yes
+	dynasty=5000
+	dna="epcjaadkakp"
+	culture=amfissaki religion=orthodox
+	father=5054	#Pelagios
+	991.10.21={ birth=yes }
+	1060.12.3={ death=yes }
+}
+5059={
+	name=Herakleios
+	dynasty=5000
+	dna="agnjbacckno"
+	culture=amfissaki religion=orthodox
+	martial=4 diplomacy=4 stewardship=5 intrigue=8 learning=5
+	add_trait=martial_cleric add_trait=patient add_trait=shy add_trait=cruel add_trait=envious 
+	add_trait=honest 
+	father=5054	#Pelagios
+	994.11.27={ birth=yes }
+	1054.8.23={ death=yes }
+}
+5060={
+	name=Eudokia
+	female=yes
+	dynasty=5000
+	dna="agcgbabciln"
+	culture=amfissaki religion=orthodox
+	father=5054	#Pelagios
+	997.11.16={ birth=yes }
+	1055.7.31={ death=yes }
+}
+5061={
+	name=Gerasimos
+	dynasty=5000
+	dna="jjjjjndmnan"
+	culture=amfissaki religion=orthodox
+	martial=7 diplomacy=4 stewardship=5 intrigue=4 learning=7
+	add_trait=elusive_shadow add_trait=hunter add_trait=slothful add_trait=brave add_trait=shy 
+	add_trait=gluttonous add_trait=paranoid add_trait=lustful 
+	father=5054	#Pelagios
+	1000.4.7={ birth=yes }
+	1072.6.22={ death=yes }
+}
+5062={
+	name=Basileios
+	dynasty=5000
+	dna="ggncfngnafc"
+	culture=amfissaki religion=orthodox
+	martial=4 diplomacy=6 stewardship=7 intrigue=4 learning=8
+	add_trait=charismatic_negotiator add_trait=deceitful add_trait=arbitrary add_trait=paranoid add_trait=diligent 
+	father=5057	#Hektorios
+	1013.8.12={ birth=yes }
+	1067.7.23={ death=yes }
+}
+5063={
+	name=Eirenaios
+	dynasty=5000
+	dna="afnjgecjmfg"
+	culture=amfissaki religion=orthodox
+	martial=7 diplomacy=6 stewardship=7 intrigue=7 learning=6
+	add_trait=flamboyant_schemer add_trait=brave add_trait=ambitious add_trait=lustful add_trait=slothful 
+	add_trait=stressed 
+	father=5057	#Hektorios
+	1017.7.11={ birth=yes }
+	1074.8.17={ death=yes }
+}
+5064={
+	name=Epiphania
+	female=yes
+	dynasty=5000
+	dna="gbpjfncelfk"
+	culture=amfissaki religion=orthodox
+	father=5057	#Hektorios
+	1019.12.1={ birth=yes }
+	1065.11.16={ death=yes }
+}
+5065={
+	name=Kyra
+	female=yes
+	dynasty=5000
+	dna="cehogncjefd"
+	culture=amfissaki religion=orthodox
+	father=5057	#Hektorios
+	1022.12.25={ birth=yes }
+	1071.6.12={ death=yes }
+}
+5066={
+	name=Constans
+	dynasty=5000
+	dna="ggjjfngbkmn"
+	culture=amfissaki religion=orthodox
+	martial=8 diplomacy=4 stewardship=6 intrigue=6 learning=6
+	add_trait=detached_priest add_trait=cruel add_trait=greedy add_trait=proud add_trait=wounded 
+	father=5057	#Hektorios
+	1025.6.7={ birth=yes }
+	1089.2.8={ death=yes }
+}
+5067={
+	name=Akakios
+	dynasty=5000
+	dna="ggijncemjfm"
+	culture=amfissaki religion=orthodox
+	martial=5 diplomacy=7 stewardship=6 intrigue=5 learning=8
+	add_trait=misguided_warrior add_trait=duelist add_trait=shy add_trait=diligent add_trait=honest 
+	add_trait=possessed 
+	father=5057	#Hektorios
+	1029.7.22={ birth=yes }
+	1098.10.29={ death=yes }
+}
+5068={
+	name=Antipatra
+	female=yes
+	dynasty=5000
+	dna="jmnjdnejmnm"
+	culture=amfissaki religion=orthodox
+	father=5057	#Hektorios
+	1032.6.6={ birth=yes }
+	1082.8.8={ death=yes }
+}
+5069={
+	name=Bartholomaios
+	dynasty=5000
+	dna="bmncfnloafc"
+	culture=amfissaki religion=orthodox
+	martial=8 diplomacy=6 stewardship=6 intrigue=6 learning=6
+	add_trait=charismatic_negotiator add_trait=gluttonous add_trait=arbitrary 
+	father=5062	#Basileios
+	1039.2.19={ birth=yes }
+	1101.6.24={ death=yes }
+}
+5070={
+	name=Symeon
+	dynasty=5000
+	dna="ggnhfoenafc"
+	culture=amfissaki religion=orthodox
+	martial=5 diplomacy=6 stewardship=7 intrigue=8 learning=6
+	add_trait=flamboyant_schemer add_trait=chaste add_trait=zealous add_trait=content add_trait=greedy 
+	add_trait=gregarious add_trait=cruel 
+	father=5062	#Basileios
+	1042.8.26={ birth=yes }
+	1101.4.13={ death=yes }
+}
+5071={
+	name=Adrianos
+	dynasty=5000
+	dna="ggnadmgoafc"
+	culture=amfissaki religion=orthodox
+	martial=6 diplomacy=6 stewardship=4 intrigue=5 learning=8
+	add_trait=flamboyant_schemer add_trait=zealous add_trait=wroth add_trait=shy add_trait=content 
+	add_trait=drunkard 
+	father=5062	#Basileios
+	1045.6.8={ birth=yes }
+	1075.5.30={ death=yes }
+}
+5072={
+	name=Prokopios
+	dynasty=5000
+	dna="ngpcppgeane"
+	culture=amfissaki religion=orthodox
+	martial=6 diplomacy=8 stewardship=4 intrigue=8 learning=6
+	add_trait=charismatic_negotiator add_trait=diligent add_trait=paranoid add_trait=envious add_trait=chaste 
+	father=5062	#Basileios
+	1048.5.7={ birth=yes }
+	1095.3.26={ death=yes }
+}
+5073={
+	name=John
+	dynasty=5000
+	dna="gjmcfagchfc"
+	culture=amfissaki religion=orthodox
+	martial=4 diplomacy=4 stewardship=4 intrigue=5 learning=8
+	add_trait=naive_appeaser add_trait=hedonist add_trait=honest add_trait=greedy add_trait=cynical 
+	add_trait=temperate add_trait=just add_trait=cruel 
+	father=5062	#Basileios
+	1051.3.2={ birth=yes }
+	1110.6.4={ death=yes }
+}
+5074={
+	name=Eudocia
+	female=yes
+	dynasty=5000
+	dna="bdobknacpfc"
+	culture=amfissaki religion=orthodox
+	father=5069	#Bartholomaios
+	1063.10.12={ birth=yes }
+	1110.6.23={ death=yes }
+}
+5075={
+	name=Agne
+	female=yes
+	dynasty=5000
+	dna="bdnceiloaoc"
+	culture=amfissaki religion=orthodox
+	father=5069	#Bartholomaios
+	1066.9.11={ birth=yes }
+	1128.7.3={ death=yes }
+}
+5076={
+	name=Dorotheos
+	dynasty=5000
+	dna="bagcghloafc"
+	culture=amfissaki religion=orthodox
+	martial=4 diplomacy=5 stewardship=7 intrigue=8 learning=7
+	add_trait=detached_priest add_trait=gardener add_trait=paranoid add_trait=greedy 
+	father=5069	#Bartholomaios
+	1070.12.10={ birth=yes }
+	1126.5.26={ death=yes }
+}
+5077={
+	name=Barbara
+	female=yes
+	dynasty=5000
+	dna="bblcfnoeafo"
+	culture=amfissaki religion=orthodox
+	father=5069	#Bartholomaios
+	1073.6.2={ birth=yes }
+	1134.10.23={ death=yes }
+}
+5078={
+	name=Theodoulos
+	dynasty=5000
+	dna="jmncfnlkafk"
+	culture=amfissaki religion=orthodox
+	martial=5 diplomacy=4 stewardship=8 intrigue=7 learning=5
+	add_trait=mastermind_theologian add_trait=greedy add_trait=just add_trait=trusting 
+	father=5069	#Bartholomaios
+	1078.6.18={ birth=yes }
+	1151.8.7={ death=yes }
+}
+5079={
+	name=Romylia
+	female=yes
+	dynasty=5000
+	dna="bmncoablnfi"
+	culture=amfissaki religion=orthodox
+	father=5069	#Bartholomaios
+	1080.12.24={ birth=yes }
+	1135.5.26={ death=yes }
+}
+5080={
+	name=Xene
+	female=yes
+	dynasty=5000
+	dna="bipcgelchkc"
+	culture=amfissaki religion=orthodox
+	father=5076	#Dorotheos
+	1093.10.1={ birth=yes }
+	1168.10.23={ death=yes }
+}
+5081={
+	name=Kosmas
+	dynasty=5000
+	dna="bieggpkgafc"
+	culture=amfissaki religion=orthodox
+	martial=7 diplomacy=6 stewardship=4 intrigue=8 learning=8
+	add_trait=misguided_warrior add_trait=ambitious add_trait=just add_trait=diligent add_trait=proud 
+	add_trait=lunatic 
+	father=5076	#Dorotheos
+	1098.8.11={ birth=yes }
+	1150.6.13={ death=yes }
+}
+5082={
+	name=Timotheos
+	dynasty=5000
+	dna="cogcpmlfafc"
+	culture=amfissaki religion=orthodox
+	martial=8 diplomacy=5 stewardship=5 intrigue=7 learning=6
+	add_trait=flamboyant_schemer add_trait=arbitrary add_trait=temperate add_trait=greedy add_trait=wroth 
+	add_trait=kind add_trait=shy 
+	father=5076	#Dorotheos
+	1100.3.12={ birth=yes }
+	1158.11.9={ death=yes }
+}
+5083={
+	name=Melisende
+	female=yes
+	dynasty=5000
+	dna="kngdghkogfl"
+	culture=amfissaki religion=orthodox
+	father=5076	#Dorotheos
+	1104.11.11={ birth=yes }
+	1174.7.14={ death=yes }
+}
+5084={
+	name=Hippolytos
+	dynasty=5000
+	dna="jabcliloofd"
+	culture=amfissaki religion=orthodox
+	martial=8 diplomacy=6 stewardship=4 intrigue=6 learning=8
+	add_trait=misguided_warrior add_trait=content add_trait=envious add_trait=shy 
+	father=5076	#Dorotheos
+	1108.5.27={ birth=yes }
+	1153.11.29={ death=yes }
+}
+5085={
+	name=Theodotos
+	dynasty=5000
+	dna="iaicgpdpaah"
+	culture=amfissaki religion=orthodox
+	martial=5 diplomacy=6 stewardship=5 intrigue=7 learning=6
+	add_trait=tough_soldier add_trait=hunter add_trait=arbitrary add_trait=cruel add_trait=gregarious 
+	add_trait=chaste 
+	father=5076	#Dorotheos
+	1112.6.25={ birth=yes }
+	1178.9.21={ death=yes }
+}
+5086={
+	name=Viviana
+	female=yes
+	dynasty=5000
+	dna="jcgcchloffj"
+	culture=amfissaki religion=orthodox
+	father=5076	#Dorotheos
+	1114.5.25={ birth=yes }
+	1191.12.5={ death=yes }
+}

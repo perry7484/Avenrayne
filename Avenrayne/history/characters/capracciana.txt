@@ -1,0 +1,1169 @@
+185={
+	name=Caminus
+	dynasty=185
+	dna="csyrnoxyupu"
+	culture=capracciana religion=hellenic_pagan
+	martial=9 diplomacy=7 stewardship=9 intrigue=5 learning=7
+	add_trait=charismatic_negotiator add_trait=proud add_trait=just add_trait=gregarious add_trait=patient 
+	736.3.4={ birth=yes }
+	801.8.18={ death=yes }
+}
+1={
+	name=Pontianus
+	dynasty=1
+	dna="hpkliamfhgh"
+	culture=capracciana religion=hellenic_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=7 learning=6
+	add_trait=intricate_webweaver add_trait=scholar add_trait=cruel add_trait=gluttonous add_trait=charitable 
+	add_trait=brave add_trait=humble add_trait=cynical 
+	1.2.8={ birth=yes }
+	58.7.7={ death=yes }
+}
+2={
+	name=Elianora
+	female=yes
+	dynasty=1
+	dna="pbghjamfhpp"
+	culture=capracciana religion=hellenic_pagan
+	father=1	#Florian
+	28.12.19={ birth=yes }
+	98.3.7={ death=yes }
+}
+3={
+	name=Tacitus
+	dynasty=1
+	dna="jpjliamehah"
+	culture=capracciana religion=hellenic_pagan
+	martial=7 diplomacy=6 stewardship=6 intrigue=5 learning=6
+	add_trait=misguided_warrior add_trait=craven add_trait=proud 
+	father=1	#Florian
+	32.4.26={ birth=yes }
+	88.3.21={ death=yes }
+}
+4={
+	name=Augustus
+	dynasty=1
+	dna="hmiljemfcgh"
+	culture=capracciana religion=hellenic_pagan
+	martial=5 diplomacy=6 stewardship=8 intrigue=7 learning=7
+	add_trait=flamboyant_schemer add_trait=content add_trait=chaste 
+	father=1	#Florian
+	37.12.8={ birth=yes }
+	94.9.12={ death=yes }
+}
+5={
+	name=Antonius
+	dynasty=1
+	dna="gajhiigehao"
+	culture=capracciana religion=hellenic_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=5 learning=7
+	add_trait=grey_eminence add_trait=slothful add_trait=zealous add_trait=just add_trait=cruel 
+	add_trait=hunchback 
+	father=3	#Tacitus
+	53.3.25={ birth=yes }
+	110.3.17={ death=yes }
+}
+6={
+	name=Bardila
+	female=yes
+	dynasty=1
+	dna="jjjleamehah"
+	culture=capracciana religion=hellenic_pagan
+	father=3	#Tacitus
+	57.11.17={ birth=yes }
+	101.11.22={ death=yes }
+}
+7={
+	name=Caecilia
+	female=yes
+	dynasty=1
+	dna="dcioiggeoao"
+	culture=capracciana religion=hellenic_pagan
+	father=5	#Antonius
+	80.4.9={ birth=yes }
+	137.4.6={ death=yes }
+}
+8={
+	name=Adrianus
+	dynasty=1
+	dna="fajpilkhhjh"
+	culture=capracciana religion=hellenic_pagan
+	martial=6 diplomacy=7 stewardship=7 intrigue=4 learning=4
+	add_trait=elusive_shadow add_trait=humble add_trait=shy add_trait=diligent add_trait=patient 
+	add_trait=kind add_trait=drunkard 
+	father=5	#Antonius
+	84.6.9={ birth=yes }
+	132.8.15={ death=yes }
+}
+
+20={
+	name=Albinus
+	dynasty=2
+	dna="hcccffnoale"
+	culture=capracciana religion=hellenic_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=7 learning=8
+	add_trait=skilled_tactician add_trait=celibate add_trait=honest add_trait=patient add_trait=content 
+	87.1.7={ birth=yes }
+	157.2.18={ death=yes }
+}
+21={
+	name=Leonus
+	dynasty=2
+	dna="hjbcfgnofle"
+	culture=capracciana religion=hellenic_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=7 learning=7
+	add_trait=charismatic_negotiator add_trait=just add_trait=cynical add_trait=shy add_trait=wroth 
+	add_trait=stressed 
+	father=20	#Albinus
+	114.1.1={ birth=yes }
+	162.7.8={ death=yes }
+}
+22={
+	name=Rutilius
+	dynasty=2
+	dna="icccpfnoank"
+	culture=capracciana religion=hellenic_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=5 learning=8
+	add_trait=grey_eminence add_trait=hunter add_trait=cynical add_trait=craven add_trait=slothful 
+	add_trait=chaste 
+	father=20	#Albinus
+	120.12.18={ birth=yes }
+	194.8.24={ death=yes }
+}
+23={
+	name=Trajanus
+	dynasty=2
+	dna="jchcfmnbabe"
+	culture=capracciana religion=hellenic_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=8 learning=5
+	add_trait=elusive_shadow add_trait=mystic add_trait=cynical add_trait=envious add_trait=gluttonous 
+	add_trait=lustful 
+	father=20	#Albinus
+	122.6.4={ birth=yes }
+	192.6.12={ death=yes }
+}
+24={
+	name=Justa
+	female=yes
+	dynasty=2
+	dna="mcccelncgck"
+	culture=capracciana religion=hellenic_pagan
+	father=20	#Albinus
+	125.7.12={ birth=yes }
+	175.12.4={ death=yes }
+}
+25={
+	name=Ambrosius
+	dynasty=2
+	dna="hgopfojookl"
+	culture=capracciana religion=hellenic_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=7 learning=7
+	add_trait=detached_priest add_trait=hedonist add_trait=patient add_trait=craven add_trait=temperate 
+	add_trait=greedy 
+	father=21	#Caesar
+	139.1.12={ birth=yes }
+	209.4.7={ death=yes }
+}
+26={
+	name=Clementia
+	female=yes
+	dynasty=2
+	dna="djmcfdfojnh"
+	culture=capracciana religion=hellenic_pagan
+	father=21	#Caesar
+	141.6.23={ birth=yes }
+	207.12.30={ death=yes }
+}
+27={
+	name=Tiberius
+	dynasty=2
+	dna="adbnilngfke"
+	culture=capracciana religion=hellenic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=8 learning=7
+	add_trait=elusive_shadow add_trait=wroth add_trait=temperate 
+	father=21	#Caesar
+	145.3.20={ birth=yes }
+	203.11.30={ death=yes }
+}
+28={
+	name=Lucilla
+	female=yes
+	dynasty=2
+	dna="hjnimgbgfpm"
+	culture=capracciana religion=hellenic_pagan
+	father=21	#Caesar
+	147.4.12={ birth=yes }
+	197.8.8={ death=yes }
+}
+29={
+	name=Caminus
+	dynasty=2
+	dna="hjbhfgnlfde"
+	culture=capracciana religion=hellenic_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=8 learning=7
+	add_trait=scholarly_theologian add_trait=mystic add_trait=wroth add_trait=kind add_trait=deceitful 
+	add_trait=content add_trait=shy add_trait=wounded 
+	father=21	#Caesar
+	151.2.16={ birth=yes }
+	199.9.14={ death=yes }
+}
+30={
+	name=Romanus
+	dynasty=2
+	dna="hjbcbanohnb"
+	culture=capracciana religion=hellenic_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=5 learning=5
+	add_trait=detached_priest add_trait=chaste add_trait=brave add_trait=shy 
+	father=21	#Caesar
+	154.8.16={ birth=yes }
+	200.3.22={ death=yes }
+}
+31={
+	name=Galeria
+	female=yes
+	dynasty=2
+	dna="hjhcoanffoe"
+	culture=capracciana religion=hellenic_pagan
+	father=21	#Caesar
+	157.3.26={ birth=yes }
+	215.4.10={ death=yes }
+}
+32={
+	name=Deonisius
+	dynasty=2
+	dna="hoopfojhgbl"
+	culture=capracciana religion=hellenic_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=8 learning=5
+	add_trait=misguided_warrior add_trait=mystic add_trait=honest add_trait=kind add_trait=charitable 
+	add_trait=gregarious add_trait=craven 
+	father=25	#Drusus
+	166.11.9={ birth=yes }
+	217.11.1={ death=yes }
+}
+33={
+	name=Belisarius
+	dynasty=2
+	dna="bgfnfgjookl"
+	culture=capracciana religion=hellenic_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=6 learning=5
+	add_trait=martial_cleric add_trait=gregarious add_trait=chaste add_trait=greedy add_trait=cynical 
+	add_trait=envious 
+	father=25	#Drusus
+	170.7.4={ birth=yes }
+	218.2.5={ death=yes }
+}
+34={
+	name=Bartolus
+	dynasty=2
+	dna="lgddlokoocl"
+	culture=capracciana religion=hellenic_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=8 learning=6
+	add_trait=elusive_shadow add_trait=zealous add_trait=slothful add_trait=arbitrary add_trait=lustful 
+	add_trait=shy 
+	father=25	#Drusus
+	172.1.21={ birth=yes }
+	220.3.27={ death=yes }
+}
+35={
+	name=Helvia
+	female=yes
+	dynasty=2
+	dna="amopdpaeekp"
+	culture=capracciana religion=hellenic_pagan
+	father=25	#Drusus
+	178.5.22={ birth=yes }
+	231.11.4={ death=yes }
+}
+40={
+	name=Basilius
+	dynasty=4
+	dna="aleegahlfjn"
+	culture=capracciana religion=hellenic_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=4 learning=6
+	add_trait=scholarly_theologian add_trait=duelist add_trait=arbitrary add_trait=kind add_trait=gluttonous 
+	add_trait=shy add_trait=zealous add_trait=ambitious add_trait=lunatic 
+	149.2.5={ birth=yes }
+	209.1.9={ death=yes }
+}
+41={
+	name=Quintus
+	dynasty=4
+	dna="aiaegahlfjn"
+	culture=capracciana religion=hellenic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=8
+	add_trait=grey_eminence add_trait=cruel add_trait=slothful add_trait=patient add_trait=paranoid 
+	add_trait=kind add_trait=just 
+	father=40	#Basilius
+	175.12.8={ birth=yes }
+	261.7.1={ death=yes }
+}
+42={
+	name=Verina
+	female=yes
+	dynasty=4
+	dna="aagejpghfjh"
+	culture=capracciana religion=hellenic_pagan
+	father=40	#Basilius
+	178.5.8={ birth=yes }
+	239.1.24={ death=yes }
+}
+43={
+	name=Maximiana
+	female=yes
+	dynasty=4
+	dna="dleegahljjn"
+	culture=capracciana religion=hellenic_pagan
+	father=40	#Basilius
+	180.8.21={ birth=yes }
+	237.11.28={ death=yes }
+}
+44={
+	name=Fabius
+	dynasty=4
+	dna="ailokaelfbn"
+	culture=capracciana religion=hellenic_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=8 learning=7
+	add_trait=detached_priest add_trait=gluttonous add_trait=paranoid add_trait=honest add_trait=chaste 
+	add_trait=shy add_trait=charitable 
+	father=40	#Basilius
+	182.10.4={ birth=yes }
+	238.11.16={ death=yes }
+}
+45={
+	name=Annius
+	dynasty=4
+	dna="omeegaeffjo"
+	culture=capracciana religion=hellenic_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=8 learning=5
+	add_trait=flamboyant_schemer add_trait=duelist add_trait=paranoid add_trait=wroth add_trait=brave 
+	add_trait=just add_trait=cruel add_trait=drunkard 
+	father=40	#Basilius
+	186.10.16={ birth=yes }
+	258.10.19={ death=yes }
+}
+46={
+	name=Plautilla
+	female=yes
+	dynasty=4
+	dna="oblegefbkfg"
+	culture=capracciana religion=hellenic_pagan
+	father=41	#Quintus
+	200.9.22={ birth=yes }
+	270.12.21={ death=yes }
+}
+47={
+	name=Maximianus
+	dynasty=4
+	dna="oielcamlfjo"
+	culture=capracciana religion=hellenic_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=5 learning=5
+	add_trait=misguided_warrior add_trait=hedonist add_trait=diligent add_trait=humble add_trait=cruel 
+	father=41	#Quintus
+	202.4.4={ birth=yes }
+	272.12.2={ death=yes }
+}
+48={
+	name=Augustus
+	dynasty=4
+	dna="loooeablfln"
+	culture=capracciana religion=hellenic_pagan
+	martial=7 diplomacy=5 stewardship=5 intrigue=6 learning=7
+	add_trait=midas_touched add_trait=honest add_trait=trusting add_trait=slothful add_trait=brave 
+	add_trait=lunatic 
+	father=41	#Quintus
+	204.11.4={ birth=yes }
+	277.7.7={ death=yes }
+}
+49={
+	name=Honoria
+	female=yes
+	dynasty=4
+	dna="kiaedhhfdpn"
+	culture=capracciana religion=hellenic_pagan
+	father=41	#Quintus
+	208.2.27={ birth=yes }
+	281.7.22={ death=yes }
+}
+50={
+	name=Priscus
+	dynasty=4
+	dna="fiakaaklffm"
+	culture=capracciana religion=hellenic_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=4 learning=7
+	add_trait=indulgent_wastrel add_trait=charitable add_trait=honest add_trait=arbitrary add_trait=kind 
+	add_trait=gregarious 
+	father=41	#Quintus
+	210.8.19={ birth=yes }
+	261.7.7={ death=yes }
+}
+51={
+	name=Aleria
+	female=yes
+	dynasty=4
+	dna="aiadggglfip"
+	culture=capracciana religion=hellenic_pagan
+	father=41	#Quintus
+	212.5.23={ birth=yes }
+	269.2.1={ death=yes }
+}
+52={
+	name=Julianus
+	dynasty=4
+	dna="odolfedlfhi"
+	culture=capracciana religion=hellenic_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=6 learning=5
+	add_trait=misguided_warrior add_trait=trusting add_trait=envious add_trait=gregarious add_trait=charitable 
+	add_trait=patient 
+	father=47	#Maximian
+	224.8.5={ birth=yes }
+	287.8.15={ death=yes }
+}
+53={
+	name=Fortunata
+	female=yes
+	dynasty=4
+	dna="fpkpncmlfoe"
+	culture=capracciana religion=hellenic_pagan
+	father=47	#Maximian
+	228.9.26={ birth=yes }
+	282.3.18={ death=yes }
+}
+60={
+	name=Felix
+	dynasty=6
+	dna="mnmodedoaeo"
+	culture=capracciana religion=hellenic_pagan
+	martial=7 diplomacy=4 stewardship=7 intrigue=7 learning=6
+	add_trait=detached_priest add_trait=shy add_trait=proud 
+	209.10.15={ birth=yes }
+	280.12.15={ death=yes }
+}
+61={
+	name=Philippus
+	dynasty=6
+	dna="jnmjdeimapo"
+	culture=capracciana religion=hellenic_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=5 learning=5
+	add_trait=elusive_shadow add_trait=slothful add_trait=greedy add_trait=paranoid add_trait=proud 
+	add_trait=patient add_trait=just add_trait=wounded add_trait=lunatic 
+	father=60	#Felix
+	230.5.18={ birth=yes }
+	274.7.30={ death=yes }
+}
+62={
+	name=Severus
+	dynasty=6
+	dna="momodlpbdpo"
+	culture=capracciana religion=hellenic_pagan
+	martial=4 diplomacy=4 stewardship=8 intrigue=7 learning=4
+	add_trait=tough_soldier add_trait=humble add_trait=content 
+	father=60	#Felix
+	234.4.20={ birth=yes }
+	284.11.4={ death=yes }
+}
+63={
+	name=Mancus
+	dynasty=6
+	dna="mnmbdbdohee"
+	culture=capracciana religion=hellenic_pagan
+	martial=7 diplomacy=8 stewardship=4 intrigue=8 learning=7
+	add_trait=midas_touched add_trait=envious add_trait=cynical add_trait=lustful add_trait=charitable 
+	father=60	#Felix
+	239.11.2={ birth=yes }
+	288.1.21={ death=yes }
+}
+64={
+	name=Justinia
+	female=yes
+	dynasty=6
+	dna="mnmldcaokjb"
+	culture=capracciana religion=hellenic_pagan
+	father=60	#Felix
+	240.8.6={ birth=yes }
+	309.6.13={ death=yes }
+}
+70={
+	name=Saturnus
+	dynasty=7
+	dna="bpdbcjckglf"
+	culture=capracciana religion=hellenic_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=7 learning=4
+	add_trait=charismatic_negotiator add_trait=scholar add_trait=temperate add_trait=charitable add_trait=envious 
+	249.11.19={ birth=yes }
+	316.12.23={ death=yes }
+}
+71={
+	name=Annius
+	dynasty=7
+	dna="bpojcfgkbpf"
+	culture=capracciana religion=hellenic_pagan
+	martial=7 diplomacy=8 stewardship=4 intrigue=4 learning=5
+	add_trait=tough_soldier add_trait=celibate add_trait=patient add_trait=envious add_trait=proud 
+	add_trait=cruel 
+	father=70	#Symmachus
+	275.11.23={ birth=yes }
+	302.6.1={religion=orthodox 
+	add_trait=sympathy_pagans}
+	347.12.9={ death=yes }
+}
+72={
+	name=Caecilius
+	dynasty=7
+	dna="npjbcjhkelm"
+	culture=capracciana religion=hellenic_pagan
+	martial=7 diplomacy=5 stewardship=4 intrigue=5 learning=6
+	add_trait=martial_cleric add_trait=gluttonous add_trait=diligent add_trait=honest add_trait=paranoid 
+	father=70	#Symmachus
+	279.6.18={ birth=yes }
+	339.5.4={ death=yes }
+}
+73={
+	name=Clementius
+	dynasty=7
+	dna="mekicbkkllf"
+	culture=capracciana religion=hellenic_pagan
+	martial=6 diplomacy=7 stewardship=6 intrigue=4 learning=7
+	add_trait=grey_eminence add_trait=just add_trait=brave add_trait=ambitious add_trait=gregarious 
+	father=70	#Symmachus
+	282.2.19={ birth=yes }
+	338.3.27={ death=yes }
+}
+74={
+	name=Petronella
+	female=yes
+	dynasty=7
+	dna="baoapmekgpm"
+	culture=capracciana religion=hellenic_pagan
+	father=71	#Annius
+	300.3.5={ birth=yes }
+	302.6.1={religion=orthodox 
+	add_trait=sympathy_pagans}
+	372.1.28={ death=yes }
+}
+75={
+	name=Galerius
+	dynasty=7
+	dna="lkojkfgebpn"
+	culture=capracciana religion=hellenic_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=6 learning=5
+	add_trait=flamboyant_schemer add_trait=hunter add_trait=kind add_trait=cynical add_trait=brave 
+	father=71	#Annius
+	301.6.10={ birth=yes }
+	302.6.1={religion=orthodox 
+	add_trait=sympathy_pagans}
+	385.11.21={ death=yes }
+}
+76={
+	name=Elianora
+	female=yes
+	dynasty=7
+	dna="lkkjnihcdbn"
+	culture=capracciana religion=orthodox
+	father=75	#Galerius
+	323.11.27={ birth=yes }
+	396.4.1={ death=yes }
+}
+77={
+	name=Leo
+	dynasty=7
+	dna="ikojpbgnbjm"
+	culture=capracciana religion=orthodox
+	martial=6 diplomacy=5 stewardship=8 intrigue=4 learning=4
+	add_trait=flamboyant_schemer add_trait=celibate add_trait=lustful add_trait=cynical add_trait=greedy 
+	add_trait=shy 
+	father=75	#Galerius
+	327.12.25={ birth=yes }
+	396.1.13={ death=yes }
+}
+78={
+	name=Symmachus
+	dynasty=7
+	dna="llojkegebkj"
+	culture=capracciana religion=orthodox
+	martial=6 diplomacy=8 stewardship=7 intrigue=5 learning=8
+	add_trait=martial_cleric add_trait=celibate add_trait=slothful add_trait=kind add_trait=proud 
+	add_trait=lustful 
+	father=75	#Galerius
+	330.12.13={ birth=yes }
+	396.12.1={ death=yes }
+}
+79={
+	name=Domina
+	female=yes
+	dynasty=7
+	dna="bpojkembkpe"
+	culture=capracciana religion=orthodox
+	father=75	#Galerius
+	333.9.15={ birth=yes }
+	392.8.24={ death=yes }
+}
+
+80={
+	name=Sempronius
+	dynasty=8
+	dna="coblf0nhoma"
+	culture=capracciana religion=hellenic_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=8 learning=7
+	add_trait=flamboyant_schemer add_trait=just add_trait=envious add_trait=deceitful add_trait=ambitious 
+	add_trait=drunkard 
+	338.9.10={ birth=yes }
+	392.2.29={ death=yes }
+}
+81={
+	name=Dominica
+	female=yes
+	dynasty=8
+	dna="pobaefnfoaa"
+	culture=capracciana religion=hellenic_pagan
+	father=80	#Galerius
+	371.7.4={ birth=yes }
+	416.3.5={ death=yes }
+}
+82={
+	name=Helena
+	female=yes
+	dynasty=8
+	dna="cobjlmnaoma"
+	culture=capracciana religion=hellenic_pagan
+	father=80	#Galerius
+	375.5.12={ birth=yes }
+	436.3.6={ death=yes }
+}
+83={
+	name=Modia
+	female=yes
+	dynasty=8
+	dna="ninlehnhome"
+	culture=capracciana religion=hellenic_pagan
+	father=80	#Galerius
+	379.1.11={ birth=yes }
+	431.2.2={ death=yes }
+}
+84={
+	name=Constans
+	dynasty=8
+	dna="cibff0icce0"
+	properties="rl0h0c0d000000"
+	culture=capracciana religion=hellenic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=8 learning=4
+	add_trait=indulgent_wastrel add_trait=honest add_trait=chaste add_trait=wroth add_trait=paranoid 
+	add_trait=cruel add_trait=scarred
+	father=80	#Sempronius
+	371.10.4={ birth=yes }
+	451.6.12={ death=yes }
+}
+85={
+	name=Maximinus
+	dynasty=8
+	dna="hmbfffpmodj"
+	culture=capracciana religion=orthodox
+	martial=6 diplomacy=8 stewardship=8 intrigue=5 learning=5
+	add_trait=grey_eminence add_trait=patient add_trait=diligent add_trait=ill 
+	father=84	#Constans
+	408.10.16={ birth=yes }
+	457.10.1={ death=yes }
+}
+86={
+	name=Aurelius
+	dynasty=8
+	dna="eebfbfnbejk"
+	culture=capracciana religion=orthodox
+	martial=4 diplomacy=6 stewardship=7 intrigue=6 learning=5
+	add_trait=skilled_tactician add_trait=duelist add_trait=charitable add_trait=proud add_trait=brave 
+	add_trait=arbitrary 
+	father=84	#Constans
+	413.3.2={ birth=yes }
+	456.6.28={ death=yes }
+}
+87={
+	name=Valerius
+	dynasty=8
+	dna="aolmffbcokb"
+	culture=capracciana religion=orthodox
+	martial=5 diplomacy=6 stewardship=7 intrigue=6 learning=5
+	add_trait=tough_soldier add_trait=celibate add_trait=diligent add_trait=kind add_trait=craven 
+	add_trait=just 
+	father=84	#Constans
+	417.9.1={ birth=yes }
+	481.11.17={ death=yes }
+}
+
+90={
+	name=Gratianus
+	dynasty=9
+	dna="fpabdecpkia"
+	culture=capracciana religion=orthodox
+	martial=5 diplomacy=8 stewardship=7 intrigue=7 learning=6
+	add_trait=flamboyant_schemer add_trait=cruel add_trait=paranoid add_trait=just add_trait=wroth 
+	add_trait=diligent 
+	430.6.27={ birth=yes }
+	483.2.11={ death=yes }
+}
+91={
+	name=Mancus
+	dynasty=9
+	dna="bpabjnbjjib"
+	culture=capracciana religion=orthodox
+	martial=8 diplomacy=8 stewardship=7 intrigue=5 learning=7
+	add_trait=grey_eminence add_trait=content add_trait=craven add_trait=diligent 
+	father=90	#Valerian
+	458.10.22={ birth=yes }
+	474.2.1={religion=hellenic_pagan}
+	503.10.9={ death=yes }
+}
+92={
+	name=Magnus
+	dynasty=9
+	dna="fpbeiekpbia"
+	culture=capracciana religion=orthodox
+	martial=5 diplomacy=6 stewardship=5 intrigue=5 learning=8
+	add_trait=detached_priest add_trait=hedonist add_trait=arbitrary add_trait=chaste add_trait=cruel 
+	add_trait=zealous add_trait=lunatic 
+	father=90	#Valerian
+	461.8.19={ birth=yes }
+	523.3.30={ death=yes }
+}
+93={
+	name=Symmachus
+	dynasty=9
+	dna="fpacdegdjik"
+	culture=capracciana religion=orthodox
+	martial=7 diplomacy=5 stewardship=5 intrigue=7 learning=6
+	add_trait=detached_priest add_trait=zealous add_trait=paranoid add_trait=craven 
+	father=90	#Valerian
+	464.8.24={ birth=yes }
+	534.5.11={ death=yes }
+}
+94={
+	name=Paulina
+	female=yes
+	dynasty=9
+	dna="fbajgbppeka"
+	culture=capracciana religion=orthodox
+	father=90	#Valerian
+	468.11.17={ birth=yes }
+	535.12.4={ death=yes }
+}
+95={
+	name=Liberius
+	dynasty=9
+	dna="bpobllnkjib"
+	culture=capracciana religion=hellenic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=6 learning=8
+	add_trait=tough_soldier add_trait=zealous add_trait=charitable add_trait=envious add_trait=ambitious 
+	add_trait=shy add_trait=humble 
+	father=91	#Mancus
+	479.8.12={ birth=yes }
+	532.9.3={ death=yes }
+}
+96={
+	name=Leo
+	dynasty=9
+	dna="bhabenbmjjb"
+	culture=capracciana religion=hellenic_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=8 learning=7
+	add_trait=skilled_tactician add_trait=impaler add_trait=trusting add_trait=lustful 
+	father=91	#Mancus
+	480.7.8={ birth=yes }
+	557.6.25={ death=yes }
+}
+97={
+	name=Domitiana
+	female=yes
+	dynasty=9
+	dna="blhbanfjjib"
+	culture=capracciana religion=hellenic_pagan
+	father=91	#Mancus
+	483.10.21={ birth=yes }
+	517.4.6={ death=yes }
+}
+98={
+	name=Petronia
+	female=yes
+	dynasty=9
+	dna="pjgnhgbaeio"
+	culture=capracciana religion=hellenic_pagan
+	father=91	#Mancus
+	487.8.5={ birth=yes }
+	517.4.28={ death=yes }
+}
+99={
+	name=Poppaea
+	female=yes
+	dynasty=9
+	dna="bkabjnbjaia"
+	culture=capracciana religion=hellenic_pagan
+	father=91	#Mancus
+	490.12.24={ birth=yes }
+	542.5.12={ death=yes }
+}
+100={
+	name=Claudius
+	dynasty=10
+	dna="gcobngokggo"
+	culture=capracciana religion=hellenic_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=6 learning=6
+	add_trait=misguided_warrior add_trait=honest add_trait=chaste add_trait=temperate add_trait=cruel 
+	add_trait=zealous add_trait=kind 
+	505.10.16={ birth=yes }
+	559.1.12={ death=yes }
+}
+101={
+	name=Junina
+	female=yes
+	dynasty=10
+	dna="lgmnllnnjmp"
+	culture=capracciana religion=hellenic_pagan
+	father=100	#Claudius
+	529.8.24={ birth=yes }
+	593.11.4={ death=yes }
+}
+102={
+	name=Honorius
+	dynasty=10
+	dna="phoacgofjgo"
+	culture=capracciana religion=hellenic_pagan
+	martial=6 diplomacy=4 stewardship=6 intrigue=7 learning=7
+	add_trait=flamboyant_schemer add_trait=ambitious add_trait=gregarious add_trait=trusting add_trait=just 
+	add_trait=temperate
+	father=100	#Claudius
+	533.5.22={ birth=yes }
+	588.7.9={ death=yes }
+}
+103={
+	name=Sergius
+	dynasty=10
+	dna="bkimppnkjga"
+	culture=capracciana religion=hellenic_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=4 learning=7
+	add_trait=intricate_webweaver add_trait=diligent add_trait=envious add_trait=content
+	father=102	#Honorius
+	553.2.22={ birth=yes }
+	595.4.17={ death=yes }
+}
+104={
+	name=Titius
+	dynasty=10
+	dna="ggobnodempf"
+	culture=capracciana religion=hellenic_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=7 learning=5
+	add_trait=martial_cleric add_trait=content add_trait=proud add_trait=zealous add_trait=charitable 
+	add_trait=brave add_trait=envious add_trait=lunatic
+	father=102	#Honorius
+	557.9.12={ birth=yes }
+	599.10.21={ death=yes }
+}
+105={
+	name=Victorinus
+	dynasty=10
+	dna="gfnkjgopggn"
+	culture=capracciana religion=hellenic_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=6 learning=6
+	add_trait=skilled_tactician add_trait=humble add_trait=zealous add_trait=deceitful 
+	father=103	#Sergius
+	575.10.16={ birth=yes }
+	635.7.11={ death=yes }
+}
+106={
+	name=Petronia
+	female=yes
+	dynasty=10
+	dna="gcejnndcfco"
+	culture=capracciana religion=hellenic_pagan
+	father=103	#Sergius
+	578.6.26={ birth=yes }
+	586.10.5={ death=yes }
+}
+107={
+	name=Aemilius
+	dynasty=10
+	dna="laobbgjkpcc"
+	culture=capracciana religion=hellenic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=4 learning=7
+	add_trait=mastermind_theologian add_trait=hedonist add_trait=proud add_trait=slothful add_trait=brave 
+	add_trait=cynical 
+	father=105	#Victorinus
+	593.12.10={ birth=yes }
+	649.10.16={ death=yes }
+}
+108={
+	name=Tacitus
+	dynasty=10
+	dna="hlobkpogddj"
+	culture=capracciana religion=hellenic_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=6 learning=5
+	add_trait=mastermind_theologian add_trait=duelist add_trait=charitable add_trait=cynical add_trait=kind 
+	add_trait=arbitrary add_trait=gregarious 
+	father=107	#Aemilius
+	616.6.11={ birth=yes }
+	656.1.20={ death=yes }
+}
+
+110={
+	name=Marcellus
+	dynasty=11
+	dna="mcdeiglkpjf"
+	culture=capracciana religion=hellenic_pagan
+	martial=6 diplomacy=4 stewardship=6 intrigue=4 learning=5
+	add_trait=grey_eminence add_trait=hunter add_trait=slothful add_trait=greedy add_trait=lustful 
+	add_trait=brave add_trait=honest add_trait=cruel 
+	619.9.11={ birth=yes }
+	665.11.19={ death=yes }
+}
+111={
+	name=Domnina
+	female=yes
+	dynasty=11
+	dna="jcnpihlklol"
+	culture=capracciana religion=hellenic_pagan
+	father=110	#Marcellus
+	645.8.22={ birth=yes }
+	697.6.24={ death=yes }
+}
+112={
+	name=Antonius
+	dynasty=11
+	dna="hldehgaaojk"
+	culture=capracciana religion=hellenic_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=7 learning=5
+	add_trait=tough_soldier add_trait=humble add_trait=greedy add_trait=cynical add_trait=drunkard 
+	father=110	#Marcellus
+	648.5.2={ birth=yes }
+	692.4.7={ death=yes }
+}
+113={
+	name=Decius
+	dynasty=11
+	dna="fcdedglgdee"
+	culture=capracciana religion=hellenic_pagan
+	martial=7 diplomacy=5 stewardship=5 intrigue=5 learning=4
+	add_trait=misguided_warrior add_trait=honest add_trait=gluttonous add_trait=gregarious add_trait=brave 
+	father=110	#Marcellus
+	651.1.11={ birth=yes }
+	698.2.6={ death=yes }
+}
+114={
+	name=Cornelius
+	dynasty=11
+	dna="hnhemgfalji"
+	culture=capracciana religion=hellenic_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=6 learning=7
+	add_trait=detached_priest add_trait=arbitrary add_trait=cruel 
+	father=112	#Antonius
+	674.7.12={ birth=yes }
+	725.2.14={ death=yes }
+}
+115={
+	name=Carlita
+	female=yes
+	dynasty=11
+	dna="hlaikgafmkb"
+	culture=capracciana religion=hellenic_pagan
+	father=112	#Antonius
+	677.4.1={ birth=yes }
+	736.4.10={ death=yes }
+}
+116={
+	name=Aemilian
+	dynasty=11
+	dna="hkdegbbbfpk"
+	culture=capracciana religion=hellenic_pagan
+	martial=7 diplomacy=8 stewardship=4 intrigue=6 learning=8
+	add_trait=grey_eminence add_trait=gregarious add_trait=zealous add_trait=proud 
+	father=112	#Antonius
+	681.7.14={ birth=yes }
+	751.3.23={ death=yes }
+}
+117={
+	name=Poppaea
+	female=yes
+	dynasty=11
+	dna="bppehchaojo"
+	culture=capracciana religion=hellenic_pagan
+	father=112	#Antonius
+	686.3.16={ birth=yes }
+	751.2.19={ death=yes }
+}
+118={
+	name=Gaius
+	dynasty=11
+	dna="hedengfaoji"
+	culture=capracciana religion=hellenic_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=7 learning=8
+	add_trait=naive_appeaser add_trait=chaste add_trait=honest add_trait=charitable add_trait=kind 
+	add_trait=stressed 
+	father=114	#Tacitus
+	701.2.13={ birth=yes }
+	755.3.23={ death=yes }
+}
+119={
+	name=Ambrosius
+	dynasty=11
+	dna="ddinmgpkdji"
+	culture=capracciana religion=hellenic_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=5 learning=4
+	add_trait=charismatic_negotiator add_trait=trusting add_trait=envious add_trait=patient add_trait=just 
+	father=114	#Tacitus
+	704.11.6={ birth=yes }
+	748.4.6={ death=yes }
+}
+120={
+	name=Maximinus
+	dynasty=11
+	dna="hochmgcaljf"
+	culture=capracciana religion=hellenic_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=8 learning=8
+	add_trait=mastermind_theologian add_trait=charitable add_trait=kind add_trait=diligent add_trait=wroth 
+	add_trait=just add_trait=temperate add_trait=drunkard 
+	father=114	#Tacitus
+	709.4.2={ birth=yes }
+	762.1.3={ death=yes }
+}
+121={
+	name=Victoria
+	female=yes
+	dynasty=11
+	dna="hnhemglanjb"
+	culture=capracciana religion=hellenic_pagan
+	father=114	#Tacitus
+	713.12.17={ birth=yes }
+	753.10.16={ death=yes }
+}
+122={
+	name=Laurinus
+	dynasty=12
+	dna="lnarezkkrbe"
+	culture=siliani religion=donatist
+	378.9.29={ birth=yes }
+	418.4.6={ death=yes }
+}
+123={
+	name=Amandus
+	dynasty=13
+  dna="accgc0ab0b0"
+  properties="nm0cca00000000"
+	culture=fornellà religion=donatist
+	358.1.16={ birth=yes }
+	411.9.2={ death=yes }
+}
+124={
+	name=Leon
+	dynasty=14
+	  dna="aegcc0g00b0"
+	culture=fornellà religion=donatist
+	362.4.1={ birth=yes }
+	431.12.9={ death=yes }
+}
+125={
+	name=Ector
+	dynasty=15
+	dna="hnaemzpkdbi"
+	culture=fornellà religion=donatist
+	378.7.31={ birth=yes }
+	421.3.22={ death=yes }
+}
+126={
+	name=Felip
+	dynasty=16
+  dna="acabg0fbbb0"
+  properties="hb0gma00000000"
+	culture=fornellà religion=donatist
+	344.10.4={ birth=yes }
+	407.2.2={ death=yes }
+}
+127={
+	name=Julio
+	dynasty=17
+	dna="bibeh0abbc0"
+	culture=fornellà religion=donatist
+	383.10.4={ birth=yes }
+	407.2.2={ death=yes }
+}
+128={
+	name=Pelaio
+	dynasty=18
+	dna="wzwicyjybes"
+	portrait="chzdck00000000"
+	culture=costano religion=zunist
+	361.5.4={ birth=yes }
+	411.9.12={ death=yes }
+}
+129={
+	name=Muno
+	dynasty=19
+  dna="b0be00egda0"
+	culture=costano religion=zunist
+	361.5.4={ birth=yes }
+	411.9.12={ death=yes }
+}
+130={
+	name=Lopo
+	dynasty=20
+  dna="bggif0ea0a0"
+	culture=costano religion=zunist
+	361.5.4={ birth=yes }
+	411.9.12={ death=yes }
+}
+131={
+	name=Ario
+	dynasty=21
+	dna="a0wi00ea0a0"
+	culture=pravio religion=zunist
+	361.5.4={ birth=yes }
+	411.9.12={ death=yes }
+}
+132={
+	name=Martin
+	dynasty=22
+	dna="hkaljkbofcb"
+	culture=marrùna religion=pelagian
+	359.11.24={ birth=yes }
+	422.3.8={ death=yes }
+}
+133={
+	name=Domitiano
+	dynasty=23
+	dna="mpakjijphcc"
+	culture=atessana religion=pelagian
+	370.7.19={ birth=yes }
+	408.10.10={ death=yes }
+}
+134={
+	name=Cesario
+	dynasty=24
+	dna="hkakjkjp0c0"
+	culture=galiazzana religion=pelagian
+	361.5.9={ birth=yes }
+	424.12.1={ death=yes }
+}
+135={
+	name=Aurel
+	dynasty=25
+	dna="lbqhyidmzcw"
+	culture=corvigliana religion=hellenic_pagan
+	361.5.9={ birth=yes }
+	424.12.1={ death=yes }
+}
+136={
+	name=Cosmin
+	dynasty=26
+	dna="hkakjkjp0c0"
+	culture=corvigliana religion=hellenic_pagan
+	361.5.9={ birth=yes }
+	424.12.1={ death=yes }
+}
+137={
+	name=Silvan
+	dynasty=27
+	dna="aphdqjbrrsf"
+	culture=corvigliana religion=hellenic_pagan
+	361.5.9={ birth=yes }
+	424.12.1={ death=yes }
+}
+138={
+	name=Caprutio
+	dynasty=28
+	culture=capracciana religion=hellenic_pagan
+	378.10.29={ birth=yes }
+	434.2.15={ death=yes }
+}

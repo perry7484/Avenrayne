@@ -1,0 +1,21 @@
+# c_arbuna
+
+# County Title
+title = c_arbuna
+
+# Settlements
+max_settlements = 7
+
+b_arbuna = castle
+#b_arbuna_2 = city
+#b_arbuna_3 = temple
+#b_arbuna_4 = castle
+#b_arbuna_5 = city
+#b_arbuna_6 = temple
+#b_arbuna_7 = castle
+
+# Misc
+culture = alayo
+religion = miaphysite
+
+#History

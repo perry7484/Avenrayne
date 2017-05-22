@@ -1,0 +1,35 @@
+# c_lerca
+
+# County Title
+title = c_lerca
+
+# Settlements
+max_settlements = 7
+
+b_lerca = city
+b_giulio = castle
+b_orchidee = temple
+b_scalogna = city
+#b_pannesi = city
+#b_lumarzo = temple
+#b_teriasca = castle
+
+# Misc
+culture = galiazzana
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = hellenic_pagan
+culture = capracciana
+}
+560.1.1 = { 
+culture = galiazzana
+}
+250.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+

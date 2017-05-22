@@ -1,0 +1,13 @@
+# e_arsizia
+500.1.1=
+{
+	liege=d_falerona
+
+	law = succ_patrician_elective
+}
+736.11.23={
+	holder=4001 #Paulo
+}
+761.3.14={
+	holder=4002 #Felice
+}

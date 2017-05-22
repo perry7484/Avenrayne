@@ -1,0 +1,5 @@
+755.6.2={
+	holding_dynasty = 4260
+	liege="d_boglia"
+	holder=4282 #Lealdo
+}

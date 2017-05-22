@@ -1,0 +1,21 @@
+# c_djupdal
+
+# County Title
+title = c_djupdal
+
+# Settlements
+max_settlements = 7
+
+b_djupdal = tribal
+#b_djupdal_2 = city
+#b_djupdal_3 = temple
+#b_djupdal_4 = castle
+#b_djupdal_5 = city
+#b_djupdal_6 = temple
+#b_djupdal_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

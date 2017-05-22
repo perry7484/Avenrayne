@@ -1,0 +1,21 @@
+# c_annaglin
+
+# County Title
+title = c_annaglin
+
+# Settlements
+max_settlements = 7
+
+b_aldburgh = castle
+#b_annaglin = city
+#b_annaglin_2 = temple
+#b_annaglin_3 = castle
+#b_annaglin_4 = city
+#b_annaglin_5 = temple
+#b_annaglin_6 = castle
+
+# Misc
+culture = abonae
+religion = pelagian
+
+#History

@@ -1,0 +1,21 @@
+# c_granville
+
+# County Title
+title = c_granville
+
+# Settlements
+max_settlements = 7
+
+b_granville = castle
+b_rebegon = city
+b_vosse = temple
+#b_des_ours = castle
+#b_mirille = city
+#b_courceroy = temple
+#b_maille = castle
+
+# Misc
+culture = western_rayne
+religion = cathar
+
+#History

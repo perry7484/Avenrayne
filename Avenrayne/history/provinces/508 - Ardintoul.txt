@@ -1,0 +1,21 @@
+# c_ardintoul
+
+# County Title
+title = c_ardintoul
+
+# Settlements
+max_settlements = 7
+
+b_ardintoul = tribal
+#b_ardintoul_2 = city
+#b_ardintoul_3 = temple
+#b_ardintoul_4 = castle
+#b_ardintoul_5 = city
+#b_ardintoul_6 = temple
+#b_ardintoul_7 = castle
+
+# Misc
+culture = ardthirraich
+religion = celtic_pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_connel
+
+# County Title
+title = c_connel
+
+# Settlements
+max_settlements = 7
+
+b_connel = castle
+#b_connel_2 = city
+#b_connel_3 = temple
+#b_connel_4 = castle
+#b_connel_5 = city
+#b_connel_6 = temple
+#b_connel_7 = castle
+
+# Misc
+culture = abonae
+religion = lollard
+
+#History

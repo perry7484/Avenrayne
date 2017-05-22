@@ -1,0 +1,40 @@
+# c_tirslund
+
+# County Title
+title = c_tirslund
+
+# Settlements
+max_settlements = 7
+
+b_tirslund = tribal
+#b_abild = city
+#b_bredevad = temple
+#b_genner = castle
+#b_bjert = city
+#b_solt = temple
+#b_gudme = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History
+1030.1.1 = {
+	b_tirslund = castle
+	b_abild = city
+	b_bredevad = temple
+	b_tirslund = ca_keep_1
+	b_tirslund = ca_stable_1
+	b_tirslund = ca_militia_barracks_1
+	b_tirslund = ca_wall_1
+	b_tirslund = ca_wall_2
+	b_tirslund = ca_shipyard_1
+	b_abild = ct_wall_1
+	b_abild = ct_barracks_1
+	b_abild = ct_port_1
+	b_bredevad = tp_monastery_1
+	b_bredevad = tp_shipyard_1
+}
+1080.1.1 = {
+culture = tirslander
+}

@@ -1,0 +1,21 @@
+# c_chemora
+
+# County Title
+title = c_chemora
+
+# Settlements
+max_settlements = 7
+
+b_chemora = castle
+#b_chemora_2 = city
+#b_chemora_3 = temple
+#b_chemora_4 = castle
+#b_chemora_5 = city
+#b_chemora_6 = temple
+#b_chemora_7 = castle
+
+# Misc
+culture = merouani
+religion = hellenic_pagan
+
+#History

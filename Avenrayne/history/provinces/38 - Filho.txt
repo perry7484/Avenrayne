@@ -1,0 +1,41 @@
+# c_filho
+
+# County Title
+title = c_filho
+
+# Settlements
+max_settlements = 7
+
+b_filho = castle
+#b_vilhabrac = city
+#b_clar = temple
+#b_miegjorn = castle
+#b_tabes = city
+#b_nades = temple
+#b_prats = castle
+
+# Misc
+culture = passa_rayne
+religion = cathar
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = renae
+}
+107.1.1 = { 
+religion = hellenic_pagan
+culture = passa_capracciana
+}
+480.1.1 = { 
+culture = passa_rayne
+}
+385.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+625.1.1 = { 
+religion = cathar
+}

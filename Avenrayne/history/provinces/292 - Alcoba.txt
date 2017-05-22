@@ -1,0 +1,21 @@
+# c_alcoba
+
+# County Title
+title = c_alcoba
+
+# Settlements
+max_settlements = 7
+
+b_alcoba = castle
+#b_alcoba_2 = city
+#b_alcoba_3 = temple
+#b_alcoba_4 = castle
+#b_alcoba_5 = city
+#b_alcoba_6 = temple
+#b_alcoba_7 = castle
+
+# Misc
+culture = soreno
+religion = miaphysite
+
+#History

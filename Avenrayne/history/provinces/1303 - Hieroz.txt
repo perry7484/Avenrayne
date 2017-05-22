@@ -1,0 +1,21 @@
+# c_hieroz
+
+# County Title
+title = c_hieroz
+
+# Settlements
+max_settlements = 7
+
+b_hieroz = temple
+#b_hieroz_2 = city
+#b_hieroz_3 = temple
+#b_hieroz_4 = castle
+#b_hieroz_5 = city
+#b_hieroz_6 = temple
+#b_hieroz_7 = castle
+
+# Misc
+culture = hieroshki
+religion = jewish
+
+#History

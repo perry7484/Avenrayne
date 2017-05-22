@@ -1,0 +1,21 @@
+# c_rennaise
+
+# County Title
+title = c_rennaise
+
+# Settlements
+max_settlements = 7
+
+b_rennaise = castle
+b_engis = temple
+#b_molu = temple
+#b_velles = castle
+#b_malveisin = city
+#b_bondoufle = temple
+#b_aviron = castle
+
+# Misc
+culture = western_rayne
+religion = cathar
+
+#History

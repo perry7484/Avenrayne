@@ -1,0 +1,19 @@
+# e_nikosia
+100.1.1={
+	law = cognatic_succession
+	law = succ_primogeniture
+}
+
+399.7.15={
+holder=451 #Agapios
+}
+
+736.8.8={
+holder=5013 #Iacobos
+}
+791.7.14={
+holder=5020 #Alexandros
+}
+832.7.17={
+holder=5022 #Boethios
+}

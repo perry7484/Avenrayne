@@ -1,0 +1,21 @@
+# c_guimon
+
+# County Title
+title = c_guimon
+
+# Settlements
+max_settlements = 7
+
+b_lapine = castle
+#b_merosie = city
+#b_sin = temple
+#b_apremont = castle
+#b_laverge = city
+#b_revogne = temple
+#b_huest = castle
+
+# Misc
+culture = western_rayne
+religion = cathar
+
+#History

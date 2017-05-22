@@ -1,0 +1,21 @@
+# c_a_egua
+
+# County Title
+title = c_a_egua
+
+# Settlements
+max_settlements = 7
+
+b_a_egua = castle
+b_cadavos = city
+#b_a_egua_2 = temple
+#b_a_egua_3 = castle
+#b_a_egua_4 = city
+#b_a_egua_5 = temple
+#b_a_egua_6 = castle
+
+# Misc
+culture = costano
+religion = zun_pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_lontta
+
+# County Title
+title = c_lontta
+
+# Settlements
+max_settlements = 7
+
+b_lontta = tribal
+#b_lontta_2 = city
+#b_lontta_3 = temple
+#b_lontta_4 = castle
+#b_lontta_5 = city
+#b_lontta_6 = temple
+#b_lontta_7 = castle
+
+# Misc
+culture = ruomalainen
+religion = finnish_pagan
+
+#History

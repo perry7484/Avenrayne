@@ -1,0 +1,25 @@
+# e_atessa
+20.1.1={
+liege=e_capraccia
+}
+450.1.1={
+liege=k_atessa
+}
+537.1.1 = {
+	liege = k_atessa
+}
+741.12.3={
+	holder=4400 #Zaccaria
+}
+754.1.17={
+	holder=4401 #Cecco
+}
+771.2.20={
+	holder=4406 #Candido
+}
+804.7.5={
+	holder=4408 #Sebastiano
+}
+840.11.25={
+	holder=0 ###Placeholder, empire disintegrates aft. Seb's death?
+}

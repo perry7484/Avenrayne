@@ -1,0 +1,21 @@
+# c_montpol
+
+# County Title
+title = c_montpol
+
+# Settlements
+max_settlements = 7
+
+b_montpol = castle
+#b_montpol_2 = city
+#b_montpol_3 = temple
+#b_montpol_4 = castle
+#b_montpol_5 = city
+#b_montpol_6 = temple
+#b_montpol_7 = castle
+
+# Misc
+culture = fornellà
+religion = cathar
+
+#History

@@ -1,0 +1,47 @@
+# c_nikosia
+
+# County Title
+title = c_nikosia
+
+# Settlements
+max_settlements = 7
+
+b_nikosia = castle
+b_nikosia_2 = city
+b_nikosia_3 = temple
+b_nikosia_4 = castle
+b_nikosia_5 = city
+b_nikosia_6 = temple
+#b_nikosia_7 = castle
+
+# Misc
+culture = amfissaki
+religion = orthodox
+
+#History
+400.1.1 = { 
+	b_nikosia = ca_shipyard_1
+	b_nikosia = ca_shipyard_2
+	b_nikosia = ca_shipyard_3
+	b_nikosia = ca_shipyard_4
+	b_nikosia = ca_keep_1
+	b_nikosia = ca_keep_2
+	b_nikosia = ca_training_grounds_1
+	b_nikosia = ca_stable_1
+	b_nikosia = ca_barracks_1
+	b_nikosia = ca_barracks_2
+	b_nikosia = ca_militia_barracks_1
+	b_nikosia = ca_militia_barracks_2
+	b_nikosia = ca_wall_1
+	b_nikosia = ca_wall_2
+	b_nikosia = ca_wall_3
+	b_nikosia = ca_wall_4
+	b_nikosia = ca_wall_5
+	b_nikosia = ca_wall_q_1
+	b_nikosia = ca_wall_q_2
+	b_nikosia = ca_wall_q_3
+	b_nikosia = ca_con_wall_6
+	b_nikosia = ca_town_1
+	b_nikosia = ca_town_2
+	b_nikosia = ca_town_3
+}

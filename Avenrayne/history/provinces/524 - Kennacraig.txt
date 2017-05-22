@@ -1,0 +1,21 @@
+# c_kennacraig
+
+# County Title
+title = c_kennacraig
+
+# Settlements
+max_settlements = 7
+
+b_kennacraig = tribal
+#b_abernethy = city
+#b_kennacraig_2 = temple
+#b_kennacraig_3 = castle
+#b_kennacraig_4 = city
+#b_kennacraig_5 = temple
+#b_kennacraig_6 = castle
+
+# Misc
+culture = ardthirraich
+religion = celtic_pagan
+
+#History

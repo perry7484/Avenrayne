@@ -1,0 +1,21 @@
+# c_snorre
+
+# County Title
+title = c_snorre
+
+# Settlements
+max_settlements = 7
+
+b_snorre = tribal
+#b_snorre_2 = city
+#b_snorre_3 = temple
+#b_snorre_4 = castle
+#b_snorre_5 = city
+#b_snorre_6 = temple
+#b_snorre_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

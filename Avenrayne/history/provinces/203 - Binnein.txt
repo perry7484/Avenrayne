@@ -1,0 +1,21 @@
+# c_binnein
+
+# County Title
+title = c_binnein
+
+# Settlements
+max_settlements = 7
+
+b_bedale_2 = castle
+#b_binnein = city
+#b_binnein_2 = temple
+#b_binnein_3 = castle
+#b_binnein_4 = city
+#b_binnein_5 = temple
+#b_binnein_6 = castle
+
+# Misc
+culture = abonae
+religion = pelagian
+
+#History

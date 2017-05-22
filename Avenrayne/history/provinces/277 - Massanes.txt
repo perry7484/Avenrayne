@@ -1,0 +1,21 @@
+# c_massanes
+
+# County Title
+title = c_massanes
+
+# Settlements
+max_settlements = 7
+
+b_massanes = castle
+#b_massanes_2 = city
+#b_massanes_3 = temple
+#b_massanes_4 = castle
+#b_massanes_5 = city
+#b_massanes_6 = temple
+#b_massanes_7 = castle
+
+# Misc
+culture = fornellà
+religion = cathar
+
+#History

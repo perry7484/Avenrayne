@@ -1,0 +1,21 @@
+# c_calheta
+
+# County Title
+title = c_calheta
+
+# Settlements
+max_settlements = 7
+
+b_calheta = castle
+b_praia) = temple
+b_serreta = city
+#b_luz = castle
+#b_lajes = city
+#b_agualva = temple
+#b_calheta_2 = castle
+
+# Misc
+culture = costano
+religion = zun_pagan
+
+#History

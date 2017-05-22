@@ -1,0 +1,12 @@
+# e_varodia
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+600.1.1={
+	liege=d_luncani
+}
+655.1.1={holder=8025} #Bogdan[8001]
+687.12.08={holder=8026} #Milos[8001]
+716.01.26={holder=8031} #Roman[8001]
+753.03.21={holder=8033} #Vlad[8001]

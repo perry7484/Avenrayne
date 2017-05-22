@@ -1,0 +1,21 @@
+# c_navolok
+
+# County Title
+title = c_navolok
+
+# Settlements
+max_settlements = 7
+
+b_navolok = tribal
+#b_navolok_2 = city
+#b_navolok_3 = temple
+#b_navolok_4 = castle
+#b_navolok_5 = city
+#b_navolok_6 = temple
+#b_navolok_7 = castle
+
+# Misc
+culture = kulovski
+religion = slavic_pagan
+
+#History

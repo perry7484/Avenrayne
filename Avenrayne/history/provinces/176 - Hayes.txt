@@ -1,0 +1,41 @@
+# c_hayes
+
+# County Title
+title = c_hayes
+
+# Settlements
+max_settlements = 7
+
+b_hayes = castle
+#b_hayes_2 = city
+#b_hayes_3 = temple
+#b_hayes_4 = castle
+#b_hayes_5 = city
+#b_hayes_6 = temple
+#b_hayes_7 = castle
+
+# Misc
+culture = maesmyge
+religion = lollard
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = abonae
+}
+105.1.1 = { 
+religion = hellenic_pagan
+culture = abonae_capracciana
+}
+500.1.1 = { 
+culture = eascisc
+}
+480.1.1 = { 
+religion = catholic
+}
+750.1.1 = { 
+religion = lollard
+}
+1130.1.1 = { 
+culture = middlefordish
+}

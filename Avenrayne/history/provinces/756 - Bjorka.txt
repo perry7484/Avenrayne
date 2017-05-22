@@ -1,0 +1,21 @@
+# c_bjorka
+
+# County Title
+title = c_bjorka
+
+# Settlements
+max_settlements = 7
+
+b_bjorka = tribal
+#b_bjorka_2 = city
+#b_bjorka_3 = temple
+#b_bjorka_4 = castle
+#b_bjorka_5 = city
+#b_bjorka_6 = temple
+#b_bjorka_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

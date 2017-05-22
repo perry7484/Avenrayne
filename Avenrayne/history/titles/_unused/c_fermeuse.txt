@@ -1,0 +1,14 @@
+# e_rayne
+500.1.1={
+	law = cognatic_succession
+	law = succ_feudal_elective
+}
+700.1.1={
+	liege=d_la_paix
+}
+743.10.3={
+	holder=30009601
+}
+767.4.11={
+	holder=30009602
+}

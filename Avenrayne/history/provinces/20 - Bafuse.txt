@@ -1,0 +1,44 @@
+# c_bafuse
+
+# County Title
+title = c_bafuse
+
+# Settlements
+max_settlements = 7
+
+b_bafuse = castle
+b_oubal = temple
+#b_lanpoint = temple
+#b_galme = castle
+#b_coeur = city
+#b_malonne = temple
+#b_rneux = castle
+
+# Misc
+culture = eastern_rayne
+religion = cathar
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = renae
+}
+61.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+480.1.1 = { 
+culture = old_rayne
+}
+590.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+691.1.1 = { 
+religion = cathar
+}
+730.1.1 = { 
+culture = eastern_rayne
+}

@@ -1,0 +1,21 @@
+# c_clarvalls
+
+# County Title
+title = c_clarvalls
+
+# Settlements
+max_settlements = 7
+
+b_clarvalls = castle
+#b_clarvalls_2 = city
+#b_clarvalls_3 = temple
+#b_clarvalls_4 = castle
+#b_clarvalls_5 = city
+#b_clarvalls_6 = temple
+#b_clarvalls_7 = castle
+
+# Misc
+culture = fornellà
+religion = cathar
+
+#History

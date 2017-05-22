@@ -1,0 +1,34 @@
+# e_atessa
+1.1.1={
+	law = crown_authority_2
+	law = succ_primogeniture
+	law = centralization_3
+	law = imperial_administration
+	law = ze_administration_laws_2
+	law = vice_royalty_2
+	law = revoke_title_law_1
+}
+537.1.1 = {
+	liege = e_nikosia
+}
+741.12.3 = {
+	liege = 0 # De facto
+	set_tribute_suzerain = { who = e_nikosia percentage = 0.40 }
+}
+741.12.3={
+	holder=4400 #Zaccaria
+}
+754.1.17={
+	holder=4401 #Cecco
+}
+771.2.20={
+	holder=4406 #Candido
+}
+804.7.5={
+	holder=4408 #Sebastiano
+}
+840.11.25={
+	holder=0 ###Placeholder, empire disintegrates aft. Seb's death?
+	clear_tribute_suzerain = e_nikosia
+	liege=0
+}

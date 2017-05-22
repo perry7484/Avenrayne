@@ -1,0 +1,21 @@
+# c_aqaba
+
+# County Title
+title = c_aqaba
+
+# Settlements
+max_settlements = 7
+
+b_aqaba = castle
+#b_aqaba_2 = city
+#b_aqaba_3 = temple
+#b_aqaba_4 = castle
+#b_aqaba_5 = city
+#b_aqaba_6 = temple
+#b_aqaba_7 = castle
+
+# Misc
+culture = bandari
+religion = sunni
+
+#History

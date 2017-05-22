@@ -1,0 +1,21 @@
+# c_junsele
+
+# County Title
+title = c_junsele
+
+# Settlements
+max_settlements = 7
+
+b_junsele = tribal
+#b_junsele_2 = city
+#b_junsele_3 = temple
+#b_junsele_4 = castle
+#b_junsele_5 = city
+#b_junsele_6 = temple
+#b_junsele_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

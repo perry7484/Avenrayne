@@ -1,0 +1,21 @@
+# c_flostrand
+
+# County Title
+title = c_flostrand
+
+# Settlements
+max_settlements = 7
+
+b_flostrand = tribal
+#b_flostrand_2 = city
+#b_flostrand_3 = temple
+#b_flostrand_4 = castle
+#b_flostrand_5 = city
+#b_flostrand_6 = temple
+#b_flostrand_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

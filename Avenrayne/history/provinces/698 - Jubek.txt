@@ -1,0 +1,21 @@
+# c_jubek
+
+# County Title
+title = c_jubek
+
+# Settlements
+max_settlements = 7
+
+b_jubek = tribal
+#b_nebel = city
+#b_welt = temple
+#b_havetoft = castle
+#b_rabel = city
+#b_duberg = temple
+#b_ladelund = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

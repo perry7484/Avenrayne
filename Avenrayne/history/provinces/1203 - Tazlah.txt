@@ -1,0 +1,21 @@
+# c_tazlah
+
+# County Title
+title = c_tazlah
+
+# Settlements
+max_settlements = 7
+
+b_tazlah = castle
+#b_tazlah_2 = city
+#b_tazlah_3 = temple
+#b_tazlah_4 = castle
+#b_tazlah_5 = city
+#b_tazlah_6 = temple
+#b_tazlah_7 = castle
+
+# Misc
+culture = aluqi
+religion = sunni
+
+#History

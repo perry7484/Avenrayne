@@ -1,0 +1,21 @@
+# c_pontneuf
+
+# County Title
+title = c_pontneuf
+
+# Settlements
+max_settlements = 7
+
+b_pontneuf = castle
+b_sparmont = city
+b_andesne = temple
+#b_valotte = castle
+#b_pointeclaire = city
+#b_les_blancs = temple
+#b_chervey = castle
+
+# Misc
+culture = nordval_rayne
+religion = catholic
+
+#History

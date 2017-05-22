@@ -1,0 +1,332 @@
+ckii mod idea - new fort upgrades
+
+fort = {
+	fo_palisades = {
+		desc = fo_palisades_desc
+
+		trigger = { always = yes }
+		build_cost = 45
+		build_time = 49
+		knights = 50
+		garrison_size = 0.2
+		tax_income = 0.15
+		fort_level = 1
+}
+	fo_stonewall_i = {
+		desc = fo_stonewall_desc
+
+		prerequisites = { fo_palisades_i }
+		upgrades_from = fo_palisades_1
+
+		trigger = { always = yes }
+		build_cost = 45
+		build_time = 49
+		knights = 50
+		garrison_size = 0.25
+		tax_income = 0.15
+		fort_level = 1
+}
+	fo_stonewall_ii = {
+		desc = fo_stonewall_desc
+
+		prerequisites = { fo_stonewall_i }
+		upgrades_from = fo_stonewall_i
+
+		trigger = { always = yes }
+		build_cost = 65
+		build_time = 60
+		knights = 50
+		garrison_size = 0.25
+		tax_income = 0.15
+		fort_level = 1
+}
+	fo_stonewall_iii = {
+		desc = fo_stonewall_desc
+
+		prerequisites = { fo_stonewall_ii }
+		upgrades_from = fo_stonewall_ii
+
+		trigger = { always = yes }
+		build_cost = 95
+		build_time = 70
+		knights = 50
+		garrison_size = 0.35
+		tax_income = 0.15
+		fort_level = 1
+}
+
+#wooden watchtower i
+#stone watchtower ii, iii, iv
+#great stone watchtower V
+#fortifications
+#wooden gatehouse i
+#stone gatehouse ii iii iv
+#Great Gate V
+#stables i, ii, iii
+#guard barracks i, ii, iii
+#knight's watch i, ii, iii
+#bakehouse i-v
+#granary i-v
+#latrines i-v
+#cistern i-v
+#workshops i-v
+#Officer's Quarters i-v
+#Fortress Baths i-v
+
+###Training Grounds i-iii
+#Archery Range
+#Fighter Pit
+
+	
+	# Militia barracks, gives light infantry and archers.
+	fo_barracks_1 = {
+		desc = fo_barracks_1_desc
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 365
+		light_infantry = 80
+		archers = 10
+		ai_creation_factor = 100
+		
+		extra_tech_building_start = 1.0
+	}
+	fo_barracks_2 = {
+		desc = fo_barracks_2_desc
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		prerequisites = { fo_stonewall_i }
+		upgrades_from = fo_barracks_1
+		gold_cost = 120
+		build_time = 547
+		heavy_infantry = 50
+		pikemen = 50
+		ai_creation_factor = 99
+
+		extra_tech_building_start = 2.0
+	}
+	fo_barracks_3 = {
+		desc = fo_barracks_3_desc
+		trigger = { TECH_CASTLE_CONSTRUCTION = 5 }
+		upgrades_from = fo_barracks_2
+		gold_cost = 200
+		build_time = 1095
+		light_infantry = 20
+		archers = 90
+		ai_creation_factor = 98
+
+		extra_tech_building_start = 0.5
+	}
+	fo_barracks_4 = {
+		desc = fo_barracks_3_desc
+		trigger = { TECH_CASTLE_CONSTRUCTION = 7 }
+		upgrades_from = fo_barracks_3
+		gold_cost = 300
+		build_time = 1095
+		heavy_infantry = 30
+		pikemen = 120
+		ai_creation_factor = 98
+
+		extra_tech_building_start = 0.5
+	}
+
+	#Training grounds, gives morale and reinforce rate
+	fo_training_grounds_1 = {
+		desc = fo_training_grounds_1_desc
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { fo_stonewall_2 }
+		gold_cost = 200
+		build_time = 730
+		land_morale = 0.1
+		levy_reinforce_rate = 0.1
+		retinuesize = 20
+		ai_creation_factor = 89
+
+		extra_tech_building_start = 1.2
+	}
+	fo_training_grounds_2 = {
+		desc = fo_training_grounds_1_desc
+		trigger = { TECH_CASTLE_CONSTRUCTION = 3 }
+		upgrades_from = fo_training_grounds_1
+		gold_cost = 250
+		build_time = 1095
+		land_morale = 0.15
+		levy_reinforce_rate = 0.15
+		retinuesize = 20
+		ai_creation_factor = 88
+		
+		extra_tech_building_start = 0.5
+	}
+	fo_training_grounds_3 = {
+		desc = fo_training_grounds_1_desc
+		trigger = { TECH_CASTLE_CONSTRUCTION = 6 }
+		upgrades_from = fo_training_grounds_2
+		gold_cost = 300
+		build_time = 2190
+		land_morale = 0.2
+		levy_reinforce_rate = 0.2
+		retinuesize = 20
+		ai_creation_factor = 88
+		
+		extra_tech_building_start = 0.2
+	}
+	
+
+	#Stable, gives light cavalry and some heavy cavalry
+	fo_stable_1 = {
+		desc = fo_stable_1_desc
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 365
+		light_cavalry = 35
+		ai_creation_factor = 89
+		
+		extra_tech_building_start = 0.4
+	}
+	fo_stable_2 = {
+		desc = fo_stable_1_desc
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { fo_stonewall_i }
+		upgrades_from = fo_stable_1
+		gold_cost = 120
+		build_time = 547
+		light_cavalry = 45
+		ai_creation_factor = 88
+
+		extra_tech_building_start = 0.8
+	}
+	fo_stable_3 = {
+		desc = fo_stable_1_desc
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		prerequisites = { fo_stonewall_2 }
+		upgrades_from = fo_stable_2
+		gold_cost = 200
+		build_time = 730
+		light_cavalry = 55
+		ai_creation_factor = 87
+
+		extra_tech_building_start = 0.2
+	}
+	fo_stable_4 = {
+		desc = fo_stable_1_desc
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		upgrades_from = fo_stable_3
+		gold_cost = 300
+		build_time = 1095
+		light_cavalry = 55
+		knights = 5
+		ai_creation_factor = 86
+
+		extra_tech_building_start = 0.2
+	}
+	fo_stable_5 = {
+		desc = fo_stable_1_desc
+		trigger = { TECH_CASTLE_CONSTRUCTION = 6 }
+		upgrades_from = fo_stable_4
+		gold_cost = 400
+		build_time = 2190
+		light_cavalry = 55
+		knights = 10
+		ai_creation_factor = 85
+
+		extra_tech_building_start = 0.2
+	}
+	fo_stable_6 = {
+		desc = fo_stable_1_desc
+		trigger = { TECH_CASTLE_CONSTRUCTION = 8 }
+		upgrades_from = fo_stable_5
+		gold_cost = 500
+		build_time = 2190
+		light_cavalry = 55
+		knights = 20
+		ai_creation_factor = 85
+
+		extra_tech_building_start = 0.2
+	}
+	
+	#Castle town, gives income
+	fo_town_1 = {
+		desc = fo_town_1_desc
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 365
+		tax_income = 2
+		ai_creation_factor = 100
+		
+		extra_tech_building_start = 0.5
+	}
+	fo_town_2 = {
+		desc = fo_town_2_desc
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { fo_stonewall_i }
+		upgrades_from = fo_town_1
+		gold_cost = 120
+		build_time = 547
+		tax_income = 2
+		ai_creation_factor = 99
+
+		extra_tech_building_start = 1.0
+	}
+	fo_town_3 = {
+		desc = fo_town_3_desc
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		prerequisites = { fo_stonewall_2 }
+		upgrades_from = fo_town_2
+		gold_cost = 200
+		build_time = 730
+		tax_income = 2
+		ai_creation_factor = 98
+
+		extra_tech_building_start = 0.2
+	}
+	fo_town_4 = {
+		desc = fo_town_4_desc
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		upgrades_from = fo_town_3
+		gold_cost = 300
+		build_time = 1095
+		tax_income = 2
+		ai_creation_factor = 97
+
+		extra_tech_building_start = 0.2
+	}
+	fo_town_5 = {
+		desc = fo_town_4_desc
+		trigger = { TECH_CASTLE_CONSTRUCTION = 6 }
+		upgrades_from = fo_town_4
+		gold_cost = 400
+		build_time = 2190
+		tax_income = 2
+		ai_creation_factor = 96
+
+		extra_tech_building_start = 0.2
+	}
+	fo_town_6 = {
+		desc = fo_town_5_desc
+		trigger = { TECH_CASTLE_CONSTRUCTION = 8 }
+		upgrades_from = fo_town_5
+		gold_cost = 500
+		build_time = 2190
+		tax_income = 2
+		ai_creation_factor = 96
+
+		extra_tech_building_start = 0.2
+	}
+	
+
+}
+
+
+
+
+#FOR CITIES
+#-Fish Market
+#-Seaport
+
+#FOR ANY
+#-Crop Field
+#-Orchard
+#-Plantation [By Crop/Climate?]
+#-Bridge [Borders a River]
+#-Spice Plantation[But only for certain regions!]
+
+##HISTORICAL
+Via Capracciana

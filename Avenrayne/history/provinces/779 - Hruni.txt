@@ -1,0 +1,21 @@
+# c_hruni
+
+# County Title
+title = c_hruni
+
+# Settlements
+max_settlements = 7
+
+b_hruni = tribal
+#b_hruni_2 = city
+#b_hruni_3 = temple
+#b_hruni_4 = castle
+#b_hruni_5 = city
+#b_hruni_6 = temple
+#b_hruni_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

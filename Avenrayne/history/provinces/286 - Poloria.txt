@@ -1,0 +1,21 @@
+# c_poloria
+
+# County Title
+title = c_poloria
+
+# Settlements
+max_settlements = 7
+
+b_poloria = castle
+#b_poloria_2 = city
+#b_poloria_3 = temple
+#b_poloria_4 = castle
+#b_poloria_5 = city
+#b_poloria_6 = temple
+#b_poloria_7 = castle
+
+# Misc
+culture = soreno
+religion = donatist
+
+#History

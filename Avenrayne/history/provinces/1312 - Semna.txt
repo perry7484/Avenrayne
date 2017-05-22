@@ -1,0 +1,21 @@
+# c_semna
+
+# County Title
+title = c_semna
+
+# Settlements
+max_settlements = 7
+
+b_semna = castle
+b_musi = city
+b_wangaye = temple
+#b_tegaya = castle
+#b_kissaye = city
+#b_okwed = temple
+#b_okbaw = castle
+
+# Misc
+culture = semnite
+religion = west_african_pagan
+
+#History

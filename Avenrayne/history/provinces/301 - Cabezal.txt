@@ -1,0 +1,21 @@
+# c_cabezal
+
+# County Title
+title = c_cabezal
+
+# Settlements
+max_settlements = 7
+
+b_cabezal = castle
+#b_cabezal_2 = city
+#b_cabezal_3 = temple
+#b_cabezal_4 = castle
+#b_cabezal_5 = city
+#b_cabezal_6 = temple
+#b_cabezal_7 = castle
+
+# Misc
+culture = soreno
+religion = miaphysite
+
+#History

@@ -1,0 +1,21 @@
+# c_napsus
+
+# County Title
+title = c_napsus
+
+# Settlements
+max_settlements = 7
+
+b_napsus = castle
+#b_napsus_2 = city
+#b_napsus_3 = temple
+#b_napsus_4 = castle
+#b_napsus_5 = city
+#b_napsus_6 = temple
+#b_napsus_7 = castle
+
+# Misc
+culture = nawwari
+religion = miaphysite
+
+#History

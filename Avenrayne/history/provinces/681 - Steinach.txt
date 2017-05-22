@@ -1,0 +1,21 @@
+# c_steinach
+
+# County Title
+title = c_steinach
+
+# Settlements
+max_settlements = 7
+
+b_steinach = castle
+#b_steinach_2 = city
+#b_steinach_3 = temple
+#b_steinach_4 = castle
+#b_steinach_5 = city
+#b_steinach_6 = temple
+#b_steinach_7 = castle
+
+# Misc
+culture = mittelander
+religion = norse_pagan
+
+#History

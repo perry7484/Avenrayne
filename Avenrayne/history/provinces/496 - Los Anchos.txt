@@ -1,0 +1,21 @@
+# c_los_anchos
+
+# County Title
+title = c_los_anchos
+
+# Settlements
+max_settlements = 7
+
+b_los_anchos = castle
+#b_los_anchos_2 = city
+#b_los_anchos_3 = temple
+#b_los_anchos_4 = castle
+#b_los_anchos_5 = city
+#b_los_anchos_6 = temple
+#b_los_anchos_7 = castle
+
+# Misc
+culture = lanteiro
+religion = miaphysite
+
+#History

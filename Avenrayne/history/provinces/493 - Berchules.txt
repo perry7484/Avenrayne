@@ -1,0 +1,21 @@
+# c_berchules
+
+# County Title
+title = c_berchules
+
+# Settlements
+max_settlements = 7
+
+b_berchules = castle
+#b_berchules_2 = city
+#b_berchules_3 = temple
+#b_berchules_4 = castle
+#b_berchules_5 = city
+#b_berchules_6 = temple
+#b_berchules_7 = castle
+
+# Misc
+culture = calahondo
+religion = sunni
+
+#History

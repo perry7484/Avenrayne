@@ -1,0 +1,21 @@
+# c_daresh
+
+# County Title
+title = c_daresh
+
+# Settlements
+max_settlements = 7
+
+b_daresh = castle
+#b_daresh_2 = city
+#b_daresh_3 = temple
+#b_daresh_4 = castle
+#b_daresh_5 = city
+#b_daresh_6 = temple
+#b_daresh_7 = castle
+
+# Misc
+culture = aluqi
+religion = sunni
+
+#History

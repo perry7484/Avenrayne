@@ -1,0 +1,21 @@
+# c_topolo
+
+# County Title
+title = c_topolo
+
+# Settlements
+max_settlements = 7
+
+b_topolo = castle
+b_stolvizza = city
+#b_topolo_2 = temple
+#b_topolo_3 = castle
+#b_topolo_4 = city
+#b_topolo_5 = temple
+#b_topolo_6 = castle
+
+# Misc
+culture = medana
+religion = orthodox
+
+#History

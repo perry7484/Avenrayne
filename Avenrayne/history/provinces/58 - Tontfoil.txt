@@ -1,0 +1,38 @@
+# c_tontfoil
+
+# County Title
+title = c_tontfoil
+
+# Settlements
+max_settlements = 7
+
+b_tontfoil = castle
+b_longrois = city
+#b_auvont = temple
+#b_labarre = castle
+#b_goulat = city
+#b_linselles = temple
+#b_mosson = castle
+
+# Misc
+culture = western_rayne
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = renae
+}
+2.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+450.1.1 = { 
+culture = old_rayne
+}
+175.1.1 = { 
+religion = catholic
+}
+730.1.1 = { 
+culture = western_rayne
+}

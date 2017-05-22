@@ -1,0 +1,21 @@
+# c_oban
+
+# County Title
+title = c_oban
+
+# Settlements
+max_settlements = 7
+
+b_oban = castle
+#b_oban_2 = city
+#b_oban_3 = temple
+#b_oban_4 = castle
+#b_oban_5 = city
+#b_oban_6 = temple
+#b_oban_7 = castle
+
+# Misc
+culture = abonae
+religion = lollard
+
+#History

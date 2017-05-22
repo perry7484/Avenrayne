@@ -1,0 +1,41 @@
+# c_domotte
+
+# County Title
+title = c_domotte
+
+# Settlements
+max_settlements = 7
+
+b_domotte = castle
+b_pontbrave = city
+b_castelfou = temple
+b_champvert = temple
+#b_loncourbe = city
+#b_valcourbe = temple
+#b_frachamp = castle
+
+# Misc
+culture = eastern_rayne
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = renae
+}
+112.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+480.1.1 = { 
+culture = old_rayne
+}
+480.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+730.1.1 = { 
+culture = eastern_rayne
+}

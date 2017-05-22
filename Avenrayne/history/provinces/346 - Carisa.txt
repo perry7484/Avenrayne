@@ -1,0 +1,37 @@
+# c_carisa
+
+# County Title
+title = c_carisa
+
+# Settlements
+max_settlements = 7
+
+b_carisa = castle
+b_verazzano = temple
+#b_leoni = temple
+#b_carisa_2 = castle
+#b_carisa_3 = city
+#b_carisa_4 = temple
+#b_carisa_5 = castle
+
+# Misc
+culture = galiazzana
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = hellenic_pagan
+culture = varodesi
+}
+101.1.1 = { 
+culture = capracciana
+}
+560.1.1 = { 
+culture = galiazzana
+}
+230.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}

@@ -1,0 +1,28 @@
+# c_taratu
+
+# County Title
+title = c_taratu
+
+# Settlements
+max_settlements = 7
+
+b_taratu = castle
+#b_taratu_2 = city
+#b_taratu_3 = temple
+#b_taratu_4 = castle
+#b_taratu_5 = city
+#b_taratu_6 = temple
+#b_taratu_7 = castle
+
+# Misc
+culture = varodaesca
+religion = pagan
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = varodesi
+}
+450.1.1 = { 
+culture = varodaesca
+}

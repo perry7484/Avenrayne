@@ -1,0 +1,21 @@
+# c_lopera
+
+# County Title
+title = c_lopera
+
+# Settlements
+max_settlements = 7
+
+b_lopera = castle
+#b_lopera_2 = city
+#b_lopera_3 = temple
+#b_lopera_4 = castle
+#b_lopera_5 = city
+#b_lopera_6 = temple
+#b_lopera_7 = castle
+
+# Misc
+culture = soreno
+religion = miaphysite
+
+#History

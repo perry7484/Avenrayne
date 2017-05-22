@@ -1,0 +1,67 @@
+#RAYNE
+technology = {
+	titles = {
+		d_augnon
+		d_ausoleil
+		d_bourgfier
+		d_cagac
+		d_castelfol
+		d_champtrefle
+		d_comeale
+		d_deuxsaintes
+		d_domfort
+		d_forgeours
+		d_fortineau
+		d_garanou
+		d_honflour
+		d_isle_de_rayne
+		d_la_paix
+		d_lamont
+		d_laval
+		d_levec
+		d_lierretour
+		d_malacanta
+		d_malieu
+		d_maloys
+		d_masardis
+		d_milhonta
+		d_mivrone
+		d_montverneau
+		d_morigal
+		d_mouen
+		d_muron
+		d_picroux
+		d_piedmont
+		d_pontneuf
+		d_rennaise
+		d_rigaille
+		d_rocheroyale
+		d_sudserra
+		d_sur_la_narne
+		d_tontfoil
+		d_turcotte
+		d_val_de_solelh
+		d_val_dor
+		d_vigalle
+		d_villosque
+		d_vitres
+	}
+	350 = {
+		military = 1.0
+		economy = 1.3
+		culture = 1.2
+
+		TECH_NAVAL = 1.1
+		TECH_LEGALISM = 2.0
+		TECH_TRADE_PRACTICES = 1.5
+	}
+	1350 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+
+		TECH_NAVAL = 4.5
+		TECH_LEGALISM = 4.5
+		TECH_TRADE_PRACTICES = 4.5
+	}
+}

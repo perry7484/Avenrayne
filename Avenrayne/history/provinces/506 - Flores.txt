@@ -1,0 +1,21 @@
+# c_flores
+
+# County Title
+title = c_flores
+
+# Settlements
+max_settlements = 7
+
+b_flores = city
+b_cisla = city
+b_vulcano = temple
+#b_flores_2 = castle
+#b_flores_3 = city
+#b_flores_4 = temple
+#b_flores_5 = castle
+
+# Misc
+culture = alaioro
+religion = hellenic_pagan
+
+#History

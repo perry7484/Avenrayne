@@ -1,0 +1,38 @@
+# c_forney
+
+# County Title
+title = c_forney
+
+# Settlements
+max_settlements = 7
+
+b_nourey = castle
+#b_forney = city
+#b_dosney = temple
+#b_forney_2 = castle
+#b_forney_3 = city
+#b_forney_4 = temple
+#b_forney_5 = castle
+
+# Misc
+culture = southron
+religion = lollard
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = abonae
+}
+87.1.1 = { 
+religion = hellenic_pagan
+culture = abonae_capracciana
+}
+500.1.1 = { 
+culture = eascisc
+}
+480.1.1 = { 
+religion = catholic
+}
+1130.1.1 = { 
+culture = southron
+}

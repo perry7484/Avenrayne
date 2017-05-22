@@ -1,0 +1,21 @@
+# c_arona
+
+# County Title
+title = c_arona
+
+# Settlements
+max_settlements = 7
+
+b_arona = castle
+#b_arona_2 = city
+#b_arona_3 = temple
+#b_arona_4 = castle
+#b_arona_5 = city
+#b_arona_6 = temple
+#b_arona_7 = castle
+
+# Misc
+culture = soreno
+religion = miaphysite
+
+#History

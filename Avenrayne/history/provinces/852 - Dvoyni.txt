@@ -1,0 +1,21 @@
+# c_dvoyni
+
+# County Title
+title = c_dvoyni
+
+# Settlements
+max_settlements = 7
+
+b_dvoyni = tribal
+#b_dvoyni_2 = city
+#b_dvoyni_3 = temple
+#b_dvoyni_4 = castle
+#b_dvoyni_5 = city
+#b_dvoyni_6 = temple
+#b_dvoyni_7 = castle
+
+# Misc
+culture = kulovski
+religion = slavic_pagan
+
+#History

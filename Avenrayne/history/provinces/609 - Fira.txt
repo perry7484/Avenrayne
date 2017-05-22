@@ -1,0 +1,21 @@
+# c_fira
+
+# County Title
+title = c_fira
+
+# Settlements
+max_settlements = 7
+
+b_fira = castle
+b_fira_2 = city
+#b_fira_3 = temple
+#b_fira_4 = castle
+#b_fira_5 = city
+#b_fira_6 = temple
+#b_fira_7 = castle
+
+# Misc
+culture = amfissaki
+religion = orthodox
+
+#History

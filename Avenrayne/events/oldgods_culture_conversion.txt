@@ -1,0 +1,247 @@
+###################################
+#
+# THE OLD GODS 
+# - Culture Conversion Events
+#
+###################################
+
+# Written by Henrik Eklund
+
+namespace = TOG
+
+# Province culture changes from nordlander to snorrelunder
+province_event = {
+	id = TOG.2000
+	desc = EVTDESC_TOG_2000
+	picture = GFX_evt_viking_throneroom_oldgods
+	border = GFX_event_normal_frame_diplomacy
+	
+	trigger = {
+		year = 950
+		culture = nordlander
+		region = custom_snorrelund
+		NOT = { year = 1150 }
+		NOT = {
+			owner = { 
+				top_liege = { 
+					culture = nordlander 
+					OR = {
+						tier = emperor
+						num_of_king_titles = 2
+					}
+				} 
+			}
+		}
+		NOT = {
+			owner = { 
+				religion_head = { culture = nordlander }
+			}
+		}
+		OR = {
+			AND = {
+				owner = { top_liege = { culture = nordlander } }
+				region = custom_snorrelunder
+			}
+			owner = { top_liege = { culture = snorrelunder } }
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 2800
+		modifier = {
+			factor = 0.3
+			OR = {
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots
+				}
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots_and_slower_normal
+				}
+			}
+		}
+	}
+
+	option = {
+		name = EVTOPTA_TOG_2000
+		trigger = {
+			NOT = {
+				owner = { culture = snorrelunder }
+			}
+		}
+		culture = snorrelunder
+	}
+	option = {
+		name = EVTOPTB_TOG_2000
+		trigger = {
+			owner = { culture = snorrelunder }
+		}
+		culture = snorrelunder
+	}
+}
+
+# Province culture changes from nordlander to norhjemsk
+province_event = {
+	id = TOG.2001
+	desc = EVTDESC_TOG_2001
+	picture = GFX_evt_viking_throneroom_oldgods
+	border = GFX_event_normal_frame_diplomacy
+	
+	trigger = {
+		year = 950
+		culture = nordlander
+		region = custom_norahjem
+		NOT = { year = 1150 }
+		NOT = {
+			owner = { 
+				top_liege = { 
+					culture = nordlander 
+					OR = {
+						tier = emperor
+						num_of_king_titles = 2
+					}
+				} 
+			}
+		}
+		NOT = {
+			owner = { 
+				religion_head = { culture = nordlander }
+			}
+		}
+		OR = {
+			AND = {
+				owner = { top_liege = { culture = nordlander } }
+				region = custom_norhjemsk
+			}
+			owner = { top_liege = { culture = norhjemsk } }
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 2800
+		modifier = {
+			factor = 0.3
+			OR = {
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots
+				}
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots_and_slower_normal
+				}
+			}
+		}
+	}
+
+	option = {
+		name = EVTOPTA_TOG_2001
+		trigger = {
+			NOT = {
+				owner = { culture = norhjemsk }
+			}
+		}
+		culture = norhjemsk
+	}
+	option = {
+		name = EVTOPTB_TOG_2001
+		trigger = {
+			owner = { culture = norhjemsk }
+		}
+		culture = norhjemsk
+	}
+}
+
+# Province culture changes from nordlander to tirslander
+province_event = {
+	id = TOG.2002
+	desc = EVTDESC_TOG_2002
+	picture = GFX_evt_viking_throneroom_oldgods
+	border = GFX_event_normal_frame_diplomacy
+	
+	trigger = {
+		year = 950
+		culture = nordlander
+		region = custom_tirslund
+		NOT = { year = 1150 }
+		NOT = {
+			owner = { 
+				top_liege = { 
+					culture = nordlander 
+					OR = {
+						tier = emperor
+						num_of_king_titles = 2
+					}
+				} 
+			}
+		}
+		NOT = {
+			owner = { 
+				religion_head = { culture = nordlander }
+			}
+		}
+		OR = {
+			AND = {
+				owner = { top_liege = { culture = nordlander } }
+				region = custom_tirslander
+			}
+			owner = { top_liege = { culture = tirslander } }
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 2800
+		modifier = {
+			factor = 0.3
+			OR = {
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots
+				}
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots_and_slower_normal
+				}
+			}
+		}
+	}
+
+	option = {
+		name = EVTOPTA_TOG_2002
+		trigger = {
+			NOT = {
+				owner = { culture = tirslander }
+			}
+		}
+		culture = tirslander
+	}
+	option = {
+		name = EVTOPTB_TOG_2002
+		trigger = {
+			owner = { culture = tirslander }
+		}
+		culture = tirslander
+	}
+}
+
+# Provinces can now flip to nordlander culture
+character_event = {
+	id = TOG.2004
+	hide_window = yes
+	
+	only_playable = yes
+	
+	trigger = {
+		year = 1150
+		NOT = {	has_global_flag = nordlander_culture_flipping }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	immediate = {
+		set_global_flag = nordlander_culture_flipping
+	}
+}

@@ -1,0 +1,21 @@
+# c_villadrau
+
+# County Title
+title = c_villadrau
+
+# Settlements
+max_settlements = 7
+
+b_villadrau = castle
+#b_villadrau_2 = city
+#b_villadrau_3 = temple
+#b_villadrau_4 = castle
+#b_villadrau_5 = city
+#b_villadrau_6 = temple
+#b_villadrau_7 = castle
+
+# Misc
+culture = fornellà
+religion = cathar
+
+#History

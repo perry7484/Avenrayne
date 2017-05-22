@@ -1,0 +1,21 @@
+# c_benbuie
+
+# County Title
+title = c_benbuie
+
+# Settlements
+max_settlements = 7
+
+b_benbuie = castle
+#b_benbuie_2 = city
+#b_benbuie_3 = temple
+#b_benbuie_4 = castle
+#b_benbuie_5 = city
+#b_benbuie_6 = temple
+#b_benbuie_7 = castle
+
+# Misc
+culture = abonae
+religion = celtic_pagan
+
+#History

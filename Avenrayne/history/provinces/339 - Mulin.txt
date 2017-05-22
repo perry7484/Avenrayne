@@ -1,0 +1,34 @@
+# c_mulin
+
+# County Title
+title = c_mulin
+
+# Settlements
+max_settlements = 7
+
+b_mulin = castle
+b_saglina = city
+b_tino = temple
+#b_castell = castle
+#b_pradels = city
+#b_madinas = temple
+#b_cresta = castle
+
+# Misc
+culture = corvigliana
+religion = cathar
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = corviliae
+}
+79.1.1 = { 
+religion = hellenic_pagan
+}
+161.1.1 = { 
+culture = corvigliana
+}
+632.1.1 = { 
+religion = cathar
+}

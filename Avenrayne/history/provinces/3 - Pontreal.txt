@@ -1,0 +1,44 @@
+# c_pontreal
+
+# County Title
+title = c_pontreal
+
+# Settlements
+max_settlements = 7
+
+b_pontreal = castle
+b_chatelblanc = city
+b_vieuxmont = temple
+#b_bizee = castle
+#b_grandages = city
+#b_rennic = temple
+#b_chancy = castle
+
+# Misc
+culture = rayne
+religion = cathar
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = renae
+}
+2.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+480.1.1 = { 
+culture = old_rayne
+}
+290.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+691.1.1 = { 
+religion = cathar
+}
+779.1.1 = { 
+culture = rayne
+}

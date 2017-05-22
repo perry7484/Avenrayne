@@ -1,0 +1,21 @@
+# c_drenchia
+
+# County Title
+title = c_drenchia
+
+# Settlements
+max_settlements = 7
+
+b_drenchia = castle
+b_oseacco = city
+#b_drenchia_2 = temple
+#b_drenchia_3 = castle
+#b_drenchia_4 = city
+#b_drenchia_5 = temple
+#b_drenchia_6 = castle
+
+# Misc
+culture = medana
+religion = pelagian
+
+#History

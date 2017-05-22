@@ -1,0 +1,21 @@
+# c_neano
+
+# County Title
+title = c_neano
+
+# Settlements
+max_settlements = 7
+
+b_neano = castle
+#b_neano_2 = city
+#b_neano_3 = temple
+#b_neano_4 = castle
+#b_neano_5 = city
+#b_neano_6 = temple
+#b_neano_7 = castle
+
+# Misc
+culture = meiro
+religion = zun_pagan
+
+#History

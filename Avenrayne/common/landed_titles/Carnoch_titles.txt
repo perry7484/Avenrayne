@@ -1,0 +1,9 @@
+e_carnoch = {
+	color={ 46 221 120 }
+	color2={ 255 255 20 }
+	
+	capital = 202 # c_aldburgh
+	culture = abonae
+
+	capracciana_group = "Carnochia"
+}

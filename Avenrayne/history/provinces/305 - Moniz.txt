@@ -1,0 +1,21 @@
+# c_moniz
+
+# County Title
+title = c_moniz
+
+# Settlements
+max_settlements = 7
+
+b_moniz = city
+#b_ribeiras = city
+#b_moniz_2 = temple
+#b_moniz_3 = castle
+#b_moniz_4 = city
+#b_moniz_5 = temple
+#b_moniz_6 = castle
+
+# Misc
+culture = soreno
+religion = miaphysite
+
+#History

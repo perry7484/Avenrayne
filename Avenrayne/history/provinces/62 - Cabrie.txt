@@ -1,0 +1,41 @@
+# c_cabrie
+
+# County Title
+title = c_cabrie
+
+# Settlements
+max_settlements = 7
+
+b_cabrie = city
+b_trivials = temple
+b_mellaud = castle
+#b_labrie = castle
+#b_vouzan = city
+#b_giverdier = temple
+#b_essoyes = castle
+
+# Misc
+culture = western_rayne
+religion = cathar
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = renae
+}
+2.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+450.1.1 = { 
+culture = old_rayne
+}
+230.1.1 = { 
+religion = catholic
+}
+691.1.1 = { 
+religion = cathar
+}
+730.1.1 = { 
+culture = western_rayne
+}

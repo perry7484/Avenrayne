@@ -1,0 +1,21 @@
+# c_fontoira
+
+# County Title
+title = c_fontoira
+
+# Settlements
+max_settlements = 7
+
+b_fontoira = castle
+b_yeres = city
+#b_fontoira_2 = temple
+#b_fontoira_3 = castle
+#b_fontoira_4 = city
+#b_fontoira_5 = temple
+#b_fontoira_6 = castle
+
+# Misc
+culture = costano
+religion = zun_pagan
+
+#History

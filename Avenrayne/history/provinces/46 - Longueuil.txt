@@ -1,0 +1,41 @@
+# c_longueuil
+
+# County Title
+title = c_longueuil
+
+# Settlements
+max_settlements = 7
+
+b_longueuil = castle
+#b_rognaix = city
+#b_fortel = temple
+#b_ivec = castle
+#b_bregout = city
+#b_graal_2 = temple
+#b_magnien = castle
+
+# Misc
+culture = western_rayne
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = celtic_pagan
+culture = renae
+}
+152.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+480.1.1 = { 
+culture = old_rayne
+}
+220.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+730.1.1 = { 
+culture = western_rayne
+}

@@ -1,0 +1,21 @@
+# c_llanwnog
+
+# County Title
+title = c_llanwnog
+
+# Settlements
+max_settlements = 7
+
+b_llanwnog = tribal
+#b_llansawel = city
+#b_llanwnda = temple
+#b_llanwnog_2 = castle
+#b_llanwnog_3 = city
+#b_llanwnog_4 = temple
+#b_llanwnog_5 = castle
+
+# Misc
+culture = maesmyge
+religion = celtic_pagan
+
+#History

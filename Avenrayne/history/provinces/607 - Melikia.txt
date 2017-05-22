@@ -1,0 +1,21 @@
+# c_melikia
+
+# County Title
+title = c_melikia
+
+# Settlements
+max_settlements = 7
+
+b_melikia = castle
+b_spartera = city
+#b_lefkimmi = temple
+#b_vitalades = castle
+#b_peribolis = city
+#b_korissia = temple
+#b_linia = castle
+
+# Misc
+culture = amfissaki
+religion = orthodox
+
+#History

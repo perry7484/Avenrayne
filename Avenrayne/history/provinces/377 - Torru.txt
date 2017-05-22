@@ -1,0 +1,21 @@
+# c_torru
+
+# County Title
+title = c_torru
+
+# Settlements
+max_settlements = 7
+
+b_torru = city
+b_stornara = city
+b_cossimu = temple
+b_portapleia = castle
+#b_torru_2 = city
+#b_torru_3 = temple
+#b_torru_4 = castle
+
+# Misc
+culture = marrùna
+religion = catholic
+
+#History

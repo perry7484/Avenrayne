@@ -1,0 +1,21 @@
+# c_artana
+
+# County Title
+title = c_artana
+
+# Settlements
+max_settlements = 7
+
+b_artana = castle
+#b_artana_2 = city
+#b_artana_3 = temple
+#b_artana_4 = castle
+#b_artana_5 = city
+#b_artana_6 = temple
+#b_artana_7 = castle
+
+# Misc
+culture = alayo
+religion = miaphysite
+
+#History

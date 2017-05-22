@@ -1,0 +1,223 @@
+# Capracciana
+city = {
+	ct_via_capracciana_1 = {
+		desc = ct_via_capracciana_1_desc
+		potential = {
+			FROM = { 
+				OR = {
+					culture = capracciana
+				}
+			}
+		}
+		trigger = { TECH_CITY_CONSTRUCTION = 0 }
+		gold_cost = 75
+		build_time = 100
+		global_movement_speed = 0.05
+		tax_income = 0.05
+		tradevalue = 1
+
+		ai_creation_factor = 95
+	}
+
+	# Forum Capraccianum
+	ct_forum_capraccianum_1 = {
+		desc = ct_forum_capraccianum_1_desc
+		potential = {
+			FROM = { 
+				OR = {
+					culture = capracciana
+				}
+			}
+		}
+		trigger = { TECH_CITY_CONSTRUCTION = 0 }
+		gold_cost = 175
+		build_time = 630
+		tax_income = 2.5
+		ai_creation_factor = 101
+	}
+	ct_forum_capraccianum_2 = {
+		desc = ct_forum_capraccianum_1_desc
+		potential = {
+			FROM = { 
+				OR = {
+					culture = capracciana
+				}
+			}
+		}
+		trigger = { TECH_CITY_CONSTRUCTION = 1 }
+		upgrades_from = ct_forum_capraccianum_1
+		gold_cost = 300
+		build_time = 995
+		tax_income = 3.5
+		tech_growth_modifier = 0.15
+		ai_creation_factor = 100
+	}
+	ct_forum_capraccianum_3 = {
+		desc = ct_forum_capraccianum_1_desc
+		potential = {
+			FROM = { 
+				OR = {
+					culture = capracciana
+				}
+			}
+		}
+		trigger = { TECH_CITY_CONSTRUCTION = 2 }
+		upgrades_from = ct_forum_capraccianum_2
+		gold_cost = 425
+		build_time = 2090
+		tax_income = 5
+		ai_creation_factor = 99
+	}
+	ct_forum_capraccianum_4 = {
+		desc = ct_forum_capraccianum_1_desc
+		potential = {
+			FROM = { 
+				OR = {
+					culture = capracciana
+				}
+			}
+		}
+		trigger = { TECH_CITY_CONSTRUCTION = 4 }
+		upgrades_from = ct_forum_capraccianum_3
+		gold_cost = 550
+		build_time = 2000
+		tax_income = 7.5
+		
+	}
+#Other ideas - Great Baths / Imperial Bathhouse / Unique Baths in Capraccia
+
+#Temple Complex / Templum - One per City or Temple
+
+#Ara'/Altar to a 'Patron God' or something - Capraccia would have several
+#^Altars can be built in any type of holding
+#Arcus Triumphalis - Ruler may only build this once in their lifetime, and only if they've won a war
+#Taberna - Tavern
+#Domus
+#Colossus - Would cost a lot and require a lot of prestige - would give quite a bit of monthly prestige
+#Senatus - not quite sure yet but could affect unrest or council members
+#Ampitheatrum Capraccianum (as opposed to Nikosian, Rayne, Middlefordish (in later starts), etc
+}
+#This would start another category here
+
+
+
+
+
+
+
+
+
+# Rayne
+
+#Chateau Gardens
+
+
+#Capracciana
+
+castle = {
+	ca_via_capracciana_1 = {
+		desc = ca_via_capracciana_1_desc
+		potential = {
+			FROM = { 
+				OR = {
+					culture = capracciana
+				}
+			}
+		}
+		trigger = { TECH_CITY_CONSTRUCTION = 0 }
+		gold_cost = 75
+		build_time = 100
+		global_movement_speed = 0.05
+		tax_income = 0.05
+		tradevalue = 1
+
+		ai_creation_factor = 95
+	}
+
+	# Forum Capraccianum
+	ca_forum_capraccianum_1 = {
+		desc = ca_forum_capraccianum_1_desc
+		potential = {
+			FROM = { 
+				OR = {
+					culture = capracciana
+				}
+			}
+		}
+		trigger = { TECH_CITY_CONSTRUCTION = 0 }
+		gold_cost = 175
+		build_time = 630
+		tax_income = 2.5
+		ai_creation_factor = 101
+	}
+	ca_forum_capraccianum_2 = {
+		desc = ca_forum_capraccianum_1_desc
+		potential = {
+			FROM = { 
+				OR = {
+					culture = capracciana
+				}
+			}
+		}
+		trigger = { TECH_CITY_CONSTRUCTION = 1 }
+		upgrades_from = ca_forum_capraccianum_1
+		gold_cost = 300
+		build_time = 995
+		tax_income = 3.5
+		tech_growth_modifier = 0.15
+		ai_creation_factor = 100
+	}
+	ca_forum_capraccianum_3 = {
+		desc = ca_forum_capraccianum_1_desc
+		potential = {
+			FROM = { 
+				OR = {
+					culture = capracciana
+				}
+			}
+		}
+		trigger = { TECH_CITY_CONSTRUCTION = 2 }
+		upgrades_from = ca_forum_capraccianum_2
+		gold_cost = 425
+		build_time = 2090
+		tax_income = 5
+		ai_creation_factor = 99
+	}
+	ca_forum_capraccianum_4 = {
+		desc = ca_forum_capraccianum_1_desc
+		potential = {
+			FROM = { 
+				OR = {
+					culture = capracciana
+				}
+			}
+		}
+		trigger = { TECH_CITY_CONSTRUCTION = 4 }
+		upgrades_from = ct_forum_capraccianum_3
+		gold_cost = 550
+		build_time = 2000
+		tax_income = 7.5
+		
+	}
+}
+
+fort = {
+	fo_via_capracciana_1 = {
+		desc = ct_via_capracciana_1_desc
+		potential = {
+			FROM = { 
+				OR = {
+					culture = capracciana
+				}
+			}
+		}
+		trigger = { TECH_CITY_CONSTRUCTION = 0 }
+		gold_cost = 75
+		build_time = 100
+		global_movement_speed = 0.05
+		tax_income = 0.05
+		tradevalue = 1
+
+		ai_creation_factor = 95
+	}
+}

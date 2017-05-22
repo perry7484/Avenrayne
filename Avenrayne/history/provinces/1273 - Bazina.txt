@@ -1,0 +1,21 @@
+# c_bazina
+
+# County Title
+title = c_bazina
+
+# Settlements
+max_settlements = 7
+
+b_bazina = castle
+#b_bazina_2 = city
+#b_bazina_3 = temple
+#b_bazina_4 = castle
+#b_bazina_5 = city
+#b_bazina_6 = temple
+#b_bazina_7 = castle
+
+# Misc
+culture = siliani
+religion = donatist
+
+#History

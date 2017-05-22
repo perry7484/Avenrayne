@@ -1,0 +1,21 @@
+# c_qirum
+
+# County Title
+title = c_qirum
+
+# Settlements
+max_settlements = 7
+
+b_qirum = castle
+b_qirum_2 = city
+b_qirum_3 = temple
+#b_qirum_4 = castle
+#b_qirum_5 = city
+#b_qirum_6 = temple
+#b_qirum_7 = castle
+
+# Misc
+culture = nawwari
+religion = sunni
+
+#History

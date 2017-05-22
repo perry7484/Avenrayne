@@ -1,0 +1,21 @@
+# c_gohrenberg
+
+# County Title
+title = c_gohrenberg
+
+# Settlements
+max_settlements = 7
+
+b_gohrenberg = castle
+b_rohrig = city
+#b_gohrenberg_2 = temple
+#b_gohrenberg_3 = castle
+#b_gohrenberg_4 = city
+#b_gohrenberg_5 = temple
+#b_gohrenberg_6 = castle
+
+# Misc
+culture = mittelander
+religion = catholic
+
+#History

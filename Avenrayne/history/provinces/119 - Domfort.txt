@@ -1,0 +1,21 @@
+# c_domfort
+
+# County Title
+title = c_domfort
+
+# Settlements
+max_settlements = 7
+
+b_domfort = castle
+b_piroule = city
+#b_vesly = temple
+#b_valveis = castle
+#b_vaufail = city
+#b_frimot = temple
+#b_urville = castle
+
+# Misc
+culture = northern_rayne
+religion = catholic
+
+#History

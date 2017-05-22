@@ -1,0 +1,21 @@
+# c_ketunkorpi
+
+# County Title
+title = c_ketunkorpi
+
+# Settlements
+max_settlements = 7
+
+b_ketunkorpi = tribal
+b_luusua = temple
+#b_ketunkorpi_2 = temple
+#b_ketunkorpi_3 = castle
+#b_ketunkorpi_4 = city
+#b_ketunkorpi_5 = temple
+#b_ketunkorpi_6 = castle
+
+# Misc
+culture = ruomalainen
+religion = finnish_pagan
+
+#History

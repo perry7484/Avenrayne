@@ -1,0 +1,15 @@
+# e_arsizia
+1.1.1={
+	de_jure_liege=e_capraccia
+	liege=e_capraccia
+}
+1.1.1={
+	law = enatic_succession
+	law = succ_feudal_elective
+}
+400.11.5={
+	holder=136 #
+}
+445.1.1={
+liege=0
+}

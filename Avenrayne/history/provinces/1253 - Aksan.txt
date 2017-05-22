@@ -1,0 +1,21 @@
+# c_aksan
+
+# County Title
+title = c_aksan
+
+# Settlements
+max_settlements = 7
+
+b_aksan = castle
+#b_aksan_2 = city
+#b_aksan_3 = temple
+#b_aksan_4 = castle
+#b_aksan_5 = city
+#b_aksan_6 = temple
+#b_aksan_7 = castle
+
+# Misc
+culture = nawwari
+religion = miaphysite
+
+#History

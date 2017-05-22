@@ -1,0 +1,5 @@
+1 = {
+   title=c_rayne
+   max_settlements=7
+   terrain=plains
+}

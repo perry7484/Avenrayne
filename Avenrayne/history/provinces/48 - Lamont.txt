@@ -1,0 +1,41 @@
+# c_lamont
+
+# County Title
+title = c_lamont
+
+# Settlements
+max_settlements = 7
+
+b_lamont = castle
+b_chissac = city
+#b_laux = temple
+#b_miveux = castle
+#b_meuzac = city
+#b_gratierre = temple
+#b_chassey = castle
+
+# Misc
+culture = western_rayne
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = renae
+}
+141.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+480.1.1 = { 
+culture = old_rayne
+}
+590.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+730.1.1 = { 
+culture = western_rayne
+}

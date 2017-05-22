@@ -1,0 +1,21 @@
+# c_bascara
+
+# County Title
+title = c_bascara
+
+# Settlements
+max_settlements = 7
+
+b_bascara = castle
+#b_bascara_2 = city
+#b_bascara_3 = temple
+#b_bascara_4 = castle
+#b_bascara_5 = city
+#b_bascara_6 = temple
+#b_bascara_7 = castle
+
+# Misc
+culture = fornellà
+religion = cathar
+
+#History

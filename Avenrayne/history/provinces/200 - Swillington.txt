@@ -1,0 +1,21 @@
+# c_swillington
+
+# County Title
+title = c_swillington
+
+# Settlements
+max_settlements = 7
+
+b_swillington = castle
+#b_swillington_2 = city
+#b_swillington_3 = temple
+#b_swillington_4 = castle
+#b_swillington_5 = city
+#b_swillington_6 = temple
+#b_swillington_7 = castle
+
+# Misc
+culture = abonae
+religion = pelagian
+
+#History

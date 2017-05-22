@@ -1,0 +1,44 @@
+#CAPRACCIA
+technology = {
+	titles = {
+		d_amianti
+		d_arsita
+		d_avoglie
+		d_boglia
+		d_capraccia
+		d_carapelle
+		d_carisa
+		d_cerratina
+		d_corona
+		d_falerona
+		d_fiori
+		d_funtana
+		d_galiazzo
+		d_lerca
+		d_montemassi
+		d_perano
+		d_pretore
+		d_silanu
+		d_tocchia
+		d_torru
+		d_vindoli
+	}
+	350 = {
+		military = 1.0
+		economy = 1.5
+		culture = 1.4
+
+		TECH_NAVAL = 1.6
+		TECH_LEGALISM = 2.0
+		TECH_TRADE_PRACTICES = 1.6
+	}
+	1350 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+
+		TECH_NAVAL = 4.5
+		TECH_LEGALISM = 4.5
+		TECH_TRADE_PRACTICES = 4.5
+	}
+}

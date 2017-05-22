@@ -1,0 +1,21 @@
+# c_enseada
+
+# County Title
+title = c_enseada
+
+# Settlements
+max_settlements = 7
+
+b_enseada = castle
+b_as_torres = city
+b_corazon = temple
+#b_enseada_2 = castle
+#b_enseada_3 = city
+#b_enseada_4 = temple
+#b_enseada_5 = castle
+
+# Misc
+culture = costano
+religion = zun_pagan
+
+#History

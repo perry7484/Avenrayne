@@ -1,0 +1,41 @@
+# c_mespaux
+
+# County Title
+title = c_mespaux
+
+# Settlements
+max_settlements = 7
+
+b_mespaux = castle
+b_duvibal = city
+#b_tresfaulse = temple
+b_naux = castle
+#b_auzances = city
+#b_diselle = temple
+#b_mornay = castle
+
+# Misc
+culture = eastern_rayne
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = renae
+}
+132.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+480.1.1 = { 
+culture = old_rayne
+}
+383.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+730.1.1 = { 
+culture = eastern_rayne
+}

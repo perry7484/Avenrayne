@@ -1,0 +1,36 @@
+# e_capraccia
+1.1.1={
+	law = cognatic_succession
+	law = succ_primogeniture
+}
+1.1.1={
+	liege=k_corviglia
+	de_jure_liege=k_corviglia
+}
+550.1.1={
+	liege=k_galiazzo
+	de_jure_liege=k_galiazzo
+}
+399.10.2={
+holder=135 #Aurel
+}
+
+
+664.12.22={
+holder=4126 #Orsino
+}
+715.3.28={
+holder=4129 #Giano
+}
+724.5.11={
+holder=4134 #Lupo
+}
+749.10.11={
+holder=4137 #Giorgio
+}
+769.6.25={
+holder=4140 #Ambrogio
+}
+790.5.11={
+holder=4145 #Daniele
+}

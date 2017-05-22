@@ -1,0 +1,34 @@
+# e_arsizia
+1.1.1={
+	de_jure_liege=e_capraccia
+	liege=e_capraccia
+}
+1.1.1={
+	law = agnatic_cognatic_succession
+	law = succ_primogeniture
+}
+58.7.7={
+	holder=3 #Tacitus
+}
+460.1.1={
+	liege=0
+}
+
+714.4.5={
+	holder=4051 #Reno
+}
+765.4.27={
+	holder=4052 #Gianno
+}
+791.12.12={
+	holder=4057 #Valenzio
+}
+807.3.22={
+	holder=4058 #Valentino
+}
+828.7.2={
+	holder=4062 #Antonio
+}
+853.2.22={
+	holder=4066 #Ambrogio
+}

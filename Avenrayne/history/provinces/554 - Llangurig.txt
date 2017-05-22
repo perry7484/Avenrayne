@@ -1,0 +1,21 @@
+# c_llangurig
+
+# County Title
+title = c_llangurig
+
+# Settlements
+max_settlements = 7
+
+b_llangurig = castle
+#b_llangwm = city
+#b_penmaenmawr = temple
+#b_llangurig_2 = castle
+#b_llangurig_3 = city
+#b_llangurig_4 = temple
+#b_llangurig_5 = castle
+
+# Misc
+culture = maesmyge
+religion = catholic
+
+#History

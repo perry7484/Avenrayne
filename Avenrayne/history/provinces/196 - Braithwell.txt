@@ -1,0 +1,21 @@
+# c_braithwell
+
+# County Title
+title = c_braithwell
+
+# Settlements
+max_settlements = 7
+
+b_braithwell = castle
+#b_braithwell_2 = city
+#b_braithwell_3 = temple
+#b_braithwell_4 = castle
+#b_braithwell_5 = city
+#b_braithwell_6 = temple
+#b_braithwell_7 = castle
+
+# Misc
+culture = abonae
+religion = lollard
+
+#History

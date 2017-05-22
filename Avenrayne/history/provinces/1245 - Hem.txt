@@ -1,0 +1,21 @@
+# c_hem
+
+# County Title
+title = c_hem
+
+# Settlements
+max_settlements = 7
+
+b_hem = castle
+#b_hem_2 = city
+#b_hem_3 = temple
+#b_hem_4 = castle
+#b_hem_5 = city
+#b_hem_6 = temple
+#b_hem_7 = castle
+
+# Misc
+culture = nawwari
+religion = miaphysite
+
+#History

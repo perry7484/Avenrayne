@@ -1,0 +1,21 @@
+# c_marin
+
+# County Title
+title = c_marin
+
+# Settlements
+max_settlements = 7
+
+b_marin = castle
+#b_marin_2 = city
+#b_marin_3 = temple
+#b_marin_4 = castle
+#b_marin_5 = city
+#b_marin_6 = temple
+#b_marin_7 = castle
+
+# Misc
+culture = soreno
+religion = miaphysite
+
+#History

@@ -1,0 +1,44 @@
+# c_nicolet
+
+# County Title
+title = c_nicolet
+
+# Settlements
+max_settlements = 7
+
+b_nicolet = castle
+b_peymont = city
+#b_sinord = temple
+#b_caner = castle
+#b_chamberet = city
+#b_montord = temple
+#b_thury = castle
+
+# Misc
+culture = western_rayne
+religion = cathar
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = renae
+}
+2.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+480.1.1 = { 
+culture = old_rayne
+}
+300.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+691.1.1 = { 
+religion = cathar
+}
+730.1.1 = { 
+culture = western_rayne
+}

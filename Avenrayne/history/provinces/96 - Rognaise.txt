@@ -1,0 +1,21 @@
+# c_rognaise
+
+# County Title
+title = c_rognaise
+
+# Settlements
+max_settlements = 7
+
+b_rognaise = castle
+b_boulanger = city
+#b_fargues = temple
+#b_ardentes = castle
+#b_lahage = city
+#b_garou = temple
+#b_steffan = castle
+
+# Misc
+culture = western_rayne
+religion = cathar
+
+#History

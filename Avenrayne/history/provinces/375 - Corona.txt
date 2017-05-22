@@ -1,0 +1,22 @@
+# c_corona
+
+# County Title
+title = c_corona
+
+# Settlements
+max_settlements = 7
+
+b_corona = city
+b_aquilonia = castle
+b_calitri = temple
+b_mezzaluna = castle
+b_lupino = city
+#b_carafia = temple
+#b_corona_2 = castle
+
+# Misc
+culture = atessana
+religion = pelagian
+
+#History
+312.1.1 = { capital = b_aquilonia }

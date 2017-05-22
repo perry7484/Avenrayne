@@ -1,0 +1,21 @@
+# c_monteira
+
+# County Title
+title = c_monteira
+
+# Settlements
+max_settlements = 7
+
+b_monteira = castle
+b_sevane = city
+#b_armea = temple
+#b_monteira_2 = castle
+#b_monteira_3 = city
+#b_monteira_4 = temple
+#b_monteira_5 = castle
+
+# Misc
+culture = meiro
+religion = zun_pagan
+
+#History

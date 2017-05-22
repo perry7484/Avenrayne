@@ -1,0 +1,21 @@
+# c_illa_de_ventos
+
+# County Title
+title = c_illa_de_ventos
+
+# Settlements
+max_settlements = 7
+
+b_illa_de_ventos = castle
+b_leiro = city
+#b_tapia = temple
+#b_illa_de_ventos_2 = castle
+#b_illa_de_ventos_3 = city
+#b_illa_de_ventos_4 = temple
+#b_illa_de_ventos_5 = castle
+
+# Misc
+culture = costano
+religion = zun_pagan
+
+#History

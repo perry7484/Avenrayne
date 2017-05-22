@@ -1,0 +1,21 @@
+# c_gahanapur
+
+# County Title
+title = c_gahanapur
+
+# Settlements
+max_settlements = 7
+
+b_gahanapur = castle
+#b_gahanapur_2 = city
+#b_gahanapur_3 = temple
+#b_gahanapur_4 = castle
+#b_gahanapur_5 = city
+#b_gahanapur_6 = temple
+#b_gahanapur_7 = castle
+
+# Misc
+culture = gahanari
+religion = hindu
+
+#History

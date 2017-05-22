@@ -1,0 +1,215 @@
+e_rayne = {
+	color={ 115 0 85 }
+	color2={ 255 255 20 }
+	
+	capital = 1 # c_rayne
+	culture = rayne
+
+	renae = "Renae"
+	renae_capracciana = "Renia"
+	capracciana = "Renia"
+	old_rayne = "Reina"
+	passa_rayne = "Reina"
+	rayne = "Rayne"
+	
+	k_rayne = {
+		color={ 140 0 104 }
+		color2={ 255 255 255 }
+		
+		capital = 1 # c_rayne
+		culture = rayne
+
+		renae = "Renae"
+		renae_capracciana = "Renia"
+		capracciana = "Renia"
+		old_rayne = "Reina"
+		rayne = "Rayne"
+		
+		d_isle_de_rayne = {
+			color={ 158 6 119 }
+			color2={ 255 255 255 }
+			
+		renae = "Renae"
+		renae_capracciana = "Insula de Renia"
+		capracciana = "Insula de Renia"
+		old_rayne = "Isla de Reina"
+		rayne = "Isle de Rayne"
+
+			capital = 1 # c_rayne
+			
+			c_rayne = { # 1
+				color={ 145 0 30 }
+				color2={ 255 255 255 }
+				
+				b_rayne = {
+					holy_site = catholic
+					renae = "Renae"
+					renae_capracciana = "Renia"
+					capracciana = "Renia"
+					old_rayne = "Reina"
+					rayne = "Rayne"
+				}
+				b_vieuxarbres = {
+					renae_capracciana = "Vecolus Arboribus"
+					capracciana = "Vecolus Arboribus"
+					old_rayne = "Veclosarbres"
+					rayne = "Vieuxarbres"
+				}
+				b_clairpluie = {
+					renae_capracciana = "Clara Pluvia"
+					capracciana = "Clara Pluvia"
+					old_rayne = "Clara Pluia"
+					rayne = "Clairpluie"
+				}
+				b_noirval = {
+					renae_capracciana = "Nigrum Valle"
+					capracciana = "Nigrum Valle"
+					old_rayne = "Nerval"
+					rayne = "Noirval"
+				}
+				b_bourgours = {
+					renae_capracciana = "Burgursium"
+					capracciana = "Burgursium"
+					old_rayne = "Burgurso"
+					rayne = "Bourgours"
+				}
+				b_laibois = {
+					renae_capracciana = "Lebosius"
+					capracciana = "Lebosius"
+					nikosian = "Lebosios"
+					old_rayne = "Leboso"
+					passa_rayne = "Lebosi"
+					rayne = "Laibois"
+				}
+				b_maisonfiere = {
+					renae_capracciana = "Casa Superba"
+					capracciana = "Casa Superba"
+					old_rayne = "Mesonfera"
+					passa_rayne = "Casafèra"
+					rayne = "Maisonfière"
+				}
+			}
+			c_isle_esmeralde = { # 4
+				color={ 198 0 30 }
+				color2={ 255 255 255 }
+				
+				b_isle_esmeralde = {
+					renae = "Enis Achaunghlas"
+					renae_capracciana = "Isola Smaragda"
+					capracciana = "Isola Smaragda"
+					old_rayne = "Isla Smaralda"
+					rayne = "Isle Esmeralde"
+				}
+				b_roncemarte = {
+					renae_capracciana = "Rubus Marstius"
+					capracciana = "Rubus Marstius"
+					old_rayne = "Roncmarsto"
+					rayne = "Roncemarte"
+				}
+				b_rochedure = {
+					renae_capracciana = "Petra Durissima"
+					capracciana = "Petra Durissima"
+					old_rayne = "Roca Dura"
+					rayne = "Rochedure"
+				}
+				b_grand_riviere = {
+					renae_capracciana = "Fluvius Grandis"
+					capracciana = "Fluvius Grandis"
+					old_rayne = "Grando Rivièro"
+					rayne = "Grand Rivière"
+				}
+				b_falaises_blanches = {
+				}
+				b_eaugrise = {
+				}
+				b_chezelles = {
+				}
+			}
+			c_pontreal = { # 3
+				color={ 181 0 30 }
+				color2={ 255 255 255 }
+				
+				capracciana_group = "Tribus Pontibus"
+				old_rayne = "Ponstreales"
+				rayne = "Pontréal"
+				
+				b_pontreal = {
+					capracciana_group = "Tribus Pontibus"
+					old_rayne = "Ponts Treales"
+					rayne = "Pontréal"
+				}
+				b_chatelblanc = {
+				}
+				b_vieuxmont = {
+				}
+				b_bizee = {
+				}
+				b_grandages = {
+				}
+				b_rennic = {
+				}
+				b_chancy = {
+				}
+			}
+			c_rudeforge = { # 2
+				color={ 123 0 30 }
+				color2={ 255 255 255 }
+				
+				b_rudeforge = {
+				}
+				b_eaulong = {
+				}
+				b_naser = {
+					old_rayne = "Nasera"
+				}
+				b_deuxvilles = {
+					old_rayne = "Dos Villas"
+					capracciana_group = "Duas Villas"
+				}
+				b_champjoli = {
+					old_rayne = "Campojolio"
+					capracciana_group = "Iulius Agri"
+				}
+				b_lymoth = {
+				}
+				b_paiter = {
+				}
+			}
+		}
+	}
+	k_belieu = {
+		color={ 153 34 107 }
+		color2={ 255 255 255 }
+		
+		capital = 5 # c_rocheroyale
+		culture = eastern_rayne
+	}
+	k_la_paix = {
+		color={ 195 195 99 }
+		color2={ 255 255 255 }
+		
+		capital = 61 # c_la_paix
+		culture = western_rayne
+	}
+	k_rigaille = {
+		color={ 139 83 67 }
+		color2={ 255 255 255 }
+		
+		capital = 43 # c_rigaille
+		culture = western_rayne
+	}
+	k_castelfol = {
+		color={ 220 180 130 }
+		color2={ 255 255 255 }
+		
+		capital = 123 # c_castelfol
+		culture = northern_rayne
+	}
+	k_arlens = {
+		color={ 99 216 185 }
+		color2={ 255 255 255 }
+		
+		capital = 107 # c_vigalle
+		culture = western_rayne
+	}
+}

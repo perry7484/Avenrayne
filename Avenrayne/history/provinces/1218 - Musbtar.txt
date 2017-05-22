@@ -1,0 +1,21 @@
+# c_musbtar
+
+# County Title
+title = c_musbtar
+
+# Settlements
+max_settlements = 7
+
+b_musbtar = castle
+#b_nur = city
+#b_musbtar_2 = temple
+#b_musbtar_3 = castle
+#b_musbtar_4 = city
+#b_musbtar_5 = temple
+#b_musbtar_6 = castle
+
+# Misc
+culture = aluqi
+religion = sunni
+
+#History

@@ -1,0 +1,11 @@
+# e_rayne
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+759.4.4={
+	holder=3304
+}
+762.1.1={
+	liege=k_belieu
+}

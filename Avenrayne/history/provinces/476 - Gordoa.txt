@@ -1,0 +1,21 @@
+# c_gordoa
+
+# County Title
+title = c_gordoa
+
+# Settlements
+max_settlements = 7
+
+b_gordoa = castle
+#b_gordoa_2 = city
+#b_gordoa_3 = temple
+#b_gordoa_4 = castle
+#b_gordoa_5 = city
+#b_gordoa_6 = temple
+#b_gordoa_7 = castle
+
+# Misc
+culture = praviako
+religion = zun_pagan
+
+#History

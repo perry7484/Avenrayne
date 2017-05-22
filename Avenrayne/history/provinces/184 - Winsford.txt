@@ -1,0 +1,41 @@
+# c_winsford
+
+# County Title
+title = c_winsford
+
+# Settlements
+max_settlements = 7
+
+b_winsford = castle
+#b_winsford_2 = city
+#b_winsford_3 = temple
+#b_winsford_4 = castle
+#b_winsford_5 = city
+#b_winsford_6 = temple
+#b_winsford_7 = castle
+
+# Misc
+culture = middlefordish
+religion = lollard
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = abonae
+}
+105.1.1 = { 
+religion = hellenic_pagan
+culture = abonae_capracciana
+}
+500.1.1 = { 
+culture = eascisc
+}
+480.1.1 = { 
+religion = catholic
+}
+750.1.1 = { 
+religion = pelagian
+}
+1130.1.1 = { 
+culture = middlefordish
+}

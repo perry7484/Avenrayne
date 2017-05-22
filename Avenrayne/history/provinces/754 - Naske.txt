@@ -1,0 +1,21 @@
+# c_naske
+
+# County Title
+title = c_naske
+
+# Settlements
+max_settlements = 7
+
+b_naske = tribal
+#b_naske_2 = city
+#b_naske_3 = temple
+#b_naske_4 = castle
+#b_naske_5 = city
+#b_naske_6 = temple
+#b_naske_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

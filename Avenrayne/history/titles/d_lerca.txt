@@ -1,0 +1,25 @@
+# e_arsizia
+1.1.1={
+	liege=k_galiazzo
+}
+476.7.1={
+liege=0
+}
+691.1.1={
+holder=4041 #Taddeo - PLACEHOLDER DATE
+}
+714.4.15={
+holder=4042 #Danielo
+}
+751.1.23={
+holder=4043 #Catone
+}
+768.11.3={
+holder=4044 #Centino
+}
+787.2.21={
+holder=4045 #Emiglio
+}
+804.9.29={
+holder=4045 #NEW CHAR HERE
+}

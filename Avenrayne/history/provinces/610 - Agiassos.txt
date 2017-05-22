@@ -1,0 +1,21 @@
+# c_agiassos
+
+# County Title
+title = c_agiassos
+
+# Settlements
+max_settlements = 7
+
+b_agiassos = castle
+b_agiassos_2 = city
+#b_agiassos_3 = temple
+#b_agiassos_4 = castle
+#b_agiassos_5 = city
+#b_agiassos_6 = temple
+#b_agiassos_7 = castle
+
+# Misc
+culture = amfissaki
+religion = orthodox
+
+#History

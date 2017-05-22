@@ -1,0 +1,21 @@
+# c_gratia
+
+# County Title
+title = c_gratia
+
+# Settlements
+max_settlements = 7
+
+b_gratia = castle
+#b_gratia_2 = city
+#b_gratia_3 = temple
+#b_gratia_4 = castle
+#b_gratia_5 = city
+#b_gratia_6 = temple
+#b_gratia_7 = castle
+
+# Misc
+culture = varodaesca
+religion = pagan
+
+#History

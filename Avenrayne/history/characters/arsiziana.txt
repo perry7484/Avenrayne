@@ -1,0 +1,59 @@
+4001={
+	name=Paulo
+	dynasty=4000
+	dna="jepbgbcnkpp"
+	culture=arsiziana religion=catholic
+	martial=8 diplomacy=7 stewardship=8 intrigue=6 learning=5
+	add_trait=charismatic_negotiator add_trait=zealous add_trait=just add_trait=trusting 
+	714.10.13={ birth=yes }
+	761.3.14={ death=yes }
+}
+4002={
+	name=Felice
+	dynasty=4000
+	dna="idpbfbcnjop"
+	culture=arsiziana religion=catholic
+	martial=8 diplomacy=7 stewardship=8 intrigue=6 learning=5
+	add_trait=charismatic_negotiator add_trait=zealous add_trait=just add_trait=trusting
+	father=4001
+	739.2.28={ birth=yes }
+	801.8.3={ death=yes }
+}
+4011={
+	name=Marco
+	dynasty=4010
+	dna="dtkdosljpxm"
+	culture=arsiziana religion=catholic
+	martial=8 diplomacy=7 stewardship=8 intrigue=6 learning=5
+	add_trait=charismatic_negotiator add_trait=zealous add_trait=just add_trait=trusting 
+	748.2.8={ birth=yes }
+	813.9.31={ death=yes }
+}
+4021={
+	name=Giovanni
+	dynasty=4020
+	dna="vrjszevpudx"
+	culture=arsiziana religion=catholic
+	martial=8 diplomacy=7 stewardship=8 intrigue=6 learning=5
+	add_trait=charismatic_negotiator add_trait=zealous add_trait=just add_trait=trusting 
+	745.2.8={ birth=yes }
+	791.9.30={ death=yes }
+}
+
+4031={
+	name=Vittore
+	dynasty=4030
+	dna="accbzeacubx"
+	culture=arsiziana religion=catholic
+	martial=8 diplomacy=7 stewardship=8 intrigue=6 learning=5
+	add_trait=charismatic_negotiator add_trait=zealous add_trait=just add_trait=trusting 
+	733.2.8={ birth=yes }
+	779.3.1={ death=yes }
+}
+4320={
+	name=Callisto
+	dynasty=4320
+	culture=arsiziana religion=hellenic_pagan
+	733.2.8={ birth=yes }
+	779.3.1={ death=yes }
+}

@@ -1,0 +1,21 @@
+# c_taliesin
+
+# County Title
+title = c_taliesin
+
+# Settlements
+max_settlements = 7
+
+b_taliesin = castle
+#b_garnswllt = city
+#b_conwy = temple
+#b_taliesin_2 = castle
+#b_taliesin_3 = city
+#b_taliesin_4 = temple
+#b_taliesin_5 = castle
+
+# Misc
+culture = maesmyge
+religion = celtic_pagan
+
+#History

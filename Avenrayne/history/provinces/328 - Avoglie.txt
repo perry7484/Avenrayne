@@ -1,0 +1,34 @@
+# c_avoglie
+
+# County Title
+title = c_avoglie
+
+# Settlements
+max_settlements = 7
+
+b_avoglie = castle
+b_capitello = temple
+#b_brugi = temple
+#b_avoglie_2 = castle
+#b_avoglie_3 = city
+#b_avoglie_4 = temple
+#b_avoglie_5 = castle
+
+# Misc
+culture = arsiziana
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = hellenic_pagan
+culture = capracciana
+}
+560.1.1 = { 
+culture = arsiziana
+}
+230.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}

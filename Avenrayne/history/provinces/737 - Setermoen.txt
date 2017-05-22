@@ -1,0 +1,21 @@
+# c_setermoen
+
+# County Title
+title = c_setermoen
+
+# Settlements
+max_settlements = 7
+
+b_setermoen = tribal
+#b_setermoen_2 = city
+#b_setermoen_3 = temple
+#b_setermoen_4 = castle
+#b_setermoen_5 = city
+#b_setermoen_6 = temple
+#b_setermoen_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

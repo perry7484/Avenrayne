@@ -1,0 +1,41 @@
+# c_norville
+
+# County Title
+title = c_norville
+
+# Settlements
+max_settlements = 7
+
+b_norville = castle
+#b_norville_2 = city
+#b_norville_3 = temple
+#b_norville_4 = castle
+#b_norville_5 = city
+#b_norville_6 = temple
+#b_norville_7 = castle
+
+# Misc
+culture = middlefordish
+religion = lollard
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = abonae
+}
+105.1.1 = { 
+religion = hellenic_pagan
+culture = abonae_capracciana
+}
+500.1.1 = { 
+culture = eascisc
+}
+480.1.1 = { 
+religion = catholic
+}
+750.1.1 = { 
+religion = lollard
+}
+1130.1.1 = { 
+culture = middlefordish
+}

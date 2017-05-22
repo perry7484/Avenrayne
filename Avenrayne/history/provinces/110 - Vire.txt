@@ -1,0 +1,21 @@
+# c_vire
+
+# County Title
+title = c_vire
+
+# Settlements
+max_settlements = 7
+
+b_vire = castle
+b_cusson = city
+#b_saphir = temple
+#b_glandelet = castle
+#b_bremey = city
+#b_marigny = temple
+#b_les_arbres = castle
+
+# Misc
+culture = northern_rayne
+religion = catholic
+
+#History

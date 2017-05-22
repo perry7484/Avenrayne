@@ -1,0 +1,21 @@
+# c_monterosso
+
+# County Title
+title = c_monterosso
+
+# Settlements
+max_settlements = 7
+
+b_monterosso = castle
+b_cires = temple
+#b_monterosso_2 = temple
+#b_monterosso_3 = castle
+#b_monterosso_4 = city
+#b_monterosso_5 = temple
+#b_monterosso_6 = castle
+
+# Misc
+culture = meiro
+religion = zun_pagan
+
+#History

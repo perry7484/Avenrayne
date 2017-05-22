@@ -1,0 +1,21 @@
+# c_mesita
+
+# County Title
+title = c_mesita
+
+# Settlements
+max_settlements = 7
+
+b_mesita = castle
+#b_mesita_2 = city
+#b_mesita_3 = temple
+#b_mesita_4 = castle
+#b_mesita_5 = city
+#b_mesita_6 = temple
+#b_mesita_7 = castle
+
+# Misc
+culture = alayo
+religion = miaphysite
+
+#History

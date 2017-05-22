@@ -1,0 +1,21 @@
+# c_solano
+
+# County Title
+title = c_solano
+
+# Settlements
+max_settlements = 7
+
+b_solano = castle
+b_virigo = city
+#b_solano_2 = temple
+#b_solano_3 = castle
+#b_solano_4 = city
+#b_solano_5 = temple
+#b_solano_6 = castle
+
+# Misc
+culture = costano
+religion = zun_pagan
+
+#History

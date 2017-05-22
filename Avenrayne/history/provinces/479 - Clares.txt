@@ -1,0 +1,21 @@
+# c_clares
+
+# County Title
+title = c_clares
+
+# Settlements
+max_settlements = 7
+
+b_clares = castle
+#b_clares_2 = city
+#b_clares_3 = temple
+#b_clares_4 = castle
+#b_clares_5 = city
+#b_clares_6 = temple
+#b_clares_7 = castle
+
+# Misc
+culture = alayo
+religion = miaphysite
+
+#History

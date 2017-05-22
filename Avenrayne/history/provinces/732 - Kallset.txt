@@ -1,0 +1,21 @@
+# c_kallset
+
+# County Title
+title = c_kallset
+
+# Settlements
+max_settlements = 7
+
+b_kallset = tribal
+#b_kallset_2 = city
+#b_kallset_3 = temple
+#b_kallset_4 = castle
+#b_kallset_5 = city
+#b_kallset_6 = temple
+#b_kallset_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

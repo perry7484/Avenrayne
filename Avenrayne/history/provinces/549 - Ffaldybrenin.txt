@@ -1,0 +1,21 @@
+# c_ffaldybrenin
+
+# County Title
+title = c_ffaldybrenin
+
+# Settlements
+max_settlements = 7
+
+b_ffaldybrenin = castle
+#b_felinfach = city
+#b_trofarth = temple
+#b_ffaldybrenin_2 = castle
+#b_ffaldybrenin_3 = city
+#b_ffaldybrenin_4 = temple
+#b_ffaldybrenin_5 = castle
+
+# Misc
+culture = maesmyge
+religion = catholic
+
+#History

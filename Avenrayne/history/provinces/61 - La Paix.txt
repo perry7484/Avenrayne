@@ -1,0 +1,53 @@
+# c_la_paix
+
+# County Title
+title = c_la_paix
+
+# Settlements
+max_settlements = 7
+
+b_la_paix = castle
+b_vivemais = city
+b_saint_antonie = temple
+b_paradis = castle
+b_sers = city
+#b_saint_georges = temple
+#b_fontete = castle
+
+# Misc
+culture = western_rayne
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = renae
+}
+2.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+	b_la_paix = ca_wall_1
+	b_la_paix = ca_town_1
+	b_la_paix = ca_barracks_1
+}
+450.1.1 = { 
+culture = old_rayne
+}
+122.1.1 = { 
+religion = catholic
+}
+250.1.1 = {
+	b_la_paix = ca_keep_1
+	b_la_paix = ca_keep_2
+}
+550.1.1 = { 
+	b_saint_antonie = tp_monastery_1
+	b_saint_antonie = tp_monastery_2
+	b_saint_antonie = tp_barracks_1
+	b_saint_antonie = tp_wall_1
+	b_saint_antonie = tp_wall_2
+	b_saint_antonie = tp_town_1
+}
+730.1.1 = { 
+culture = western_rayne
+}

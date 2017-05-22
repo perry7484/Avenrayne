@@ -1,0 +1,23 @@
+# k_verno
+1.1.1={
+	law = agnatic_cognatic_succession
+	law = succ_gavelkind
+}
+200.1.1={
+	liege=k_verno
+}
+399.11.14={
+	holder=3901 #Tarvos
+}
+436.7.17={
+	holder=3902 #Diocaros
+}
+#460.10.1={
+#	holder=3903 #Gesorios
+#}
+768.10.4={
+	holder=3906 #Boros
+}
+796.7.17={
+	holder=0 ##Placeholder ;)
+}

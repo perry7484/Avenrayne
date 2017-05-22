@@ -1,0 +1,21 @@
+# c_tuxpan
+
+# County Title
+title = c_tuxpan
+
+# Settlements
+max_settlements = 7
+
+b_tuxpan = castle
+#b_tuxpan_2 = city
+#b_tuxpan_3 = temple
+#b_tuxpan_4 = castle
+#b_tuxpan_5 = city
+#b_tuxpan_6 = temple
+#b_tuxpan_7 = castle
+
+# Misc
+culture = xonaca
+religion = aztec
+
+#History

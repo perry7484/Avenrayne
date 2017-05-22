@@ -1,0 +1,34 @@
+# c_pettino
+
+# County Title
+title = c_pettino
+
+# Settlements
+max_settlements = 7
+
+b_pettino = castle
+b_osica = temple
+#b_solerino = temple
+#b_vetriolo = castle
+#b_pettino_2 = city
+#b_pettino_3 = temple
+#b_pettino_4 = castle
+
+# Misc
+culture = arsiziana
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = hellenic_pagan
+culture = capracciana
+}
+560.1.1 = { 
+culture = arsiziana
+}
+230.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}

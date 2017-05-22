@@ -1,0 +1,38 @@
+# c_blisey
+
+# County Title
+title = c_blisey
+
+# Settlements
+max_settlements = 7
+
+b_blisey = castle
+#b_moncton = city
+#b_pleasantvale = temple
+#b_blisey_2 = castle
+#b_blisey_3 = city
+#b_blisey_4 = temple
+#b_blisey_5 = castle
+
+# Misc
+culture = southron
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = abonae
+}
+87.1.1 = { 
+religion = hellenic_pagan
+culture = abonae_capracciana
+}
+500.1.1 = { 
+culture = eascisc
+}
+480.1.1 = { 
+religion = catholic
+}
+1130.1.1 = { 
+culture = southron
+}

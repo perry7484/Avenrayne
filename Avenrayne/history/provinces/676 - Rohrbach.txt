@@ -1,0 +1,21 @@
+# c_rohrbach
+
+# County Title
+title = c_rohrbach
+
+# Settlements
+max_settlements = 7
+
+b_rohrbach = castle
+#b_rohrbach_2 = city
+#b_rohrbach_3 = temple
+#b_rohrbach_4 = castle
+#b_rohrbach_5 = city
+#b_rohrbach_6 = temple
+#b_rohrbach_7 = castle
+
+# Misc
+culture = mittelander
+religion = catholic
+
+#History

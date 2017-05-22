@@ -1,0 +1,21 @@
+# c_arenas
+
+# County Title
+title = c_arenas
+
+# Settlements
+max_settlements = 7
+
+b_arenas = castle
+#b_arenas_2 = city
+#b_arenas_3 = temple
+#b_arenas_4 = castle
+#b_arenas_5 = city
+#b_arenas_6 = temple
+#b_arenas_7 = castle
+
+# Misc
+culture = soreno
+religion = miaphysite
+
+#History

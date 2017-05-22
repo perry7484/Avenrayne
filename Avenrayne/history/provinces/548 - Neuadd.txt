@@ -1,0 +1,21 @@
+# c_neuadd
+
+# County Title
+title = c_neuadd
+
+# Settlements
+max_settlements = 7
+
+b_neuadd = castle
+#b_rhydlydan = city
+#b_dolwen = temple
+#b_neuadd_2 = castle
+#b_neuadd_3 = city
+#b_neuadd_4 = temple
+#b_neuadd_5 = castle
+
+# Misc
+culture = maesmyge
+religion = catholic
+
+#History

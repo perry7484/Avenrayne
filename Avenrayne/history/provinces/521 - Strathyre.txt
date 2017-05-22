@@ -1,0 +1,21 @@
+# c_strathyre
+
+# County Title
+title = c_strathyre
+
+# Settlements
+max_settlements = 7
+
+b_strathyre = tribal
+#b_strathyre_2 = city
+#b_strathyre_3 = temple
+#b_strathyre_4 = castle
+#b_strathyre_5 = city
+#b_strathyre_6 = temple
+#b_strathyre_7 = castle
+
+# Misc
+culture = ardthirraich
+religion = celtic_pagan
+
+#History

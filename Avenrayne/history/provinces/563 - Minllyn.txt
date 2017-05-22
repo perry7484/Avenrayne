@@ -1,0 +1,21 @@
+# c_minllyn
+
+# County Title
+title = c_minllyn
+
+# Settlements
+max_settlements = 7
+
+b_minllyn = castle
+#b_llanycrwys = city
+#b_penmorfa = temple
+#b_minllyn_2 = castle
+#b_minllyn_3 = city
+#b_minllyn_4 = temple
+#b_minllyn_5 = castle
+
+# Misc
+culture = maesmyge
+religion = celtic_pagan
+
+#History

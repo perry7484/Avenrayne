@@ -1,0 +1,41 @@
+# c_kilburn
+
+# County Title
+title = c_kilburn
+
+# Settlements
+max_settlements = 7
+
+b_kilburn = castle
+#b_kilburn_2 = city
+#b_kilburn_3 = temple
+#b_kilburn_4 = castle
+#b_kilburn_5 = city
+#b_kilburn_6 = temple
+#b_kilburn_7 = castle
+
+# Misc
+culture = middlefordish
+religion = lollard
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = abonae
+}
+105.1.1 = { 
+religion = hellenic_pagan
+culture = abonae_capracciana
+}
+500.1.1 = { 
+culture = eascisc
+}
+480.1.1 = { 
+religion = catholic
+}
+750.1.1 = { 
+religion = lollard
+}
+1130.1.1 = { 
+culture = middlefordish
+}

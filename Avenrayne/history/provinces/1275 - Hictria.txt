@@ -1,0 +1,21 @@
+# c_hictria
+
+# County Title
+title = c_hictria
+
+# Settlements
+max_settlements = 7
+
+b_hictria = castle
+#b_hictria_2 = city
+#b_hictria_3 = temple
+#b_hictria_4 = castle
+#b_hictria_5 = city
+#b_hictria_6 = temple
+#b_hictria_7 = castle
+
+# Misc
+culture = siliani
+religion = donatist
+
+#History

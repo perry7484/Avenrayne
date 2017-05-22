@@ -1,0 +1,34 @@
+# c_vindoli
+
+# County Title
+title = c_vindoli
+
+# Settlements
+max_settlements = 7
+
+b_vindoli = castle
+b_valli = city
+#b_aprile = temple
+#b_vindoli_2 = castle
+#b_vindoli_3 = city
+#b_vindoli_4 = temple
+#b_vindoli_5 = castle
+
+# Misc
+culture = arsiziana
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = hellenic_pagan
+culture = capracciana
+}
+560.1.1 = { 
+culture = arsiziana
+}
+230.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}

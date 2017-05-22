@@ -1,0 +1,22 @@
+#e_costa_do_sol
+1.1.1={
+de_jure_liege=e_carnoch
+}
+150.1.1={
+de_jure_liege=e_sonoria
+}
+380.1.1={
+liege=e_costa_do_sol
+}
+391.9.9={
+holder=129
+}
+500.1.1={
+de_jure_liege=e_costa_do_sol
+}
+450.1.1={
+	liege=e_costa_do_sol
+}
+561.1.1={
+liege=0
+}

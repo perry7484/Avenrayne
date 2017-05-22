@@ -1,0 +1,21 @@
+# c_kodenis
+
+# County Title
+title = c_kodenis
+
+# Settlements
+max_settlements = 7
+
+b_kodenis = castle
+#b_kodenis_2 = city
+#b_kodenis_3 = temple
+#b_kodenis_4 = castle
+#b_kodenis_5 = city
+#b_kodenis_6 = temple
+#b_kodenis_7 = castle
+
+# Misc
+culture = nawwari
+religion = miaphysite
+
+#History

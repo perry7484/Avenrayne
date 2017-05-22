@@ -1,0 +1,21 @@
+# c_brearton
+
+# County Title
+title = c_brearton
+
+# Settlements
+max_settlements = 7
+
+b_brearton = castle
+#b_grinton = city
+#b_brearton_2 = temple
+#b_brearton_3 = castle
+#b_brearton_4 = city
+#b_brearton_5 = temple
+#b_brearton_6 = castle
+
+# Misc
+culture = abonae
+religion = lollard
+
+#History

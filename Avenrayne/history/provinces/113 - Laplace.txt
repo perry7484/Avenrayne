@@ -1,0 +1,21 @@
+# c_laplace
+
+# County Title
+title = c_laplace
+
+# Settlements
+max_settlements = 7
+
+b_laplace = castle
+b_goux = temple
+#b_mesnil = temple
+#b_guinivere = castle
+#b_gieville = city
+#b_cappelerie = temple
+#b_messent = castle
+
+# Misc
+culture = northern_rayne
+religion = catholic
+
+#History

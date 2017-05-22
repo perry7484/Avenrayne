@@ -1,0 +1,92 @@
+
+
+
+trade_post = {
+
+	tp_ar_stable_1 = {
+		trigger = { TECH_TRADE_PRACTICES = 0 }
+		potential = {
+			port = no
+		}
+		desc = ca_stable_1_desc
+		gold_cost = 100
+		build_time = 365
+		light_cavalry = 35
+		ai_creation_factor = 89
+		
+		extra_tech_building_start = 0.4
+
+	}
+	tp_ar_stable_2 = {
+		trigger = { TECH_TRADE_PRACTICES = 1 }
+		potential = {
+			port = no
+		}
+		upgrades_from = tp_ar_stable_1
+		desc = ca_stable_1_desc
+		gold_cost = 100
+		build_time = 365
+		light_cavalry = 35
+		ai_creation_factor = 89
+		
+		extra_tech_building_start = 0.4
+
+	}
+	tp_ar_stable_3 = {
+		trigger = { TECH_TRADE_PRACTICES = 2 }
+		potential = {
+			port = no
+		}
+		desc = ca_stable_1_desc
+		upgrades_from = tp_ar_stable_2
+		gold_cost = 200
+		build_time = 730
+		light_cavalry = 55
+		ai_creation_factor = 87
+
+		extra_tech_building_start = 0.2
+	}
+	tp_ar_toll_booth_1 = {
+		trigger = { TECH_TRADE_PRACTICES = 0 }
+		potential = {
+			port = no
+		}
+		gold_cost = 150
+		build_time = 170
+		ai_creation_factor = 95
+		
+		trade_route_wealth = 5	# Affects total value of trade route
+		trade_route_value = 1	# Affects your cut of the trade route income
+		tradevalue = 10
+		tax_income = 2
+	}
+	tp_ar_inn_1 = {
+		trigger = { TECH_TRADE_PRACTICES = 0 }
+		gold_cost = 150
+		build_time = 425
+		potential = {
+			port = no
+		}
+		tax_income = 1.5
+	}
+	tp_ar_watchtower_1 = {
+		trigger = { TECH_TRADE_PRACTICES = 0 }
+		gold_cost = 150
+		build_time = 365
+		potential = {
+			port = no
+		}
+		fort_level = 0.5
+		levy_size = 0.025
+	}
+	tp_ar_trade_roads_1 = {
+		trigger = { TECH_TRADE_PRACTICES = 0 }
+		potential = {
+			port = no
+		}
+		gold_cost = 75
+		build_time = 100
+		global_movement_speed = 0.05
+		tax_income = 0.05
+		tradevalue = 1
+	}

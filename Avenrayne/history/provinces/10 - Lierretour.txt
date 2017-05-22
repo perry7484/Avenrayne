@@ -1,0 +1,41 @@
+# c_lierretour
+
+# County Title
+title = c_lierretour
+
+# Settlements
+max_settlements = 7
+
+b_lierretour = castle
+b_gruse = city
+#b_frontiere = temple
+#b_graal = castle
+#b_rerauld = city
+#b_vieu = temple
+#b_erasme = castle
+
+# Misc
+culture = eastern_rayne
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = celtic_pagan
+culture = renae
+}
+232.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+480.1.1 = { 
+culture = old_rayne
+}
+330.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+730.1.1 = { 
+culture = eastern_rayne
+}

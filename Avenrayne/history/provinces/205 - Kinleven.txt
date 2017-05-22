@@ -1,0 +1,21 @@
+# c_kinleven
+
+# County Title
+title = c_kinleven
+
+# Settlements
+max_settlements = 7
+
+b_leyburn_2 = castle
+#b_kinleven = city
+#b_kinleven_2 = temple
+#b_kinleven_3 = castle
+#b_kinleven_4 = city
+#b_kinleven_5 = temple
+#b_kinleven_6 = castle
+
+# Misc
+culture = abonae
+religion = pelagian
+
+#History

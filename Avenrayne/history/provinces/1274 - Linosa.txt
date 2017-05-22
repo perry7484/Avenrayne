@@ -1,0 +1,21 @@
+# c_linosa
+
+# County Title
+title = c_linosa
+
+# Settlements
+max_settlements = 7
+
+b_linosa = castle
+#b_linosa_2 = city
+#b_linosa_3 = temple
+#b_linosa_4 = castle
+#b_linosa_5 = city
+#b_linosa_6 = temple
+#b_linosa_7 = castle
+
+# Misc
+culture = siliani
+religion = donatist
+
+#History

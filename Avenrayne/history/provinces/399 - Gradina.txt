@@ -1,0 +1,21 @@
+# c_gradina
+
+# County Title
+title = c_gradina
+
+# Settlements
+max_settlements = 7
+
+b_gradina = castle
+#b_prebenico = city
+#b_ceroglie = temple
+#b_gradina_2 = castle
+#b_gradina_3 = city
+#b_gradina_4 = temple
+#b_gradina_5 = castle
+
+# Misc
+culture = medana
+religion = orthodox
+
+#History

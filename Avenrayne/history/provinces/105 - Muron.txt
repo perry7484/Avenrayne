@@ -1,0 +1,21 @@
+# c_muron
+
+# County Title
+title = c_muron
+
+# Settlements
+max_settlements = 7
+
+b_arlens = castle
+b_lanvron = city
+b_lemoncel = temple
+#b_marre = castle
+#b_channon = city
+#b_avon = temple
+#b_pringy = castle
+
+# Misc
+culture = western_rayne
+religion = cathar
+
+#History

@@ -1,0 +1,21 @@
+# c_akhme
+
+# County Title
+title = c_akhme
+
+# Settlements
+max_settlements = 7
+
+b_akhme = castle
+#b_akhme_2 = city
+#b_akhme_3 = temple
+#b_akhme_4 = castle
+#b_akhme_5 = city
+#b_akhme_6 = temple
+#b_akhme_7 = castle
+
+# Misc
+culture = nawwari
+religion = miaphysite
+
+#History

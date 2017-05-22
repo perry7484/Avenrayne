@@ -1,0 +1,38 @@
+# c_woodton
+
+# County Title
+title = c_woodton
+
+# Settlements
+max_settlements = 7
+
+b_woodton = castle
+b_aldbury = temple
+#b_weston = temple
+#b_barrow = castle
+#b_woodton_2 = city
+#b_woodton_3 = temple
+#b_woodton_4 = castle
+
+# Misc
+culture = middlefordish
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = abonae
+}
+105.1.1 = { 
+religion = hellenic_pagan
+culture = abonae_capracciana
+}
+500.1.1 = { 
+culture = eascisc
+}
+480.1.1 = { 
+religion = catholic
+}
+1130.1.1 = { 
+culture = middlefordish
+}

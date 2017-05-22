@@ -1,0 +1,21 @@
+# c_lisia
+
+# County Title
+title = c_lisia
+
+# Settlements
+max_settlements = 7
+
+b_lisia = castle
+b_aedosia = city
+#b_lisia_2 = temple
+#b_lisia_3 = castle
+#b_lisia_4 = city
+#b_lisia_5 = temple
+#b_lisia_6 = castle
+
+# Misc
+culture = amfissaki
+religion = hellenic_pagan
+
+#History

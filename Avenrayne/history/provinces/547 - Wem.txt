@@ -1,0 +1,21 @@
+# c_wem
+
+# County Title
+title = c_wem
+
+# Settlements
+max_settlements = 7
+
+b_wem = castle
+#b_padog = city
+#b_pengwern = temple
+#b_wem_2 = castle
+#b_wem_3 = city
+#b_wem_4 = temple
+#b_wem_5 = castle
+
+# Misc
+culture = maesmyge
+religion = celtic_pagan
+
+#History

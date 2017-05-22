@@ -1,0 +1,21 @@
+# c_comoara
+
+# County Title
+title = c_comoara
+
+# Settlements
+max_settlements = 7
+
+b_comoara = castle
+#b_comoara_2 = city
+#b_comoara_3 = temple
+#b_comoara_4 = castle
+#b_comoara_5 = city
+#b_comoara_6 = temple
+#b_comoara_7 = castle
+
+# Misc
+culture = varodaesca
+religion = pagan
+
+#History

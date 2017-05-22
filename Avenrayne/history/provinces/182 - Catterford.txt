@@ -1,0 +1,38 @@
+# c_catterford
+
+# County Title
+title = c_catterford
+
+# Settlements
+max_settlements = 7
+
+b_catterford = castle
+#b_catterford_2 = city
+#b_catterford_3 = temple
+#b_catterford_4 = castle
+#b_catterford_5 = city
+#b_catterford_6 = temple
+#b_catterford_7 = castle
+
+# Misc
+culture = middlefordish
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = abonae
+}
+105.1.1 = { 
+religion = hellenic_pagan
+culture = abonae_capracciana
+}
+500.1.1 = { 
+culture = eascisc
+}
+480.1.1 = { 
+religion = catholic
+}
+1130.1.1 = { 
+culture = middlefordish
+}

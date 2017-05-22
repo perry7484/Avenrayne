@@ -1,0 +1,307 @@
+1022189=
+{
+	name="Verinus" ###USED FOR YEAR 1 START
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022190=
+{
+	name="Marcianus"
+	culture="capracciana"
+	religion="orthodox"
+	forced_coa_religiongroup="christian"
+}
+1022191=
+{
+	name="Theodosius"
+	culture="capracciana"
+	religion="orthodox"
+	forced_coa_religiongroup="christian"
+}
+1022192=
+{
+	name="Constantius"
+	culture="capracciana"
+	religion="catholic"
+	forced_coa_religiongroup="christian"
+}
+1022193=
+{
+	name="Valentinianus"
+	culture="capracciana"
+	religion="catholic"
+	forced_coa_religiongroup="christian"
+}
+1022194=
+{
+	name="Iovianus"
+	culture="capracciana"
+	religion="catholic"
+	forced_coa_religiongroup="christian"
+}
+1022195=
+{
+	name="Constantinus"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022196=
+{
+	name="Licinianus"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022197=
+{
+	name="Daia"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022198=
+{
+	name="Armentarius"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022199=
+{
+	name="Diocletianus"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022200=
+{
+	name="Carus"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022201=
+{
+	name="Dalmatius"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022202=
+{
+	name="Tacitus"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022203=
+{
+	name="Crinitus"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022204=
+{
+	name="Domitius"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022205=
+{
+	name="Gothicus"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022206=
+{
+	name="Valerianus"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022207=
+{
+	name="Aemilius"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022208=
+{
+	name="Trebonianus"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022209=
+{
+	name="Messius"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022211=
+{
+	name="Africanus"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022212=
+{
+	name="Calvinus"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022213=
+{
+	name="Maximus"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022214=
+{
+	name="Thrax"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022215=
+{
+	name="Severus"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022216=
+{
+	name="Antoninus"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022217=
+{
+	name="Opellius"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022218=
+{
+	name="Severus"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022219=
+{
+	name="Didius"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022220=
+{
+	name="Helvius"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022221=
+{
+	name="Aurelius"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022222=
+{
+	name="Verus"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022223=
+{
+	name="Pius"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022224=
+{
+	name="Hadrianus"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022225=
+{
+	name="Traianus"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022226=
+{
+	name="Cocceius"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022227=
+{
+	name="Flavius"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022228=
+{
+	name="Vitellius"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022229=
+{
+	name="Salvius"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022230=
+{
+	name="Sulpicius"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022231=
+{
+	name="Pompeius"
+	culture="capracciana"
+	religion="miaphysite"
+	forced_coa_religiongroup="christian"
+}
+1022232=
+{
+	name="Claudius"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}
+1022233=
+{
+	name="Maximianus"
+	culture="capracciana"
+	religion="hellenic_pagan"
+	forced_coa_religiongroup="christian"
+}

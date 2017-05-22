@@ -1,0 +1,41 @@
+# c_garanou
+
+# County Title
+title = c_garanou
+
+# Settlements
+max_settlements = 7
+
+b_garanou = castle
+#b_garanou_2 = city
+#b_garanou_3 = temple
+#b_garanou_4 = castle
+#b_garanou_5 = city
+#b_garanou_6 = temple
+#b_garanou_7 = castle
+
+# Misc
+culture = southern_rayne
+religion = cathar
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = renae
+}
+2.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+450.1.1 = { 
+culture = old_rayne
+}
+480.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+730.1.1 = { 
+culture = southern_rayne
+}

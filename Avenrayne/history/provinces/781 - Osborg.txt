@@ -1,0 +1,21 @@
+# c_osborg
+
+# County Title
+title = c_osborg
+
+# Settlements
+max_settlements = 7
+
+b_osborg = tribal
+#b_osborg_2 = city
+#b_osborg_3 = temple
+#b_osborg_4 = castle
+#b_osborg_5 = city
+#b_osborg_6 = temple
+#b_osborg_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_basbord
+
+# County Title
+title = c_basbord
+
+# Settlements
+max_settlements = 7
+
+b_basbord = castle
+b_lonfosne = city
+#b_lavey = temple
+#b_maroses = castle
+#b_analm = city
+#b_lory = temple
+#b_langry = castle
+
+# Misc
+culture = northern_rayne
+religion = catholic
+
+#History

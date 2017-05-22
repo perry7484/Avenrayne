@@ -1,0 +1,21 @@
+# c_peracense
+
+# County Title
+title = c_peracense
+
+# Settlements
+max_settlements = 7
+
+b_peracense = castle
+#b_peracense_2 = city
+#b_peracense_3 = temple
+#b_peracense_4 = castle
+#b_peracense_5 = city
+#b_peracense_6 = temple
+#b_peracense_7 = castle
+
+# Misc
+culture = alayo
+religion = miaphysite
+
+#History

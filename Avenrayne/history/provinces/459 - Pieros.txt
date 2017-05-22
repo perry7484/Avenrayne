@@ -1,0 +1,21 @@
+# c_pieros
+
+# County Title
+title = c_pieros
+
+# Settlements
+max_settlements = 7
+
+b_pieros = castle
+b_baldriz = city
+#b_pieros_2 = temple
+#b_pieros_3 = castle
+#b_pieros_4 = city
+#b_pieros_5 = temple
+#b_pieros_6 = castle
+
+# Misc
+culture = costano
+religion = zun_pagan
+
+#History

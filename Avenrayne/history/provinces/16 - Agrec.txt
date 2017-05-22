@@ -1,0 +1,41 @@
+# c_agrec
+
+# County Title
+title = c_agrec
+
+# Settlements
+max_settlements = 7
+
+b_agrec = castle
+#b_gnail = city
+#b_rodent = temple
+#b_puygnosque = castle
+#b_pord = city
+#b_danches = temple
+#b_oucarent = castle
+
+# Misc
+culture = eastern_rayne
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = celtic_pagan
+culture = renae
+}
+171.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+480.1.1 = { 
+culture = old_rayne
+}
+461.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+746.1.1 = { 
+culture = eastern_rayne
+}

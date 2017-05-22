@@ -1,0 +1,21 @@
+# c_djerdan
+
+# County Title
+title = c_djerdan
+
+# Settlements
+max_settlements = 7
+
+b_djerdan = castle
+#b_djerdan_2 = city
+#b_djerdan_3 = temple
+#b_djerdan_4 = castle
+#b_djerdan_5 = city
+#b_djerdan_6 = temple
+#b_djerdan_7 = castle
+
+# Misc
+culture = nawwari
+religion = miaphysite
+
+#History

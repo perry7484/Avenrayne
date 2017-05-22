@@ -1,0 +1,21 @@
+# c_as_sahna
+
+# County Title
+title = c_as_sahna
+
+# Settlements
+max_settlements = 7
+
+b_as_sahna = castle
+#b_as_sahna_2 = city
+#b_as_sahna_3 = temple
+#b_as_sahna_4 = castle
+#b_as_sahna_5 = city
+#b_as_sahna_6 = temple
+#b_as_sahna_7 = castle
+
+# Misc
+culture = aluqi
+religion = sunni
+
+#History

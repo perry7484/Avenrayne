@@ -1,0 +1,21 @@
+# c_korttia
+
+# County Title
+title = c_korttia
+
+# Settlements
+max_settlements = 7
+
+b_korttia = tribal
+#b_korttia_2 = city
+#b_korttia_3 = temple
+#b_korttia_4 = castle
+#b_korttia_5 = city
+#b_korttia_6 = temple
+#b_korttia_7 = castle
+
+# Misc
+culture = ruomalainen
+religion = finnish_pagan
+
+#History

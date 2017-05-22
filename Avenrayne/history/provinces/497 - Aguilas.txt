@@ -1,0 +1,21 @@
+# c_aguilas
+
+# County Title
+title = c_aguilas
+
+# Settlements
+max_settlements = 7
+
+b_aguilas = castle
+#b_aguilas_2 = city
+#b_aguilas_3 = temple
+#b_aguilas_4 = castle
+#b_aguilas_5 = city
+#b_aguilas_6 = temple
+#b_aguilas_7 = castle
+
+# Misc
+culture = lanteiro
+religion = miaphysite
+
+#History

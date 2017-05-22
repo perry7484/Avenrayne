@@ -1,0 +1,21 @@
+# c_agurain
+
+# County Title
+title = c_agurain
+
+# Settlements
+max_settlements = 7
+
+b_agurain = castle
+#b_agurain_2 = city
+#b_agurain_3 = temple
+#b_agurain_4 = castle
+#b_agurain_5 = city
+#b_agurain_6 = temple
+#b_agurain_7 = castle
+
+# Misc
+culture = pravio
+religion = zun_pagan
+
+#History

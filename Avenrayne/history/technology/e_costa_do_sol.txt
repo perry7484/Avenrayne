@@ -1,0 +1,38 @@
+#COSTA DO SOL
+technology = {
+	titles = {
+		d_agurain
+		d_alevia
+		d_calheta
+		d_candeda
+		d_carrais
+		d_corullon
+		d_enseada
+		d_ezcaray
+		d_fontoira
+		d_leza
+		d_loreto
+		d_los_vientos
+		d_marana
+		d_saliaca
+		d_tres_pinheiros
+		d_verride
+		d_vinhoa
+	}
+	350 = {
+		military = 0.7
+		economy = 1.5
+		culture = 1.3
+
+		TECH_NAVAL = 1.3
+		TECH_LEGALISM = 2.0
+	}
+	1350 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+
+		TECH_NAVAL = 4.5
+		TECH_LEGALISM = 4.5
+	}
+}

@@ -1,0 +1,21 @@
+# c_cymbelan
+
+# County Title
+title = c_cymbelan
+
+# Settlements
+max_settlements = 7
+
+b_cymbelan = tribal
+#b_alltyblaca = city
+#b_carneddi = temple
+#b_cymbelan_2 = castle
+#b_cymbelan_3 = city
+#b_cymbelan_4 = temple
+#b_cymbelan_5 = castle
+
+# Misc
+culture = maesmyge
+religion = celtic_pagan
+
+#History

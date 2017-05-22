@@ -1,0 +1,21 @@
+# c_doma
+
+# County Title
+title = c_doma
+
+# Settlements
+max_settlements = 7
+
+b_doma = tribal
+#b_mata = city
+#b_anjan = temple
+#b_meda = castle
+#b_doma_2 = city
+#b_doma_3 = temple
+#b_doma_4 = castle
+
+# Misc
+culture = semnite
+religion = west_african_pagan
+
+#History

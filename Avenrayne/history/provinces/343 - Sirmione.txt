@@ -1,0 +1,37 @@
+# c_sirmione
+
+# County Title
+title = c_sirmione
+
+# Settlements
+max_settlements = 7
+
+b_sirmione = castle
+b_rovizza = city
+#b_mirona = temple
+#b_agrosa = castle
+#b_monteluro = city
+#b_sirmione_2 = temple
+#b_sirmione_3 = castle
+
+# Misc
+culture = galiazzana
+religion = pelagian
+
+#History
+1.1.1 = { 
+religion = hellenic_pagan
+culture = capracciana
+}
+560.1.1 = { 
+culture = galiazzana
+}
+430.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+650.1.1 = { 
+religion = pelagian
+}

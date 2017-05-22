@@ -1,0 +1,21 @@
+# c_derwenlas
+
+# County Title
+title = c_derwenlas
+
+# Settlements
+max_settlements = 7
+
+b_derwenlas = castle
+#b_glasfryn = city
+#b_mochdre = temple
+#b_derwenlas_2 = castle
+#b_derwenlas_3 = city
+#b_derwenlas_4 = temple
+#b_derwenlas_5 = castle
+
+# Misc
+culture = maesmyge
+religion = catholic
+
+#History

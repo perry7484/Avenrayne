@@ -1,0 +1,21 @@
+# c_galven
+
+# County Title
+title = c_galven
+
+# Settlements
+max_settlements = 7
+
+b_galven = tribal
+#b_kirjavala = city
+#b_galven_2 = temple
+#b_galven_3 = castle
+#b_galven_4 = city
+#b_galven_5 = temple
+#b_galven_6 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

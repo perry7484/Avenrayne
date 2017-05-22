@@ -1,0 +1,11 @@
+# e_rayne
+500.1.1={
+	law = agnatic_succession
+	law = succ_primogeniture
+}
+500.1.1={
+	liege=d_honflour
+}
+741.8.21={
+	holder=3771 #Guilbert
+}

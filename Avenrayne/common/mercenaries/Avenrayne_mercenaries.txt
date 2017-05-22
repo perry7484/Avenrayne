@@ -1,0 +1,15 @@
+frostfist_warriors_composition = {
+	levy_size = 5
+	archers = 150
+	heavy_infantry = 225
+	light_infantry = 225
+	galleys = 2
+}
+nordland_thunder_composition = {
+	levy_size = 5
+	archers = 150
+	heavy_infantry = 200
+	light_infantry = 200
+	knights = 50
+	galleys = 2
+}

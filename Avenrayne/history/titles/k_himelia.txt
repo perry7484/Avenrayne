@@ -1,0 +1,13 @@
+# e_nikosia
+1.1.1={
+	law = agnatic_succession
+	law = succ_primogeniture
+}
+
+336.1.15={
+liege=e_amfissa
+}
+
+399.7.15={
+holder=481 #
+}

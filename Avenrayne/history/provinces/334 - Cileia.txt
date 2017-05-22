@@ -1,0 +1,34 @@
+# c_cileia
+
+# County Title
+title = c_cileia
+
+# Settlements
+max_settlements = 7
+
+b_cileia = city
+b_clivio = city
+b_san_nicolo = temple
+#b_gavello = castle
+#b_capreno = city
+#b_avegno = temple
+#b_vescina = castle
+
+# Misc
+culture = galiazzana
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = hellenic_pagan
+culture = capracciana
+}
+560.1.1 = { 
+culture = galiazzana
+}
+230.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}

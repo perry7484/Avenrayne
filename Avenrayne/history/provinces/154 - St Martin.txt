@@ -1,0 +1,38 @@
+# c_st_martin
+
+# County Title
+title = c_st_martin
+
+# Settlements
+max_settlements = 7
+
+b_st_martin = temple
+#b_arlee = city
+#b_crane = temple
+#b_st_martin_2 = castle
+#b_st_martin_3 = city
+#b_st_martin_4 = temple
+#b_st_martin_5 = castle
+
+# Misc
+culture = southron
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = abonae
+}
+87.1.1 = { 
+religion = hellenic_pagan
+culture = abonae_capracciana
+}
+500.1.1 = { 
+culture = eascisc
+}
+480.1.1 = { 
+religion = catholic
+}
+1130.1.1 = { 
+culture = southron
+}

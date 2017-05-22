@@ -1,0 +1,33 @@
+2.1.1={
+	liege=e_capraccia
+}
+267.1.1={
+	liege=e_rayne
+}
+281.1.1={
+	liege=e_capraccia
+}
+457.1.1={
+	liege=0
+}
+541.1.1={
+	liege=e_capraccia
+}
+567.1.1={
+	liege=e_rayne
+}
+587.1.1 = {
+	liege = 0 # De facto
+	set_tribute_suzerain = { who = e_rayne percentage = 0.20 }
+}
+# e_rayne
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+761.12.22={
+	holder=3544
+}
+800.1.1={
+	liege=e_rayne
+}

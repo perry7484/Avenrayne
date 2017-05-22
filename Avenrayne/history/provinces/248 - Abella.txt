@@ -1,0 +1,21 @@
+# c_abella
+
+# County Title
+title = c_abella
+
+# Settlements
+max_settlements = 7
+
+b_abella = castle
+#b_abella_2 = city
+#b_abella_3 = temple
+#b_abella_4 = castle
+#b_abella_5 = city
+#b_abella_6 = temple
+#b_abella_7 = castle
+
+# Misc
+culture = fornellà
+religion = zun_pagan
+
+#History

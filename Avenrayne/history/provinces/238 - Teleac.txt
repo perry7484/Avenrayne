@@ -1,0 +1,28 @@
+# c_teleac
+
+# County Title
+title = c_teleac
+
+# Settlements
+max_settlements = 7
+
+b_teleac = castle
+#b_teleac_2 = city
+#b_teleac_3 = temple
+#b_teleac_4 = castle
+#b_teleac_5 = city
+#b_teleac_6 = temple
+#b_teleac_7 = castle
+
+# Misc
+culture = vodeasca
+religion = pagan
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = varodesi
+}
+450.1.1 = { 
+culture = varodaesca
+}

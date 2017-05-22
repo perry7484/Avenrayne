@@ -1,0 +1,21 @@
+# c_hawa
+
+# County Title
+title = c_hawa
+
+# Settlements
+max_settlements = 7
+
+b_hawa = castle
+b_obor = city
+b_beda = temple
+#b_kira = castle
+#b_hawa_2 = city
+#b_hawa_3 = temple
+#b_hawa_4 = castle
+
+# Misc
+culture = semnite
+religion = west_african_pagan
+
+#History

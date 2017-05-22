@@ -1,0 +1,21 @@
+# c_nawwara
+
+# County Title
+title = c_nawwara
+
+# Settlements
+max_settlements = 7
+
+b_nawwara = castle
+b_nawwara_2 = city
+b_nawwara_3 = temple
+b_nawwara_4 = castle
+#b_nawwara_5 = city
+#b_nawwara_6 = temple
+#b_nawwara_7 = castle
+
+# Misc
+culture = nawwari
+religion = sunni
+
+#History

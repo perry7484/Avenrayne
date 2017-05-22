@@ -1,0 +1,21 @@
+# c_sfiyadh
+
+# County Title
+title = c_sfiyadh
+
+# Settlements
+max_settlements = 7
+
+b_sfiyadh = castle
+#b_sfiyadh_2 = city
+#b_sfiyadh_3 = temple
+#b_sfiyadh_4 = castle
+#b_sfiyadh_5 = city
+#b_sfiyadh_6 = temple
+#b_sfiyadh_7 = castle
+
+# Misc
+culture = aluqi
+religion = sunni
+
+#History

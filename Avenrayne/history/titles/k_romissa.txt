@@ -1,0 +1,19 @@
+# k_romissa
+1.1.1={
+	law = agnatic_succession
+	law = succ_primogeniture
+}
+
+16.1.15={
+liege=e_capraccia
+}
+443.5.8={
+liege=0
+}
+533.2.5={
+liege=e_amfissa
+}
+
+399.7.15={
+holder=138 #Caprutio
+}

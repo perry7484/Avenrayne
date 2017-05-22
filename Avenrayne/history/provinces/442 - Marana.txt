@@ -1,0 +1,21 @@
+# c_marana
+
+# County Title
+title = c_marana
+
+# Settlements
+max_settlements = 7
+
+b_marana = castle
+b_sovilla = temple
+#b_marana_2 = temple
+#b_marana_3 = castle
+#b_marana_4 = city
+#b_marana_5 = temple
+#b_marana_6 = castle
+
+# Misc
+culture = meiro
+religion = zun_pagan
+
+#History

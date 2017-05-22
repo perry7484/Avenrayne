@@ -1,0 +1,21 @@
+# c_aberargie
+
+# County Title
+title = c_aberargie
+
+# Settlements
+max_settlements = 7
+
+b_aberargie = tribal
+#b_aberargie_2 = city
+#b_aberargie_3 = temple
+#b_aberargie_4 = castle
+#b_aberargie_5 = city
+#b_aberargie_6 = temple
+#b_aberargie_7 = castle
+
+# Misc
+culture = ardthirraich
+religion = celtic_pagan
+
+#History

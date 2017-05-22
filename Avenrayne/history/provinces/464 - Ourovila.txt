@@ -1,0 +1,21 @@
+# c_ourovila
+
+# County Title
+title = c_ourovila
+
+# Settlements
+max_settlements = 7
+
+b_ourovila = castle
+b_laza = city
+#b_ourovila_2 = temple
+#b_ourovila_3 = castle
+#b_ourovila_4 = city
+#b_ourovila_5 = temple
+#b_ourovila_6 = castle
+
+# Misc
+culture = costano
+religion = zun_pagan
+
+#History

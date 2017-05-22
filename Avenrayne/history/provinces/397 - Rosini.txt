@@ -1,0 +1,21 @@
+# c_rosini
+
+# County Title
+title = c_rosini
+
+# Settlements
+max_settlements = 7
+
+b_rosini = castle
+#b_livade = city
+#b_sistiana = temple
+#b_rosini_2 = castle
+#b_rosini_3 = city
+#b_rosini_4 = temple
+#b_rosini_5 = castle
+
+# Misc
+culture = medana
+religion = orthodox
+
+#History

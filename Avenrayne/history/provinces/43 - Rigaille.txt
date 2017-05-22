@@ -1,0 +1,41 @@
+# c_rigaille
+
+# County Title
+title = c_rigaille
+
+# Settlements
+max_settlements = 7
+
+b_rigaille = castle
+b_vidagne = temple
+b_reoses = city
+#b_cavame = castle
+#b_tourenne = city
+#b_cesset = temple
+#b_epinac = castle
+
+# Misc
+culture = western_rayne
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = renae
+}
+2.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+480.1.1 = { 
+culture = old_rayne
+}
+480.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+730.1.1 = { 
+culture = western_rayne
+}

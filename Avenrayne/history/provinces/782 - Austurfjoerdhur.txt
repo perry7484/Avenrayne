@@ -1,0 +1,21 @@
+# c_austurfjoerdhur
+
+# County Title
+title = c_austurfjoerdhur
+
+# Settlements
+max_settlements = 7
+
+b_austurfjoerdhur = tribal
+#b_austurfjoerdhur_2 = city
+#b_austurfjoerdhur_3 = temple
+#b_austurfjoerdhur_4 = castle
+#b_austurfjoerdhur_5 = city
+#b_austurfjoerdhur_6 = temple
+#b_austurfjoerdhur_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

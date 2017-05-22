@@ -1,0 +1,13 @@
+# e_atessa
+20.1.1={
+liege=e_capraccia
+}
+401.1.1={
+holder=132 #Martino
+}
+450.1.1={
+liege=k_marru
+}
+537.1.1 = {
+	liege = k_marru
+}

@@ -1,0 +1,21 @@
+# c_well
+
+# County Title
+title = c_well
+
+# Settlements
+max_settlements = 7
+
+b_well = castle
+#b_fewston = city
+#b_well_2 = temple
+#b_well_3 = castle
+#b_well_4 = city
+#b_well_5 = temple
+#b_well_6 = castle
+
+# Misc
+culture = abonae
+religion = lollard
+
+#History

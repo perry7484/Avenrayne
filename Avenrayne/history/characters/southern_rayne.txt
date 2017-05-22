@@ -1,0 +1,18 @@
+3711 = {
+	name=Joanna
+	female=yes
+	dynasty=3710
+	religion=cathar
+	culture=southern_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	754.1.6={
+		birth=yes
+	}
+	826.7.17={
+		death=yes
+	}
+}

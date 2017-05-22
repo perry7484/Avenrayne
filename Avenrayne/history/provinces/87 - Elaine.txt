@@ -1,0 +1,21 @@
+# c_elaine
+
+# County Title
+title = c_elaine
+
+# Settlements
+max_settlements = 7
+
+b_elaine = castle
+b_lenostre = city
+b_calord = temple
+#b_guevremont = castle
+#b_merpins = city
+#b_samoreau = temple
+#b_sevis = castle
+
+# Misc
+culture = western_rayne
+religion = jewish
+
+#History

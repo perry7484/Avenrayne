@@ -1,0 +1,21 @@
+# c_altino
+
+# County Title
+title = c_altino
+
+# Settlements
+max_settlements = 7
+
+b_altino = castle
+b_picco_bianco = city
+#b_altino_2 = temple
+#b_altino_3 = castle
+#b_altino_4 = city
+#b_altino_5 = temple
+#b_altino_6 = castle
+
+# Misc
+culture = atessana
+religion = orthodox
+
+#History

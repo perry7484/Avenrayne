@@ -1,0 +1,45 @@
+# c_val_de_oest
+
+# County Title
+title = c_val_de_oest
+
+# Settlements
+max_settlements = 7
+
+b_val_de_oest = castle
+b_arri = city
+b_caso = temple
+#b_poilhes = castle
+#b_gant = city
+#b_laserra = temple
+#b_ballora = castle
+
+# Misc
+culture = passa_rayne
+religion = cathar
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = renae
+}
+72.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+77.1.1 = { 
+religion = hellenic_pagan
+culture = passa_capracciana
+}
+480.1.1 = { 
+culture = passa_rayne
+}
+450.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+630.1.1 = { 
+religion = cathar
+}

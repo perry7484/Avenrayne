@@ -1,0 +1,45 @@
+# c_milhonta
+
+# County Title
+title = c_milhonta
+
+# Settlements
+max_settlements = 7
+
+b_milhonta = castle
+b_lemovic = city
+b_montcald = temple
+#b_corsaire = castle
+#b_pavi = city
+#b_menat = temple
+#b_balma = castle
+
+# Misc
+culture = passa_rayne
+religion = cathar
+
+#History
+1.1.1 = { 
+religion = celtic_pagan
+culture = renae
+}
+91.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+60.1.1 = { 
+religion = hellenic_pagan
+culture = passa_capracciana
+}
+480.1.1 = { 
+culture = passa_rayne
+}
+460.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+670.1.1 = { 
+religion = cathar
+}

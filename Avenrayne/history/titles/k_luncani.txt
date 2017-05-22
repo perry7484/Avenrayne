@@ -1,0 +1,16 @@
+# e_varodia
+58.7.7={
+	holder=3 #Tacitus
+}
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+600.1.1={
+	liege=e_varodia
+}
+645.1.1={holder=8000} #Ladislau[8000]
+673.11.30={holder=8001} #Victor[8000]
+704.07.22={holder=8006} #Mihai[8000]
+722.08.24={holder=8010} #Lucian[8000]
+755.10.29={holder=8016} #Roman[8000]

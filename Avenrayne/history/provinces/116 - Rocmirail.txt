@@ -1,0 +1,21 @@
+# c_rocmirail
+
+# County Title
+title = c_rocmirail
+
+# Settlements
+max_settlements = 7
+
+b_rocmirail = castle
+b_tevieu = temple
+#b_cadalle = temple
+#b_bourget = castle
+#b_sanosque = city
+#b_oraille = temple
+#b_botrel = castle
+
+# Misc
+culture = northern_rayne
+religion = catholic
+
+#History

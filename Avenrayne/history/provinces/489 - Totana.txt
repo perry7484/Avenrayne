@@ -1,0 +1,21 @@
+# c_totana
+
+# County Title
+title = c_totana
+
+# Settlements
+max_settlements = 7
+
+b_totana = castle
+#b_totana_2 = city
+#b_totana_3 = temple
+#b_totana_4 = castle
+#b_totana_5 = city
+#b_totana_6 = temple
+#b_totana_7 = castle
+
+# Misc
+culture = alayo
+religion = miaphysite
+
+#History

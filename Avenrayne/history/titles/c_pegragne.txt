@@ -1,0 +1,25 @@
+# e_rayne
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+761.10.21={
+	holder=3434
+}
+
+1.1.1={
+	liege=d_pegrania
+	de_jure_liege=d_pegrania
+}
+650.1.1={
+	liege=d_sur_la_narne
+	de_jure_liege=d_sur_la_narne
+}
+400.11.5={
+	holder=137 #Silvan
+}
+
+
+762.1.1={
+	liege=d_sur_la_narne
+}

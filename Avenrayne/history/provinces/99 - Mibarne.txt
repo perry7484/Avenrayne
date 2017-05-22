@@ -1,0 +1,21 @@
+# c_mibarne
+
+# County Title
+title = c_mibarne
+
+# Settlements
+max_settlements = 7
+
+b_mibarne = castle
+#b_chardenals = city
+#b_boutin = temple
+#b_brives_2 = castle
+#b_exermont = city
+#b_marle = temple
+#b_longnes = castle
+
+# Misc
+culture = western_rayne
+religion = catholic
+
+#History

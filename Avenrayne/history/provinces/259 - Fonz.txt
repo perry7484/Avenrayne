@@ -1,0 +1,21 @@
+# c_fonz
+
+# County Title
+title = c_fonz
+
+# Settlements
+max_settlements = 7
+
+b_fonz = castle
+#b_fonz_2 = city
+#b_fonz_3 = temple
+#b_fonz_4 = castle
+#b_fonz_5 = city
+#b_fonz_6 = temple
+#b_fonz_7 = castle
+
+# Misc
+culture = fornellà
+religion = cathar
+
+#History

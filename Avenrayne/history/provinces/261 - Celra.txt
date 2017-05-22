@@ -1,0 +1,21 @@
+# c_celra
+
+# County Title
+title = c_celra
+
+# Settlements
+max_settlements = 7
+
+b_celra = castle
+#b_celra_2 = city
+#b_celra_3 = temple
+#b_celra_4 = castle
+#b_celra_5 = city
+#b_celra_6 = temple
+#b_celra_7 = castle
+
+# Misc
+culture = fornellà
+religion = catholic
+
+#History

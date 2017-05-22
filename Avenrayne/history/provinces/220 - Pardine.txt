@@ -1,0 +1,38 @@
+# c_pardine
+
+# County Title
+title = c_pardine
+
+# Settlements
+max_settlements = 7
+
+b_pardine = castle
+b_teline = city
+#b_voila = temple
+#b_pardine_2 = castle
+#b_pardine_3 = city
+#b_pardine_4 = temple
+#b_pardine_5 = castle
+
+# Misc
+culture = varodaesca
+religion = orthodox
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = varodesi
+}
+106.1.1 = { 
+religion = hellenic_pagan
+}
+206.1.1 = { 
+religion = hellenic_pagan
+culture = varo-capracciana
+}
+450.1.1 = { 
+culture = varodaesca
+}
+525.1.1 = { 
+religion = orthodox
+}

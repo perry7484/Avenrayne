@@ -1,0 +1,21 @@
+# c_b_7
+
+# County Title
+title = c_b_7
+
+# Settlements
+max_settlements = 7
+
+b_b_43 = castle
+#b_b_44 = city
+#b_b_45 = temple
+#b_b_46 = castle
+#b_b_47 = city
+#b_b_48 = temple
+#b_b_49 = castle
+
+# Misc
+culture = b
+religion = slavic_pagan
+
+#History

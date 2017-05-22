@@ -1,0 +1,36 @@
+#FORNELLA
+technology = {
+	titles = {
+		d_abella
+		d_abrera
+		d_aren
+		d_bascara
+		d_bordils
+		d_cailla
+		d_celra
+		d_clarvalls
+		d_esponella
+		d_prado
+		d_rubite
+		d_tona
+		d_tortella
+		d_tosses
+		d_usall
+	}
+	350 = {
+		military = 0.7
+		economy = 1.5
+		culture = 1.3
+
+		TECH_NAVAL = 1.3
+		TECH_LEGALISM = 2.0
+	}
+	1350 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+
+		TECH_NAVAL = 4.5
+		TECH_LEGALISM = 4.5
+	}
+}

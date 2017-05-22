@@ -1,0 +1,21 @@
+# c_sesena
+
+# County Title
+title = c_sesena
+
+# Settlements
+max_settlements = 7
+
+b_sesena = castle
+b_la_peza = city
+#b_sesena_2 = temple
+#b_sesena_3 = castle
+#b_sesena_4 = city
+#b_sesena_5 = temple
+#b_sesena_6 = castle
+
+# Misc
+culture = soreno
+religion = miaphysite
+
+#History

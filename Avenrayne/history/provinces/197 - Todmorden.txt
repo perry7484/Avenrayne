@@ -1,0 +1,21 @@
+# c_todmorden
+
+# County Title
+title = c_todmorden
+
+# Settlements
+max_settlements = 7
+
+b_todmorden = castle
+#b_todmorden_2 = city
+#b_todmorden_3 = temple
+#b_todmorden_4 = castle
+#b_todmorden_5 = city
+#b_todmorden_6 = temple
+#b_todmorden_7 = castle
+
+# Misc
+culture = abonae
+religion = lollard
+
+#History

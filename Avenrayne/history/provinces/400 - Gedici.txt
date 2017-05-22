@@ -1,0 +1,21 @@
+# c_gedici
+
+# County Title
+title = c_gedici
+
+# Settlements
+max_settlements = 7
+
+b_gedici = castle
+#b_draga = city
+#b_medeazza = temple
+#b_gedici_2 = castle
+#b_gedici_3 = city
+#b_gedici_4 = temple
+#b_gedici_5 = castle
+
+# Misc
+culture = medana
+religion = orthodox
+
+#History

@@ -1,0 +1,21 @@
+# c_amynnet
+
+# County Title
+title = c_amynnet
+
+# Settlements
+max_settlements = 7
+
+b_amynnet = tribal
+#b_amynnet_2 = city
+#b_amynnet_3 = temple
+#b_amynnet_4 = castle
+#b_amynnet_5 = city
+#b_amynnet_6 = temple
+#b_amynnet_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

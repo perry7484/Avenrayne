@@ -1,0 +1,24 @@
+# c_ostarsted
+
+# County Title
+title = c_ostarsted
+
+# Settlements
+max_settlements = 7
+
+b_ostarsted = tribal
+#b_hostrup = city
+#b_osterby = temple
+#b_andrup = castle
+#b_styding = city
+#b_marstrup = temple
+#b_vedsted = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History
+1080.1.1 = {
+culture = tirslander
+}

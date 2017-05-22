@@ -1,0 +1,21 @@
+# c_handevitt
+
+# County Title
+title = c_handevitt
+
+# Settlements
+max_settlements = 7
+
+b_handevitt = tribal
+#b_schulp = city
+#b_simonsberg = temple
+#b_ostenfeld = castle
+#b_stangheck = city
+#b_holmberg = temple
+#b_westre = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

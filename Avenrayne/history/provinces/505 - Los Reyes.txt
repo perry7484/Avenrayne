@@ -1,0 +1,21 @@
+# c_los_reyes
+
+# County Title
+title = c_los_reyes
+
+# Settlements
+max_settlements = 7
+
+b_los_reyes = castle
+b_langua = city
+#b_los_reyes_2 = temple
+#b_los_reyes_3 = castle
+#b_los_reyes_4 = city
+#b_los_reyes_5 = temple
+#b_los_reyes_6 = castle
+
+# Misc
+culture = alaioro
+religion = sunni
+
+#History

@@ -1,0 +1,21 @@
+# c_prado
+
+# County Title
+title = c_prado
+
+# Settlements
+max_settlements = 7
+
+b_prado = castle
+#b_prado_2 = city
+#b_prado_3 = temple
+#b_prado_4 = castle
+#b_prado_5 = city
+#b_prado_6 = temple
+#b_prado_7 = castle
+
+# Misc
+culture = fornellà
+religion = donatist
+
+#History

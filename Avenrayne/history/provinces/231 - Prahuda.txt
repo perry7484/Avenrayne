@@ -1,0 +1,41 @@
+# c_prahuda
+
+# County Title
+title = c_prahuda
+
+# Settlements
+max_settlements = 7
+
+b_prahuda = castle
+#b_prahuda_2 = city
+#b_prahuda_3 = temple
+#b_prahuda_4 = castle
+#b_prahuda_5 = city
+#b_prahuda_6 = temple
+#b_prahuda_7 = castle
+
+# Misc
+culture = varodaesca
+religion = orthodox
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = varodesi
+}
+106.1.1 = { 
+religion = hellenic_pagan
+	b_prahuda = ca_wall_1
+	b_prahuda = ca_town_1
+	b_prahuda = ca_barracks_1
+}
+206.1.1 = { 
+religion = hellenic_pagan
+culture = varo-capracciana
+}
+450.1.1 = { 
+culture = varodaesca
+}
+690.1.1 = { 
+religion = orthodox
+}

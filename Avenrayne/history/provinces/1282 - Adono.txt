@@ -1,0 +1,21 @@
+# c_adono
+
+# County Title
+title = c_adono
+
+# Settlements
+max_settlements = 7
+
+b_adono = castle
+#b_adono_2 = city
+#b_adono_3 = temple
+#b_adono_4 = castle
+#b_adono_5 = city
+#b_adono_6 = temple
+#b_adono_7 = castle
+
+# Misc
+culture = siliani
+religion = donatist
+
+#History

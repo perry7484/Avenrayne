@@ -1,0 +1,21 @@
+# c_malieu
+
+# County Title
+title = c_malieu
+
+# Settlements
+max_settlements = 7
+
+b_malieu = castle
+b_lesailles = city
+b_cavure = temple
+#b_cannont = castle
+#b_dobosque = city
+#b_lesmartins = temple
+#b_gonneville = castle
+
+# Misc
+culture = northern_rayne
+religion = catholic
+
+#History

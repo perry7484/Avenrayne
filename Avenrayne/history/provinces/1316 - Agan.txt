@@ -1,0 +1,21 @@
+# c_agan
+
+# County Title
+title = c_agan
+
+# Settlements
+max_settlements = 7
+
+b_agan = castle
+#b_kiby = city
+#b_otaah = temple
+#b_magaya = castle
+#b_agan_2 = city
+#b_agan_3 = temple
+#b_agan_4 = castle
+
+# Misc
+culture = semnite
+religion = west_african_pagan
+
+#History

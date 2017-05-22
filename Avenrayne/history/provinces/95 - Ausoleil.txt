@@ -1,0 +1,21 @@
+# c_ausoleil
+
+# County Title
+title = c_ausoleil
+
+# Settlements
+max_settlements = 7
+
+b_ausoleil = castle
+b_villaire = city
+#b_broue = temple
+#b_rouvroy = castle
+#b_bantheville = city
+#b_cunel = temple
+#b_chanzy = castle
+
+# Misc
+culture = western_rayne
+religion = catholic
+
+#History

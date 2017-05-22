@@ -1,0 +1,21 @@
+# c_a_montana
+
+# County Title
+title = c_a_montana
+
+# Settlements
+max_settlements = 7
+
+b_a_montana = castle
+b_penaverde = city
+#b_a_montana_2 = temple
+#b_a_montana_3 = castle
+#b_a_montana_4 = city
+#b_a_montana_5 = temple
+#b_a_montana_6 = castle
+
+# Misc
+culture = costano
+religion = zun_pagan
+
+#History

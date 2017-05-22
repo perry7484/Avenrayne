@@ -1,0 +1,21 @@
+# c_gemona
+
+# County Title
+title = c_gemona
+
+# Settlements
+max_settlements = 7
+
+b_gemona = castle
+b_gemona_2 = city
+#b_gemona_3 = temple
+#b_gemona_4 = castle
+#b_gemona_5 = city
+#b_gemona_6 = temple
+#b_gemona_7 = castle
+
+# Misc
+culture = medana
+religion = orthodox
+
+#History

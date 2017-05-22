@@ -1,0 +1,11 @@
+# e_rayne
+500.1.1={
+	law = cognatic_succession
+	law = succ_primogeniture
+}
+764.5.6={
+	holder=3741
+}
+786.1.1={
+	liege=d_deuxsaintes
+}

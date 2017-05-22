@@ -1,0 +1,21 @@
+# c_cerreto
+
+# County Title
+title = c_cerreto
+
+# Settlements
+max_settlements = 7
+
+b_cerreto = castle
+b_orsera = temple
+#b_slivia = temple
+#b_storie = castle
+#b_cerreto_2 = city
+#b_cerreto_3 = temple
+#b_cerreto_4 = castle
+
+# Misc
+culture = medana
+religion = orthodox
+
+#History

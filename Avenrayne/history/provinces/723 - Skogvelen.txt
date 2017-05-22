@@ -1,0 +1,21 @@
+# c_skogvelen
+
+# County Title
+title = c_skogvelen
+
+# Settlements
+max_settlements = 7
+
+b_skogvelen = tribal
+#b_skogvelen_2 = city
+#b_skogvelen_3 = temple
+#b_skogvelen_4 = castle
+#b_skogvelen_5 = city
+#b_skogvelen_6 = temple
+#b_skogvelen_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

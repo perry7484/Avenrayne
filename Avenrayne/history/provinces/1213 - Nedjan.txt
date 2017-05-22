@@ -1,0 +1,21 @@
+# c_nedjan
+
+# County Title
+title = c_nedjan
+
+# Settlements
+max_settlements = 7
+
+b_nedjan = castle
+b_alsurrah = city
+#b_nedjan_2 = temple
+#b_nedjan_3 = castle
+#b_nedjan_4 = city
+#b_nedjan_5 = temple
+#b_nedjan_6 = castle
+
+# Misc
+culture = aluqi
+religion = sunni
+
+#History

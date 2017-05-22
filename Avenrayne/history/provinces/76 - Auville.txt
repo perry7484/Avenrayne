@@ -1,0 +1,21 @@
+# c_auville
+
+# County Title
+title = c_auville
+
+# Settlements
+max_settlements = 7
+
+b_auville = castle
+#b_brignan = city
+#b_boulvint = temple
+#b_lebel = castle
+#b_pevasque = city
+#b_lalouette = temple
+#b_cantin = castle
+
+# Misc
+culture = nordval_rayne
+religion = catholic
+
+#History

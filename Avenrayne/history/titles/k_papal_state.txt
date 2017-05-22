@@ -1,0 +1,15 @@
+10.1.1={
+	liege="e_capraccia"
+}
+480.1.1={
+	liege="0"
+}
+768.12.21={
+	holder=231
+}
+1095.1.1={
+	set_global_flag = christian_crusades_unlocked
+}
+1099.1.1={
+	set_global_flag = muslim_jihads_unlocked
+}

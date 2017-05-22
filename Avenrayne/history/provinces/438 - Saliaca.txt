@@ -1,0 +1,21 @@
+# c_saliaca
+
+# County Title
+title = c_saliaca
+
+# Settlements
+max_settlements = 7
+
+b_saliaca = castle
+b_tucende = city
+#b_o_faro = temple
+#b_saliaca_2 = castle
+#b_saliaca_3 = city
+#b_saliaca_4 = temple
+#b_saliaca_5 = castle
+
+# Misc
+culture = meiro
+religion = zun_pagan
+
+#History

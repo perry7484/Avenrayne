@@ -1,0 +1,21 @@
+# c_langlim
+
+# County Title
+title = c_langlim
+
+# Settlements
+max_settlements = 7
+
+b_langlim = tribal
+#b_langlim_2 = city
+#b_langlim_3 = temple
+#b_langlim_4 = castle
+#b_langlim_5 = city
+#b_langlim_6 = temple
+#b_langlim_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_edponet
+
+# County Title
+title = c_edponet
+
+# Settlements
+max_settlements = 7
+
+b_edponet = castle
+b_edponet_2 = city
+b_edponet_3 = temple
+#b_edponet_4 = castle
+#b_edponet_5 = city
+#b_edponet_6 = temple
+#b_edponet_7 = castle
+
+# Misc
+culture = nawwari
+religion = sunni
+
+#History

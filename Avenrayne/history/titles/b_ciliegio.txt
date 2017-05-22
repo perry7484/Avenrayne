@@ -1,0 +1,5 @@
+753.3.3={
+	holding_dynasty = 4200
+	liege="d_fiori"
+	holder=4227
+}

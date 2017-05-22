@@ -1,0 +1,21 @@
+# c_abu_asfan
+
+# County Title
+title = c_abu_asfan
+
+# Settlements
+max_settlements = 7
+
+b_billa = castle
+#b_abu_asfan = city
+#b_abu_asfan_2 = temple
+#b_abu_asfan_3 = castle
+#b_abu_asfan_4 = city
+#b_abu_asfan_5 = temple
+#b_abu_asfan_6 = castle
+
+# Misc
+culture = aluqi
+religion = sunni
+
+#History

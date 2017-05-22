@@ -1,0 +1,6 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;;;;;;;;;;;;;;;;;;;
+EVTNAMEAvenrayne.Chronicle.1;Family Chronicle Discovered!;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+EVTDESCAvenrayne.Chronicle.1;An unknown man, clad in peasants' dress, walks into your court. Bowing in deference to you, he reveals... an aged book, its front decorated with intricate designs. "My liege," he begins, "I believe this tale is rightfully yours – it speaks of the deeds of your ancestors." He moves to hand you the book, and you say...;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+EVTOPTAAvenrayne.Chronicle.1;Intriguing... Perhaps this knowledge can be used to my advantage...;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+EVTOPTBAvenrayne.Chronicle.1;Offer him a reward for his deed...;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+EVTOPTCAvenrayne.Chronicle.1;"Begone, filth! And take that book of lies with you!";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,21 @@
+# c_perano
+
+# County Title
+title = c_perano
+
+# Settlements
+max_settlements = 7
+
+b_perano = city
+b_arsita = city
+#b_perano_2 = temple
+#b_perano_3 = castle
+#b_perano_4 = city
+#b_perano_5 = temple
+#b_perano_6 = castle
+
+# Misc
+culture = atessana
+religion = catholic
+
+#History

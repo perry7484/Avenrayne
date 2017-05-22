@@ -1,0 +1,21 @@
+# c_aulago
+
+# County Title
+title = c_aulago
+
+# Settlements
+max_settlements = 7
+
+b_aulago = castle
+#b_aulago_2 = city
+#b_aulago_3 = temple
+#b_aulago_4 = castle
+#b_aulago_5 = city
+#b_aulago_6 = temple
+#b_aulago_7 = castle
+
+# Misc
+culture = lanteiro
+religion = miaphysite
+
+#History

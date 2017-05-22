@@ -1,0 +1,21 @@
+# c_verride
+
+# County Title
+title = c_verride
+
+# Settlements
+max_settlements = 7
+
+b_verride = castle
+b_beade = city
+b_codeseda = temple
+#b_verride_2 = castle
+#b_verride_3 = city
+#b_verride_4 = temple
+#b_verride_5 = castle
+
+# Misc
+culture = costano
+religion = zun_pagan
+
+#History

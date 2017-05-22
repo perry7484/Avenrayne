@@ -1,0 +1,40 @@
+# c_valsot
+
+# County Title
+title = c_valsot
+
+# Settlements
+max_settlements = 7
+
+b_valsot = castle
+b_disentis = city
+b_arona_8 = temple
+#b_resgia = castle
+#b_mareg = city
+#b_serlas = temple
+#b_mugline = castle
+
+# Misc
+culture = corvigliana
+religion = cathar
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = corviliae
+}
+82.1.1 = { 
+religion = hellenic_pagan
+}
+170.1.1 = { 
+culture = corvigliana
+}
+545.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+640.1.1 = { 
+religion = cathar
+}

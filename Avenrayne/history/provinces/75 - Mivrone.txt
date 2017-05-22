@@ -1,0 +1,21 @@
+# c_mivrone
+
+# County Title
+title = c_mivrone
+
+# Settlements
+max_settlements = 7
+
+b_mivrone = castle
+b_eby = temple
+#b_rasteleurs = temple
+#b_brossel = castle
+#b_teran = city
+#b_pesee = temple
+#b_lisors = castle
+
+# Misc
+culture = nordval_rayne
+religion = cathar
+
+#History

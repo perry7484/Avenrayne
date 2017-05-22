@@ -1,0 +1,38 @@
+# c_norborough
+
+# County Title
+title = c_norborough
+
+# Settlements
+max_settlements = 7
+
+b_norborough = castle
+#b_charlottesville = city
+#b_bodinne = temple
+#b_norborough_2 = castle
+#b_norborough_3 = city
+#b_norborough_4 = temple
+#b_norborough_5 = castle
+
+# Misc
+culture = southron
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = abonae
+}
+87.1.1 = { 
+religion = hellenic_pagan
+culture = abonae_capracciana
+}
+500.1.1 = { 
+culture = eascisc
+}
+480.1.1 = { 
+religion = catholic
+}
+1130.1.1 = { 
+culture = southron
+}

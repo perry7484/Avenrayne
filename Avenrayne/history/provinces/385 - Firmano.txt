@@ -1,0 +1,21 @@
+# c_firmano
+
+# County Title
+title = c_firmano
+
+# Settlements
+max_settlements = 7
+
+b_firmano = castle
+b_firmano_2 = city
+#b_firmano_3 = temple
+#b_firmano_4 = castle
+#b_firmano_5 = city
+#b_firmano_6 = temple
+#b_firmano_7 = castle
+
+# Misc
+culture = medana
+religion = orthodox
+
+#History

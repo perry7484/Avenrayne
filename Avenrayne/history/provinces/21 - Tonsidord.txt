@@ -1,0 +1,41 @@
+# c_tonsidord
+
+# County Title
+title = c_tonsidord
+
+# Settlements
+max_settlements = 7
+
+b_tonsidord = castle
+b_ennieu = city
+#b_autreface = temple
+#b_oragne = castle
+#b_brisal = city
+#b_betrosne = temple
+#b_igosse = castle
+
+# Misc
+culture = eastern_rayne
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = renae
+}
+33.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+480.1.1 = { 
+culture = old_rayne
+}
+485.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+730.1.1 = { 
+culture = eastern_rayne
+}

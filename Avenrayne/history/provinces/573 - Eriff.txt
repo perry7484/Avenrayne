@@ -1,0 +1,21 @@
+# c_eriff
+
+# County Title
+title = c_eriff
+
+# Settlements
+max_settlements = 7
+
+b_eriff = castle
+#b_breoch = city
+#b_eriff_2 = temple
+#b_eriff_3 = castle
+#b_eriff_4 = city
+#b_eriff_5 = temple
+#b_eriff_6 = castle
+
+# Misc
+culture = abonae
+religion = lollard
+
+#History

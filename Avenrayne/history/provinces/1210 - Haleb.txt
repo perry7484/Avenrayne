@@ -1,0 +1,21 @@
+# c_haleb
+
+# County Title
+title = c_haleb
+
+# Settlements
+max_settlements = 7
+
+b_haleb = castle
+#b_haleb_2 = city
+#b_haleb_3 = temple
+#b_haleb_4 = castle
+#b_haleb_5 = city
+#b_haleb_6 = temple
+#b_haleb_7 = castle
+
+# Misc
+culture = aluqi
+religion = sunni
+
+#History

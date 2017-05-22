@@ -1,0 +1,41 @@
+# c_pellieu
+
+# County Title
+title = c_pellieu
+
+# Settlements
+max_settlements = 7
+
+b_pellieu = castle
+#b_sidalle = city
+#b_ninuire = temple
+#b_laverdure = castle
+#b_touquet = city
+#b_vaudes = temple
+#b_ballei = castle
+
+# Misc
+culture = nordval_rayne
+religion = cathar
+
+#History
+1.1.1 = { 
+religion = celtic_pagan
+culture = renae
+}
+312.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+450.1.1 = { 
+culture = old_rayne
+}
+480.1.1 = { 
+religion = catholic
+}
+691.1.1 = { 
+religion = cathar
+}
+730.1.1 = { 
+culture = nordval_rayne
+}

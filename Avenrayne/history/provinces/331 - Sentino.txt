@@ -1,0 +1,34 @@
+# c_sentino
+
+# County Title
+title = c_sentino
+
+# Settlements
+max_settlements = 7
+
+b_sentino = city
+b_buia = temple
+#b_altipiano = temple
+#b_sentino_2 = castle
+#b_sentino_3 = city
+#b_sentino_4 = temple
+#b_sentino_5 = castle
+
+# Misc
+culture = arsiziana
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = hellenic_pagan
+culture = capracciana
+}
+560.1.1 = { 
+culture = arsiziana
+}
+230.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}

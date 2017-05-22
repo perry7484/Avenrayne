@@ -1,0 +1,8 @@
+# e_costa_do_sol
+1.1.1={
+	law = cognatic_succession
+	law = succ_primogeniture
+}
+1.1.1={
+	liege=k_visalia
+}

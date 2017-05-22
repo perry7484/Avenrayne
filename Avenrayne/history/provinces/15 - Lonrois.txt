@@ -1,0 +1,41 @@
+# c_lonrois
+
+# County Title
+title = c_lonrois
+
+# Settlements
+max_settlements = 7
+
+b_lonrois = castle
+b_dotres = city
+b_abenc = temple
+#b_ban = castle
+#b_nasque = city
+#b_evonfour = temple
+#b_dutelmargues = castle
+
+# Misc
+culture = eastern_rayne
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = celtic_pagan
+culture = renae
+}
+106.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+480.1.1 = { 
+culture = old_rayne
+}
+432.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+738.1.1 = { 
+culture = eastern_rayne
+}

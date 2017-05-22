@@ -1,0 +1,17 @@
+name = "AvenrayneTest"  # Name to use as a dependency if making a sub-mod
+path = "mod/Avenrayne"
+user_dir = "Avenrayne"
+
+replace_path = "common/landed_titles"
+replace_path = "common/province_setup"
+replace_path = "common/disease"
+replace_path = "gfx/flags"
+replace_path = "history"
+replace_path = "history/provinces"
+replace_path = "history/technology"
+replace_path = "history/characters"
+replace_path = "map"
+replace_path = "history/diplomacy"
+replace_path = "history/titles"
+replace_path = "history/wars"
+replace_path = "events"

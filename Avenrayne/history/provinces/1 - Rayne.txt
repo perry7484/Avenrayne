@@ -1,0 +1,67 @@
+# c_rayne
+
+# County Title
+title = c_rayne
+
+# Settlements
+max_settlements = 7
+
+b_rayne = castle
+b_vieuxarbres = temple
+b_clairpluie = city
+b_noirval = castle
+b_bourgours = city
+b_laibois = city
+b_maisonfiere = castle
+
+# Misc
+culture = rayne
+religion = cathar
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = renae
+}
+2.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+2.1.1 = { 
+	b_rayne = ca_wall_1
+	b_rayne = ca_town_1
+	b_rayne = ca_barracks_1
+}
+100.1.1 = { 
+	b_rayne = ca_shipyard_1
+	b_rayne = ca_shipyard_2
+	b_rayne = ca_shipyard_3
+	b_rayne = ca_keep_1
+	b_rayne = ca_keep_2
+	b_rayne = ca_training_grounds_1
+	b_rayne = ca_stable_1
+	b_rayne = ca_barracks_1
+	b_rayne = ca_barracks_2
+	b_rayne = ca_militia_barracks_1
+	b_rayne = ca_militia_barracks_2
+	b_rayne = ca_wall_1
+	b_rayne = ca_wall_2
+	b_rayne = ca_wall_3
+	b_rayne = ca_town_1
+	b_rayne = ca_town_2
+}
+480.1.1 = { 
+culture = old_rayne
+}
+330.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+687.1.1 = { 
+religion = cathar
+}
+766.1.1 = { 
+culture = rayne
+}

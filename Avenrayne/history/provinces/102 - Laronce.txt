@@ -1,0 +1,21 @@
+# c_laronce
+
+# County Title
+title = c_laronce
+
+# Settlements
+max_settlements = 7
+
+b_laronce = castle
+#b_faillone = city
+#b_arel = temple
+#b_lissey = castle
+#b_guise = city
+#b_nandy = temple
+#b_pasteur = castle
+
+# Misc
+culture = western_rayne
+religion = cathar
+
+#History

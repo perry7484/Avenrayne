@@ -1,0 +1,21 @@
+# c_candeda
+
+# County Title
+title = c_candeda
+
+# Settlements
+max_settlements = 7
+
+b_candeda = castle
+b_lumeras = city
+#b_candeda_2 = temple
+#b_candeda_3 = castle
+#b_candeda_4 = city
+#b_candeda_5 = temple
+#b_candeda_6 = castle
+
+# Misc
+culture = costano
+religion = zun_pagan
+
+#History

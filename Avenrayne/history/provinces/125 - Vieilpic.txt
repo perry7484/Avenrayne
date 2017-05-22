@@ -1,0 +1,21 @@
+# c_vieilpic
+
+# County Title
+title = c_vieilpic
+
+# Settlements
+max_settlements = 7
+
+b_vieilpic = castle
+b_mevauld = temple
+#b_goury = temple
+#b_lec = castle
+#b_dulmuse = city
+#b_chepasque = temple
+#b_halais = castle
+
+# Misc
+culture = northern_rayne
+religion = catholic
+
+#History

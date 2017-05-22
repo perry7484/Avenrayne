@@ -1,0 +1,21 @@
+# c_pampanico
+
+# County Title
+title = c_pampanico
+
+# Settlements
+max_settlements = 7
+
+b_pampanico = castle
+#b_pampanico_2 = city
+#b_pampanico_3 = temple
+#b_pampanico_4 = castle
+#b_pampanico_5 = city
+#b_pampanico_6 = temple
+#b_pampanico_7 = castle
+
+# Misc
+culture = lanteiro
+religion = miaphysite
+
+#History

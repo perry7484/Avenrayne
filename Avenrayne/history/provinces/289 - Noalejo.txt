@@ -1,0 +1,21 @@
+# c_noalejo
+
+# County Title
+title = c_noalejo
+
+# Settlements
+max_settlements = 7
+
+b_noalejo = castle
+#b_noalejo_2 = city
+#b_noalejo_3 = temple
+#b_noalejo_4 = castle
+#b_noalejo_5 = city
+#b_noalejo_6 = temple
+#b_noalejo_7 = castle
+
+# Misc
+culture = soreno
+religion = donatist
+
+#History

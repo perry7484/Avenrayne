@@ -1,0 +1,21 @@
+# c_fludhir
+
+# County Title
+title = c_fludhir
+
+# Settlements
+max_settlements = 7
+
+b_fludhir = tribal
+#b_fludhir_2 = city
+#b_fludhir_3 = temple
+#b_fludhir_4 = castle
+#b_fludhir_5 = city
+#b_fludhir_6 = temple
+#b_fludhir_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

@@ -1,0 +1,100 @@
+character_event = {
+	id = 90000
+	title = EVTNAME913
+	desc = EVTDESC913
+	picture = GFX_evt_council
+	capable_only = yes
+	prisoner = no
+	has_global_flag = ck2_tutorial
+	is_triggered_only = yes
+	triggered_from_code = yes
+	trigger = {
+		has_job_action = action_fabricate_claims
+		independent = no
+		liege = {
+			ROOT = {
+				location = {
+					county = {
+						NOT = {
+							claimed_by = PREVPREVPREV
+						}
+						holder_scope = {
+							NOT = {
+								is_liege_of = ROOT
+							}
+							NOT = {
+								character = ROOT
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA913
+		hidden_tooltip = {
+			location = {
+				county = {
+					holder_scope = {
+						character_event = {
+							id = 90001
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+character_event = {
+	id = 90001
+	desc = EVTDESC20130
+	picture = GFX_evt_emissary
+	is_triggered_only = yes
+	trigger = {
+		has_global_flag = ck2_tutorial
+	}
+	option = {
+		name = EVTOPTA20130
+		hidden_tooltip = {
+			FROM = {
+				liege = {
+					letter_event = {
+						id = 90002
+					}
+				}
+			}
+		}
+	}
+}
+
+letter_event = {
+	id = 90002
+	desc = EVTDESC20131
+	show_from_from = yes
+	is_triggered_only = yes
+	trigger = {
+		has_global_flag = ck2_tutorial
+	}
+	option = {
+		name = EVTOPTA20131
+		FROM = {
+			FROM = {
+				location = {
+					county = {
+						add_claim = ROOT
+					}
+				}
+			}
+		}
+		FROM = {
+			opinion = {
+				modifier = opinion_furious
+				who = ROOT
+				years = 10
+			}
+		}
+	}
+}
+

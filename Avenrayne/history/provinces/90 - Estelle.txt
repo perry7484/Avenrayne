@@ -1,0 +1,21 @@
+# c_estelle
+
+# County Title
+title = c_estelle
+
+# Settlements
+max_settlements = 7
+
+b_estelle = castle
+b_batasque = city
+#b_roberval = temple
+#b_bagne = castle
+#b_avuire = city
+#b_longuyon = temple
+#b_venon = castle
+
+# Misc
+culture = western_rayne
+religion = catholic
+
+#History

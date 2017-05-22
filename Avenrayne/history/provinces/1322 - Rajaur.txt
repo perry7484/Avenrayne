@@ -1,0 +1,21 @@
+# c_rajaur
+
+# County Title
+title = c_rajaur
+
+# Settlements
+max_settlements = 7
+
+b_rajaur = castle
+#b_rajaur_2 = city
+#b_rajaur_3 = temple
+#b_rajaur_4 = castle
+#b_rajaur_5 = city
+#b_rajaur_6 = temple
+#b_rajaur_7 = castle
+
+# Misc
+culture = rajauri
+religion = hindu
+
+#History

@@ -1,0 +1,21 @@
+# c_lipica
+
+# County Title
+title = c_lipica
+
+# Settlements
+max_settlements = 7
+
+b_lipica = castle
+b_caresana = temple
+#b_prepotto = temple
+#b_senadole = castle
+#b_lipica_2 = city
+#b_lipica_3 = temple
+#b_lipica_4 = castle
+
+# Misc
+culture = medana
+religion = orthodox
+
+#History

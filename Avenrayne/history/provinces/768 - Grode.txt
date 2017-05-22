@@ -1,0 +1,21 @@
+# c_grode
+
+# County Title
+title = c_grode
+
+# Settlements
+max_settlements = 7
+
+b_grode = tribal
+#b_matovaara = city
+#b_grode_2 = temple
+#b_grode_3 = castle
+#b_grode_4 = city
+#b_grode_5 = temple
+#b_grode_6 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

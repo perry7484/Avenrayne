@@ -1,0 +1,21 @@
+# c_tarshedet
+
+# County Title
+title = c_tarshedet
+
+# Settlements
+max_settlements = 7
+
+b_tarshedet = castle
+#b_tarshedet_2 = city
+#b_tarshedet_3 = temple
+#b_tarshedet_4 = castle
+#b_tarshedet_5 = city
+#b_tarshedet_6 = temple
+#b_tarshedet_7 = castle
+
+# Misc
+culture = nawwari
+religion = egyptian_pagan
+
+#History

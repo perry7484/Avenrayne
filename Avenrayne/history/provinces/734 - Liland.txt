@@ -1,0 +1,21 @@
+# c_liland
+
+# County Title
+title = c_liland
+
+# Settlements
+max_settlements = 7
+
+b_liland = tribal
+#b_liland_2 = city
+#b_liland_3 = temple
+#b_liland_4 = castle
+#b_liland_5 = city
+#b_liland_6 = temple
+#b_liland_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

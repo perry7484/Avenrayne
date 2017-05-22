@@ -1,0 +1,21 @@
+# c_corca
+
+# County Title
+title = c_corca
+
+# Settlements
+max_settlements = 7
+
+b_corca = castle
+#b_corca_2 = city
+#b_corca_3 = temple
+#b_corca_4 = castle
+#b_corca_5 = city
+#b_corca_6 = temple
+#b_corca_7 = castle
+
+# Misc
+culture = fornellà
+religion = donatist
+
+#History

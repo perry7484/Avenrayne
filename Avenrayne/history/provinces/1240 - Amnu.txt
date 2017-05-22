@@ -1,0 +1,21 @@
+# c_amnu
+
+# County Title
+title = c_amnu
+
+# Settlements
+max_settlements = 7
+
+b_amnu = castle
+#b_amnu_2 = city
+#b_amnu_3 = temple
+#b_amnu_4 = castle
+#b_amnu_5 = city
+#b_amnu_6 = temple
+#b_amnu_7 = castle
+
+# Misc
+culture = nawwari
+religion = miaphysite
+
+#History

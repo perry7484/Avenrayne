@@ -1,0 +1,21 @@
+# c_tula
+
+# County Title
+title = c_tula
+
+# Settlements
+max_settlements = 7
+
+b_tula = tribal
+#b_dako = city
+#b_arah = temple
+#b_tshae = castle
+#b_tula_2 = city
+#b_tula_3 = temple
+#b_tula_4 = castle
+
+# Misc
+culture = semnite
+religion = west_african_pagan
+
+#History

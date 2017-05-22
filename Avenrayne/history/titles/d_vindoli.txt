@@ -1,0 +1,17 @@
+# e_arsizia
+500.1.1={
+	law = agnatic_succession
+	law = succ_primogeniture
+}
+1.1.1={
+	liege=e_capraccia
+}
+478.1.1={
+	liege=0
+}
+763.4.21={
+	holder=4031 #Vittore
+}
+800.1.1={
+	liege=k_arsizia
+}

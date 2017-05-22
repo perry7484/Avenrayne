@@ -1,0 +1,21 @@
+# c_pechea
+
+# County Title
+title = c_pechea
+
+# Settlements
+max_settlements = 7
+
+b_pechea = castle
+#b_mirista = city
+#b_pechea_2 = temple
+#b_pechea_3 = castle
+#b_pechea_4 = city
+#b_pechea_5 = temple
+#b_pechea_6 = castle
+
+# Misc
+culture = vodeasca
+religion = orthodox
+
+#History

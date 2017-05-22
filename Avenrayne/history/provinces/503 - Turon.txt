@@ -1,0 +1,21 @@
+# c_turon
+
+# County Title
+title = c_turon
+
+# Settlements
+max_settlements = 7
+
+b_turon = castle
+#b_turon_2 = city
+#b_turon_3 = temple
+#b_turon_4 = castle
+#b_turon_5 = city
+#b_turon_6 = temple
+#b_turon_7 = castle
+
+# Misc
+culture = lanteiro
+religion = miaphysite
+
+#History

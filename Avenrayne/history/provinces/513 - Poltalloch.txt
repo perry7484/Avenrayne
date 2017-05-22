@@ -1,0 +1,21 @@
+# c_poltalloch
+
+# County Title
+title = c_poltalloch
+
+# Settlements
+max_settlements = 7
+
+b_poltalloch = tribal
+#b_clachan = city
+#b_poltalloch_2 = temple
+#b_poltalloch_3 = castle
+#b_poltalloch_4 = city
+#b_poltalloch_5 = temple
+#b_poltalloch_6 = castle
+
+# Misc
+culture = ardthirraich
+religion = celtic_pagan
+
+#History

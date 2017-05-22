@@ -1,0 +1,44 @@
+# c_puire
+
+# County Title
+title = c_puire
+
+# Settlements
+max_settlements = 7
+
+b_puire = castle
+b_queson = city
+#b_lagne = temple
+#b_lourne = castle
+#b_charpoint = city
+#b_charensat = temple
+#b_quierre = castle
+
+# Misc
+culture = eastern_rayne
+religion = cathar
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = renae
+}
+142.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+480.1.1 = { 
+culture = old_rayne
+}
+245.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+691.1.1 = { 
+religion = cathar
+}
+730.1.1 = { 
+culture = eastern_rayne
+}

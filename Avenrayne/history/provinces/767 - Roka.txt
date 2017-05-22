@@ -1,0 +1,21 @@
+# c_roka
+
+# County Title
+title = c_roka
+
+# Settlements
+max_settlements = 7
+
+b_roka = tribal
+#b_vilpola = city
+#b_roka_2 = temple
+#b_roka_3 = castle
+#b_roka_4 = city
+#b_roka_5 = temple
+#b_roka_6 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

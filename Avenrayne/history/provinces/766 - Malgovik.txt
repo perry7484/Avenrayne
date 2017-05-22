@@ -1,0 +1,21 @@
+# c_malgovik
+
+# County Title
+title = c_malgovik
+
+# Settlements
+max_settlements = 7
+
+b_malgovik = tribal
+#b_hiukkajoki = city
+#b_malgovik_2 = temple
+#b_malgovik_3 = castle
+#b_malgovik_4 = city
+#b_malgovik_5 = temple
+#b_malgovik_6 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

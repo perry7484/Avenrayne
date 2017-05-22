@@ -1,0 +1,38 @@
+# c_luncani
+
+# County Title
+title = c_luncani
+
+# Settlements
+max_settlements = 7
+
+b_luncani = castle
+b_ghireasca = city
+b_varvata = temple
+#b_luncani_2 = castle
+#b_luncani_3 = city
+#b_luncani_4 = temple
+#b_luncani_5 = castle
+
+# Misc
+culture = varodaesca
+religion = orthodox
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = varodesi
+}
+106.1.1 = { 
+religion = hellenic_pagan
+}
+206.1.1 = { 
+religion = hellenic_pagan
+culture = varo-capracciana
+}
+450.1.1 = { 
+culture = varodaesca
+}
+580.1.1 = { 
+religion = orthodox
+}

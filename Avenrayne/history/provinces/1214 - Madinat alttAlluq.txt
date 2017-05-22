@@ -1,0 +1,21 @@
+# c_madinat_alttalluq
+
+# County Title
+title = c_madinat_alttalluq
+
+# Settlements
+max_settlements = 7
+
+b_madinat_alttalluq = castle
+#b_madinat_alttalluq_2 = city
+#b_madinat_alttalluq_3 = temple
+#b_madinat_alttalluq_4 = castle
+#b_madinat_alttalluq_5 = city
+#b_madinat_alttalluq_6 = temple
+#b_madinat_alttalluq_7 = castle
+
+# Misc
+culture = aluqi
+religion = sunni
+
+#History

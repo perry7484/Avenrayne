@@ -1,0 +1,21 @@
+# c_aponion
+
+# County Title
+title = c_aponion
+
+# Settlements
+max_settlements = 7
+
+b_aponion = castle
+b_aponion_2 = city
+#b_aponion_3 = temple
+#b_aponion_4 = castle
+#b_aponion_5 = city
+#b_aponion_6 = temple
+#b_aponion_7 = castle
+
+# Misc
+culture = amfissaki
+religion = orthodox
+
+#History

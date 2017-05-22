@@ -1,0 +1,21 @@
+# c_carroglen
+
+# County Title
+title = c_carroglen
+
+# Settlements
+max_settlements = 7
+
+b_carroglen = tribal
+#b_carroglen_2 = city
+#b_carroglen_3 = temple
+#b_carroglen_4 = castle
+#b_carroglen_5 = city
+#b_carroglen_6 = temple
+#b_carroglen_7 = castle
+
+# Misc
+culture = ardthirraich
+religion = celtic_pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_carrais
+
+# County Title
+title = c_carrais
+
+# Settlements
+max_settlements = 7
+
+b_carrais = castle
+b_cerdedelo = city
+#b_carrais_2 = temple
+#b_carrais_3 = castle
+#b_carrais_4 = city
+#b_carrais_5 = temple
+#b_carrais_6 = castle
+
+# Misc
+culture = costano
+religion = zun_pagan
+
+#History

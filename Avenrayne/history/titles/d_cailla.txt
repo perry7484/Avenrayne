@@ -1,0 +1,7 @@
+# e_fornella
+50.1.1={
+liege=k_cailla
+}
+399.11.6={
+	holder=124
+}

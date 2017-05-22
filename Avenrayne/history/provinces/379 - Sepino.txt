@@ -1,0 +1,21 @@
+# c_sepino
+
+# County Title
+title = c_sepino
+
+# Settlements
+max_settlements = 7
+
+b_sepino = castle
+b_murgetta = city
+#b_soveretu = temple
+#b_sepino_2 = castle
+#b_sepino_3 = city
+#b_sepino_4 = temple
+#b_sepino_5 = castle
+
+# Misc
+culture = marrùna
+religion = pelagian
+
+#History

@@ -1,0 +1,5 @@
+761.12.22={
+	holding_dynasty = 3690
+	liege="d_levec"
+	holder=3691 #Robin
+}

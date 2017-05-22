@@ -1,0 +1,21 @@
+# c_permet
+
+# County Title
+title = c_permet
+
+# Settlements
+max_settlements = 7
+
+b_permet = castle
+b_arras = city
+b_zym = temple
+#b_berzane = castle
+#b_fagnolle_2 = city
+#b_letan = temple
+#b_luzat = castle
+
+# Misc
+culture = mejë
+religion = orthodox
+
+#History

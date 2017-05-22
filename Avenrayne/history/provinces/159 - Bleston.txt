@@ -1,0 +1,41 @@
+# c_bleston
+
+# County Title
+title = c_bleston
+
+# Settlements
+max_settlements = 7
+
+b_bleston = castle
+#b_la_bataille = city
+#b_bleston_2 = temple
+#b_bleston_3 = castle
+#b_bleston_4 = city
+#b_bleston_5 = temple
+#b_bleston_6 = castle
+
+# Misc
+culture = southron
+religion = lollard
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = abonae
+}
+87.1.1 = { 
+religion = hellenic_pagan
+culture = abonae_capracciana
+}
+500.1.1 = { 
+culture = eascisc
+}
+480.1.1 = { 
+religion = catholic
+}
+750.1.1 = { 
+religion = lollard
+}
+1130.1.1 = { 
+culture = southron
+}

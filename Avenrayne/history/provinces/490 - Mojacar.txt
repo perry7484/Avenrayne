@@ -1,0 +1,21 @@
+# c_mojacar
+
+# County Title
+title = c_mojacar
+
+# Settlements
+max_settlements = 7
+
+b_mojacar = castle
+#b_mojacar_2 = city
+#b_mojacar_3 = temple
+#b_mojacar_4 = castle
+#b_mojacar_5 = city
+#b_mojacar_6 = temple
+#b_mojacar_7 = castle
+
+# Misc
+culture = alayo
+religion = miaphysite
+
+#History

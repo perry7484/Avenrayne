@@ -1,0 +1,21 @@
+# c_revadim
+
+# County Title
+title = c_revadim
+
+# Settlements
+max_settlements = 7
+
+b_revadim = castle
+#b_revadim_2 = city
+#b_revadim_3 = temple
+#b_revadim_4 = castle
+#b_revadim_5 = city
+#b_revadim_6 = temple
+#b_revadim_7 = castle
+
+# Misc
+culture = hieroshki
+religion = jewish
+
+#History

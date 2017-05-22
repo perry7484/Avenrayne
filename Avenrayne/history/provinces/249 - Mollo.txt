@@ -1,0 +1,21 @@
+# c_mollo
+
+# County Title
+title = c_mollo
+
+# Settlements
+max_settlements = 7
+
+b_mollo = castle
+#b_rocabruna = city
+#b_mollo_2 = temple
+#b_mollo_3 = castle
+#b_mollo_4 = city
+#b_mollo_5 = temple
+#b_mollo_6 = castle
+
+# Misc
+culture = fornellà
+religion = catholic
+
+#History

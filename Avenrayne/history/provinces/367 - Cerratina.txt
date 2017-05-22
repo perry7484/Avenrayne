@@ -1,0 +1,21 @@
+# c_cerratina
+
+# County Title
+title = c_cerratina
+
+# Settlements
+max_settlements = 7
+
+b_cerratina = castle
+b_bovino = city
+#b_cerratina_2 = temple
+#b_cerratina_3 = castle
+#b_cerratina_4 = city
+#b_cerratina_5 = temple
+#b_cerratina_6 = castle
+
+# Misc
+culture = marrùna
+religion = pelagian
+
+#History

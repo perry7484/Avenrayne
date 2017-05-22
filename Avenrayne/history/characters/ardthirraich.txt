@@ -1,0 +1,435 @@
+7500={
+	name=Bride
+	dynasty=0
+	dna="lfefnpobnji"
+	culture=ardthirraich religion=celtic_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=4 learning=6
+	add_trait=mastermind_theologian add_trait=proud add_trait=just add_trait=honest 
+	635.7.26={ birth=yes }
+	689.12.18={ death=yes }
+}
+7501={
+	name=Ruadh
+	dynasty=7500
+	dna="lfenjiaeljh"
+	culture=ardthirraich religion=celtic_pagan
+	martial=8 diplomacy=6 stewardship=8 intrigue=7 learning=4
+	add_trait=mastermind_theologian add_trait=trusting add_trait=patient add_trait=slothful add_trait=just 
+	father=7500	#Bride
+	643.4.14={ birth=yes }
+	695.1.20={ death=yes }
+}
+7502={
+	name=Unen
+	dynasty=7500
+	dna="lejfncomajo"
+	culture=ardthirraich religion=celtic_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=6 learning=6
+	add_trait=tough_soldier add_trait=arbitrary add_trait=lustful add_trait=gregarious 
+	father=7500	#Bride
+	652.9.6={ birth=yes }
+	700.1.27={ death=yes }
+}
+7503={
+	name=Tadg
+	dynasty=7500
+	dna="jlbngbfoljh"
+	culture=ardthirraich religion=celtic_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=8 learning=4
+	add_trait=charismatic_negotiator add_trait=gregarious add_trait=proud add_trait=patient add_trait=charitable 
+	father=7501	#Ru
+	658.7.3={ birth=yes }
+	708.3.1={ death=yes }
+}
+7504={
+	name=Eugenia
+	female=yes
+	dynasty=7500
+	dna="jkjnjiaeioh"
+	culture=ardthirraich religion=celtic_pagan
+	father=7501	#Ru
+	664.12.12={ birth=yes }
+	727.1.1={ death=yes }
+}
+7505={
+	name=Christina
+	female=yes
+	dynasty=7500
+	dna="dlgngbaoljh"
+	culture=ardthirraich religion=celtic_pagan
+	father=7503	#Tadg
+	662.7.15={ birth=yes }
+	712.10.6={ death=yes }
+}
+7506={
+	name=Arthur
+	dynasty=7500
+	dna="llieabfgdch"
+	culture=ardthirraich religion=celtic_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=4 learning=7
+	add_trait=naive_appeaser add_trait=arbitrary add_trait=patient add_trait=gregarious add_trait=zealous 
+	father=7503	#Tadg
+	669.11.3={ birth=yes }
+	727.10.25={ death=yes }
+}
+7507={
+	name=Malcolm
+	dynasty=7500
+	dna="jlhggpfoljh"
+	culture=ardthirraich religion=celtic_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=7 learning=7
+	add_trait=misguided_warrior add_trait=hunter add_trait=shy add_trait=zealous add_trait=content 
+	add_trait=chaste 
+	father=7503	#Tadg
+	675.8.27={ birth=yes }
+	735.8.5={ death=yes }
+}
+7508={
+	name=Ganant
+	dynasty=7500
+	dna="ognngjfjlfj"
+	culture=ardthirraich religion=celtic_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=5 learning=5
+	add_trait=naive_appeaser add_trait=shy add_trait=charitable add_trait=chaste add_trait=lisp 
+	father=7503	#Tadg
+	681.6.10={ birth=yes }
+	729.4.12={ death=yes }
+}
+7509={
+	name=Uuen
+	dynasty=7500
+	dna="nfieaffapcl"
+	culture=ardthirraich religion=celtic_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=7 learning=4
+	add_trait=detached_priest add_trait=cynical add_trait=charitable add_trait=lustful add_trait=depressed 
+	father=7506	#Arthur
+	679.9.15={ birth=yes }
+	742.9.4={ death=yes }
+}
+7510={
+	name=Eua
+	female=yes
+	dynasty=7500
+	dna="nlfgcbngicm"
+	culture=ardthirraich religion=celtic_pagan
+	father=7506	#Arthur
+	685.1.19={ birth=yes }
+	757.2.25={ death=yes }
+}
+7511={
+	name=Eua
+	female=yes
+	dynasty=7500
+	dna="ngiafbfgdeo"
+	culture=ardthirraich religion=celtic_pagan
+	father=7506	#Arthur
+	691.7.3={ birth=yes }
+	751.6.17={ death=yes }
+}
+7512={
+	name=Garalt
+	dynasty=7500
+	dna="nopcaffldmk"
+	culture=ardthirraich religion=celtic_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=5 learning=8
+	add_trait=misguided_warrior add_trait=ambitious add_trait=chaste add_trait=slothful add_trait=cynical 
+	add_trait=paranoid add_trait=greedy add_trait=weak 
+	father=7509	#Uuen
+	682.4.7={ birth=yes }
+	733.12.25={ death=yes }
+}
+7513={
+	name=Christina
+	female=yes
+	dynasty=7500
+	dna="bfipifmapkk"
+	culture=ardthirraich religion=celtic_pagan
+	father=7509	#Uuen
+	689.4.5={ birth=yes }
+	752.1.5={ death=yes }
+}
+7514={
+	name=Uudrost
+	dynasty=7500
+	dna="nbibaffamcj"
+	culture=ardthirraich religion=celtic_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=7 learning=5
+	add_trait=indulgent_wastrel add_trait=poet add_trait=greedy add_trait=proud 
+	father=7509	#Uuen
+	696.3.20={ birth=yes }
+	749.10.12={ death=yes }
+}
+7515={
+	name=Addiena
+	female=yes
+	dynasty=7500
+	dna="ebieefhajcl"
+	culture=ardthirraich religion=celtic_pagan
+	father=7509	#Uuen
+	703.7.17={ birth=yes }
+	749.9.10={ death=yes }
+}
+7516={
+	name=Conan
+	dynasty=7500
+	dna="lkpjagelmap"
+	culture=ardthirraich religion=celtic_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=4 learning=6
+	add_trait=detached_priest add_trait=content add_trait=gluttonous add_trait=patient add_trait=lustful 
+	father=7512	#Garalt
+	687.2.8={ birth=yes }
+	746.5.27={ death=yes }
+}
+7517={
+	name=Olwen
+	female=yes
+	dynasty=7500
+	dna="lobcahfllmk"
+	culture=ardthirraich religion=celtic_pagan
+	father=7512	#Garalt
+	696.7.20={ birth=yes }
+	749.7.18={ death=yes }
+}
+7518={
+	name=Neulenna
+	female=yes
+	dynasty=7500
+	dna="iflagffaikk"
+	culture=ardthirraich religion=celtic_pagan
+	father=7512	#Garalt
+	701.3.9={ birth=yes }
+	761.5.30={ death=yes }
+}
+7519={
+	name=Tadg
+	dynasty=7500
+	dna="hdpfabecoap"
+	culture=ardthirraich religion=celtic_pagan
+	martial=7 diplomacy=7 stewardship=4 intrigue=5 learning=8
+	add_trait=scholarly_theologian add_trait=wroth add_trait=diligent add_trait=kind add_trait=craven 
+	add_trait=depressed add_trait=possessed 
+	father=7516	#Conan
+	701.2.9={ birth=yes }
+	747.4.20={ death=yes }
+}
+7520={
+	name=Beatrice
+	female=yes
+	dynasty=7500
+	dna="hkpjagdimaa"
+	culture=ardthirraich religion=celtic_pagan
+	father=7516	#Conan
+	707.5.8={ birth=yes }
+	774.7.28={ death=yes }
+}
+7521={
+	name=Bili
+	dynasty=7500
+	dna="okljadlaoap"
+	culture=ardthirraich religion=celtic_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=5 learning=4
+	add_trait=indulgent_wastrel add_trait=charitable add_trait=cruel add_trait=wounded 
+	father=7516	#Conan
+	713.10.15={ birth=yes }
+	770.7.25={ death=yes }
+}
+7522={
+	name=Cristin
+	female=yes
+	dynasty=7500
+	dna="lplkdjdkpcp"
+	culture=ardthirraich religion=celtic_pagan
+	father=7519	#Tadg
+	713.1.13={ birth=yes }
+	769.2.6={ death=yes }
+}
+7523={
+	name=Ciniod
+	dynasty=7500
+	dna="hapfpbenoai"
+	culture=ardthirraich religion=celtic_pagan
+	martial=7 diplomacy=8 stewardship=7 intrigue=6 learning=5
+	add_trait=midas_touched add_trait=hedonist add_trait=diligent add_trait=lustful add_trait=envious 
+	add_trait=deceitful 
+	father=7519	#Tadg
+	719.8.24={ birth=yes }
+	783.1.11={ death=yes }
+}
+7524={
+	name=Bridei
+	dynasty=7500
+	dna="laifhaecfai"
+	culture=ardthirraich religion=celtic_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=4 learning=8
+	add_trait=misguided_warrior add_trait=greedy add_trait=cruel add_trait=lustful add_trait=humble 
+	add_trait=clubfooted 
+	father=7523	#Ciniod
+	721.10.19={ birth=yes }
+	787.1.11={ death=yes }
+}
+7525={
+	name=Paternus
+	dynasty=7500
+	dna="cghchbepoah"
+	culture=ardthirraich religion=celtic_pagan
+	martial=7 diplomacy=5 stewardship=5 intrigue=8 learning=7
+	add_trait=indulgent_wastrel add_trait=hedonist add_trait=gluttonous add_trait=ambitious add_trait=proud 
+	add_trait=kind add_trait=patient 
+	father=7523	#Ciniod
+	728.3.22={ birth=yes }
+	775.2.7={ death=yes }
+}
+7526={
+	name=Erpin
+	dynasty=7500
+	dna="keicjmenoal"
+	culture=ardthirraich religion=celtic_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=8 learning=5
+	add_trait=flamboyant_schemer add_trait=hedonist add_trait=proud add_trait=greedy add_trait=lustful 
+	add_trait=shy 
+	father=7523	#Ciniod
+	735.12.19={ birth=yes }
+	791.4.24={ death=yes }
+}
+7527={
+	name=Brennan
+	dynasty=7500
+	dna="hepnggenaak"
+	culture=ardthirraich religion=celtic_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=5 learning=6
+	add_trait=midas_touched add_trait=gluttonous add_trait=ambitious add_trait=zealous add_trait=wroth 
+	add_trait=shy add_trait=kind 
+	father=7523	#Ciniod
+	742.3.9={ birth=yes }
+	788.12.18={ death=yes }
+}
+7528={
+	name=Robert
+	dynasty=7500
+	dna="hfnbllenokh"
+	culture=ardthirraich religion=celtic_pagan
+	martial=8 diplomacy=8 stewardship=7 intrigue=8 learning=6
+	add_trait=mastermind_theologian add_trait=hunter add_trait=proud add_trait=brave add_trait=cruel 
+	add_trait=honest add_trait=drunkard 
+	father=7523	#Ciniod
+	748.3.25={ birth=yes }
+	788.10.28={ death=yes }
+}
+7529={
+	name=Talorcán
+	dynasty=7500
+	dna="iepcgnejcal"
+	culture=ardthirraich religion=celtic_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=4 learning=7
+	add_trait=tough_soldier add_trait=scholar add_trait=content add_trait=charitable 
+	father=7523	#Ciniod
+	756.3.25={ birth=yes }
+	817.3.20={ death=yes }
+}
+7530={
+	name=Idwallon
+	dynasty=7500
+	dna="hekcobncoal"
+	culture=ardthirraich religion=celtic_pagan
+	martial=5 diplomacy=4 stewardship=6 intrigue=4 learning=7
+	add_trait=intricate_webweaver add_trait=wroth add_trait=proud add_trait=diligent add_trait=cynical 
+	father=7523	#Ciniod
+	760.9.27={ birth=yes }
+	823.3.31={ death=yes }
+}
+7531={
+	name=Erpin
+	dynasty=7500
+	dna="hcieoaeeoaa"
+	culture=ardthirraich religion=celtic_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=6 learning=5
+	add_trait=skilled_tactician add_trait=slothful add_trait=wroth add_trait=content add_trait=craven 
+	add_trait=kind add_trait=lunatic add_trait=clubfooted 
+	father=7524	#Bridei
+	729.1.24={ birth=yes }
+	800.6.20={ death=yes }
+}
+7532={
+	name=Gerontius
+	dynasty=7500
+	dna="honppaleoao"
+	culture=ardthirraich religion=celtic_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=7 learning=6
+	add_trait=scholarly_theologian add_trait=cynical add_trait=ambitious add_trait=cruel add_trait=honest 
+	father=7524	#Bridei
+	734.12.26={ birth=yes }
+	815.6.9={ death=yes }
+}
+7533={
+	name=Eddarrnonn
+	dynasty=7500
+	dna="ecipojehlaa"
+	culture=ardthirraich religion=celtic_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=6 learning=4
+	add_trait=grey_eminence add_trait=temperate add_trait=content add_trait=zealous add_trait=charitable 
+	add_trait=envious 
+	father=7531	#Erpin
+	732.9.6={ birth=yes }
+	794.8.8={ death=yes }
+}
+7534={
+	name=Mor
+	female=yes
+	dynasty=7500
+	dna="jcleocekgap"
+	culture=ardthirraich religion=celtic_pagan
+	father=7531	#Erpin
+	738.4.11={ birth=yes }
+	786.11.28={ death=yes }
+}
+7535={
+	name=Mairi
+	female=yes
+	dynasty=7500
+	dna="acdeolhnaca"
+	culture=ardthirraich religion=celtic_pagan
+	father=7531	#Erpin
+	742.3.1={ birth=yes }
+	805.2.1={ death=yes }
+}
+7536={
+	name=Allust
+	female=yes
+	dynasty=7500
+	dna="ecfeoaeeoaa"
+	culture=ardthirraich religion=celtic_pagan
+	father=7531	#Erpin
+	751.8.5={ birth=yes }
+	818.12.27={ death=yes }
+}
+7537={
+	name=Eva
+	female=yes
+	dynasty=7500
+	dna="engacfappai"
+	culture=ardthirraich religion=celtic_pagan
+	father=7533	#Eddarrnonn
+	746.9.15={ birth=yes }
+	810.6.1={ death=yes }
+}
+7538={
+	name=Bronwen
+	female=yes
+	dynasty=7500
+	dna="epihojenlad"
+	culture=ardthirraich religion=celtic_pagan
+	father=7533	#Eddarrnonn
+	756.12.6={ birth=yes }
+	821.9.21={ death=yes }
+}
+7539={
+	name=Canu
+	dynasty=7500
+	dna="ecipajcidak"
+	culture=ardthirraich religion=celtic_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=7 learning=4
+	add_trait=midas_touched add_trait=arbitrary add_trait=charitable add_trait=cruel 
+	father=7533	#Eddarrnonn
+	761.3.24={ birth=yes }
+	829.2.25={ death=yes }
+}

@@ -1,0 +1,27 @@
+suspicious_of_outsiders = {
+	attribute = personality
+
+	opposites =  {
+		trusting
+	}
+	
+	intrigue = 1
+	stewardship = -1
+	diplomacy = -2
+	
+	male_insult_adj = INSULT_NARROWMINDED
+	female_insult_adj = INSULT_NARROWMINDED
+	child_insult_adj = INSULT_NASTY
+}
+
+##'Prejudice' traits? Maybe?^^
+
+crown_jewel_rayne = {
+	stewardship = 1
+	diplomacy = 1
+
+	vassal_opinion = 3 #Vive la Reine!
+	dynasty_opinion = -3 #Jalousie!
+
+	monthly_character_prestige = 0.5
+}

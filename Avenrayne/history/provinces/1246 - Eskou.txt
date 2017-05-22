@@ -1,0 +1,21 @@
+# c_eskou
+
+# County Title
+title = c_eskou
+
+# Settlements
+max_settlements = 7
+
+b_eskou = castle
+b_eskou_2 = city
+#b_eskou_3 = temple
+#b_eskou_4 = castle
+#b_eskou_5 = city
+#b_eskou_6 = temple
+#b_eskou_7 = castle
+
+# Misc
+culture = nawwari
+religion = egyptian_pagan
+
+#History

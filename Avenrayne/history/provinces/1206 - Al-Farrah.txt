@@ -1,0 +1,21 @@
+# c_al_farrah
+
+# County Title
+title = c_al_farrah
+
+# Settlements
+max_settlements = 7
+
+b_al_farrah = castle
+b_shuwaq = city
+#b_al_farrah_2 = temple
+#b_al_farrah_3 = castle
+#b_al_farrah_4 = city
+#b_al_farrah_5 = temple
+#b_al_farrah_6 = castle
+
+# Misc
+culture = aluqi
+religion = sunni
+
+#History

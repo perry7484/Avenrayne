@@ -1,0 +1,21 @@
+# c_rubite
+
+# County Title
+title = c_rubite
+
+# Settlements
+max_settlements = 7
+
+b_rubite = castle
+#b_rubite_2 = city
+#b_rubite_3 = temple
+#b_rubite_4 = castle
+#b_rubite_5 = city
+#b_rubite_6 = temple
+#b_rubite_7 = castle
+
+# Misc
+culture = fornellà
+religion = donatist
+
+#History

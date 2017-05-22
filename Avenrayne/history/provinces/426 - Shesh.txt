@@ -1,0 +1,21 @@
+# c_shesh
+
+# County Title
+title = c_shesh
+
+# Settlements
+max_settlements = 7
+
+b_shesh = castle
+b_vile = city
+#b_blerim = temple
+#b_karice = castle
+#b_facesh = city
+#b_mollasi = temple
+#b_salari = castle
+
+# Misc
+culture = mejë
+religion = hellenic_pagan
+
+#History

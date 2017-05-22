@@ -1,0 +1,21 @@
+# c_raippo
+
+# County Title
+title = c_raippo
+
+# Settlements
+max_settlements = 7
+
+b_raippo = tribal
+#b_raippo_2 = city
+#b_raippo_3 = temple
+#b_raippo_4 = castle
+#b_raippo_5 = city
+#b_raippo_6 = temple
+#b_raippo_7 = castle
+
+# Misc
+culture = ruomalainen
+religion = finnish_pagan
+
+#History

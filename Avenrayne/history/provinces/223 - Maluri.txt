@@ -1,0 +1,38 @@
+# c_maluri
+
+# County Title
+title = c_maluri
+
+# Settlements
+max_settlements = 7
+
+b_maluri = castle
+#b_mocrea = city
+#b_elciu = temple
+#b_maluri_2 = castle
+#b_maluri_3 = city
+#b_maluri_4 = temple
+#b_maluri_5 = castle
+
+# Misc
+culture = vodeasca
+religion = orthodox
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = varodesi
+}
+106.1.1 = { 
+religion = hellenic_pagan
+}
+206.1.1 = { 
+religion = hellenic_pagan
+culture = varo-capracciana
+}
+450.1.1 = { 
+culture = varodaesca
+}
+570.1.1 = { 
+religion = orthodox
+}

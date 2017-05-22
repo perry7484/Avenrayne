@@ -1,0 +1,21 @@
+# c_visalle
+
+# County Title
+title = c_visalle
+
+# Settlements
+max_settlements = 7
+
+b_visalle = castle
+#b_lonban = city
+#b_isavont = temple
+#b_garceaule = castle
+#b_savagne = city
+#b_savieres = temple
+#b_corny = castle
+
+# Misc
+culture = nordval_rayne
+religion = cathar
+
+#History

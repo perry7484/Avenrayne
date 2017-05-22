@@ -1,0 +1,21 @@
+# c_kajce
+
+# County Title
+title = c_kajce
+
+# Settlements
+max_settlements = 7
+
+b_kajce = castle
+b_gjuras = city
+b_planeja = temple
+#b_gallate = castle
+#b_fshat = city
+#b_kozare = temple
+#b_gllave = castle
+
+# Misc
+culture = mejë
+religion = orthodox
+
+#History

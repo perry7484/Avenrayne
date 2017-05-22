@@ -1,0 +1,21 @@
+# c_arichonan
+
+# County Title
+title = c_arichonan
+
+# Settlements
+max_settlements = 7
+
+b_arichonan = tribal
+#b_kinnaird = city
+#b_arichonan_2 = temple
+#b_arichonan_3 = castle
+#b_arichonan_4 = city
+#b_arichonan_5 = temple
+#b_arichonan_6 = castle
+
+# Misc
+culture = ardthirraich
+religion = celtic_pagan
+
+#History

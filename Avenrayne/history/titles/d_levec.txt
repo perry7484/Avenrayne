@@ -1,0 +1,13 @@
+# e_rayne
+500.1.1={
+	law = agnatic_succession
+}
+761.12.22={
+	holder=3691
+}
+573.3.17={
+	liege=e_rayne
+}
+800.1.1={
+	liege=k_laval
+}

@@ -1,0 +1,21 @@
+# c_lepont
+
+# County Title
+title = c_lepont
+
+# Settlements
+max_settlements = 7
+
+b_lepont = castle
+b_aigneuse = city
+b_samson = temple
+#b_morgan = castle
+#b_oimauld = city
+#b_bribec = temple
+#b_sainte_anne = castle
+
+# Misc
+culture = northern_rayne
+religion = catholic
+
+#History

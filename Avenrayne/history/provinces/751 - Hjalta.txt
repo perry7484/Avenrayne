@@ -1,0 +1,21 @@
+# c_hjalta
+
+# County Title
+title = c_hjalta
+
+# Settlements
+max_settlements = 7
+
+b_hjalta = tribal
+#b_hjalta_2 = city
+#b_hjalta_3 = temple
+#b_hjalta_4 = castle
+#b_hjalta_5 = city
+#b_hjalta_6 = temple
+#b_hjalta_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

@@ -1,0 +1,38 @@
+# c_canternay
+
+# County Title
+title = c_canternay
+
+# Settlements
+max_settlements = 7
+
+b_canternay = castle
+#b_eagle = city
+#b_june = temple
+#b_canternay_2 = castle
+#b_canternay_3 = city
+#b_canternay_4 = temple
+#b_canternay_5 = castle
+
+# Misc
+culture = southron
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = abonae
+}
+87.1.1 = { 
+religion = hellenic_pagan
+culture = abonae_capracciana
+}
+500.1.1 = { 
+culture = eascisc
+}
+480.1.1 = { 
+religion = catholic
+}
+1130.1.1 = { 
+culture = southron
+}

@@ -1,0 +1,21 @@
+# c_abla
+
+# County Title
+title = c_abla
+
+# Settlements
+max_settlements = 7
+
+b_abla = castle
+#b_abla_2 = city
+#b_abla_3 = temple
+#b_abla_4 = castle
+#b_abla_5 = city
+#b_abla_6 = temple
+#b_abla_7 = castle
+
+# Misc
+culture = alayo
+religion = miaphysite
+
+#History

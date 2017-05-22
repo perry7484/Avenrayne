@@ -1,0 +1,21 @@
+# c_llanbrynmair
+
+# County Title
+title = c_llanbrynmair
+
+# Settlements
+max_settlements = 7
+
+b_llanbrynmair = tribal
+#b_clocaenog = city
+#b_morwynne = temple
+#b_llanbrynmair_2 = castle
+#b_llanbrynmair_3 = city
+#b_llanbrynmair_4 = temple
+#b_llanbrynmair_5 = castle
+
+# Misc
+culture = maesmyge
+religion = celtic_pagan
+
+#History

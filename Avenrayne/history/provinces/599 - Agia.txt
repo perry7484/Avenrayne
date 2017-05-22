@@ -1,0 +1,21 @@
+# c_agia
+
+# County Title
+title = c_agia
+
+# Settlements
+max_settlements = 7
+
+b_agia = castle
+b_spatharei = city
+#b_karioti = temple
+#b_anthousa = castle
+#b_agia_2 = city
+#b_agia_3 = temple
+#b_agia_4 = castle
+
+# Misc
+culture = amfissaki
+religion = hellenic_pagan
+
+#History

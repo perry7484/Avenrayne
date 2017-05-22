@@ -1,0 +1,21 @@
+# c_metley
+
+# County Title
+title = c_metley
+
+# Settlements
+max_settlements = 7
+
+b_metley = castle
+#b_metley_2 = city
+#b_metley_3 = temple
+#b_metley_4 = castle
+#b_metley_5 = city
+#b_metley_6 = temple
+#b_metley_7 = castle
+
+# Misc
+culture = abonae
+religion = lollard
+
+#History

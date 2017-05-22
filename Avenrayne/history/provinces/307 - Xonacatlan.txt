@@ -1,0 +1,21 @@
+# c_xonacatlan
+
+# County Title
+title = c_xonacatlan
+
+# Settlements
+max_settlements = 7
+
+b_xonacatlan = castle
+b_huitziltepec = temple
+#b_xonacatlan_2 = temple
+#b_xonacatlan_3 = castle
+#b_xonacatlan_4 = city
+#b_xonacatlan_5 = temple
+#b_xonacatlan_6 = castle
+
+# Misc
+culture = xonaca
+religion = aztec
+
+#History

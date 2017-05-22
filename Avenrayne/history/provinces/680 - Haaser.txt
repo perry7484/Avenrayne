@@ -1,0 +1,21 @@
+# c_haaser
+
+# County Title
+title = c_haaser
+
+# Settlements
+max_settlements = 7
+
+b_haaser = castle
+#b_haaser_2 = city
+#b_haaser_3 = temple
+#b_haaser_4 = castle
+#b_haaser_5 = city
+#b_haaser_6 = temple
+#b_haaser_7 = castle
+
+# Misc
+culture = mittelander
+religion = norse_pagan
+
+#History

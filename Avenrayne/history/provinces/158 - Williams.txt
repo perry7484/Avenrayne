@@ -1,0 +1,41 @@
+# c_williams
+
+# County Title
+title = c_williams
+
+# Settlements
+max_settlements = 7
+
+b_williams = castle
+#b_williams_2 = city
+#b_williams_3 = temple
+#b_williams_4 = castle
+#b_williams_5 = city
+#b_williams_6 = temple
+#b_williams_7 = castle
+
+# Misc
+culture = southron
+religion = lollard
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = abonae
+}
+87.1.1 = { 
+religion = hellenic_pagan
+culture = abonae_capracciana
+}
+500.1.1 = { 
+culture = eascisc
+}
+480.1.1 = { 
+religion = catholic
+}
+750.1.1 = { 
+religion = lollard
+}
+1130.1.1 = { 
+culture = southron
+}

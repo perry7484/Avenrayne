@@ -1,0 +1,21 @@
+# c_vore
+
+# County Title
+title = c_vore
+
+# Settlements
+max_settlements = 7
+
+b_vore = castle
+b_shpat = city
+b_kolesjan = temple
+#b_skuraj = castle
+#b_komsi = city
+#b_vilez = temple
+#b_molisht = castle
+
+# Misc
+culture = mejë
+religion = orthodox
+
+#History

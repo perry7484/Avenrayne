@@ -1,0 +1,21 @@
+# c_maydum
+
+# County Title
+title = c_maydum
+
+# Settlements
+max_settlements = 7
+
+b_maydum = temple
+#b_maydum_2 = city
+#b_maydum_3 = temple
+#b_maydum_4 = castle
+#b_maydum_5 = city
+#b_maydum_6 = temple
+#b_maydum_7 = castle
+
+# Misc
+culture = nawwari
+religion = miaphysite
+
+#History

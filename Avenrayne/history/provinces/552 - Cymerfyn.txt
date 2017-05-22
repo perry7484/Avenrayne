@@ -1,0 +1,21 @@
+# c_cymerfyn
+
+# County Title
+title = c_cymerfyn
+
+# Settlements
+max_settlements = 7
+
+b_cymerfyn = tribal
+#b_pencarreg = city
+#b_deganwy = temple
+#b_cymerfyn_2 = castle
+#b_cymerfyn_3 = city
+#b_cymerfyn_4 = temple
+#b_cymerfyn_5 = castle
+
+# Misc
+culture = maesmyge
+religion = celtic_pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_paltamo
+
+# County Title
+title = c_paltamo
+
+# Settlements
+max_settlements = 7
+
+b_paltamo = tribal
+#b_paltamo_2 = city
+#b_paltamo_3 = temple
+#b_paltamo_4 = castle
+#b_paltamo_5 = city
+#b_paltamo_6 = temple
+#b_paltamo_7 = castle
+
+# Misc
+culture = ruomalainen
+religion = finnish_pagan
+
+#History

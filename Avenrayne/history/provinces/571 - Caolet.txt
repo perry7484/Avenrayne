@@ -1,0 +1,21 @@
+# c_caolet
+
+# County Title
+title = c_caolet
+
+# Settlements
+max_settlements = 7
+
+b_caolet = castle
+#b_caolet_2 = city
+#b_caolet_3 = temple
+#b_caolet_4 = castle
+#b_caolet_5 = city
+#b_caolet_6 = temple
+#b_caolet_7 = castle
+
+# Misc
+culture = abonae
+religion = pelagian
+
+#History

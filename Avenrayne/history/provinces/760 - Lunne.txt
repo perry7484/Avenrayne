@@ -1,0 +1,21 @@
+# c_lunne
+
+# County Title
+title = c_lunne
+
+# Settlements
+max_settlements = 7
+
+b_lunne = tribal
+#b_lunne_2 = city
+#b_lunne_3 = temple
+#b_lunne_4 = castle
+#b_lunne_5 = city
+#b_lunne_6 = temple
+#b_lunne_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

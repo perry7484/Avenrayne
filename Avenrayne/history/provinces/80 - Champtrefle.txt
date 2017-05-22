@@ -1,0 +1,21 @@
+# c_champtrefle
+
+# County Title
+title = c_champtrefle
+
+# Settlements
+max_settlements = 7
+
+b_champtrefle = castle
+b_blaire = city
+b_lusieu = temple
+b_richeval = city
+#b_sommerance = city
+#b_saint_aubin = temple
+#b_maule = castle
+
+# Misc
+culture = western_rayne
+religion = cathar
+
+#History

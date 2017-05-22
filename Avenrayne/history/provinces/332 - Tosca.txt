@@ -1,0 +1,45 @@
+# c_tosca
+
+# County Title
+title = c_tosca
+
+# Settlements
+max_settlements = 7
+
+b_tosca = city
+b_utinum = castle
+b_carsiolis = temple
+#b_sabaria = castle
+#b_tres_serpentes = city
+#b_tosca_2 = temple
+#b_tosca_3 = castle
+
+# Misc
+culture = capracciana
+religion = hellenic_pagan
+
+#History
+	b_tosca = ct_wall_1
+	b_tosca = ct_port_1
+	b_tosca = ct_marketplace_1
+	b_tosca = ct_marketplace_2
+	b_tosca = ct_wall_q_1
+	b_tosca = ct_barracks_1
+	b_tosca = ct_training_grounds_1
+	b_tosca = ct_forum_capraccianum_1
+	b_utinum = ca_forum_capraccianum_1
+	b_utinum = ca_keep_1
+	b_utinum = ca_stable_1
+	b_utinum = ca_militia_barracks_1
+	b_utinum = ca_shipyard_1
+	b_carsiolis = tp_wall_1
+	b_carsiolis = tp_wall_2
+	b_carsiolis = tp_town_1
+	b_carsiolis = tp_shipyard_1
+	b_sabaria = ct_wall_1
+	b_sabaria = ct_port_1
+	b_sabaria = ct_marketplace_1
+	b_sabaria = ct_barracks_1
+	b_sabaria = ct_training_grounds_1
+	b_tres_serpentes = ct_port_1
+	b_tres_serpentes = ct_marketplace_1

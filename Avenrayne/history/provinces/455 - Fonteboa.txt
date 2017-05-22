@@ -1,0 +1,21 @@
+# c_fonteboa
+
+# County Title
+title = c_fonteboa
+
+# Settlements
+max_settlements = 7
+
+b_fonteboa = castle
+b_fresnedelo = city
+#b_fonteboa_2 = temple
+#b_fonteboa_3 = castle
+#b_fonteboa_4 = city
+#b_fonteboa_5 = temple
+#b_fonteboa_6 = castle
+
+# Misc
+culture = costano
+religion = zun_pagan
+
+#History

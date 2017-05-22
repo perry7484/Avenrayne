@@ -1,0 +1,21 @@
+# c_artrik
+
+# County Title
+title = c_artrik
+
+# Settlements
+max_settlements = 7
+
+b_artrik = tribal
+#b_artrik_2 = city
+#b_artrik_3 = temple
+#b_artrik_4 = castle
+#b_artrik_5 = city
+#b_artrik_6 = temple
+#b_artrik_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

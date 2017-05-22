@@ -1,0 +1,9 @@
+# e_rayne
+500.1.1={
+	law = cognatic_succession
+	law = succ_primogeniture
+}
+764.5.1={
+	holder=3741
+	liege=k_nordval
+}

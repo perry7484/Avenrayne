@@ -1,0 +1,21 @@
+# c_tougrus
+
+# County Title
+title = c_tougrus
+
+# Settlements
+max_settlements = 7
+
+b_tougrus = castle
+#b_tougrus_2 = city
+#b_tougrus_3 = temple
+#b_tougrus_4 = castle
+#b_tougrus_5 = city
+#b_tougrus_6 = temple
+#b_tougrus_7 = castle
+
+# Misc
+culture = taguedi
+religion = west_african_pagan
+
+#History

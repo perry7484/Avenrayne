@@ -1,0 +1,21 @@
+# c_forgeours
+
+# County Title
+title = c_forgeours
+
+# Settlements
+max_settlements = 7
+
+b_forgeours = castle
+b_peytois = city
+b_brefends = temple
+#b_tamauls = castle
+#b_querny = city
+#b_vur = temple
+#b_valette_2 = castle
+
+# Misc
+culture = northern_rayne
+religion = catholic
+
+#History

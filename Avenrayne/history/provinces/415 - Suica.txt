@@ -1,0 +1,32 @@
+# c_suica
+
+# County Title
+title = c_suica
+
+# Settlements
+max_settlements = 7
+
+b_suica = castle
+#b_suica_2 = city
+#b_suica_3 = temple
+#b_suica_4 = castle
+#b_suica_5 = city
+#b_suica_6 = temple
+#b_suica_7 = castle
+
+# Misc
+culture = vodeasca
+religion = orthodox
+
+#History
+1.1.1={
+culture=vodeasci
+religion=pagan
+}
+96.1.1={
+culture=vodeasci_capracciana
+religion=hellenic_pagan
+}
+445.1.1={religion=orthodox}
+450.1.1={culture=vodeasca}
+1050.1.1={culture=vodeiska}

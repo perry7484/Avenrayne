@@ -1,0 +1,21 @@
+# c_sieverstedt
+
+# County Title
+title = c_sieverstedt
+
+# Settlements
+max_settlements = 7
+
+b_sieverstedt = tribal
+#b_wittdun = city
+#b_kropp = temple
+#b_stolk = castle
+#b_boklund = city
+#b_hurup = temple
+#b_tarup = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_nebos
+
+# County Title
+title = c_nebos
+
+# Settlements
+max_settlements = 7
+
+b_nebos = castle
+#b_nebos_2 = city
+#b_nebos_3 = temple
+#b_nebos_4 = castle
+#b_nebos_5 = city
+#b_nebos_6 = temple
+#b_nebos_7 = castle
+
+# Misc
+culture = siliani
+religion = donatist
+
+#History

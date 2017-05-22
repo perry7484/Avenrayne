@@ -1,0 +1,41 @@
+# c_selby
+
+# County Title
+title = c_selby
+
+# Settlements
+max_settlements = 7
+
+b_selby = castle
+#b_dillon = city
+#b_lundy = temple
+#b_missery = castle
+#b_selby_2 = city
+#b_selby_3 = temple
+#b_selby_4 = castle
+
+# Misc
+culture = southron
+religion = lollard
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = abonae
+}
+87.1.1 = { 
+religion = hellenic_pagan
+culture = abonae_capracciana
+}
+500.1.1 = { 
+culture = eascisc
+}
+480.1.1 = { 
+religion = catholic
+}
+750.1.1 = { 
+religion = lollard
+}
+1130.1.1 = { 
+culture = southron
+}

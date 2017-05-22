@@ -1,0 +1,21 @@
+# c_ezcaray
+
+# County Title
+title = c_ezcaray
+
+# Settlements
+max_settlements = 7
+
+b_ezcaray = castle
+#b_ezcaray_2 = city
+#b_ezcaray_3 = temple
+#b_ezcaray_4 = castle
+#b_ezcaray_5 = city
+#b_ezcaray_6 = temple
+#b_ezcaray_7 = castle
+
+# Misc
+culture = praviako
+religion = zun_pagan
+
+#History

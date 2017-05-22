@@ -1,0 +1,37 @@
+# c_navene
+
+# County Title
+title = c_navene
+
+# Settlements
+max_settlements = 7
+
+b_navene = castle
+b_chio = city
+#b_mazzacara = temple
+#b_arzeno = castle
+#b_navene_2 = city
+#b_navene_3 = temple
+#b_navene_4 = castle
+
+# Misc
+culture = galiazzana
+religion = pelagian
+
+#History
+1.1.1 = { 
+religion = hellenic_pagan
+culture = capracciana
+}
+560.1.1 = { 
+culture = galiazzana
+}
+510.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+650.1.1 = { 
+religion = pelagian
+}

@@ -1,0 +1,21 @@
+# c_tona
+
+# County Title
+title = c_tona
+
+# Settlements
+max_settlements = 7
+
+b_tona = castle
+#b_tona_2 = city
+#b_tona_3 = temple
+#b_tona_4 = castle
+#b_tona_5 = city
+#b_tona_6 = temple
+#b_tona_7 = castle
+
+# Misc
+culture = fornellà
+religion = donatist
+
+#History

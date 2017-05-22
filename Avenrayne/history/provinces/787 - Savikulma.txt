@@ -1,0 +1,21 @@
+# c_savikulma
+
+# County Title
+title = c_savikulma
+
+# Settlements
+max_settlements = 7
+
+b_savikulma = tribal
+#b_savikulma_2 = city
+#b_savikulma_3 = temple
+#b_savikulma_4 = castle
+#b_savikulma_5 = city
+#b_savikulma_6 = temple
+#b_savikulma_7 = castle
+
+# Misc
+culture = ruomalainen
+religion = finnish_pagan
+
+#History

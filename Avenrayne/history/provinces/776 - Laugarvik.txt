@@ -1,0 +1,21 @@
+# c_laugarvik
+
+# County Title
+title = c_laugarvik
+
+# Settlements
+max_settlements = 7
+
+b_laugarvik = tribal
+#b_laugarvik_2 = city
+#b_laugarvik_3 = temple
+#b_laugarvik_4 = castle
+#b_laugarvik_5 = city
+#b_laugarvik_6 = temple
+#b_laugarvik_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

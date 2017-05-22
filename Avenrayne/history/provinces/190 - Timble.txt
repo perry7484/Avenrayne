@@ -1,0 +1,21 @@
+# c_timble
+
+# County Title
+title = c_timble
+
+# Settlements
+max_settlements = 7
+
+b_timble = castle
+#b_leyburn = city
+#b_timble_2 = temple
+#b_timble_3 = castle
+#b_timble_4 = city
+#b_timble_5 = temple
+#b_timble_6 = castle
+
+# Misc
+culture = abonae
+religion = pelagian
+
+#History

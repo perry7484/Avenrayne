@@ -1,0 +1,21 @@
+# c_monar
+
+# County Title
+title = c_monar
+
+# Settlements
+max_settlements = 7
+
+b_monar = tribal
+#b_monar_2 = city
+#b_monar_3 = temple
+#b_monar_4 = castle
+#b_monar_5 = city
+#b_monar_6 = temple
+#b_monar_7 = castle
+
+# Misc
+culture = ardthirraich
+religion = celtic_pagan
+
+#History

@@ -1,0 +1,7 @@
+# e_maktaris
+51.1.1={
+	liege=k_maktaris
+}
+401.4.16={
+	holder=122
+}

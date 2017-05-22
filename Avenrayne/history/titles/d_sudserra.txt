@@ -1,0 +1,11 @@
+# e_rayne
+500.1.1={
+	law = cognatic_succession
+	law = succ_primogeniture
+}
+761.12.22={
+	holder=3841 #Gausbert
+}
+776.5.31={
+	liege=k_passa
+}

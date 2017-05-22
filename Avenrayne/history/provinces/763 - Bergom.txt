@@ -1,0 +1,21 @@
+# c_bergom
+
+# County Title
+title = c_bergom
+
+# Settlements
+max_settlements = 7
+
+b_bergom = tribal
+#b_melkoniemi = city
+#b_bergom_2 = temple
+#b_bergom_3 = castle
+#b_bergom_4 = city
+#b_bergom_5 = temple
+#b_bergom_6 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

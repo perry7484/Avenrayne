@@ -1,0 +1,38 @@
+# c_scole
+
+# County Title
+title = c_scole
+
+# Settlements
+max_settlements = 7
+
+b_scole = castle
+#b_scole_2 = city
+#b_scole_3 = temple
+#b_scole_4 = castle
+#b_scole_5 = city
+#b_scole_6 = temple
+#b_scole_7 = castle
+
+# Misc
+culture = maesmyge
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = abonae
+}
+105.1.1 = { 
+religion = hellenic_pagan
+culture = abonae_capracciana
+}
+500.1.1 = { 
+culture = eascisc
+}
+480.1.1 = { 
+religion = catholic
+}
+1130.1.1 = { 
+culture = middlefordish
+}

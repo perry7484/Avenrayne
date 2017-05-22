@@ -1,0 +1,21 @@
+# c_luciana
+
+# County Title
+title = c_luciana
+
+# Settlements
+max_settlements = 7
+
+b_luciana = castle
+#b_luciana_2 = city
+#b_luciana_3 = temple
+#b_luciana_4 = castle
+#b_luciana_5 = city
+#b_luciana_6 = temple
+#b_luciana_7 = castle
+
+# Misc
+culture = soreno
+religion = miaphysite
+
+#History

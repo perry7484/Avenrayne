@@ -1,0 +1,21 @@
+# c_honflour
+
+# County Title
+title = c_honflour
+
+# Settlements
+max_settlements = 7
+
+b_honflour = castle
+b_aurneuse = city
+b_guevagne = temple
+#b_sallen = castle
+#b_dampierre = city
+#b_lozon = temple
+#b_cretteville = castle
+
+# Misc
+culture = northern_rayne
+religion = catholic
+
+#History

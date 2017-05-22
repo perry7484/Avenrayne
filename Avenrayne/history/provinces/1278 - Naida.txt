@@ -1,0 +1,21 @@
+# c_naida
+
+# County Title
+title = c_naida
+
+# Settlements
+max_settlements = 7
+
+b_naida = castle
+#b_naida_2 = city
+#b_naida_3 = temple
+#b_naida_4 = castle
+#b_naida_5 = city
+#b_naida_6 = temple
+#b_naida_7 = castle
+
+# Misc
+culture = taguedi
+religion = west_african_pagan
+
+#History

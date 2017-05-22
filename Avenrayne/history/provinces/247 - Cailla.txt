@@ -1,0 +1,21 @@
+# c_cailla
+
+# County Title
+title = c_cailla
+
+# Settlements
+max_settlements = 7
+
+b_cailla = castle
+b_cailla_2 = city
+#b_cailla_3 = temple
+#b_cailla_4 = castle
+#b_cailla_5 = city
+#b_cailla_6 = temple
+#b_cailla_7 = castle
+
+# Misc
+culture = fornellà
+religion = catholic
+
+#History

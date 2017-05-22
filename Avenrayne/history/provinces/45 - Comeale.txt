@@ -1,0 +1,44 @@
+# c_comeale
+
+# County Title
+title = c_comeale
+
+# Settlements
+max_settlements = 7
+
+b_comeale = castle
+b_laigne = city
+b_gagnon = temple
+#b_collerette = castle
+#b_masseret = city
+#b_diou = temple
+#b_vievy = castle
+
+# Misc
+culture = western_rayne
+religion = cathar
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = renae
+}
+2.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+480.1.1 = { 
+culture = old_rayne
+}
+300.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+691.1.1 = { 
+religion = cathar
+}
+730.1.1 = { 
+culture = western_rayne
+}

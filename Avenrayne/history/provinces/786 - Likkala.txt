@@ -1,0 +1,21 @@
+# c_likkala
+
+# County Title
+title = c_likkala
+
+# Settlements
+max_settlements = 7
+
+b_likkala = tribal
+#b_nuojua = city
+#b_likkala_2 = temple
+#b_likkala_3 = castle
+#b_likkala_4 = city
+#b_likkala_5 = temple
+#b_likkala_6 = castle
+
+# Misc
+culture = ruomalainen
+religion = finnish_pagan
+
+#History

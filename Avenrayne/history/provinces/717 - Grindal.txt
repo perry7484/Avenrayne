@@ -1,0 +1,21 @@
+# c_grindal
+
+# County Title
+title = c_grindal
+
+# Settlements
+max_settlements = 7
+
+b_grindal = tribal
+#b_grindal_2 = city
+#b_grindal_3 = temple
+#b_grindal_4 = castle
+#b_grindal_5 = city
+#b_grindal_6 = temple
+#b_grindal_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

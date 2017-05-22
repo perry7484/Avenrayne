@@ -1,0 +1,21 @@
+# c_reynirfjoerdhur
+
+# County Title
+title = c_reynirfjoerdhur
+
+# Settlements
+max_settlements = 7
+
+b_reynirfjoerdhur = tribal
+#b_reynirfjoerdhur_2 = city
+#b_reynirfjoerdhur_3 = temple
+#b_reynirfjoerdhur_4 = castle
+#b_reynirfjoerdhur_5 = city
+#b_reynirfjoerdhur_6 = temple
+#b_reynirfjoerdhur_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

@@ -1,0 +1,37 @@
+# c_montemassi
+
+# County Title
+title = c_montemassi
+
+# Settlements
+max_settlements = 7
+
+b_montemassi = city
+b_giusti = temple
+b_ottorino = temple
+#b_fauglia = castle
+#b_fontazzi = city
+#b_marrado = temple
+#b_zampona = castle
+
+# Misc
+culture = frassina
+religion = pelagian
+
+#History
+1.1.1 = { 
+religion = hellenic_pagan
+culture = capracciana
+}
+560.1.1 = { 
+culture = frassina
+}
+275.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+650.1.1 = { 
+religion = pelagian
+}

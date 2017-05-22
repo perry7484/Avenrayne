@@ -1,0 +1,11 @@
+# e_rayne
+500.1.1={
+	law = agnatic_succession
+	law = succ_primogeniture
+}
+753.11.7={
+	holder=3781 #Lennard
+}
+800.1.1={
+	liege=e_rayne
+}

@@ -1,0 +1,11 @@
+# e_rayne
+500.1.1={
+	law = agnatic_succession
+	law = succ_primogeniture
+}
+730.1.1={
+	liege=d_castelfol
+}
+746.12.10={
+	holder=3811 #Emery
+}

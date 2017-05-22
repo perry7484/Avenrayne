@@ -1,0 +1,16 @@
+#A
+technology = {
+	titles = {
+		d_a
+	}
+	350 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+	}
+	1350 = {
+		military = 3.5
+		economy = 3.5
+		culture = 3.5
+	}
+}

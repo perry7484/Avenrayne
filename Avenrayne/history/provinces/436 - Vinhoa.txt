@@ -1,0 +1,21 @@
+# c_vinhoa
+
+# County Title
+title = c_vinhoa
+
+# Settlements
+max_settlements = 7
+
+b_vinhoa = castle
+b_cados = city
+b_vinhoa_2 = temple
+#b_vinhoa_3 = castle
+#b_vinhoa_4 = city
+#b_vinhoa_5 = temple
+#b_vinhoa_6 = castle
+
+# Misc
+culture = costano
+religion = zun_pagan
+
+#History

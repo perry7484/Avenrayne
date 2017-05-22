@@ -1,0 +1,21 @@
+# c_zifta
+
+# County Title
+title = c_zifta
+
+# Settlements
+max_settlements = 7
+
+b_zifta = castle
+#b_zifta_2 = city
+#b_zifta_3 = temple
+#b_zifta_4 = castle
+#b_zifta_5 = city
+#b_zifta_6 = temple
+#b_zifta_7 = castle
+
+# Misc
+culture = nikosian
+religion = miaphysite
+
+#History

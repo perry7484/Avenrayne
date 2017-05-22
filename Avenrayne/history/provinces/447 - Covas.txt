@@ -1,0 +1,21 @@
+# c_covas
+
+# County Title
+title = c_covas
+
+# Settlements
+max_settlements = 7
+
+b_covas = castle
+b_reparade = city
+#b_carreira = temple
+#b_covas_2 = castle
+#b_covas_3 = city
+#b_covas_4 = temple
+#b_covas_5 = castle
+
+# Misc
+culture = costano
+religion = zun_pagan
+
+#History

@@ -1,0 +1,38 @@
+# c_westover
+
+# County Title
+title = c_westover
+
+# Settlements
+max_settlements = 7
+
+b_westover = castle
+#b_littlebrook = city
+#b_angeline = temple
+#b_bildon = castle
+#b_westover_2 = city
+#b_westover_3 = temple
+#b_westover_4 = castle
+
+# Misc
+culture = southron
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = abonae
+}
+87.1.1 = { 
+religion = hellenic_pagan
+culture = abonae_capracciana
+}
+500.1.1 = { 
+culture = eascisc
+}
+480.1.1 = { 
+religion = catholic
+}
+1130.1.1 = { 
+culture = southron
+}

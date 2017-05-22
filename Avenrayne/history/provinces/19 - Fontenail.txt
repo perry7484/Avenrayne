@@ -1,0 +1,41 @@
+# c_fontenail
+
+# County Title
+title = c_fontenail
+
+# Settlements
+max_settlements = 7
+
+b_fontenail = castle
+b_reognont = city
+b_retrosse = temple
+#b_monvasse = castle
+#b_lannille = city
+#b_alroute = temple
+#b_cheignac = castle
+
+# Misc
+culture = eastern_rayne
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = celtic_pagan
+culture = renae
+}
+36.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+480.1.1 = { 
+culture = old_rayne
+}
+482.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+736.1.1 = { 
+culture = eastern_rayne
+}

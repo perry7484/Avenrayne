@@ -1,0 +1,13 @@
+# e_fornella
+150.1.1={
+de_jure_liege=e_sonoria
+}
+401.4.16={
+	holder=124
+}
+550.1.1={
+de_jure_liege=e_fornella
+}
+450.1.1={
+	liege=e_fornella
+}

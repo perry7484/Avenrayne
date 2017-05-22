@@ -1,0 +1,20 @@
+691.1.1={
+	holding_dynasty = 4040
+	liege="d_lerca"
+	holder=4041 #Taddeo - PLACEHOLDER DATE
+}
+714.4.15={
+holder=4042 #Danielo
+}
+751.1.23={
+holder=4043 #Catone
+}
+768.11.3={
+holder=4044 #Centino
+}
+787.2.21={
+holder=4045 #Emiglio
+}
+804.9.29={
+holder=4045 #NEW CHAR HERE
+}

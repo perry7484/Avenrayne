@@ -1,0 +1,21 @@
+# c_crinnan
+
+# County Title
+title = c_crinnan
+
+# Settlements
+max_settlements = 7
+
+b_crinnan = tribal
+#b_crinnan_2 = city
+#b_crinnan_3 = temple
+#b_crinnan_4 = castle
+#b_crinnan_5 = city
+#b_crinnan_6 = temple
+#b_crinnan_7 = castle
+
+# Misc
+culture = ardthirraich
+religion = celtic_pagan
+
+#History

@@ -1,0 +1,21 @@
+# c_verno
+
+# County Title
+title = c_verno
+
+# Settlements
+max_settlements = 7
+
+b_verno = castle
+b_amara = temple
+#b_alisa = temple
+#b_celeia = castle
+#b_beldunon = city
+#b_arduinna = temple
+#b_bibracte = castle
+
+# Misc
+culture = renae
+religion = celtic_pagan
+
+#History

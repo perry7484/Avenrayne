@@ -1,0 +1,21 @@
+# c_estre
+
+# County Title
+title = c_estre
+
+# Settlements
+max_settlements = 7
+
+b_estre = castle
+#b_solieres = city
+#b_houyet = temple
+#b_avocourt = castle
+#b_ballon = city
+#b_fericy = temple
+#b_moicenay = castle
+
+# Misc
+culture = western_rayne
+religion = catholic
+
+#History

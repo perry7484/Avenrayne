@@ -1,0 +1,21 @@
+# c_wadi_shamal
+
+# County Title
+title = c_wadi_shamal
+
+# Settlements
+max_settlements = 7
+
+b_wadi_shamal = castle
+#b_wadi_shamal_2 = city
+#b_wadi_shamal_3 = temple
+#b_wadi_shamal_4 = castle
+#b_wadi_shamal_5 = city
+#b_wadi_shamal_6 = temple
+#b_wadi_shamal_7 = castle
+
+# Misc
+culture = aluqi
+religion = sunni
+
+#History

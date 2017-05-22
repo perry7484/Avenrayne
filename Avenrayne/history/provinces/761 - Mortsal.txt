@@ -1,0 +1,21 @@
+# c_mortsal
+
+# County Title
+title = c_mortsal
+
+# Settlements
+max_settlements = 7
+
+b_mortsal = tribal
+#b_mortsal_2 = city
+#b_mortsal_3 = temple
+#b_mortsal_4 = castle
+#b_mortsal_5 = city
+#b_mortsal_6 = temple
+#b_mortsal_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

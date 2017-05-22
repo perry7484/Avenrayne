@@ -1,0 +1,11 @@
+# e_penia
+500.1.1={
+	law = agnatic_succession
+	law = succ_primogeniture
+}
+700.1.1={
+	liege=d_avoglie
+}
+763.4.21={
+	holder=4021 #Giovanni
+}

@@ -1,0 +1,21 @@
+# c_rochere
+
+# County Title
+title = c_rochere
+
+# Settlements
+max_settlements = 7
+
+b_rochere = castle
+#b_quend = city
+#b_attin = temple
+#b_valery = castle
+#b_trenec = city
+#b_monrail = temple
+#b_quedeuce = castle
+
+# Misc
+culture = northern_rayne
+religion = catholic
+
+#History

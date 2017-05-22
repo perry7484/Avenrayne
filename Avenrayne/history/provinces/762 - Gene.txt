@@ -1,0 +1,21 @@
+# c_gene
+
+# County Title
+title = c_gene
+
+# Settlements
+max_settlements = 7
+
+b_gene = tribal
+#b_gene_2 = city
+#b_gene_3 = temple
+#b_gene_4 = castle
+#b_gene_5 = city
+#b_gene_6 = temple
+#b_gene_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

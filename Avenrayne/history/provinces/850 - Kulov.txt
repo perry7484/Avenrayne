@@ -1,0 +1,21 @@
+# c_kulov
+
+# County Title
+title = c_kulov
+
+# Settlements
+max_settlements = 7
+
+b_kulov = tribal
+#b_kulov_2 = city
+#b_kulov_3 = temple
+#b_kulov_4 = castle
+#b_kulov_5 = city
+#b_kulov_6 = temple
+#b_kulov_7 = castle
+
+# Misc
+culture = kulovski
+religion = slavic_pagan
+
+#History

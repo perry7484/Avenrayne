@@ -1,0 +1,21 @@
+# c_shemu
+
+# County Title
+title = c_shemu
+
+# Settlements
+max_settlements = 7
+
+b_shemu = castle
+#b_shemu_2 = city
+#b_shemu_3 = temple
+#b_shemu_4 = castle
+#b_shemu_5 = city
+#b_shemu_6 = temple
+#b_shemu_7 = castle
+
+# Misc
+culture = taguedi
+religion = west_african_pagan
+
+#History

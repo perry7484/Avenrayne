@@ -1,0 +1,21 @@
+# c_bramham
+
+# County Title
+title = c_bramham
+
+# Settlements
+max_settlements = 7
+
+b_bramham = castle
+#b_hefwith = city
+#b_bramham_2 = temple
+#b_bramham_3 = castle
+#b_bramham_4 = city
+#b_bramham_5 = temple
+#b_bramham_6 = castle
+
+# Misc
+culture = abonae
+religion = lollard
+
+#History

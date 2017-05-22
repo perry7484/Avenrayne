@@ -1,0 +1,42 @@
+# c_amianti
+
+# County Title
+title = c_amianti
+
+# Settlements
+max_settlements = 7
+
+b_amianti = city
+b_maleo = city
+#b_silea = temple
+#b_cantiglio = castle
+#b_buseno = city
+#b_avers = temple
+#b_soazza = castle
+
+# Misc
+culture = galiazzana
+religion = pelagian
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = corviliae
+}
+41.1.1 = { 
+religion = hellenic_pagan
+culture = corvigliana
+}
+591.1.1 = { 
+culture = galiazzana
+}
+530.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+
+650.1.1 = { 
+religion = pelagian
+}

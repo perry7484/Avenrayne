@@ -1,0 +1,21 @@
+# c_lairigmor
+
+# County Title
+title = c_lairigmor
+
+# Settlements
+max_settlements = 7
+
+b_fewston_2 = castle
+#b_lairigmor = city
+#b_lairigmor_2 = temple
+#b_lairigmor_3 = castle
+#b_lairigmor_4 = city
+#b_lairigmor_5 = temple
+#b_lairigmor_6 = castle
+
+# Misc
+culture = abonae
+religion = lollard
+
+#History

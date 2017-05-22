@@ -1,0 +1,21 @@
+# c_bescano
+
+# County Title
+title = c_bescano
+
+# Settlements
+max_settlements = 7
+
+b_bescano = castle
+#b_bescano_2 = city
+#b_bescano_3 = temple
+#b_bescano_4 = castle
+#b_bescano_5 = city
+#b_bescano_6 = temple
+#b_bescano_7 = castle
+
+# Misc
+culture = fornellà
+religion = cathar
+
+#History

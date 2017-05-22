@@ -1,0 +1,38 @@
+# c_siciu
+
+# County Title
+title = c_siciu
+
+# Settlements
+max_settlements = 7
+
+b_siciu = castle
+#b_ghenci = city
+#b_poian = temple
+#b_siciu_2 = castle
+#b_siciu_3 = city
+#b_siciu_4 = temple
+#b_siciu_5 = castle
+
+# Misc
+culture = vodeasca
+religion = orthodox
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = varodesi
+}
+106.1.1 = { 
+religion = hellenic_pagan
+}
+206.1.1 = { 
+religion = hellenic_pagan
+culture = varo-capracciana
+}
+450.1.1 = { 
+culture = varodaesca
+}
+520.1.1 = { 
+religion = orthodox
+}

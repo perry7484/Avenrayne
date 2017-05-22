@@ -1,0 +1,21 @@
+# c_cagac
+
+# County Title
+title = c_cagac
+
+# Settlements
+max_settlements = 7
+
+b_cagac = castle
+b_rouleau = temple
+#b_laplase = temple
+#b_murvals = castle
+#b_sart = city
+#b_gorcy = temple
+#b_bueil = castle
+
+# Misc
+culture = western_rayne
+religion = cathar
+
+#History

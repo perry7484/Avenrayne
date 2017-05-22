@@ -1,0 +1,38 @@
+# c_ancaster
+
+# County Title
+title = c_ancaster
+
+# Settlements
+max_settlements = 7
+
+b_ancaster = castle
+#b_ancaster_2 = city
+#b_ancaster_3 = temple
+#b_ancaster_4 = castle
+#b_ancaster_5 = city
+#b_ancaster_6 = temple
+#b_ancaster_7 = castle
+
+# Misc
+culture = maesmyge
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = abonae
+}
+105.1.1 = { 
+religion = hellenic_pagan
+culture = abonae_capracciana
+}
+500.1.1 = { 
+culture = eascisc
+}
+480.1.1 = { 
+religion = catholic
+}
+1130.1.1 = { 
+culture = middlefordish
+}

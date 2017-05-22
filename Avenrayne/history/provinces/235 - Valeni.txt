@@ -1,0 +1,28 @@
+# c_valeni
+
+# County Title
+title = c_valeni
+
+# Settlements
+max_settlements = 7
+
+b_valeni = castle
+#b_valeni_2 = city
+#b_valeni_3 = temple
+#b_valeni_4 = castle
+#b_valeni_5 = city
+#b_valeni_6 = temple
+#b_valeni_7 = castle
+
+# Misc
+culture = varodaesca
+religion = pagan
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = varodesi
+}
+450.1.1 = { 
+culture = varodaesca
+}

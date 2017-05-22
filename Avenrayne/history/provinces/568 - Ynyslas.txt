@@ -1,0 +1,21 @@
+# c_ynyslas
+
+# County Title
+title = c_ynyslas
+
+# Settlements
+max_settlements = 7
+
+b_ynyslas = castle
+#b_gellifor = city
+#b_afon_wen = temple
+#b_ynyslas_2 = castle
+#b_ynyslas_3 = city
+#b_ynyslas_4 = temple
+#b_ynyslas_5 = castle
+
+# Misc
+culture = maesmyge
+religion = celtic_pagan
+
+#History

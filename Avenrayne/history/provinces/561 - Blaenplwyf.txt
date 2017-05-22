@@ -1,0 +1,21 @@
+# c_blaenplwyf
+
+# County Title
+title = c_blaenplwyf
+
+# Settlements
+max_settlements = 7
+
+b_blaenplwyf = tribal
+#b_llysfasi = city
+#b_bryncir = temple
+#b_blaenplwyf_2 = castle
+#b_blaenplwyf_3 = city
+#b_blaenplwyf_4 = temple
+#b_blaenplwyf_5 = castle
+
+# Misc
+culture = maesmyge
+religion = celtic_pagan
+
+#History

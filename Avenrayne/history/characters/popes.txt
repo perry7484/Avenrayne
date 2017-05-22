@@ -1,0 +1,17 @@
+231 = {
+	name=Benedictus
+	female=no
+#	dynasty=
+	religion=catholic
+	culture=capracciana
+	diplomacy = 5
+	stewardship = 5
+	trait=lazy
+	723.2.6={
+		birth=yes
+	}
+	781.1.1={
+		death=yes
+	}
+}
+

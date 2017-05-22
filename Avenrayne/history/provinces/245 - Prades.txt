@@ -1,0 +1,41 @@
+# c_prades
+
+# County Title
+title = c_prades
+
+# Settlements
+max_settlements = 7
+
+b_prades = castle
+#b_prades_2 = city
+#b_prades_3 = temple
+#b_prades_4 = castle
+#b_prades_5 = city
+#b_prades_6 = temple
+#b_prades_7 = castle
+
+# Misc
+culture = southern_rayne
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = renae
+}
+2.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+450.1.1 = { 
+culture = old_rayne
+}
+480.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+730.1.1 = { 
+culture = southern_rayne
+}

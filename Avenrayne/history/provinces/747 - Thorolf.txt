@@ -1,0 +1,21 @@
+# c_thorolf
+
+# County Title
+title = c_thorolf
+
+# Settlements
+max_settlements = 7
+
+b_thorolf = tribal
+#b_thorolf_2 = city
+#b_thorolf_3 = temple
+#b_thorolf_4 = castle
+#b_thorolf_5 = city
+#b_thorolf_6 = temple
+#b_thorolf_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

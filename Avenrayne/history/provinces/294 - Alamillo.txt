@@ -1,0 +1,21 @@
+# c_alamillo
+
+# County Title
+title = c_alamillo
+
+# Settlements
+max_settlements = 7
+
+b_alamillo = castle
+#b_alamillo_2 = city
+#b_alamillo_3 = temple
+#b_alamillo_4 = castle
+#b_alamillo_5 = city
+#b_alamillo_6 = temple
+#b_alamillo_7 = castle
+
+# Misc
+culture = soreno
+religion = miaphysite
+
+#History

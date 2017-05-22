@@ -1,0 +1,21 @@
+# c_bringen
+
+# County Title
+title = c_bringen
+
+# Settlements
+max_settlements = 7
+
+b_bringen = tribal
+#b_bringen_2 = city
+#b_bringen_3 = temple
+#b_bringen_4 = castle
+#b_bringen_5 = city
+#b_bringen_6 = temple
+#b_bringen_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

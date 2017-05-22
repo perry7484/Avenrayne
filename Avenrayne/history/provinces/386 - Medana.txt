@@ -1,0 +1,21 @@
+# c_medana
+
+# County Title
+title = c_medana
+
+# Settlements
+max_settlements = 7
+
+b_medana = city
+b_gniva = city
+#b_medana_2 = temple
+#b_medana_3 = castle
+#b_medana_4 = city
+#b_medana_5 = temple
+#b_medana_6 = castle
+
+# Misc
+culture = medana
+religion = pelagian
+
+#History

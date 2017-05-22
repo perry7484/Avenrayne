@@ -1,0 +1,21 @@
+# c_ashri
+
+# County Title
+title = c_ashri
+
+# Settlements
+max_settlements = 7
+
+b_ashri = castle
+#b_ashri_2 = city
+#b_ashri_3 = temple
+#b_ashri_4 = castle
+#b_ashri_5 = city
+#b_ashri_6 = temple
+#b_ashri_7 = castle
+
+# Misc
+culture = nawwari
+religion = miaphysite
+
+#History

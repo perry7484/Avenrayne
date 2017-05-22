@@ -1,0 +1,21 @@
+# c_deifontes
+
+# County Title
+title = c_deifontes
+
+# Settlements
+max_settlements = 7
+
+b_deifontes = castle
+#b_deifontes_2 = city
+#b_deifontes_3 = temple
+#b_deifontes_4 = castle
+#b_deifontes_5 = city
+#b_deifontes_6 = temple
+#b_deifontes_7 = castle
+
+# Misc
+culture = soreno
+religion = miaphysite
+
+#History

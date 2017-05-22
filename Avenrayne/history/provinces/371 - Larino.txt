@@ -1,0 +1,21 @@
+# c_larino
+
+# County Title
+title = c_larino
+
+# Settlements
+max_settlements = 7
+
+b_larino = city
+b_pergusa = city
+#b_larino_2 = temple
+#b_larino_3 = castle
+#b_larino_4 = city
+#b_larino_5 = temple
+#b_larino_6 = castle
+
+# Misc
+culture = atessana
+religion = catholic
+
+#History

@@ -1,0 +1,21 @@
+# c_dibiyya
+
+# County Title
+title = c_dibiyya
+
+# Settlements
+max_settlements = 7
+
+b_dibiyya = castle
+#b_dibiyya_2 = city
+#b_dibiyya_3 = temple
+#b_dibiyya_4 = castle
+#b_dibiyya_5 = city
+#b_dibiyya_6 = temple
+#b_dibiyya_7 = castle
+
+# Misc
+culture = aluqi
+religion = sunni
+
+#History

@@ -1,0 +1,11 @@
+# e_rayne
+500.1.1={
+	law = agnatic_succession
+	law = succ_primogeniture
+}
+730.1.1={
+	liege=k_mouen
+}
+753.11.7={
+	holder=3791 #Claude
+}

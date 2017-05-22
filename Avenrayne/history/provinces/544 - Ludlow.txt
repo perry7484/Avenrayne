@@ -1,0 +1,21 @@
+# c_ludlow
+
+# County Title
+title = c_ludlow
+
+# Settlements
+max_settlements = 7
+
+b_ludlow = castle
+#b_trefriw = city
+#b_dyserth = temple
+#b_llanidloes = castle
+#b_ludlow_2 = city
+#b_ludlow_3 = temple
+#b_ludlow_4 = castle
+
+# Misc
+culture = maesmyge
+religion = catholic
+
+#History

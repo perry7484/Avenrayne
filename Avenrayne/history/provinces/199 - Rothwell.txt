@@ -1,0 +1,21 @@
+# c_rothwell
+
+# County Title
+title = c_rothwell
+
+# Settlements
+max_settlements = 7
+
+b_rothwell = castle
+#b_rothwell_2 = city
+#b_rothwell_3 = temple
+#b_rothwell_4 = castle
+#b_rothwell_5 = city
+#b_rothwell_6 = temple
+#b_rothwell_7 = castle
+
+# Misc
+culture = abonae
+religion = lollard
+
+#History

@@ -1,0 +1,21 @@
+# c_vilaro
+
+# County Title
+title = c_vilaro
+
+# Settlements
+max_settlements = 7
+
+b_vilaro = castle
+#b_vilaro_2 = city
+#b_vilaro_3 = temple
+#b_vilaro_4 = castle
+#b_vilaro_5 = city
+#b_vilaro_6 = temple
+#b_vilaro_7 = castle
+
+# Misc
+culture = fornellà
+religion = catholic
+
+#History

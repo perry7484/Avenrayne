@@ -1,0 +1,21 @@
+# c_einarsfjoerdhur
+
+# County Title
+title = c_einarsfjoerdhur
+
+# Settlements
+max_settlements = 7
+
+b_einarsfjoerdhur = tribal
+#b_einarsfjoerdhur_2 = city
+#b_einarsfjoerdhur_3 = temple
+#b_einarsfjoerdhur_4 = castle
+#b_einarsfjoerdhur_5 = city
+#b_einarsfjoerdhur_6 = temple
+#b_einarsfjoerdhur_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

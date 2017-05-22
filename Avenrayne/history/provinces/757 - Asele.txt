@@ -1,0 +1,21 @@
+# c_asele
+
+# County Title
+title = c_asele
+
+# Settlements
+max_settlements = 7
+
+b_asele = tribal
+#b_asele_2 = city
+#b_asele_3 = temple
+#b_asele_4 = castle
+#b_asele_5 = city
+#b_asele_6 = temple
+#b_asele_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

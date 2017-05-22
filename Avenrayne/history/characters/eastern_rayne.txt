@@ -1,0 +1,845 @@
+3202 = {
+	name=Auguste
+	female=no
+	dynasty=3200
+	dna="fxygkhdauvi"
+	religion=catholic
+	culture=eastern_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=patient
+	trait=cynical
+	trait=naive_appeaser
+	father=3201
+	716.4.11={
+		birth=yes
+	}
+	781.1.1={
+		death=yes
+	}
+}
+
+3203 = {
+	name=Vincent
+	female=no
+	dynasty=3200
+	religion=catholic
+	culture=eastern_rayne
+	diplomacy = 5
+	stewardship = 5
+	father=3202
+	736.12.6={
+		birth=yes
+	}
+	739.1.23={
+		death=yes
+	}
+}
+
+3204 = {
+	name=Augustin
+	female=no
+	dynasty=3200
+	dna="fxygkhdauvi"
+	religion=catholic
+	culture=eastern_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=patient
+	trait=cynical
+	trait=naive_appeaser
+	father=3202
+	738.8.16={
+		birth=yes
+	}
+	781.1.1={
+		death=yes
+	}
+}
+
+3205 = {
+	name=Aurelie
+	female=yes
+	dynasty=3200
+	dna="fxygkadauvi"
+	religion=catholic
+	culture=eastern_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=patient
+	father=3204
+	759.4.1={
+		birth=yes
+	}
+	814.10.27={
+		death=yes
+	}
+}
+
+
+3301={
+	name=Guy
+	dynasty=3300
+	dna="jjjkeiblmic"
+	culture=eastern_rayne religion=catholic
+	martial=7 diplomacy=5 stewardship=6 intrigue=5 learning=5
+	add_trait=detached_priest add_trait=patient add_trait=greedy add_trait=shy 
+	714.2.4={ birth=yes }
+	780.12.18={ death=yes }
+}
+3302={
+	name=Drustan
+	dynasty=3300
+	dna="jdjkeobeoii"
+	culture=eastern_rayne religion=catholic
+	martial=7 diplomacy=6 stewardship=4 intrigue=5 learning=7
+	add_trait=tough_soldier add_trait=diligent add_trait=chaste add_trait=wroth 
+	father=3301	#Guy
+	721.9.22={ birth=yes }
+	791.10.15={ death=yes }
+}
+3303={
+	name=Mascarose
+	female=yes
+	dynasty=3300
+	dna="pjjkdijlgic"
+	culture=eastern_rayne religion=catholic
+	father=3301	#Guy
+	731.11.18={ birth=yes }
+	796.1.5={ death=yes }
+}
+3304={
+	name=Maelle
+	female=yes
+	dynasty=3300
+	dna="djjgjbbldlc"
+	culture=eastern_rayne religion=catholic
+	father=3301	#Guy
+	740.5.8={ birth=yes }
+	792.8.9={ death=yes }
+}
+3305={
+	name=Bérenger
+	dynasty=3300
+	dna="oajgenenhif"
+	culture=eastern_rayne religion=catholic
+	martial=4 diplomacy=5 stewardship=6 intrigue=4 learning=4
+	add_trait=martial_cleric add_trait=just add_trait=chaste 
+	father=3302	#Drustan
+	724.2.1={ birth=yes }
+	793.2.14={ death=yes }
+}
+3306={
+	name=Humbert
+	dynasty=3300
+	dna="ilodebbooii"
+	culture=eastern_rayne religion=catholic
+	martial=7 diplomacy=5 stewardship=5 intrigue=7 learning=7
+	add_trait=grey_eminence add_trait=patient add_trait=honest add_trait=depressed add_trait=possessed 
+	father=3302	#Drustan
+	730.1.11={ birth=yes }
+	779.4.6={ death=yes }
+}
+3307={
+	name=André
+	dynasty=3300
+	dna="jdjkoomkoio"
+	culture=eastern_rayne religion=catholic
+	martial=7 diplomacy=8 stewardship=8 intrigue=4 learning=4
+	add_trait=naive_appeaser add_trait=impaler add_trait=diligent add_trait=cruel add_trait=chaste 
+	add_trait=paranoid 
+	father=3302	#Drustan
+	736.8.2={ birth=yes }
+	803.5.14={ death=yes }
+}
+3308={
+	name=Ogier
+	dynasty=3300
+	dna="jdjkebbekab"
+	culture=eastern_rayne religion=catholic
+	martial=7 diplomacy=4 stewardship=4 intrigue=5 learning=6
+	add_trait=scholarly_theologian add_trait=trusting add_trait=slothful add_trait=envious add_trait=temperate 
+	add_trait=honest add_trait=strong 
+	father=3302	#Drustan
+	742.4.11={ birth=yes }
+	806.1.29={ death=yes }
+}
+3309={
+	name=Isabeau
+	female=yes
+	dynasty=3300
+	dna="fajgphenhkf"
+	culture=eastern_rayne religion=catholic
+	father=3305	#Bérenger
+	726.2.20={ birth=yes }
+	779.11.2={ death=yes }
+}
+3310={
+	name=Arnoul
+	dynasty=3300
+	dna="oajeenecaaf"
+	culture=eastern_rayne religion=catholic
+	martial=5 diplomacy=5 stewardship=7 intrigue=7 learning=8
+	add_trait=midas_touched add_trait=celibate add_trait=humble add_trait=charitable add_trait=wroth 
+	add_trait=honest add_trait=zealous add_trait=wounded 
+	father=3305	#Bérenger
+	732.2.7={ birth=yes }
+	784.1.1={ death=yes }
+}
+3311={
+	name=Élodie
+	female=yes
+	dynasty=3300
+	dna="oajgenonaia"
+	culture=eastern_rayne religion=catholic
+	father=3305	#Bérenger
+	738.4.10={ birth=yes }
+	800.1.11={ death=yes }
+}
+3312={
+	name=Thomas
+	dynasty=3300
+	dna="fnafecanlem"
+	culture=eastern_rayne religion=catholic
+	martial=5 diplomacy=6 stewardship=4 intrigue=4 learning=4
+	add_trait=midas_touched add_trait=gluttonous add_trait=charitable add_trait=arbitrary add_trait=zealous 
+	father=3305	#Bérenger
+	743.12.10={ birth=yes }
+	815.3.27={ death=yes }
+}
+3313={
+	name=Almodis
+	female=yes
+	dynasty=3300
+	dna="okjaebengia"
+	culture=eastern_rayne religion=catholic
+	father=3305	#Bérenger
+	749.4.21={ birth=yes }
+	798.7.22={ death=yes }
+}
+3314={
+	name=Aléarde
+	female=yes
+	dynasty=3300
+	dna="objcenmbhif"
+	culture=eastern_rayne religion=catholic
+	father=3305	#Bérenger
+	754.9.9={ birth=yes }
+	817.7.20={ death=yes }
+}
+3315={
+	name=Ogier
+	dynasty=3300
+	dna="ofjfilccagf"
+	culture=eastern_rayne religion=catholic
+	martial=5 diplomacy=6 stewardship=5 intrigue=5 learning=8
+	add_trait=mastermind_theologian add_trait=gardener add_trait=gluttonous add_trait=content add_trait=slothful 
+	add_trait=cruel 
+	father=3310	#Arnoul
+	748.4.13={ birth=yes }
+	811.12.31={ death=yes }
+}
+3316={
+	name=Hildegard
+	female=yes
+	dynasty=3300
+	dna="gajeknehaeo"
+	culture=eastern_rayne religion=catholic
+	father=3310	#Arnoul
+	756.4.18={ birth=yes }
+	830.10.6={ death=yes }
+}
+3317={
+	name=Drustan
+	dynasty=3300
+	dna="oboeeiecepf"
+	culture=eastern_rayne religion=catholic
+	martial=6 diplomacy=8 stewardship=8 intrigue=7 learning=4
+	add_trait=indulgent_wastrel add_trait=shy add_trait=slothful add_trait=paranoid add_trait=cruel 
+	father=3310	#Arnoul
+	763.1.2={ birth=yes }
+	826.11.6={ death=yes }
+}
+3318={
+	name=Theobald
+	dynasty=3300
+	dna="bfjfencibap"
+	culture=eastern_rayne religion=catholic
+	martial=5 diplomacy=7 stewardship=7 intrigue=8 learning=7
+	add_trait=misguided_warrior add_trait=kind add_trait=cruel add_trait=craven add_trait=paranoid 
+	add_trait=charitable 
+	father=3310	#Arnoul
+	771.1.22={ birth=yes }
+	818.5.8={ death=yes }
+}
+3319={
+	name=Thierry
+	dynasty=3300
+	dna="ofglilccago"
+	culture=eastern_rayne religion=catholic
+	martial=7 diplomacy=5 stewardship=7 intrigue=5 learning=5
+	add_trait=midas_touched add_trait=wroth add_trait=trusting add_trait=arbitrary 
+	father=3315	#Ogier
+	755.9.12={ birth=yes }
+	825.11.2={ death=yes }
+}
+3320={
+	name=Godfrey
+	dynasty=3300
+	dna="ooefilicadj"
+	culture=eastern_rayne religion=catholic
+	martial=8 diplomacy=8 stewardship=8 intrigue=6 learning=6
+	add_trait=charismatic_negotiator add_trait=hedonist add_trait=kind add_trait=lustful add_trait=honest 
+	add_trait=content 
+	father=3315	#Ogier
+	761.6.1={ birth=yes }
+	830.5.15={ death=yes }
+}
+3321={
+	name=Robert
+	dynasty=3300
+	dna="ofelolciaci"
+	culture=eastern_rayne religion=catholic
+	martial=8 diplomacy=7 stewardship=6 intrigue=8 learning=4
+	add_trait=mastermind_theologian add_trait=cynical add_trait=humble add_trait=deceitful add_trait=paranoid 
+	father=3315	#Ogier
+	769.12.27={ birth=yes }
+	821.3.13={ death=yes }
+}
+3322={
+	name=Ermengarde
+	female=yes
+	dynasty=3300
+	dna="cfmmioccagl"
+	culture=eastern_rayne religion=catholic
+	father=3315	#Ogier
+	775.10.6={ birth=yes }
+	847.4.24={ death=yes }
+}
+3323={
+	name=Susanne
+	female=yes
+	dynasty=3300
+	dna="odofnopcage"
+	culture=eastern_rayne religion=catholic
+	father=3315	#Ogier
+	780.6.24={ birth=yes }
+	862.4.14={ death=yes }
+}
+3324={
+	name=Otto
+	dynasty=3300
+	dna="opjailncagf"
+	culture=eastern_rayne religion=catholic
+	martial=5 diplomacy=6 stewardship=4 intrigue=4 learning=8
+	add_trait=grey_eminence add_trait=hedonist add_trait=temperate add_trait=trusting add_trait=humble 
+	add_trait=gregarious 
+	father=3315	#Ogier
+	785.8.13={ birth=yes }
+	861.10.8={ death=yes }
+}
+3325={
+	name=Adrien
+	dynasty=3300
+	dna="oflpaljcagl"
+	culture=eastern_rayne religion=catholic
+	martial=8 diplomacy=7 stewardship=4 intrigue=7 learning=6
+	add_trait=flamboyant_schemer add_trait=greedy add_trait=gluttonous add_trait=kind add_trait=ambitious 
+	add_trait=proud add_trait=chaste 
+	father=3315	#Ogier
+	791.4.22={ birth=yes }
+	861.5.20={ death=yes }
+}
+3326={
+	name=Godfrey
+	dynasty=3300
+	dna="hphodpcodoo"
+	culture=eastern_rayne religion=catholic
+	martial=7 diplomacy=6 stewardship=8 intrigue=7 learning=4
+	add_trait=elusive_shadow add_trait=poet add_trait=arbitrary add_trait=content add_trait=cynical 
+	add_trait=temperate add_trait=ill add_trait=possessed 
+	father=3319	#Thierry
+	764.8.13={ birth=yes }
+	829.3.30={ death=yes }
+}
+3327={
+	name=Manassès
+	dynasty=3300
+	dna="afklinacagj"
+	culture=eastern_rayne religion=catholic
+	martial=4 diplomacy=5 stewardship=7 intrigue=5 learning=8
+	add_trait=naive_appeaser add_trait=humble add_trait=chaste add_trait=ambitious add_trait=honest 
+	add_trait=charitable 
+	father=3319	#Thierry
+	768.8.1={ birth=yes }
+	820.11.4={ death=yes }
+}
+3328={
+	name=Bonne
+	female=yes
+	dynasty=3300
+	dna="ofmlelmcbao"
+	culture=eastern_rayne religion=catholic
+	father=3319	#Thierry
+	777.12.4={ birth=yes }
+	835.4.30={ death=yes }
+}
+3329={
+	name=Cécile
+	female=yes
+	dynasty=3300
+	dna="okglmlccpgk"
+	culture=eastern_rayne religion=catholic
+	father=3319	#Thierry
+	784.5.3={ birth=yes }
+	842.4.18={ death=yes }
+}
+3330={
+	name=Thibault
+	dynasty=3300
+	dna="jddmilcpanc"
+	culture=eastern_rayne religion=catholic
+	martial=8 diplomacy=5 stewardship=7 intrigue=5 learning=6
+	add_trait=grey_eminence add_trait=charitable add_trait=arbitrary add_trait=chaste add_trait=deceitful 
+	father=3319	#Thierry
+	791.9.23={ birth=yes }
+	856.1.1={ death=yes }
+}
+3331={
+	name=Almodis
+	female=yes
+	dynasty=3300
+	dna="hphodmfocod"
+	culture=eastern_rayne religion=catholic
+	father=3326	#Godfrey
+	776.5.12={ birth=yes }
+	838.6.5={ death=yes }
+}
+3332={
+	name=Adalmode
+	female=yes
+	dynasty=3300
+	dna="apcleplpogi"
+	culture=eastern_rayne religion=catholic
+	father=3326	#Godfrey
+	781.6.12={ birth=yes }
+	842.4.4={ death=yes }
+}
+3333={
+	name=Alphonse
+	dynasty=3300
+	dna="iihokocegon"
+	culture=eastern_rayne religion=catholic
+	martial=7 diplomacy=4 stewardship=6 intrigue=7 learning=4
+	add_trait=indulgent_wastrel add_trait=cynical add_trait=deceitful add_trait=chaste add_trait=greedy 
+	father=3326	#Godfrey
+	789.1.16={ birth=yes }
+	835.9.12={ death=yes }
+}
+3334={
+	name=Renaud
+	dynasty=3300
+	dna="ichojcbegpj"
+	culture=eastern_rayne religion=catholic
+	martial=4 diplomacy=6 stewardship=5 intrigue=7 learning=5
+	add_trait=elusive_shadow add_trait=humble add_trait=gregarious add_trait=temperate add_trait=envious 
+	add_trait=charitable 
+	father=3333	#Alphonse
+	792.10.14={ birth=yes }
+	843.7.13={ death=yes }
+}
+3335={
+	name=Eustachie
+	female=yes
+	dynasty=3300
+	dna="ficokochgon"
+	culture=eastern_rayne religion=catholic
+	father=3333	#Alphonse
+	798.10.1={ birth=yes }
+	856.7.21={ death=yes }
+}
+3336={
+	name=Baldwin
+	dynasty=3300
+	dna="nbhohonagol"
+	culture=eastern_rayne religion=catholic
+	martial=5 diplomacy=6 stewardship=5 intrigue=5 learning=7
+	add_trait=scholarly_theologian add_trait=deceitful add_trait=humble add_trait=temperate add_trait=paranoid 
+	father=3333	#Alphonse
+	805.12.14={ birth=yes }
+	869.6.29={ death=yes }
+}
+3337={
+	name=Mélisende
+	female=yes
+	dynasty=3300
+	dna="ficohocegdn"
+	culture=eastern_rayne religion=catholic
+	father=3333	#Alphonse
+	811.6.25={ birth=yes }
+	869.11.23={ death=yes }
+}
+3338={
+	name=Bartolomeus
+	dynasty=3300
+	dna="nfpekodegbo"
+	culture=eastern_rayne religion=catholic
+	martial=4 diplomacy=6 stewardship=6 intrigue=4 learning=8
+	add_trait=intricate_webweaver add_trait=ambitious add_trait=envious add_trait=humble add_trait=diligent 
+	add_trait=just 
+	father=3333	#Alphonse
+	817.4.16={ birth=yes }
+	888.8.20={ death=yes }
+}
+3339={
+	name=Drustan
+	dynasty=3300
+	dna="nohopcbegpj"
+	culture=eastern_rayne religion=catholic
+	martial=4 diplomacy=8 stewardship=4 intrigue=6 learning=5
+	add_trait=misguided_warrior add_trait=diligent add_trait=temperate add_trait=zealous add_trait=shy 
+	father=3334	#Renaud
+	798.10.6={ birth=yes }
+	856.5.31={ death=yes }
+}
+3340={
+	name=Mascarose
+	female=yes
+	dynasty=3300
+	dna="pjholpcdijc"
+	culture=eastern_rayne religion=catholic
+	father=3334	#Renaud
+	802.8.7={ birth=yes }
+	860.5.5={ death=yes }
+}
+3341={
+	name=Elisabeth
+	female=yes
+	dynasty=3300
+	dna="ichojapgbpe"
+	culture=eastern_rayne religion=catholic
+	father=3334	#Renaud
+	808.5.9={ birth=yes }
+	875.11.24={ death=yes }
+}
+3342={
+	name=Aliénor
+	female=yes
+	dynasty=3300
+	dna="nchcncbhcdj"
+	culture=eastern_rayne religion=catholic
+	father=3334	#Renaud
+	813.6.4={ birth=yes }
+	869.8.7={ death=yes }
+}
+3343={
+	name=Ralph
+	dynasty=3300
+	dna="icpbpcblgpj"
+	culture=eastern_rayne religion=catholic
+	martial=4 diplomacy=6 stewardship=8 intrigue=6 learning=6
+	add_trait=elusive_shadow add_trait=proud add_trait=gregarious add_trait=greedy add_trait=stressed 
+	father=3334	#Renaud
+	818.11.3={ birth=yes }
+	878.9.13={ death=yes }
+}
+3344={
+	name=Gerberge
+	female=yes
+	dynasty=3300
+	dna="lceldcbogpj"
+	culture=eastern_rayne religion=catholic
+	father=3334	#Renaud
+	823.10.14={ birth=yes }
+	903.9.26={ death=yes }
+}
+3345={
+	name=Pernelle
+	female=yes
+	dynasty=3300
+	dna="fcdoinapgph"
+	culture=eastern_rayne religion=catholic
+	father=3334	#Renaud
+	829.7.5={ birth=yes }
+	874.10.5={ death=yes }
+}
+3346={
+	name=Solène
+	female=yes
+	dynasty=3300
+	dna="kmhhjceegdd"
+	culture=eastern_rayne religion=catholic
+	father=3339	#Drustan
+	810.6.6={ birth=yes }
+	876.7.7={ death=yes }
+}
+3347={
+	name=Bernard
+	dynasty=3300
+	dna="oocopcbmjii"
+	culture=eastern_rayne religion=catholic
+	martial=4 diplomacy=4 stewardship=4 intrigue=7 learning=4
+	add_trait=grey_eminence add_trait=diligent add_trait=paranoid add_trait=cynical add_trait=charitable 
+	add_trait=craven add_trait=lustful add_trait=wounded 
+	father=3339	#Drustan
+	814.4.23={ birth=yes }
+	865.6.15={ death=yes }
+}
+3348={
+	name=Aldéric
+	dynasty=3300
+	dna="glhcccbegdb"
+	culture=eastern_rayne religion=catholic
+	martial=5 diplomacy=4 stewardship=6 intrigue=6 learning=8
+	add_trait=intricate_webweaver add_trait=honest add_trait=shy 
+	father=3339	#Drustan
+	824.7.9={ birth=yes }
+	891.12.24={ death=yes }
+}
+3349={
+	name=Elisabeth
+	female=yes
+	dynasty=3300
+	dna="nbehlcpipoo"
+	culture=eastern_rayne religion=catholic
+	father=3339	#Drustan
+	830.9.9={ birth=yes }
+	879.5.25={ death=yes }
+}
+3350={
+	name=Lothaire
+	dynasty=3300
+	dna="lfloplbmejf"
+	culture=eastern_rayne religion=catholic
+	martial=6 diplomacy=6 stewardship=5 intrigue=4 learning=7
+	add_trait=grey_eminence add_trait=humble add_trait=cruel add_trait=honest 
+	father=3347	#Bernard
+	819.4.25={ birth=yes }
+	869.12.22={ death=yes }
+}
+3351={
+	name=Foulques
+	dynasty=3300
+	dna="omgdpcmhmoi"
+	culture=eastern_rayne religion=catholic
+	martial=6 diplomacy=8 stewardship=4 intrigue=6 learning=8
+	add_trait=detached_priest add_trait=patient add_trait=slothful add_trait=honest add_trait=lustful 
+	add_trait=arbitrary 
+	father=3347	#Bernard
+	825.1.15={ birth=yes }
+	892.7.20={ death=yes }
+}
+3352={
+	name=Eve
+	female=yes
+	dynasty=3300
+	dna="oomopibpjic"
+	culture=eastern_rayne religion=catholic
+	father=3347	#Bernard
+	834.1.25={ birth=yes }
+	894.1.15={ death=yes }
+}
+3353={
+	name=Adalbert
+	dynasty=3300
+	dna="iacmpjbmhdo"
+	culture=eastern_rayne religion=catholic
+	martial=6 diplomacy=6 stewardship=5 intrigue=4 learning=7
+	add_trait=midas_touched add_trait=shy add_trait=envious add_trait=honest add_trait=lustful 
+	father=3347	#Bernard
+	843.8.1={ birth=yes }
+	914.12.11={ death=yes }
+}
+3354={
+	name=Pagan
+	dynasty=3300
+	dna="lflgkkbenjf"
+	culture=eastern_rayne religion=catholic
+	martial=5 diplomacy=4 stewardship=4 intrigue=4 learning=4
+	add_trait=indulgent_wastrel add_trait=patient add_trait=cruel add_trait=brave add_trait=greedy 
+	father=3350	#Lothaire
+	823.8.3={ birth=yes }
+	897.11.17={ death=yes }
+}
+3355={
+	name=Folke
+	dynasty=3300
+	dna="cclocljmbck"
+	culture=eastern_rayne religion=catholic
+	martial=5 diplomacy=7 stewardship=7 intrigue=5 learning=5
+	add_trait=intricate_webweaver add_trait=cruel add_trait=temperate add_trait=proud add_trait=shy 
+	father=3350	#Lothaire
+	831.6.6={ birth=yes }
+	894.2.17={ death=yes }
+}
+3356={
+	name=Roger
+	dynasty=3300
+	dna="gflnjojmnff"
+	culture=eastern_rayne religion=catholic
+	martial=6 diplomacy=8 stewardship=7 intrigue=7 learning=7
+	add_trait=martial_cleric add_trait=mystic add_trait=temperate add_trait=arbitrary add_trait=zealous 
+	add_trait=slothful 
+	father=3350	#Lothaire
+	838.1.24={ birth=yes }
+	902.5.11={ death=yes }
+}
+3357={
+	name=Raymond
+	dynasty=3300
+	dna="lflobkbmeef"
+	culture=eastern_rayne religion=catholic
+	martial=8 diplomacy=6 stewardship=4 intrigue=6 learning=8
+	add_trait=detached_priest add_trait=hedonist add_trait=honest add_trait=patient add_trait=ambitious 
+	add_trait=craven 
+	father=3350	#Lothaire
+	843.4.6={ birth=yes }
+	899.11.13={ death=yes }
+}
+3358={
+	name=Gargamel
+	dynasty=3300
+	dna="leloplbgkjf"
+	culture=eastern_rayne religion=catholic
+	martial=7 diplomacy=5 stewardship=5 intrigue=8 learning=5
+	add_trait=midas_touched add_trait=gardener add_trait=cruel add_trait=content add_trait=diligent 
+	add_trait=envious add_trait=chaste add_trait=deceitful 
+	father=3350	#Lothaire
+	850.3.7={ birth=yes }
+	899.5.13={ death=yes }
+}
+3359={
+	name=Maria
+	female=yes
+	dynasty=3300
+	dna="hnjlpobmejf"
+	culture=eastern_rayne religion=catholic
+	father=3350	#Lothaire
+	856.4.3={ birth=yes }
+	904.9.21={ death=yes }
+}
+3360={
+	name=Benedict
+	dynasty=3300
+	dna="lelkpabmepf"
+	culture=eastern_rayne religion=catholic
+	martial=6 diplomacy=5 stewardship=5 intrigue=6 learning=7
+	add_trait=grey_eminence add_trait=arbitrary add_trait=patient add_trait=zealous add_trait=stressed 
+	father=3350	#Lothaire
+	863.12.8={ birth=yes }
+	936.7.30={ death=yes }
+}
+
+3404 = {
+	name=Simon
+	female=no
+	dynasty=3400
+	religion=cathar
+	culture=eastern_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	742.1.22={
+		birth=yes
+	}
+	798.1.1={
+		death=yes
+	}
+}
+
+3414 = {
+	name=Gregorie
+	female=no
+	dynasty=3410
+	religion=cathar
+	culture=eastern_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	736.2.6={
+		birth=yes
+	}
+	793.1.1={
+		death=yes
+	}
+}
+
+3424 = {
+	name=Victor
+	female=no
+	dynasty=3420
+	religion=cathar
+	culture=eastern_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	736.2.6={
+		birth=yes
+	}
+	793.1.1={
+		death=yes
+	}
+}
+
+3434 = {
+	name=Pierre
+	female=no
+	dynasty=3430
+	religion=catholic
+	culture=eastern_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	736.2.6={
+		birth=yes
+	}
+	793.1.1={
+		death=yes
+	}
+}
+
+3444 = {
+	name=Anne
+	female=yes
+	dynasty=3440
+	religion=catholic
+	culture=eastern_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	736.2.6={
+		birth=yes
+	}
+	793.1.1={
+		death=yes
+	}
+}
+
+3454 = {
+	name=Laurent
+	female=no
+	dynasty=3450
+	religion=cathar
+	culture=eastern_rayne
+	diplomacy = 5
+	stewardship = 5
+	trait=quick
+	trait=lazy
+	trait=just
+	736.2.6={
+		birth=yes
+	}
+	793.1.1={
+		death=yes
+	}
+}

@@ -1,0 +1,21 @@
+# c_foussana
+
+# County Title
+title = c_foussana
+
+# Settlements
+max_settlements = 7
+
+b_foussana = castle
+#b_foussana_2 = city
+#b_foussana_3 = temple
+#b_foussana_4 = castle
+#b_foussana_5 = city
+#b_foussana_6 = temple
+#b_foussana_7 = castle
+
+# Misc
+culture = taguedi
+religion = west_african_pagan
+
+#History

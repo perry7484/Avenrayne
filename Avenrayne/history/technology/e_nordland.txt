@@ -1,0 +1,45 @@
+#NORDLAND
+technology = {
+	titles = {
+		d_artrik
+		d_asele
+		d_austurfjoerdhur
+		d_bergom
+		d_bjasta
+		d_bringen
+		d_einarsfjoerdhur
+		d_fanrem
+		d_flostrand
+		d_gene
+		d_grindal
+		d_gunarsted
+		d_halviken
+		d_hosvik
+		d_hruni
+		d_klovset
+		d_laugarvik
+		d_leirviksted
+		d_lenvik
+		d_liland
+		d_malgovik
+		d_narvik
+		d_onarheim
+		d_setermoen
+		d_skogvelen
+		d_snorre
+		d_stjordal
+		d_tirslund
+		d_tromvik
+		d_vinjeora
+	}
+	350 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+	}
+	1350 = {
+		military = 3.5
+		economy = 3.5
+		culture = 3.5
+	}
+}

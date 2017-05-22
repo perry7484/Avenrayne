@@ -1,0 +1,21 @@
+# c_hadir
+
+# County Title
+title = c_hadir
+
+# Settlements
+max_settlements = 7
+
+b_hadir = castle
+#b_hadir_2 = city
+#b_hadir_3 = temple
+#b_hadir_4 = castle
+#b_hadir_5 = city
+#b_hadir_6 = temple
+#b_hadir_7 = castle
+
+# Misc
+culture = bandari
+religion = sunni
+
+#History

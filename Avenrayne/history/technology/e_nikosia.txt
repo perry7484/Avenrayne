@@ -1,0 +1,21 @@
+#NIKOSIA
+technology = {
+	titles = {
+		d_achelos
+		d_himelia
+		d_kyros
+		d_nikosia
+		d_phocaea
+		d_semacria
+	}
+	350 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
+	}
+	1350 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+}

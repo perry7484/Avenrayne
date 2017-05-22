@@ -1,0 +1,21 @@
+# c_riells
+
+# County Title
+title = c_riells
+
+# Settlements
+max_settlements = 7
+
+b_riells = castle
+#b_riells_2 = city
+#b_riells_3 = temple
+#b_riells_4 = castle
+#b_riells_5 = city
+#b_riells_6 = temple
+#b_riells_7 = castle
+
+# Misc
+culture = fornellà
+religion = cathar
+
+#History

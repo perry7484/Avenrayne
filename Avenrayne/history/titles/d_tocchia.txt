@@ -1,0 +1,11 @@
+# e_arsizia
+500.1.1={
+	law = cognatic_succession
+	law = succ_feudal_elective
+}
+763.4.21={
+	holder=4011 #Marco
+}
+800.1.1={
+	liege=k_arsizia
+}

@@ -1,0 +1,21 @@
+# c_geilin
+
+# County Title
+title = c_geilin
+
+# Settlements
+max_settlements = 7
+
+b_geilin = tribal
+#b_geilin_2 = city
+#b_geilin_3 = temple
+#b_geilin_4 = castle
+#b_geilin_5 = city
+#b_geilin_6 = temple
+#b_geilin_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

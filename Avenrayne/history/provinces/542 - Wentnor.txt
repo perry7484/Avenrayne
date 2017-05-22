@@ -1,0 +1,21 @@
+# c_wentnor
+
+# County Title
+title = c_wentnor
+
+# Settlements
+max_settlements = 7
+
+b_wentnor = castle
+#b_bryn = city
+#b_cilcain = temple
+#b_wentnor_2 = castle
+#b_wentnor_3 = city
+#b_wentnor_4 = temple
+#b_wentnor_5 = castle
+
+# Misc
+culture = maesmyge
+religion = catholic
+
+#History

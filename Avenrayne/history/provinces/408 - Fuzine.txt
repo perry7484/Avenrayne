@@ -1,0 +1,32 @@
+# c_fuzine
+
+# County Title
+title = c_fuzine
+
+# Settlements
+max_settlements = 7
+
+b_fuzine = castle
+#b_fuzine_2 = city
+#b_fuzine_3 = temple
+#b_fuzine_4 = castle
+#b_fuzine_5 = city
+#b_fuzine_6 = temple
+#b_fuzine_7 = castle
+
+# Misc
+culture = vodeasca
+religion = orthodox
+
+#History
+1.1.1={
+culture=vodeasci
+religion=pagan
+}
+96.1.1={
+culture=vodeasci_capracciana
+religion=hellenic_pagan
+}
+445.1.1={religion=orthodox}
+450.1.1={culture=vodeasca}
+1050.1.1={culture=vodeiska}

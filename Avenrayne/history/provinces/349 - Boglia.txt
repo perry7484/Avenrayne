@@ -1,0 +1,37 @@
+# c_boglia
+
+# County Title
+title = c_boglia
+
+# Settlements
+max_settlements = 7
+
+b_boglia = city
+b_ansano = castle
+b_tusci = temple
+#b_casanova = castle
+#b_pedogna = city
+#b_fietoli = temple
+#b_cappania = castle
+
+# Misc
+culture = frassina
+religion = pelagian
+
+#History
+1.1.1 = { 
+religion = hellenic_pagan
+culture = capracciana
+}
+560.1.1 = { 
+culture = frassina
+}
+275.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+650.1.1 = { 
+religion = pelagian
+}

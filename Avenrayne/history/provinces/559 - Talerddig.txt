@@ -1,0 +1,21 @@
+# c_talerddig
+
+# County Title
+title = c_talerddig
+
+# Settlements
+max_settlements = 7
+
+b_talerddig = tribal
+#b_nantclwyd = city
+#b_caeunant = temple
+#b_trefeglwys_2 = castle
+#b_talerddig_2 = city
+#b_talerddig_3 = temple
+#b_talerddig_4 = castle
+
+# Misc
+culture = maesmyge
+religion = celtic_pagan
+
+#History

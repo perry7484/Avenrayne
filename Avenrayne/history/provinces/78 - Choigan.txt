@@ -1,0 +1,21 @@
+# c_choigan
+
+# County Title
+title = c_choigan
+
+# Settlements
+max_settlements = 7
+
+b_choigan = castle
+b_dergneau = temple
+#b_liours = temple
+#b_alban = castle
+#b_rouffiac = city
+#b_chebourg = temple
+#b_lorleau = castle
+
+# Misc
+culture = nordval_rayne
+religion = catholic
+
+#History

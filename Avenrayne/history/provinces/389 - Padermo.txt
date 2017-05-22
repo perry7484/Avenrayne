@@ -1,0 +1,21 @@
+# c_padermo
+
+# County Title
+title = c_padermo
+
+# Settlements
+max_settlements = 7
+
+b_padermo = castle
+b_lischiazze = city
+#b_padermo_2 = temple
+#b_padermo_3 = castle
+#b_padermo_4 = city
+#b_padermo_5 = temple
+#b_padermo_6 = castle
+
+# Misc
+culture = medana
+religion = orthodox
+
+#History

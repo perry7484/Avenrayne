@@ -1,0 +1,21 @@
+# c_itziar
+
+# County Title
+title = c_itziar
+
+# Settlements
+max_settlements = 7
+
+b_itziar = castle
+#b_itziar_2 = city
+#b_itziar_3 = temple
+#b_itziar_4 = castle
+#b_itziar_5 = city
+#b_itziar_6 = temple
+#b_itziar_7 = castle
+
+# Misc
+culture = praviako
+religion = zun_pagan
+
+#History

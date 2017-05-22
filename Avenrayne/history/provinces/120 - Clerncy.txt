@@ -1,0 +1,21 @@
+# c_clerncy
+
+# County Title
+title = c_clerncy
+
+# Settlements
+max_settlements = 7
+
+b_clerncy = castle
+#b_fevrerie = city
+#b_grouche = temple
+#b_lonvran = castle
+#b_choiteis = city
+#b_valette = temple
+#b_baily = castle
+
+# Misc
+culture = northern_rayne
+religion = catholic
+
+#History

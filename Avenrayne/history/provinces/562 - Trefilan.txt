@@ -1,0 +1,21 @@
+# c_trefilan
+
+# County Title
+title = c_trefilan
+
+# Settlements
+max_settlements = 7
+
+b_trefilan = castle
+#b_nantyffin = city
+#b_rhoslan = temple
+#b_pandy = castle
+#b_trefilan_2 = city
+#b_trefilan_3 = temple
+#b_trefilan_4 = castle
+
+# Misc
+culture = maesmyge
+religion = celtic_pagan
+
+#History

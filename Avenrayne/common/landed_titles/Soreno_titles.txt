@@ -1,0 +1,28 @@
+e_sonoria = {
+	color={ 110 87 35}
+	color2={ 255 255 20 }
+	
+	capital = 275 #c_tortella
+	culture = fornella
+}
+e_lopera = {
+	color={ 197 153 48 }
+	color2={ 255 255 20 }
+	
+	capital = 290 #c_lopera
+	culture = soreno
+}
+k_lopera = {
+	color={ 207 163 38 }
+	color2={ 255 255 20 }
+	
+	capital = 290 #c_lopera
+	culture = soreno
+}
+k_arenas = {
+	color={ 171 130 79 }
+	color2={ 255 255 20 }
+	
+	capital = 297 #c_arenas
+	culture = soreno
+}

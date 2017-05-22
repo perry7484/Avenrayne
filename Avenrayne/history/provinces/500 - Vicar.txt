@@ -1,0 +1,21 @@
+# c_vicar
+
+# County Title
+title = c_vicar
+
+# Settlements
+max_settlements = 7
+
+b_vicar = castle
+#b_vicar_2 = city
+#b_vicar_3 = temple
+#b_vicar_4 = castle
+#b_vicar_5 = city
+#b_vicar_6 = temple
+#b_vicar_7 = castle
+
+# Misc
+culture = lanteiro
+religion = miaphysite
+
+#History

@@ -1,0 +1,21 @@
+# c_bourgfier
+
+# County Title
+title = c_bourgfier
+
+# Settlements
+max_settlements = 7
+
+b_bourgfier = castle
+b_alte = temple
+#b_avoine = temple
+#b_lachapelle = castle
+#b_rosord = city
+#b_nivenc = temple
+#b_dosse = castle
+
+# Misc
+culture = northern_rayne
+religion = catholic
+
+#History

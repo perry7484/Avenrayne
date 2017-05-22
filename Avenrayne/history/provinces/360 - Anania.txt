@@ -1,0 +1,28 @@
+# c_anania
+
+# County Title
+title = c_anania
+
+# Settlements
+max_settlements = 7
+
+b_anania = castle
+b_serena = city
+#b_austis = temple
+#b_biviu = castle
+#b_perdaxius = city
+#b_santu_brunu = temple
+#b_anania_2 = castle
+
+# Misc
+culture = silana
+religion = pagan
+
+#History
+1.1.1 = { 
+religion = hellenic_pagan
+culture = capracciana
+}
+101.1.1 = { 
+culture = silana
+}

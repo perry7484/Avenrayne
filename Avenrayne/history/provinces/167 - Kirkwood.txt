@@ -1,0 +1,38 @@
+# c_kirkwood
+
+# County Title
+title = c_kirkwood
+
+# Settlements
+max_settlements = 7
+
+b_kirkwood = castle
+#b_breckenridge = city
+#b_fordshear = temple
+#b_kirkwood_2 = castle
+#b_kirkwood_3 = city
+#b_kirkwood_4 = temple
+#b_kirkwood_5 = castle
+
+# Misc
+culture = middlefordish
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = abonae
+}
+105.1.1 = { 
+religion = hellenic_pagan
+culture = abonae_capracciana
+}
+500.1.1 = { 
+culture = eascisc
+}
+480.1.1 = { 
+religion = catholic
+}
+1130.1.1 = { 
+culture = middlefordish
+}

@@ -1,0 +1,21 @@
+# c_tour
+
+# County Title
+title = c_tour
+
+# Settlements
+max_settlements = 7
+
+b_tour = castle
+b_sidalle_2 = city
+b_midame = temple
+#b_brigruse = castle
+#b_sillour = city
+#b_crepeville = temple
+#b_braie = castle
+
+# Misc
+culture = northern_rayne
+religion = catholic
+
+#History

@@ -1,0 +1,21 @@
+# c_klovset
+
+# County Title
+title = c_klovset
+
+# Settlements
+max_settlements = 7
+
+b_klovset = tribal
+#b_rodmyra = city
+#b_klovset_2 = temple
+#b_klovset_3 = castle
+#b_klovset_4 = city
+#b_klovset_5 = temple
+#b_klovset_6 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

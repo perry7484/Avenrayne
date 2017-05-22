@@ -1,0 +1,21 @@
+# c_lastur
+
+# County Title
+title = c_lastur
+
+# Settlements
+max_settlements = 7
+
+b_lastur = castle
+#b_lastur_2 = city
+#b_lastur_3 = temple
+#b_lastur_4 = castle
+#b_lastur_5 = city
+#b_lastur_6 = temple
+#b_lastur_7 = castle
+
+# Misc
+culture = praviako
+religion = zun_pagan
+
+#History

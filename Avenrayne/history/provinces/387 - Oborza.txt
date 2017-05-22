@@ -1,0 +1,21 @@
+# c_oborza
+
+# County Title
+title = c_oborza
+
+# Settlements
+max_settlements = 7
+
+b_oborza = castle
+b_oborza_2 = city
+#b_oborza_3 = temple
+#b_oborza_4 = castle
+#b_oborza_5 = city
+#b_oborza_6 = temple
+#b_oborza_7 = castle
+
+# Misc
+culture = medana
+religion = pelagian
+
+#History

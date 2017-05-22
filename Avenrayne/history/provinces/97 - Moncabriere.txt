@@ -1,0 +1,21 @@
+# c_moncabriere
+
+# County Title
+title = c_moncabriere
+
+# Settlements
+max_settlements = 7
+
+b_moncabriere = castle
+#b_sirois = city
+#b_morgane = temple
+#b_inor = castle
+#b_gomery = city
+#b_guizot = temple
+#b_breval = castle
+
+# Misc
+culture = western_rayne
+religion = cathar
+
+#History

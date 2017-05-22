@@ -1,0 +1,21 @@
+# c_ambegles
+
+# County Title
+title = c_ambegles
+
+# Settlements
+max_settlements = 7
+
+b_ambegles = castle
+#b_nadine = city
+#b_mielle = temple
+#b_megnour = castle
+#b_bauldre = city
+#b_fresville = temple
+#b_launay = castle
+
+# Misc
+culture = northern_rayne
+religion = catholic
+
+#History

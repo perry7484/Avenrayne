@@ -1,0 +1,34 @@
+# c_mori
+
+# County Title
+title = c_mori
+
+# Settlements
+max_settlements = 7
+
+b_mori = castle
+b_poggioni = city
+#b_menzano = temple
+#b_mori_2 = castle
+#b_mori_3 = city
+#b_mori_4 = temple
+#b_mori_5 = castle
+
+# Misc
+culture = frassina
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = hellenic_pagan
+culture = capracciana
+}
+560.1.1 = { 
+culture = frassina
+}
+393.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}

@@ -1,0 +1,21 @@
+# c_bordils
+
+# County Title
+title = c_bordils
+
+# Settlements
+max_settlements = 7
+
+b_bordils = castle
+#b_fontcoberta = city
+#b_bordils_2 = temple
+#b_bordils_3 = castle
+#b_bordils_4 = city
+#b_bordils_5 = temple
+#b_bordils_6 = castle
+
+# Misc
+culture = fornellà
+religion = catholic
+
+#History

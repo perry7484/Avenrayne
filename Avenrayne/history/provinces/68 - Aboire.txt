@@ -1,0 +1,35 @@
+# c_aboire
+
+# County Title
+title = c_aboire
+
+# Settlements
+max_settlements = 7
+
+b_aboire = castle
+#b_bellecole = city
+#b_cuges = temple
+#b_perrot = castle
+#b_authier = city
+#b_bertry = temple
+#b_sallins = castle
+
+# Misc
+culture = nordval_rayne
+religion = cathar
+
+#History
+1.1.1 = { 
+religion = celtic_pagan
+culture = renae
+}
+312.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+450.1.1 = { 
+culture = old_rayne
+}
+730.1.1 = { 
+culture = nordval_rayne
+}

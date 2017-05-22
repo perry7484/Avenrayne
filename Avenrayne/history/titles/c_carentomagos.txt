@@ -1,0 +1,28 @@
+# e_rayne
+1.1.1={
+	law = cognatic_succession
+}
+1.1.1=
+	liege=d_verno
+}
+291.12.4=
+	liege=k_verno
+}
+
+399.11.14={
+	holder=3901 #Tarvos
+	liege=k_verno
+}
+436.7.17={
+	holder=3902 #Diocaros
+}
+#460.10.1={
+#	holder=3903 #Gesorios
+#}
+
+768.10.4={
+	holder=3911 #Getorix
+}
+826.7.17={
+	holder=0 ##Placeholder ;)
+}

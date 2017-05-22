@@ -1,0 +1,21 @@
+# c_verdu
+
+# County Title
+title = c_verdu
+
+# Settlements
+max_settlements = 7
+
+b_verdu = castle
+#b_verdu_2 = city
+#b_verdu_3 = temple
+#b_verdu_4 = castle
+#b_verdu_5 = city
+#b_verdu_6 = temple
+#b_verdu_7 = castle
+
+# Misc
+culture = fornellà
+religion = catholic
+
+#History

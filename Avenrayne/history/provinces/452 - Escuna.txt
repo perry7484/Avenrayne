@@ -1,0 +1,21 @@
+# c_escuna
+
+# County Title
+title = c_escuna
+
+# Settlements
+max_settlements = 7
+
+b_escuna = castle
+b_fabero = city
+#b_escuna_2 = temple
+#b_escuna_3 = castle
+#b_escuna_4 = city
+#b_escuna_5 = temple
+#b_escuna_6 = castle
+
+# Misc
+culture = costano
+religion = zun_pagan
+
+#History

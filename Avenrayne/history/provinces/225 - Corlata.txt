@@ -1,0 +1,39 @@
+# c_corlata
+
+# County Title
+title = c_corlata
+
+# Settlements
+max_settlements = 7
+
+b_corlata = castle
+b_spini = city
+#b_piatra = temple
+#b_corlata_2 = castle
+#b_corlata_3 = city
+#b_corlata_4 = temple
+#b_corlata_5 = castle
+
+# Misc
+culture = varodaesca
+religion = orthodox
+
+#History
+
+1.1.1 = { 
+religion = pagan
+culture = varodesi
+}
+106.1.1 = { 
+religion = hellenic_pagan
+	b_corlata = ca_wall_1
+	b_corlata = ca_town_1
+	b_corlata = ca_barracks_1
+}
+206.1.1 = { 
+religion = hellenic_pagan
+culture = varo-capracciana
+}
+450.1.1 = { 
+culture = varodaesca
+}

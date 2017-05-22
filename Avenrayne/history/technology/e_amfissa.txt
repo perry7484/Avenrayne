@@ -1,0 +1,27 @@
+#AMFISSA
+technology = {
+	titles = {
+		d_achelos
+		d_agiassos
+		d_ganema
+		d_himelia
+		d_klidos
+		d_kyros
+		d_laea
+		d_nikosia
+		d_phocaea
+		d_psathakis
+		d_romissa
+		d_semacria
+	}
+	350 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+	}
+	1350 = {
+		military = 3.5
+		economy = 3.5
+		culture = 3.5
+	}
+}

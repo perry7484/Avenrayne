@@ -1,0 +1,21 @@
+# c_valseca
+
+# County Title
+title = c_valseca
+
+# Settlements
+max_settlements = 7
+
+b_valseca = castle
+#b_valseca_2 = city
+#b_valseca_3 = temple
+#b_valseca_4 = castle
+#b_valseca_5 = city
+#b_valseca_6 = temple
+#b_valseca_7 = castle
+
+# Misc
+culture = soreno
+religion = miaphysite
+
+#History

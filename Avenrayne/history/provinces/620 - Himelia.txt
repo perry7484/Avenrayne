@@ -1,0 +1,21 @@
+# c_himelia
+
+# County Title
+title = c_himelia
+
+# Settlements
+max_settlements = 7
+
+b_himelia = castle
+#b_acrusia = city
+#b_himelia_2 = temple
+#b_himelia_3 = castle
+#b_himelia_4 = city
+#b_himelia_5 = temple
+#b_himelia_6 = castle
+
+# Misc
+culture = amfissaki
+religion = orthodox
+
+#History

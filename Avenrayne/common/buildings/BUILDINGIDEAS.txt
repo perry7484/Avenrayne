@@ -1,0 +1,13 @@
+#FOR CITIES
+#-Fish Market
+#-Seaport
+
+#FOR ANY
+#-Crop Field
+#-Orchard
+#-Plantation [By Crop/Climate?]
+#-Bridge [Borders a River]
+#-Spice Plantation[But only for certain regions!]
+
+##HISTORICAL
+#-Via Capracciana

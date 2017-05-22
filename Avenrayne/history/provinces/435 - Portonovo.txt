@@ -1,0 +1,21 @@
+# c_portonovo
+
+# County Title
+title = c_portonovo
+
+# Settlements
+max_settlements = 7
+
+b_portonovo = castle
+b_xordos = city
+#b_portonovo_2 = temple
+#b_portonovo_3 = castle
+#b_portonovo_4 = city
+#b_portonovo_5 = temple
+#b_portonovo_6 = castle
+
+# Misc
+culture = costano
+religion = zun_pagan
+
+#History

@@ -1,0 +1,43 @@
+#VARODIA
+technology = {
+	titles = {
+		d_bochia
+		d_cerreto
+		d_comoara
+		d_dani
+		d_gemona
+		d_lipica
+		d_luncani
+		d_medana
+		d_montana
+		d_ortovia
+		d_patoco
+		d_plotu
+		d_pribinci
+		d_siciu
+		d_straza
+		d_taratu
+		d_teleac
+		d_topolo
+		d_valeni
+		d_vodei
+	}
+
+	350 = {
+		military = 0.8
+		economy = 1.0
+		culture = 0.8
+
+		TECH_NAVAL = 1.0
+		TECH_LEGALISM = 1.0
+	}
+	1350 = {
+		military = 4.3
+		economy = 4.3
+		culture = 4.3
+
+		TECH_NAVAL = 4.5
+		TECH_LEGALISM = 4.5
+	}
+
+}

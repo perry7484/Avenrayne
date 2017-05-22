@@ -1,0 +1,21 @@
+# c_patoco
+
+# County Title
+title = c_patoco
+
+# Settlements
+max_settlements = 7
+
+b_patoco = castle
+b_patoco_2 = city
+#b_patoco_3 = temple
+#b_patoco_4 = castle
+#b_patoco_5 = city
+#b_patoco_6 = temple
+#b_patoco_7 = castle
+
+# Misc
+culture = medana
+religion = orthodox
+
+#History

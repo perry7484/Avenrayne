@@ -1,0 +1,21 @@
+# c_porlammi
+
+# County Title
+title = c_porlammi
+
+# Settlements
+max_settlements = 7
+
+b_porlammi = tribal
+#b_jurmu = city
+#b_porlammi_2 = temple
+#b_porlammi_3 = castle
+#b_porlammi_4 = city
+#b_porlammi_5 = temple
+#b_porlammi_6 = castle
+
+# Misc
+culture = ruomalainen
+religion = finnish_pagan
+
+#History

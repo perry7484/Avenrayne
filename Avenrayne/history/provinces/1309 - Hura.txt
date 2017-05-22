@@ -1,0 +1,21 @@
+# c_hura
+
+# County Title
+title = c_hura
+
+# Settlements
+max_settlements = 7
+
+b_hura = castle
+#b_hura_2 = city
+#b_hura_3 = temple
+#b_hura_4 = castle
+#b_hura_5 = city
+#b_hura_6 = temple
+#b_hura_7 = castle
+
+# Misc
+culture = hieroshki
+religion = jewish
+
+#History

@@ -1,0 +1,21 @@
+# c_cambil
+
+# County Title
+title = c_cambil
+
+# Settlements
+max_settlements = 7
+
+b_cambil = castle
+#b_cambil_2 = city
+#b_cambil_3 = temple
+#b_cambil_4 = castle
+#b_cambil_5 = city
+#b_cambil_6 = temple
+#b_cambil_7 = castle
+
+# Misc
+culture = soreno
+religion = miaphysite
+
+#History

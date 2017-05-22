@@ -1,0 +1,21 @@
+# c_kuruten
+
+# County Title
+title = c_kuruten
+
+# Settlements
+max_settlements = 7
+
+b_kuruten = castle
+b_kuruten_2 = city
+b_kuruten_3 = temple
+#b_kuruten_4 = castle
+#b_kuruten_5 = city
+#b_kuruten_6 = temple
+#b_kuruten_7 = castle
+
+# Misc
+culture = nawwari
+religion = miaphysite
+
+#History

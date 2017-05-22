@@ -1,0 +1,38 @@
+# c_savenii
+
+# County Title
+title = c_savenii
+
+# Settlements
+max_settlements = 7
+
+b_savenii = castle
+#b_savenii_2 = city
+#b_savenii_3 = temple
+#b_savenii_4 = castle
+#b_savenii_5 = city
+#b_savenii_6 = temple
+#b_savenii_7 = castle
+
+# Misc
+culture = varodaesca
+religion = orthodox
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = varodesi
+}
+106.1.1 = { 
+religion = hellenic_pagan
+}
+206.1.1 = { 
+religion = hellenic_pagan
+culture = varo-capracciana
+}
+450.1.1 = { 
+culture = varodaesca
+}
+670.1.1 = { 
+religion = orthodox
+}

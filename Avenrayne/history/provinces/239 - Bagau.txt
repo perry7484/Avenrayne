@@ -1,0 +1,28 @@
+# c_bagau
+
+# County Title
+title = c_bagau
+
+# Settlements
+max_settlements = 7
+
+b_bagau = castle
+#b_bagau_2 = city
+#b_bagau_3 = temple
+#b_bagau_4 = castle
+#b_bagau_5 = city
+#b_bagau_6 = temple
+#b_bagau_7 = castle
+
+# Misc
+culture = vodeasca
+religion = pagan
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = varodesi
+}
+450.1.1 = { 
+culture = varodaesca
+}

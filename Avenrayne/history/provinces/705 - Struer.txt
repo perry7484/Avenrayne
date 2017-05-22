@@ -1,0 +1,24 @@
+# c_struer
+
+# County Title
+title = c_struer
+
+# Settlements
+max_settlements = 7
+
+b_struer = tribal
+#b_asp = city
+#b_skals = temple
+#b_hojmark = castle
+#b_sorvad = city
+#b_ryde = temple
+#b_lihme = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History
+1080.1.1 = {
+culture = tirslander
+}

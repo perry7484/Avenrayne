@@ -1,0 +1,29 @@
+trade_post_decisions = {
+	abandon_trade_post = {
+		only_playable = yes
+		filter = sub_realm_owned
+		ai_target_filter = sub_realm_owned
+		from_potential = {
+		}
+		potential = {
+			trade_post_owner = {
+				character = FROM
+			}
+		}
+		allow = {
+			trade_post_owner = {
+				war = no
+			}
+		}
+		effect = {
+			destroy_tradepost = THIS
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+}
+

@@ -1,0 +1,21 @@
+# c_gurrias
+
+# County Title
+title = c_gurrias
+
+# Settlements
+max_settlements = 7
+
+b_gurrias = castle
+#b_gurrias_2 = city
+#b_gurrias_3 = temple
+#b_gurrias_4 = castle
+#b_gurrias_5 = city
+#b_gurrias_6 = temple
+#b_gurrias_7 = castle
+
+# Misc
+culture = lanteiro
+religion = miaphysite
+
+#History

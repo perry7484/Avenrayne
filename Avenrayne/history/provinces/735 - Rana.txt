@@ -1,0 +1,21 @@
+# c_rana
+
+# County Title
+title = c_rana
+
+# Settlements
+max_settlements = 7
+
+b_rana = tribal
+#b_rana_2 = city
+#b_rana_3 = temple
+#b_rana_4 = castle
+#b_rana_5 = city
+#b_rana_6 = temple
+#b_rana_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

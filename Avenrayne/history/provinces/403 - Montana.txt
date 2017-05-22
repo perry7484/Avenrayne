@@ -1,0 +1,21 @@
+# c_montana
+
+# County Title
+title = c_montana
+
+# Settlements
+max_settlements = 7
+
+b_montana = castle
+#b_longera = city
+#b_sveto = temple
+#b_montana_2 = castle
+#b_montana_3 = city
+#b_montana_4 = temple
+#b_montana_5 = castle
+
+# Misc
+culture = medana
+religion = orthodox
+
+#History

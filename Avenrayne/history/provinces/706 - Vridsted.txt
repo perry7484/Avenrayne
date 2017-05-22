@@ -1,0 +1,24 @@
+# c_vridsted
+
+# County Title
+title = c_vridsted
+
+# Settlements
+max_settlements = 7
+
+b_vridsted = tribal
+#b_haderup = city
+#b_thorse = temple
+#b_vorgod = castle
+#b_alderby = city
+#b_skave = temple
+#b_brund = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History
+1080.1.1 = {
+culture = tirslander
+}

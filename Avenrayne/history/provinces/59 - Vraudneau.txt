@@ -1,0 +1,41 @@
+# c_vraudneau
+
+# County Title
+title = c_vraudneau
+
+# Settlements
+max_settlements = 7
+
+b_vraudneau = castle
+b_joutel = city
+#b_oisieu = temple
+#b_collet = castle
+#b_sorbier = city
+#b_touvent = temple
+#b_atricourt = castle
+
+# Misc
+culture = western_rayne
+religion = cathar
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = renae
+}
+2.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+450.1.1 = { 
+culture = old_rayne
+}
+480.1.1 = { 
+religion = catholic
+}
+691.1.1 = { 
+religion = cathar
+}
+730.1.1 = { 
+culture = western_rayne
+}

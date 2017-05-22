@@ -1,0 +1,21 @@
+# c_tabat
+
+# County Title
+title = c_tabat
+
+# Settlements
+max_settlements = 7
+
+b_tabat = tribal
+#b_orhal = city
+#b_biaho = temple
+#b_maadi = castle
+#b_siwara = city
+#b_tabat_2 = temple
+#b_tabat_3 = castle
+
+# Misc
+culture = semnite
+religion = west_african_pagan
+
+#History

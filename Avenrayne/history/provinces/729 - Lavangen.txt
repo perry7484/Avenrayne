@@ -1,0 +1,21 @@
+# c_lavangen
+
+# County Title
+title = c_lavangen
+
+# Settlements
+max_settlements = 7
+
+b_lavangen = tribal
+#b_lavangen_2 = city
+#b_lavangen_3 = temple
+#b_lavangen_4 = castle
+#b_lavangen_5 = city
+#b_lavangen_6 = temple
+#b_lavangen_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

@@ -1,0 +1,41 @@
+# c_nuagegris
+
+# County Title
+title = c_nuagegris
+
+# Settlements
+max_settlements = 7
+
+b_nuagegris = castle
+#b_gallon = city
+#b_chapais = temple
+#b_cadieux = castle
+#b_merignac = city
+#b_courtenot = temple
+#b_chalmaison = castle
+
+# Misc
+culture = nordval_rayne
+religion = cathar
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = renae
+}
+2.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+450.1.1 = { 
+culture = old_rayne
+}
+480.1.1 = { 
+religion = catholic
+}
+691.1.1 = { 
+religion = cathar
+}
+730.1.1 = { 
+culture = nordval_rayne
+}

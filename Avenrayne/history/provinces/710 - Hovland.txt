@@ -1,0 +1,24 @@
+# c_hovland
+
+# County Title
+title = c_hovland
+
+# Settlements
+max_settlements = 7
+
+b_hovland = tribal
+#b_nore = city
+#b_hovland_2 = temple
+#b_hovland_3 = castle
+#b_hovland_4 = city
+#b_hovland_5 = temple
+#b_hovland_6 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History
+1080.1.1 = {
+culture = leirviksteder
+}

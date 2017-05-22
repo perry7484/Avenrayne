@@ -1,0 +1,6 @@
+#FALERONA
+
+b_terrazzo = {
+	culture = arsiziana
+	religion = catholic
+}

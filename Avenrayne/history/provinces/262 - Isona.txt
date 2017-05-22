@@ -1,0 +1,21 @@
+# c_isona
+
+# County Title
+title = c_isona
+
+# Settlements
+max_settlements = 7
+
+b_isona = castle
+#b_isona_2 = city
+#b_isona_3 = temple
+#b_isona_4 = castle
+#b_isona_5 = city
+#b_isona_6 = temple
+#b_isona_7 = castle
+
+# Misc
+culture = fornellà
+religion = cathar
+
+#History

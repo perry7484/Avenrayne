@@ -1,0 +1,7 @@
+# e_fornells
+50.1.1={
+liege=d_aren
+}
+395.1.1={
+holder=127
+}

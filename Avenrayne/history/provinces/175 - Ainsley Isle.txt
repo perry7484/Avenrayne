@@ -1,0 +1,38 @@
+# c_ainsley_isle
+
+# County Title
+title = c_ainsley_isle
+
+# Settlements
+max_settlements = 7
+
+b_ainsley = castle
+b_oakhurst = city
+#b_ainsley_isle = temple
+#b_ainsley_isle_2 = castle
+#b_ainsley_isle_3 = city
+#b_ainsley_isle_4 = temple
+#b_ainsley_isle_5 = castle
+
+# Misc
+culture = middlefordish
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = abonae
+}
+105.1.1 = { 
+religion = hellenic_pagan
+culture = abonae_capracciana
+}
+500.1.1 = { 
+culture = eascisc
+}
+480.1.1 = { 
+religion = catholic
+}
+1130.1.1 = { 
+culture = middlefordish
+}

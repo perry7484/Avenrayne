@@ -1,0 +1,21 @@
+# c_cotahuasi
+
+# County Title
+title = c_cotahuasi
+
+# Settlements
+max_settlements = 7
+
+b_cotahuasi = castle
+b_ayna = city
+#b_sayacmarca = temple
+#b_jaran = castle
+b_matapuquio = temple
+#b_cotahuasi_2 = temple
+#b_cotahuasi_3 = castle
+
+# Misc
+culture = quilla
+religion = inti
+
+#History

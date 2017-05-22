@@ -1,0 +1,34 @@
+# c_scafa
+
+# County Title
+title = c_scafa
+
+# Settlements
+max_settlements = 7
+
+b_scafa = castle
+b_gisi = temple
+#b_scafa_2 = temple
+#b_scafa_3 = castle
+#b_scafa_4 = city
+#b_scafa_5 = temple
+#b_scafa_6 = castle
+
+# Misc
+culture = atessana
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = hellenic_pagan
+culture = capracciana
+}
+560.1.1 = { 
+culture = atessana
+}
+275.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}

@@ -1,0 +1,34 @@
+# c_campanula
+
+# County Title
+title = c_campanula
+
+# Settlements
+max_settlements = 7
+
+b_campanula = city
+b_lavanda = temple
+b_cinclamino = temple
+#b_rosabianca = castle
+#b_fiordaliso = city
+#b_giglio = temple
+#b_campanula_2 = castle
+
+# Misc
+culture = frassina
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = hellenic_pagan
+culture = capracciana
+}
+560.1.1 = { 
+culture = frassina
+}
+275.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}

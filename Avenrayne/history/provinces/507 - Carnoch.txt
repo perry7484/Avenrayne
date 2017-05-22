@@ -1,0 +1,21 @@
+# c_carnoch
+
+# County Title
+title = c_carnoch
+
+# Settlements
+max_settlements = 7
+
+b_carnoch = tribal
+b_dorusduain = temple
+#b_carnoch_2 = temple
+#b_carnoch_3 = castle
+#b_carnoch_4 = city
+#b_carnoch_5 = temple
+#b_carnoch_6 = castle
+
+# Misc
+culture = ardthirraich
+religion = celtic_pagan
+
+#History

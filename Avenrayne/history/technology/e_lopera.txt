@@ -1,0 +1,30 @@
+#LOPERA
+technology = {
+	titles = {
+		d_alamillo
+		d_arenas
+		d_cambil
+		d_islas_rosais
+		d_lopera
+		d_penacova
+		d_poloria
+		d_punto
+		d_yeles
+	}
+	350 = {
+		military = 0.9
+		economy = 1.5
+		culture = 1.2
+
+		TECH_NAVAL = 1.1
+		TECH_LEGALISM = 1.8
+	}
+	1350 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+
+		TECH_NAVAL = 4.5
+		TECH_LEGALISM = 4.5
+	}
+}

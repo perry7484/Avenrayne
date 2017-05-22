@@ -1,0 +1,38 @@
+# c_spineo
+
+# County Title
+title = c_spineo
+
+# Settlements
+max_settlements = 7
+
+b_spineo = castle
+b_vairano = city
+#b_coreggio = temple
+#b_anoia = castle
+#b_grono = city
+#b_cama = temple
+#b_pontresina = castle
+
+# Misc
+culture = galiazzana
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = corviliae
+}
+41.1.1 = { 
+religion = hellenic_pagan
+culture = corvigliana
+}
+561.1.1 = { 
+culture = galiazzana
+}
+465.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}

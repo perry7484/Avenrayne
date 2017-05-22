@@ -1,0 +1,21 @@
+# c_stjordal
+
+# County Title
+title = c_stjordal
+
+# Settlements
+max_settlements = 7
+
+b_stjordal = tribal
+#b_stjordal_2 = city
+#b_stjordal_3 = temple
+#b_stjordal_4 = castle
+#b_stjordal_5 = city
+#b_stjordal_6 = temple
+#b_stjordal_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

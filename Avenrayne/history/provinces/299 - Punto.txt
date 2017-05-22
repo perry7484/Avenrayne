@@ -1,0 +1,21 @@
+# c_punto
+
+# County Title
+title = c_punto
+
+# Settlements
+max_settlements = 7
+
+b_punto = castle
+#b_punto_2 = city
+#b_punto_3 = temple
+#b_punto_4 = castle
+#b_punto_5 = city
+#b_punto_6 = temple
+#b_punto_7 = castle
+
+# Misc
+culture = soreno
+religion = sunni
+
+#History

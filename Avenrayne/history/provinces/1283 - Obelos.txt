@@ -1,0 +1,21 @@
+# c_obelos
+
+# County Title
+title = c_obelos
+
+# Settlements
+max_settlements = 7
+
+b_obelos = castle
+#b_obelos_2 = city
+#b_obelos_3 = temple
+#b_obelos_4 = castle
+#b_obelos_5 = city
+#b_obelos_6 = temple
+#b_obelos_7 = castle
+
+# Misc
+culture = siliani
+religion = miaphysite
+
+#History

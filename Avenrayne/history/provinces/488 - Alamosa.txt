@@ -1,0 +1,21 @@
+# c_alamosa
+
+# County Title
+title = c_alamosa
+
+# Settlements
+max_settlements = 7
+
+b_alamosa = castle
+#b_alamosa_2 = city
+#b_alamosa_3 = temple
+#b_alamosa_4 = castle
+#b_alamosa_5 = city
+#b_alamosa_6 = temple
+#b_alamosa_7 = castle
+
+# Misc
+culture = alayo
+religion = miaphysite
+
+#History

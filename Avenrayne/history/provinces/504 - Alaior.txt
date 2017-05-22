@@ -1,0 +1,21 @@
+# c_alaior
+
+# County Title
+title = c_alaior
+
+# Settlements
+max_settlements = 7
+
+b_alaior = castle
+b_fierro = city
+#b_alaior_2 = temple
+#b_alaior_3 = castle
+#b_alaior_4 = city
+#b_alaior_5 = temple
+#b_alaior_6 = castle
+
+# Misc
+culture = alaioro
+religion = miaphysite
+
+#History

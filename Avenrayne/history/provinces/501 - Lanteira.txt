@@ -1,0 +1,21 @@
+# c_lanteira
+
+# County Title
+title = c_lanteira
+
+# Settlements
+max_settlements = 7
+
+b_lanteira = castle
+#b_lanteira_2 = city
+#b_lanteira_3 = temple
+#b_lanteira_4 = castle
+#b_lanteira_5 = city
+#b_lanteira_6 = temple
+#b_lanteira_7 = castle
+
+# Misc
+culture = lanteiro
+religion = miaphysite
+
+#History

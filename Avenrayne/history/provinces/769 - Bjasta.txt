@@ -1,0 +1,21 @@
+# c_bjasta
+
+# County Title
+title = c_bjasta
+
+# Settlements
+max_settlements = 7
+
+b_bjasta = tribal
+#b_bjasta_2 = city
+#b_bjasta_3 = temple
+#b_bjasta_4 = castle
+#b_bjasta_5 = city
+#b_bjasta_6 = temple
+#b_bjasta_7 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

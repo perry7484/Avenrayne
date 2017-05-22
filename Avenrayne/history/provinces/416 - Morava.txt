@@ -1,0 +1,32 @@
+# c_morava
+
+# County Title
+title = c_morava
+
+# Settlements
+max_settlements = 7
+
+b_morava = castle
+#b_morava_2 = city
+#b_morava_3 = temple
+#b_morava_4 = castle
+#b_morava_5 = city
+#b_morava_6 = temple
+#b_morava_7 = castle
+
+# Misc
+culture = vodeasca
+religion = orthodox
+
+#History
+1.1.1={
+culture=vodeasci
+religion=pagan
+}
+96.1.1={
+culture=vodeasci_capracciana
+religion=hellenic_pagan
+}
+445.1.1={religion=orthodox}
+450.1.1={culture=vodeasca}
+1050.1.1={culture=vodeiska}

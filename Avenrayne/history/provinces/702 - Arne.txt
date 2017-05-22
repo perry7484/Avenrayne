@@ -1,0 +1,24 @@
+# c_arne
+
+# County Title
+title = c_arne
+
+# Settlements
+max_settlements = 7
+
+b_arne = tribal
+#b_solsted = city
+#b_hovslund = temple
+#b_jernved = castle
+#b_lunde = city
+#b_tvinde = temple
+#b_ladby = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History
+1080.1.1 = {
+culture = tirslander
+}

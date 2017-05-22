@@ -1,0 +1,21 @@
+# c_juraise
+
+# County Title
+title = c_juraise
+
+# Settlements
+max_settlements = 7
+
+b_juraise = castle
+#b_lorour = city
+#b_cafieu = temple
+#b_vidals = castle
+#b_ousal = city
+#b_grimesnil = temple
+#b_flory = castle
+
+# Misc
+culture = northern_rayne
+religion = catholic
+
+#History

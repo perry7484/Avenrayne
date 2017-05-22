@@ -1,0 +1,21 @@
+# c_susia
+
+# County Title
+title = c_susia
+
+# Settlements
+max_settlements = 7
+
+b_susia = castle
+#b_susia_2 = city
+#b_susia_3 = temple
+#b_susia_4 = castle
+#b_susia_5 = city
+#b_susia_6 = temple
+#b_susia_7 = castle
+
+# Misc
+culture = amfissaki
+religion = orthodox
+
+#History

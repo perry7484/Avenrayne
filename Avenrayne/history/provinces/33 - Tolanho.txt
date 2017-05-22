@@ -1,0 +1,45 @@
+# c_tolanho
+
+# County Title
+title = c_tolanho
+
+# Settlements
+max_settlements = 7
+
+b_tolanho = castle
+b_descoberta = city
+b_benc = temple
+#b_aude = castle
+#b_mazat = city
+#b_boillet = temple
+#b_montels = castle
+
+# Misc
+culture = passa_rayne
+religion = cathar
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = renae
+}
+82.1.1 = { 
+religion = hellenic_pagan
+culture = renae_capracciana
+}
+77.1.1 = { 
+religion = hellenic_pagan
+culture = passa_capracciana
+}
+480.1.1 = { 
+culture = passa_rayne
+}
+470.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}
+650.1.1 = { 
+religion = cathar
+}

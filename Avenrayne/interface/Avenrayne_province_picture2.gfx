@@ -1,0 +1,46 @@
+spriteTypes={
+
+###Latin
+	spriteType = {
+		name = "GFX_settlement_temple_arsizianagfx"
+		texturefile = "gfx\\interface\\placeholder_temple_arsiziana.png"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_arsizianagfx_westerngfx"
+		texturefile = "gfx\\interface\\placeholder_temple_arsiziana.png"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_arsizianagfx_southerngfx"
+		texturefile = "gfx\\interface\\placeholder_temple_arsiziana.png"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_empty_arsizianagfx"
+		texturefile = "gfx\\interface\\placeholder_empty_arsiziana.png"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_new_arsizianagfx"
+		texturefile = "gfx\\interface\\province_new_settlement_arsiziana.png"
+		noOfFrames = 1
+		norefcount = yes	
+	}
+	spriteType = {
+		name = "GFX_settlement_new_costanogfx"
+		texturefile = "gfx\\interface\\province_new_settlement_costano.png"
+		noOfFrames = 1
+		norefcount = yes	
+	}
+	spriteType = {
+		name = "GFX_settlement_new_meirogfx"
+		texturefile = "gfx\\interface\\province_new_settlement_meiro.png"
+		noOfFrames = 1
+		norefcount = yes	
+	}
+}

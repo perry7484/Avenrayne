@@ -1,0 +1,37 @@
+# c_funtana
+
+# County Title
+title = c_funtana
+
+# Settlements
+max_settlements = 7
+
+b_funtana = castle
+b_sotcha = city
+#b_nouva = temple
+#b_suot = castle
+#b_aguel = city
+#b_curtins = temple
+#b_clus = castle
+
+# Misc
+culture = corvigliana
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = pagan
+culture = corviliae
+}
+82.1.1 = { 
+religion = hellenic_pagan
+}
+108.1.1 = { 
+culture = corvigliana
+}
+290.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}

@@ -1,0 +1,21 @@
+# c_ceira
+
+# County Title
+title = c_ceira
+
+# Settlements
+max_settlements = 7
+
+b_ceira = castle
+#b_ceira_2 = city
+#b_ceira_3 = temple
+#b_ceira_4 = castle
+#b_ceira_5 = city
+#b_ceira_6 = temple
+#b_ceira_7 = castle
+
+# Misc
+culture = soreno
+religion = miaphysite
+
+#History

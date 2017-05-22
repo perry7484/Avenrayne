@@ -1,0 +1,886 @@
+##########REGION/CULTURAL MERCENARIES##########
+###########SECULAR AND RELIGION-ONLY###########
+
+d_emerald_band = {
+	color={ 24 160 38 }
+	color2={ 255 255 255 }
+
+	capital = 4 # Isle-Esmeralde
+	
+	# Hire Trigger
+	allow = {
+		religion_group = christian
+	}
+	
+	# Parent Religion 
+	religion = catholic
+
+	culture = rayne
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	strength_growth_per_century = 1.0
+
+	mercenary_type = lombard_band_composition
+}
+
+d_southron_company = {
+	color={ 136 136 176 }
+	color2={ 255 255 255 }
+
+	capital = 149 # Canternay
+	
+	# Hire Trigger
+	
+	# Parent Religion 
+	religion = catholic
+	
+	culture = southron
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+		
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+
+	mercenary_type = breton_band_composition
+}
+
+d_kentsford_band = {
+	color={ 148 133 170 }
+	color2={ 255 255 255 }
+
+	capital = 153 # Kentswood
+	
+	# Hire Trigger
+	
+	# Parent Religion 
+	religion = catholic
+	
+	culture = southron
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	strength_growth_per_century = 1.0
+
+	mercenary_type = white_company_composition
+}
+
+d_middleford_band = {
+	color={ 126 141 180 }
+	color2={ 255 255 255 }
+
+	capital = 161 # Brimpton
+	
+	# Hire Trigger
+	
+	# Parent Religion 
+	religion = catholic
+	
+	culture = middlefordish
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+		
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+
+	mercenary_type = breton_band_composition
+}
+
+d_golden_company = {
+	color={ 229 214 136 }
+	color2={ 255 255 255 }
+
+	capital = 28 # Val D'or
+	
+	# Hire Trigger
+	
+	# Parent Religion 
+	religion = catholic
+	
+	culture = eastern_rayne
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+		
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+
+	mercenary_type = breton_band_composition
+}
+
+d_punto_band = {
+	color={ 225 213 176 }
+	color2={ 255 255 255 }
+	
+	capital = 301 #Arenas
+	
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	# Always exists
+	landless = yes
+	
+	mercenary_type = bedouin_company_composition
+	
+	# Parent Religion 
+	religion = sunni
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to banking, etc
+	monthly_income = 10 # (Must be an integer between 1 and 512)
+}
+
+d_arenas_fistfighters = {
+	color={ 215 223 166 }
+	color2={ 255 255 255 }
+	
+	capital = 300 #Arenas
+	
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	# Always exists
+	landless = yes
+	
+	mercenary_type = knights_templar_composition
+	
+	# Parent Religion 
+	religion = miaphysite
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to banking, etc
+	monthly_income = 10 # (Must be an integer between 1 and 512)
+}
+
+
+d_sunni_farrahi_company = {
+	color = { 45 155 35 }
+	color2 = { 255 255 255 }
+
+	capital = 1206 #Al-Farah
+	
+	# Hire Trigger
+	allow = {
+		OR = {
+			religion_group = muslim
+			religion_group = zoroastrian_group
+		}
+	}
+	
+	# Parent Religion 
+	religion = sunni
+	culture = farrahi_aluqi
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.00
+	
+	mercenary_type = bedouin_company_composition
+}
+
+
+
+##########HOLY ORDERS##########
+
+d_banner_of_the_cross = {
+	color={ 215 223 166 }
+	color2={ 255 255 255 }
+
+	graphical_culture = holygfx
+	
+	capital = 27 #Isle du Folac
+	
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	mercenary_type = knights_templar_composition
+	
+	culture = rayne
+	
+	# Parent Religion 
+	religion = catholic
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to banking, etc
+	monthly_income = 10 # (Must be an integer between 1 and 512)
+}
+
+d_aluqiyya_defenders = {
+	color = { 45 155 35 }
+	color2 = { 255 255 255 }
+
+	capital = 1206 #Al-Farah
+	
+	# Parent Religion 
+	religion = sunni
+	culture = farrahi_aluqi
+	
+	holy_order = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.00
+	
+	mercenary_type = bedouin_company_composition
+}
+
+d_warriors_of_the_crescent = {
+	color={ 215 223 166 }
+	color2={ 255 255 255 }
+
+	graphical_culture = holygfx
+	
+	capital = 301 #Punto
+	
+	title = "GRANDHEADMASTER"
+	foa = "GRANDHEADMASTER_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	mercenary_type = bektashi_composition
+	
+	culture = soreno
+	
+	# Parent Religion 
+	religion = sunni
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to banking, etc
+	monthly_income = 10 # (Must be an integer between 1 and 512)
+}
+
+d_sons_of_tyr = {
+	color={ 128 128 132 }
+	color2={ 255 255 255 }
+
+	graphical_culture = norseholygfx
+	
+	capital = 206 #Tirslund
+	
+	title = "WARCHIEF"
+	foa = "WARCHIEF_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	mercenary_type = jomsvikings_composition
+	
+	culture = nordlander
+	
+	# Parent Religion 
+	religion = norse_pagan
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to banking, etc
+	monthly_income = 10 # (Must be an integer between 1 and 512)
+}
+
+##########Secular Mercenaries##########
+
+d_battle_dragons = {
+	color={ 99 5 0 }
+	color2={ 255 255 255 }
+	
+	capital = 165 #Ainsey Isle (TEMPORARY!!!!!)
+	
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	allow = {
+		OR = {
+			religion_group = muslim
+			religion_group = christian
+			religion_group = jewish_group
+			religion_group = zoroastrian_group
+			religion_group = pagan_group
+			religion_group = indian_group
+		}
+	}
+	
+	# Parent Religion 
+	religion = catholic
+	culture = middlefordish
+
+	# Always exists
+	landless = yes
+
+	mercenary = yes
+	
+	mercenary_type = knights_templar_composition
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to banking, etc
+	monthly_income = 10 # (Must be an integer between 1 and 512)
+}
+
+d_valiant_rose = {
+	color={ 95 10 30 }
+	color2={ 255 255 255 }
+	
+	capital = 165 #Ainsey Isle (TEMPORARY!!!!!)
+	
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	allow = {
+		OR = {
+			religion_group = muslim
+			religion_group = christian
+			religion_group = jewish_group
+			religion_group = zoroastrian_group
+			religion_group = pagan_group
+			religion_group = indian_group
+		}
+	}
+	
+	# Parent Religion 
+	religion = catholic
+	culture = middlefordish
+
+	# Always exists
+	landless = yes
+
+	mercenary = yes
+	
+	mercenary_type = rose_company_composition
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to banking, etc
+	monthly_income = 10 # (Must be an integer between 1 and 512)
+}
+
+d_frostfist_warriors = {
+	color={ 203 191 165 }
+	color2={ 255 255 255 }
+	
+	capital = 747 #Thorolf (TEMPORARY!!!!!)
+	
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	allow = {
+		OR = {
+			religion_group = muslim
+			religion_group = christian
+			religion_group = jewish_group
+			religion_group = zoroastrian_group
+			religion_group = pagan_group
+			religion_group = indian_group
+		}
+	}
+
+	# Always exists
+	landless = yes
+
+	mercenary = yes
+	
+	mercenary_type = frostfist_warriors_composition
+	
+
+	
+	# Parent Religion 
+	religion=norse_pagan
+	culture=nordlander
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to banking, etc
+	monthly_income = 10 # (Must be an integer between 1 and 512)
+}
+
+d_nordland_thunder = {
+	color={ 203 191 165 }
+	color2={ 255 255 255 }
+	
+	capital = 712 #Onarheim (TEMPORARY!!!!!)
+	
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	allow = {
+		OR = {
+			religion_group = muslim
+			religion_group = christian
+			religion_group = jewish_group
+			religion_group = zoroastrian_group
+			religion_group = pagan_group
+			religion_group = indian_group
+		}
+	}
+
+	# Always exists
+	landless = yes
+
+	mercenary = yes
+	
+	mercenary_type = nordland_thunder_composition
+	
+
+	
+	# Parent Religion 
+	religion=norse_pagan
+	culture=nordlander
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to banking, etc
+	monthly_income = 10 # (Must be an integer between 1 and 512)
+}
+
+d_highland_thunder = {
+	color={ 97 144 70 }
+	color2={ 255 255 255 }
+	
+	capital = 511 #Arduaine
+	
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	allow = {
+		OR = {
+			religion_group = muslim
+			religion_group = christian
+			religion_group = jewish_group
+			religion_group = zoroastrian_group
+			religion_group = pagan_group
+			religion_group = indian_group
+		}
+	}
+
+	# Always exists
+	landless = yes
+
+	mercenary = yes
+	
+	mercenary_type = nordland_thunder_composition
+	
+
+	
+	# Parent Religion 
+	religion=norse_pagan
+	culture=nordlander
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to banking, etc
+	monthly_income = 10 # (Must be an integer between 1 and 512)
+}
+
+d_sword_speakers = {
+	color={ 203 191 165 }
+	color2={ 255 255 255 }
+	
+	capital = 1216 #Al Eimran (TEMPORARY!!!!!)
+	
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	allow = {
+		OR = {
+			religion_group = muslim
+			religion_group = christian
+			religion_group = jewish_group
+			religion_group = zoroastrian_group
+			religion_group = pagan_group
+			religion_group = indian_group
+		}
+	}
+
+	# Always exists
+	landless = yes
+
+	mercenary = yes
+	
+	mercenary_type = ghilman_composition
+	
+
+	
+	# Parent Religion 
+	religion=sunni
+	culture=farrahi_aluqi
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to banking, etc
+	monthly_income = 10 # (Must be an integer between 1 and 512)
+}
+
+# goldenfury
+# seers of the sword
+
+#########Mercenary Fleets#########
+
+d_marina_dellaria = { # Marina Dell'Aria
+	color = { 170  135  140 }
+	color2={ 255 255 255 }
+	
+	short_name = yes
+
+	capital = 35 # Solenha
+	
+	# Hire Trigger
+	allow = {
+		OR = {
+			religion_group = muslim
+			religion_group = christian
+			religion_group = jewish_group
+			religion_group = zoroastrian_group
+			religion_group = pagan_group
+			religion_group = indian_group
+			}
+	}
+	
+	# Parent Religion 
+	religion = catholic
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+		
+	# Cannot be vassalized
+	independent = yes
+
+	mercenary_type = naval_merc_composition
+}
+
+d_galee_falerone = { # Galee Falerone
+	color = { 165  105  185 }
+	color2={ 255 255 255 }
+	
+	short_name = yes
+
+	capital = 324 #Falerona
+	
+	# Hire Trigger
+	allow = {
+		OR = {
+			religion_group = muslim
+			religion_group = christian
+			religion_group = jewish_group
+			religion_group = zoroastrian_group
+			religion_group = pagan_group
+			religion_group = indian_group
+			}
+	}
+	
+	# Parent Religion 
+	religion = catholic
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+		
+	# Cannot be vassalized
+	independent = yes
+
+	mercenary_type = naval_merc_composition
+}
+
+d_flota_do_sol = { # Flota do Sol
+	color = { 165  105  185 }
+	color2={ 255 255 255 }
+	
+	short_name = yes
+
+	capital = 446 #Costa do Sol
+	
+	# Hire Trigger
+	allow = {
+		OR = {
+			religion_group = muslim
+			religion_group = christian
+			religion_group = jewish_group
+			religion_group = zoroastrian_group
+			religion_group = pagan_group
+			religion_group = indian_group
+			}
+	}
+	
+	# Parent Religion 
+	religion = zun_pagan
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+		
+	# Cannot be vassalized
+	independent = yes
+
+	mercenary_type = naval_merc_composition
+}
+
+d_flota_de_meira = { # Flota de Meira
+	color = { 44  133  73 }
+	color2={ 255 255 255 }
+	
+	short_name = yes
+
+	capital = 442 #Meira
+	
+	# Hire Trigger
+	allow = {
+		OR = {
+			religion_group = muslim
+			religion_group = christian
+			religion_group = jewish_group
+			religion_group = zoroastrian_group
+			religion_group = pagan_group
+			religion_group = indian_group
+			}
+	}
+	
+	# Parent Religion 
+	religion = zun_pagan
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+		
+	# Cannot be vassalized
+	independent = yes
+
+	mercenary_type = naval_merc_composition
+}
+d_nave_medaneze = { # Nave Medaneze
+	color = { 165  130  150 }
+	color2={ 255 255 255 }
+	
+	short_name = yes
+
+	capital = 386 #Medana
+	
+	# Hire Trigger
+	allow = {
+		OR = {
+			religion_group = muslim
+			religion_group = christian
+			religion_group = jewish_group
+			religion_group = zoroastrian_group
+			religion_group = pagan_group
+			religion_group = indian_group
+			}
+	}
+	
+	# Parent Religion 
+	religion = catholic
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+		
+	# Cannot be vassalized
+	independent = yes
+
+	mercenary_type = naval_merc_composition
+}
+d_flotta_di_diamante = { # Flotta di Diamante
+	color = { 112  61  170 }
+	color2={ 255 255 255 }
+	
+	short_name = yes
+
+	capital = 338 #Amianti
+	
+	# Hire Trigger
+	allow = {
+		OR = {
+			religion_group = muslim
+			religion_group = christian
+			religion_group = jewish_group
+			religion_group = zoroastrian_group
+			religion_group = pagan_group
+			religion_group = indian_group
+			}
+	}
+	
+	# Parent Religion 
+	religion = catholic
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+		
+	# Cannot be vassalized
+	independent = yes
+
+	mercenary_type = naval_merc_composition
+}
+
+d_goireas_cablach = { # Highland Galleys
+	color = { 60  175  170 }
+	color2={ 255 255 255 }
+	
+	short_name = yes
+
+	capital = 507 # Carnoch
+	
+	# Hire Trigger
+	allow = {
+		OR = {
+			religion_group = muslim
+			religion_group = christian
+			religion_group = jewish_group
+			religion_group = zoroastrian_group
+			religion_group = pagan_group
+			religion_group = indian_group
+			}
+	}
+	
+	# Parent Religion 
+	religion = celtic_pagan
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+		
+	# Cannot be vassalized
+	independent = yes
+
+	mercenary_type = naval_merc_composition
+}

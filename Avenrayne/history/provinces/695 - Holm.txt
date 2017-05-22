@@ -1,0 +1,21 @@
+# c_holm
+
+# County Title
+title = c_holm
+
+# Settlements
+max_settlements = 7
+
+b_holm = tribal
+#b_westermarsch = city
+#b_fehmarn = temple
+#b_rickert = castle
+#b_boren = city
+#b_grundhof = temple
+#b_meyn = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History

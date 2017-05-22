@@ -1,0 +1,21 @@
+# c_werdau
+
+# County Title
+title = c_werdau
+
+# Settlements
+max_settlements = 7
+
+b_werdau = castle
+#b_goldbach = city
+#b_werdau_2 = temple
+#b_werdau_3 = castle
+#b_werdau_4 = city
+#b_werdau_5 = temple
+#b_werdau_6 = castle
+
+# Misc
+culture = mittelander
+religion = catholic
+
+#History

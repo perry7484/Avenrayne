@@ -1,0 +1,21 @@
+# c_rosais
+
+# County Title
+title = c_rosais
+
+# Settlements
+max_settlements = 7
+
+b_rosais = city
+b_santalucia = temple
+#b_rosais_2 = temple
+#b_rosais_3 = castle
+#b_rosais_4 = city
+#b_rosais_5 = temple
+#b_rosais_6 = castle
+
+# Misc
+culture = soreno
+religion = miaphysite
+
+#History

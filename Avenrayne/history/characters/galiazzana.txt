@@ -1,0 +1,1279 @@
+4041={
+	name=Taddeo
+	dynasty=4040
+	dna="gtolzkgngdr"
+	culture=galiazzana religion=catholic
+	martial=10 diplomacy=5 stewardship=7 intrigue=7 learning=6
+	add_trait=brilliant_strategist add_trait=chaste add_trait=kind add_trait=just add_trait=stubborn add_trait=bastard
+	668.8.6={ birth=yes }
+	714.4.15={ death=yes }
+}
+4042={
+	name=Danielo
+	dynasty=4040
+	dna="ftopzhpgwgc"
+	culture=galiazzana religion=catholic
+	martial=5 diplomacy=5 stewardship=2 intrigue=9 learning=3
+	add_trait=misguided_warrior add_trait=arbitrary add_trait=charitable add_trait=ambitious add_trait=stubborn
+	695.2.26={ birth=yes }
+	751.1.23={ death=yes }
+}
+4043={
+	name=Catone
+	dynasty=4040
+	dna="htwpzhvdjde"
+	culture=galiazzana religion=catholic
+	martial=5 diplomacy=5 stewardship=5 intrigue=7 learning=6
+	add_trait=midas_touched add_trait=hunter add_trait=honest add_trait=envoius add_trait=cruel
+	718.2.26={ birth=yes }
+	768.11.3={ death=yes }
+}
+4044={
+	name=Centino
+	dynasty=4040
+	dna="etphzhvahzm"
+	culture=galiazzana religion=pelagian
+	martial=4 diplomacy=5 stewardship=4 intrigue=9 learning=6
+	add_trait=midas_touched add_trait=hunter add_trait=honest add_trait=envoius add_trait=wroth
+	746.4.16={ birth=yes }
+	769.7.4={ add_trait=ill }
+	769.9.27={ remove_trait=ill }
+	786.11.18={ add_trait=ill }
+	787.2.21={ death=yes }
+}
+4045={
+	name=Emiglio
+	dynasty=4040
+	dna="etfwzvvdhze"
+	culture=galiazzana religion=catholic
+	martial=4 diplomacy=5 stewardship=4 intrigue=9 learning=6
+	add_trait=flamboyant_schemer add_trait=patient add_trait=paranoid add_trait=envious add_trait=attractive
+	751.12.27={ birth=yes }
+	804.9.29={ death=yes }
+}
+
+
+
+
+4051={
+	name=Reno
+	dynasty=4050
+	dna="kjddkffgjdk"
+	culture=galiazzana religion=catholic
+	martial=6 diplomacy=4 stewardship=5 intrigue=6 learning=7
+	add_trait=charismatic_negotiator add_trait=poet add_trait=shy add_trait=greedy add_trait=craven 
+	add_trait=chaste add_trait=slothful 
+	699.6.8={ birth=yes }
+	765.4.27={ death=yes }
+}
+4052={
+	name=Gianno
+	dynasty=4050
+	dna="hfdekgfhcck"
+	culture=galiazzana religion=catholic
+	martial=6 diplomacy=5 stewardship=4 intrigue=5 learning=7
+	add_trait=midas_touched add_trait=gregarious add_trait=cruel add_trait=ambitious add_trait=charitable 
+	add_trait=cynical 
+	father=4051	#Reno
+	720.10.8={ birth=yes }
+	791.12.12={ death=yes }
+}
+4053={
+	name=Isabella
+	female=yes
+	dynasty=4050
+	dna="kheniffodhk"
+	culture=galiazzana religion=catholic
+	father=4051	#Reno
+	724.8.14={ birth=yes }
+	798.7.18={ death=yes }
+}
+4054={
+	name=Giacinta
+	female=yes
+	dynasty=4050
+	dna="ejedkhfgjfk"
+	culture=galiazzana religion=catholic
+	father=4051	#Reno
+	726.1.4={ birth=yes }
+	785.5.12={ death=yes }
+}
+4055={
+	name=Letizia
+	female=yes
+	dynasty=4050
+	dna="bjidlighbdf"
+	culture=galiazzana religion=catholic
+	father=4051	#Reno
+	729.4.5={ birth=yes }
+	803.5.11={ death=yes }
+}
+4056={
+	name=Anastasia
+	female=yes
+	dynasty=4050
+	dna="kjmnkffbjpk"
+	culture=galiazzana religion=catholic
+	father=4051	#Reno
+	732.2.25={ birth=yes }
+	779.6.4={ death=yes }
+}
+4057={
+	name=Valenzio
+	dynasty=4050
+	dna="hfcpcbilgck"
+	culture=galiazzana religion=catholic
+	martial=7 diplomacy=8 stewardship=5 intrigue=5 learning=7
+	add_trait=tough_soldier add_trait=trusting add_trait=greedy add_trait=humble add_trait=stressed 
+	add_trait=strong 
+	father=4052	#Gianno
+	745.6.11={ birth=yes }
+	807.3.22={ death=yes }
+}
+4058={
+	name=Valentino
+	dynasty=4050
+	dna="blcbebcegcb"
+	culture=galiazzana religion=catholic
+	martial=4 diplomacy=6 stewardship=6 intrigue=8 learning=6
+	add_trait=flamboyant_schemer add_trait=patient add_trait=cynical add_trait=ambitious add_trait=slothful 
+	father=4057	#Valentino
+	769.12.10={ birth=yes }
+	828.7.2={ death=yes }
+}
+4059={
+	name=Adriana
+	female=yes
+	dynasty=4050
+	dna="kmjjcbilgmj"
+	culture=galiazzana religion=catholic
+	father=4057	#Valentino
+	771.12.24={ birth=yes }
+	825.12.2={ death=yes }
+}
+4060={
+	name=Russo
+	dynasty=4050
+	dna="dfbklbilmcb"
+	culture=galiazzana religion=catholic
+	martial=8 diplomacy=4 stewardship=4 intrigue=7 learning=6
+	add_trait=elusive_shadow add_trait=charitable add_trait=humble 
+	father=4057	#Valentino
+	773.8.2={ birth=yes }
+	839.10.11={ death=yes }
+}
+4061={
+	name=Patrizia
+	female=yes
+	dynasty=4050
+	dna="becpcbdfpcb"
+	culture=galiazzana religion=catholic
+	father=4057	#Valentino
+	776.3.17={ birth=yes }
+	845.9.24={ death=yes }
+}
+4062={
+	name=Antonio
+	dynasty=4050
+	dna="bllbhjiegob"
+	culture=galiazzana religion=catholic
+	martial=8 diplomacy=6 stewardship=6 intrigue=8 learning=8
+	add_trait=midas_touched add_trait=duelist add_trait=paranoid add_trait=wroth add_trait=lustful 
+	add_trait=cynical 
+	father=4058	#Valentino
+	798.1.12={ birth=yes }
+	853.2.22={ death=yes }
+}
+4063={
+	name=Lorenzo
+	dynasty=4050
+	dna="ehcbebcdgcb"
+	culture=galiazzana religion=catholic
+	martial=4 diplomacy=4 stewardship=6 intrigue=8 learning=5
+	add_trait=flamboyant_schemer add_trait=temperate add_trait=patient add_trait=deceitful add_trait=slothful 
+	add_trait=gregarious add_trait=lunatic add_trait=fair 
+	father=4058	#Valentino
+	802.12.26={ birth=yes }
+	877.11.29={ death=yes }
+}
+4064={
+	name=Giulia
+	female=yes
+	dynasty=4050
+	dna="ollhajcegca"
+	culture=galiazzana religion=catholic
+	father=4058	#Valentino
+	807.2.19={ birth=yes }
+	894.11.28={ death=yes }
+}
+4065={
+	name=Gaetano
+	dynasty=4050
+	dna="cadbebcgfcb"
+	culture=galiazzana religion=catholic
+	martial=8 diplomacy=8 stewardship=5 intrigue=8 learning=8
+	add_trait=detached_priest add_trait=hedonist add_trait=just add_trait=ambitious add_trait=brave 
+	add_trait=slothful add_trait=shy add_trait=possessed 
+	father=4058	#Valentino
+	809.3.18={ birth=yes }
+	889.4.20={ death=yes }
+}
+4066={
+	name=Ambrogio
+	dynasty=4050
+	dna="oomehaieggl"
+	culture=galiazzana religion=catholic
+	martial=7 diplomacy=8 stewardship=7 intrigue=7 learning=8
+	add_trait=midas_touched add_trait=paranoid add_trait=arbitrary add_trait=humble add_trait=drunkard 
+	father=4062	#Antonio
+	825.8.12={ birth=yes }
+	894.8.7={ death=yes }
+}
+4067={
+	name=Libero
+	dynasty=4050
+	dna="bllbhemigom"
+	culture=galiazzana religion=catholic
+	martial=5 diplomacy=6 stewardship=4 intrigue=6 learning=6
+	add_trait=tough_soldier add_trait=arbitrary add_trait=slothful add_trait=content 
+	father=4062	#Antonio
+	827.9.17={ birth=yes }
+	918.3.8={ death=yes }
+}
+4068={
+	name=Malinda
+	female=yes
+	dynasty=4050
+	dna="lglchlbegob"
+	culture=galiazzana religion=catholic
+	father=4062	#Antonio
+	829.6.12={ birth=yes }
+	895.5.1={ death=yes }
+}
+4069={
+	name=Russo
+	dynasty=4050
+	dna="bljbhodegik"
+	culture=galiazzana religion=catholic
+	martial=8 diplomacy=6 stewardship=4 intrigue=7 learning=8
+	add_trait=naive_appeaser add_trait=lustful add_trait=patient 
+	father=4062	#Antonio
+	832.10.21={ birth=yes }
+	895.6.16={ death=yes }
+}
+4070={
+	name=Reno
+	dynasty=4050
+	dna="mllbbjpekjk"
+	culture=galiazzana religion=catholic
+	martial=6 diplomacy=5 stewardship=7 intrigue=6 learning=7
+	add_trait=intricate_webweaver add_trait=slothful add_trait=ambitious add_trait=wroth add_trait=craven 
+	add_trait=envious 
+	father=4062	#Antonio
+	833.8.19={ birth=yes }
+	884.5.30={ death=yes }
+}
+4071={
+	name=Caetulo
+	dynasty=4050
+	dna="jpmeldoibil"
+	culture=galiazzana religion=catholic
+	martial=8 diplomacy=6 stewardship=6 intrigue=4 learning=7
+	add_trait=martial_cleric add_trait=content add_trait=envious add_trait=lustful add_trait=humble 
+	add_trait=gluttonous 
+	father=4066	#Ambrogio
+	850.11.8={ birth=yes }
+	903.10.10={ death=yes }
+}
+4072={
+	name=Ceccio
+	dynasty=4050
+	dna="ollebaneahl"
+	culture=galiazzana religion=catholic
+	martial=5 diplomacy=6 stewardship=7 intrigue=6 learning=4
+	add_trait=midas_touched add_trait=diligent add_trait=gregarious add_trait=just 
+	father=4066	#Ambrogio
+	855.7.9={ birth=yes }
+	903.11.6={ death=yes }
+}
+4073={
+	name=Gaetano
+	dynasty=4050
+	dna="jkmejeoiimi"
+	culture=galiazzana religion=catholic
+	martial=7 diplomacy=5 stewardship=7 intrigue=5 learning=6
+	add_trait=flamboyant_schemer add_trait=hedonist add_trait=cruel add_trait=humble add_trait=arbitrary 
+	add_trait=charitable add_trait=gregarious add_trait=patient 
+	father=4071	#Caetulo
+	876.1.3={ birth=yes }
+	925.8.30={ death=yes }
+}
+4074={
+	name=Patrizia
+	female=yes
+	dynasty=4050
+	dna="dpmendminlf"
+	culture=galiazzana religion=catholic
+	father=4071	#Caetulo
+	880.9.13={ birth=yes }
+	951.9.27={ death=yes }
+}
+4075={
+	name=Russo
+	dynasty=4050
+	dna="omkoidoeoll"
+	culture=galiazzana religion=catholic
+	martial=4 diplomacy=7 stewardship=4 intrigue=5 learning=6
+	add_trait=misguided_warrior add_trait=celibate add_trait=cruel add_trait=content add_trait=slothful 
+	add_trait=zealous add_trait=charitable 
+	father=4071	#Caetulo
+	884.10.6={ birth=yes }
+	946.2.5={ death=yes }
+}
+
+
+4081={
+	name=Santu
+	dynasty=4080
+	dna="gfincbkohfk"
+	culture=corvigliana religion=catholic
+	martial=8 diplomacy=7 stewardship=6 intrigue=6 learning=6
+	add_trait=tough_soldier add_trait=chaste add_trait=ambitious 
+	320.7.14={ birth=yes }
+	378.4.22={ death=yes }
+}
+4082={
+	name=Patricia
+	female=yes
+	dynasty=4080
+	dna="gfhdcbeogio"
+	culture=corvigliana religion=catholic
+	father=4081	#Santo
+	344.6.17={ birth=yes }
+	406.6.12={ death=yes }
+}
+4083={
+	name=Valerino
+	dynasty=4080
+	dna="bfdnnmkeifd"
+	culture=corvigliana religion=catholic
+	martial=6 diplomacy=5 stewardship=7 intrigue=7 learning=6
+	add_trait=martial_cleric add_trait=brave add_trait=arbitrary add_trait=shy 
+	father=4081	#Santo
+	348.11.13={ birth=yes }
+	418.6.19={ death=yes }
+}
+4084={
+	name=Gino
+	dynasty=4080
+	dna="hioncbkonfk"
+	culture=corvigliana religion=catholic
+	martial=8 diplomacy=6 stewardship=7 intrigue=8 learning=4
+	add_trait=scholarly_theologian add_trait=mystic add_trait=cynical add_trait=paranoid add_trait=cruel 
+	add_trait=diligent add_trait=content add_trait=humble add_trait=stressed add_trait=strong 
+	father=4081	#Santo
+	351.8.21={ birth=yes }
+	412.9.10={ death=yes }
+}
+4085={
+	name=Helena
+	female=yes
+	dynasty=4080
+	dna="bfgneaenifg"
+	culture=corvigliana religion=catholic
+	father=4083	#Valerino
+	374.10.6={ birth=yes }
+	434.2.11={ death=yes }
+}
+4086={
+	name=Floris
+	dynasty=4080
+	dna="bppnnmoeffg"
+	culture=corvigliana religion=catholic
+	martial=4 diplomacy=6 stewardship=4 intrigue=8 learning=5
+	add_trait=grey_eminence add_trait=kind add_trait=wroth add_trait=ill 
+	father=4083	#Valerino
+	378.5.11={ birth=yes }
+	430.9.11={ death=yes }
+}
+4087={
+	name=Pio
+	dynasty=4080
+	dna="bcddakkipcl"
+	culture=corvigliana religion=catholic
+	martial=8 diplomacy=6 stewardship=7 intrigue=6 learning=4
+	add_trait=intricate_webweaver add_trait=wroth add_trait=content add_trait=slothful add_trait=stressed 
+	father=4083	#Valerino
+	381.4.6={ birth=yes }
+	446.3.28={ death=yes }
+}
+4088={
+	name=Fortuna
+	female=yes
+	dynasty=4080
+	dna="bdeegfhmagj"
+	culture=corvigliana religion=catholic
+	father=4083	#Valerino
+	386.8.25={ birth=yes }
+	450.4.28={ death=yes }
+}
+4089={
+	name=Laurentio
+	dynasty=4080
+	dna="bpnncpeecfg"
+	culture=corvigliana religion=catholic
+	martial=5 diplomacy=6 stewardship=5 intrigue=6 learning=8
+	add_trait=grey_eminence add_trait=honest add_trait=zealous add_trait=cruel add_trait=envious 
+	add_trait=brave add_trait=gregarious 
+	father=4086	#Floris
+	400.8.19={ birth=yes }
+	452.10.24={ death=yes }
+}
+4090={
+	name=Ortensia
+	female=yes
+	dynasty=4080
+	dna="bpefnaoehfl"
+	culture=corvigliana religion=catholic
+	father=4086	#Floris
+	405.7.5={ birth=yes }
+	458.1.22={ death=yes }
+}
+4091={
+	name=Valerino
+	dynasty=4080
+	dna="fbcndpiejng"
+	culture=corvigliana religion=catholic
+	martial=8 diplomacy=7 stewardship=7 intrigue=8 learning=8
+	add_trait=scholarly_theologian add_trait=paranoid add_trait=proud add_trait=shy add_trait=charitable 
+	father=4089	#Laurinzo
+	424.6.1={ birth=yes }
+	471.1.25={ death=yes }
+}
+4092={
+	name=Clara
+	female=yes
+	dynasty=4080
+	dna="nglncpbbcfm"
+	culture=corvigliana religion=catholic
+	father=4089	#Laurinzo
+	427.9.4={ birth=yes }
+	481.12.1={ death=yes }
+}
+4093={
+	name=Sinio
+	dynasty=4080
+	dna="hpbaceeechb"
+	culture=corvigliana religion=catholic
+	martial=7 diplomacy=7 stewardship=6 intrigue=8 learning=6
+	add_trait=naive_appeaser add_trait=charitable add_trait=trusting add_trait=envious add_trait=slothful 
+	add_trait=proud add_trait=depressed 
+	father=4089	#Laurinzo
+	428.8.25={ birth=yes }
+	486.3.8={ death=yes }
+}
+4094={
+	name=Gaetano
+	dynasty=4080
+	dna="dioimcpidcl"
+	culture=corvigliana religion=catholic
+	martial=8 diplomacy=5 stewardship=5 intrigue=5 learning=8
+	add_trait=flamboyant_schemer add_trait=greedy add_trait=arbitrary add_trait=slothful 
+	father=4089	#Laurinzo
+	431.4.13={ birth=yes }
+	495.6.7={ death=yes }
+}
+4095={
+	name=Fortuna
+	female=yes
+	dynasty=4080
+	dna="gcnflpeeacg"
+	culture=corvigliana religion=catholic
+	father=4089	#Laurinzo
+	434.4.22={ birth=yes }
+	504.9.1={ death=yes }
+}
+4096={
+	name=Cristina
+	female=yes
+	dynasty=4080
+	dna="epkmbabdcfg"
+	culture=corvigliana religion=catholic
+	father=4089	#Laurinzo
+	438.8.11={ birth=yes }
+	487.7.12={ death=yes }
+}
+4097={
+	name=Sanctia
+	female=yes
+	dynasty=4080
+	dna="blencheocfc"
+	culture=corvigliana religion=catholic
+	father=4089	#Laurinzo
+	440.11.19={ birth=yes }
+	490.3.23={ death=yes }
+}
+4098={
+	name=Amata
+	female=yes
+	dynasty=4080
+	dna="ebcjdpieang"
+	culture=corvigliana religion=catholic
+	father=4091	#Valerino
+	452.7.23={ birth=yes }
+	502.2.23={ death=yes }
+}
+4099={
+	name=Brutos
+	dynasty=4080
+	dna="fbjnhpiejhg"
+	culture=corvigliana religion=catholic
+	martial=5 diplomacy=5 stewardship=6 intrigue=7 learning=6
+	add_trait=elusive_shadow add_trait=paranoid add_trait=proud add_trait=cruel 
+	father=4091	#Valerino
+	454.5.25={ birth=yes }
+	522.8.22={ death=yes }
+}
+4100={
+	name=Elisa
+	female=yes
+	dynasty=4080
+	dna="lkmedbeejnp"
+	culture=corvigliana religion=catholic
+	father=4091	#Valerino
+	456.6.6={ birth=yes }
+	518.7.29={ death=yes }
+}
+4101={
+	name=Forta
+	female=yes
+	dynasty=4080
+	dna="ffmnlgibjnf"
+	culture=corvigliana religion=catholic
+	father=4091	#Valerino
+	459.3.9={ birth=yes }
+	529.1.18={ death=yes }
+}
+4102={
+	name=Servio
+	dynasty=4080
+	dna="ehcnfpiehek"
+	culture=corvigliana religion=catholic
+	martial=6 diplomacy=6 stewardship=4 intrigue=8 learning=7
+	add_trait=grey_eminence add_trait=mystic add_trait=brave add_trait=slothful add_trait=temperate 
+	father=4091	#Valerino
+	461.6.17={ birth=yes }
+	546.1.18={ death=yes }
+}
+4103={
+	name=Varena
+	female=yes
+	dynasty=4080
+	dna="nhfagaimpeg"
+	culture=corvigliana religion=catholic
+	father=4099	#Bruto
+	480.9.4={ birth=yes }
+	554.7.14={ death=yes }
+}
+4104={
+	name=Serino
+	dynasty=4080
+	dna="fbachpidjhd"
+	culture=corvigliana religion=catholic
+	martial=5 diplomacy=5 stewardship=5 intrigue=4 learning=4
+	add_trait=midas_touched add_trait=humble add_trait=content add_trait=zealous add_trait=paranoid 
+	father=4099	#Bruto
+	485.3.9={ birth=yes }
+	539.3.6={ death=yes }
+}
+4105={
+	name=Sancia
+	female=yes
+	dynasty=4080
+	dna="lojnhpiejhj"
+	culture=corvigliana religion=catholic
+	father=4099	#Bruto
+	487.7.22={ birth=yes }
+	551.4.29={ death=yes }
+}
+4106={
+	name=Valerino
+	dynasty=4080
+	dna="jkinbpipjhb"
+	culture=corvigliana religion=catholic
+	martial=7 diplomacy=7 stewardship=5 intrigue=6 learning=8
+	add_trait=flamboyant_schemer add_trait=poet add_trait=temperate add_trait=gregarious add_trait=zealous 
+	add_trait=drunkard 
+	father=4099	#Bruto
+	491.6.2={ birth=yes }
+	570.10.10={ death=yes }
+}
+4107={
+	name=Marea
+	female=yes
+	dynasty=4080
+	dna="fkacjpfdjoo"
+	culture=corvigliana religion=catholic
+	father=4104	#Serino
+	509.4.5={ birth=yes }
+	551.11.18={ death=yes }
+}
+4108={
+	name=Molino
+	dynasty=4080
+	dna="fbacppcajhd"
+	culture=corvigliana religion=catholic
+	martial=5 diplomacy=4 stewardship=7 intrigue=8 learning=8
+	add_trait=charismatic_negotiator add_trait=gluttonous add_trait=proud add_trait=cynical add_trait=stressed 
+	father=4104	#Serino
+	511.3.10={ birth=yes }
+	582.2.10={ death=yes }
+}
+4109={
+	name=Valentino
+	dynasty=4080
+	dna="mlaijpipnhd"
+	culture=corvigliana religion=catholic
+	martial=5 diplomacy=6 stewardship=4 intrigue=7 learning=8
+	add_trait=intricate_webweaver add_trait=ambitious add_trait=gregarious add_trait=zealous add_trait=paranoid 
+	add_trait=wroth add_trait=craven 
+	father=4104	#Serino
+	514.7.23={ birth=yes }
+	588.5.31={ death=yes }
+}
+4110={
+	name=Russo
+	dynasty=4080
+	dna="igacfpgljhg"
+	culture=corvigliana religion=catholic
+	martial=8 diplomacy=4 stewardship=6 intrigue=6 learning=8
+	add_trait=misguided_warrior add_trait=shy add_trait=humble add_trait=ambitious add_trait=trusting 
+	father=4104	#Serino
+	517.5.18={ birth=yes }
+	591.9.16={ death=yes }
+}
+4111={
+	name=Oriana
+	female=yes
+	dynasty=4080
+	dna="fmabppcblhe"
+	culture=corvigliana religion=catholic
+	father=4108	#Molino
+	537.2.6={ birth=yes }
+	586.4.19={ death=yes }
+}
+4112={
+	name=Amato
+	dynasty=4080
+	dna="mbpcmmdajcd"
+	culture=corvigliana religion=catholic
+	martial=4 diplomacy=5 stewardship=7 intrigue=5 learning=6
+	add_trait=indulgent_wastrel add_trait=diligent add_trait=brave 
+	father=4108	#Molino
+	540.12.23={ birth=yes }
+	611.8.28={ death=yes }
+}
+4113={
+	name=Adriano
+	dynasty=4080
+	dna="mnacepcojko"
+	culture=corvigliana religion=catholic
+	martial=7 diplomacy=7 stewardship=8 intrigue=4 learning=8
+	add_trait=detached_priest add_trait=cruel add_trait=arbitrary add_trait=gregarious add_trait=diligent 
+	father=4108	#Molino
+	542.6.25={ birth=yes }
+	592.1.25={ death=yes }
+}
+4114={
+	name=Tito
+	dynasty=4080
+	dna="efgcjfpnjho"
+	culture=corvigliana religion=catholic
+	martial=5 diplomacy=8 stewardship=8 intrigue=8 learning=6
+	add_trait=detached_priest add_trait=scholar add_trait=gluttonous add_trait=honest add_trait=chaste 
+	add_trait=arbitrary 
+	father=4108	#Molino
+	546.2.8={ birth=yes }
+	599.12.28={ death=yes }
+}
+4115={
+	name=Letia
+	female=yes
+	dynasty=4080
+	dna="fbpinocdjap"
+	culture=corvigliana religion=catholic
+	father=4108	#Molino
+	551.8.23={ birth=yes }
+	617.5.28={ death=yes }
+}
+4116={
+	name=Taliona
+	female=yes
+	dynasty=4080
+	dna="mboclhoamjd"
+	culture=galiazzana religion=catholic
+	father=4112	#Amato
+	563.2.18={ birth=yes }
+	622.1.6={ death=yes }
+}
+4117={
+	name=Vito
+	dynasty=4080
+	dna="gbpcjddnmcn"
+	culture=galiazzana religion=catholic
+	martial=6 diplomacy=7 stewardship=4 intrigue=4 learning=4
+	add_trait=midas_touched add_trait=content add_trait=trusting add_trait=craven add_trait=greedy 
+	add_trait=gluttonous add_trait=envious 
+	father=4112	#Amato
+	566.12.22={ birth=yes }
+	638.4.6={ death=yes }
+}
+4118={
+	name=Gino
+	dynasty=4080
+	dna="hjjcjddnjcm"
+	culture=galiazzana religion=catholic
+	martial=6 diplomacy=4 stewardship=4 intrigue=4 learning=5
+	add_trait=elusive_shadow add_trait=greedy add_trait=cynical add_trait=paranoid 
+	father=4117	#Vito
+	587.7.3={ birth=yes }
+	658.6.19={ death=yes }
+}
+4119={
+	name=Fausta
+	female=yes
+	dynasty=4080
+	dna="ibnhoidomog"
+	culture=galiazzana religion=catholic
+	father=4117	#Vito
+	591.12.15={ birth=yes }
+	635.3.10={ death=yes }
+}
+4120={
+	name=Sergio
+	dynasty=4080
+	dna="gpfmlhjnmpi"
+	culture=galiazzana religion=catholic
+	martial=6 diplomacy=6 stewardship=6 intrigue=7 learning=5
+	add_trait=charismatic_negotiator add_trait=slothful add_trait=zealous add_trait=humble add_trait=wroth 
+	father=4117	#Vito
+	594.8.19={ birth=yes }
+	646.4.3={ death=yes }
+}
+4121={
+	name=Giacomo
+	dynasty=4080
+	dna="gafjcdfgmck"
+	culture=galiazzana religion=catholic
+	martial=7 diplomacy=6 stewardship=6 intrigue=7 learning=6
+	add_trait=mastermind_theologian add_trait=arbitrary add_trait=honest add_trait=patient add_trait=ambitious 
+	add_trait=slothful add_trait=craven add_trait=drunkard 
+	father=4117	#Vito
+	599.11.7={ birth=yes }
+	649.1.30={ death=yes }
+}
+4122={
+	name=Pero
+	dynasty=4080
+	dna="knjjoennhcm"
+	culture=galiazzana religion=catholic
+	martial=4 diplomacy=8 stewardship=7 intrigue=4 learning=8
+	add_trait=martial_cleric add_trait=diligent add_trait=humble add_trait=content add_trait=greedy 
+	add_trait=lustful 
+	father=4118	#Gino
+	613.3.1={ birth=yes }
+	664.12.22={ death=yes }
+}
+4123={
+	name=Speranza
+	female=yes
+	dynasty=4080
+	dna="kbjcmdjahbm"
+	culture=galiazzana religion=catholic
+	father=4118	#Gino
+	616.12.18={ birth=yes }
+	664.11.14={ death=yes }
+}
+4124={
+	name=Clara
+	female=yes
+	dynasty=4080
+	dna="djjmoonmhca"
+	culture=galiazzana religion=catholic
+	father=4122	#Pero
+	637.11.17={ birth=yes }
+	691.8.1={ death=yes }
+}
+4125={
+	name=Lorenza
+	female=yes
+	dynasty=4080
+	dna="kmjdoepnhdm"
+	culture=galiazzana religion=catholic
+	father=4122	#Pero
+	641.12.19={ birth=yes }
+	714.5.2={ death=yes }
+}
+4126={
+	name=Orsino ##Ottavio
+	dynasty=4080
+	dna="knjjodcnhcm"
+	culture=galiazzana religion=catholic
+	martial=4 diplomacy=5 stewardship=8 intrigue=7 learning=4
+	add_trait=detached_priest add_trait=charitable add_trait=gregarious add_trait=proud add_trait=content 
+	father=4122	#Pero
+	644.6.9={ birth=yes }
+	715.3.28={ death=yes }
+}
+4127={
+	name=Clara
+	female=yes
+	dynasty=4080
+	dna="lnefponhhdm"
+	culture=galiazzana religion=catholic
+	father=4122	#Pero
+	646.4.24={ birth=yes }
+	711.9.15={ death=yes }
+}
+4128={
+	name=Gio
+	dynasty=4080
+	dna="kpmjofnkhem"
+	culture=galiazzana religion=catholic
+	martial=7 diplomacy=7 stewardship=7 intrigue=8 learning=6
+	add_trait=elusive_shadow add_trait=cruel add_trait=slothful add_trait=zealous add_trait=arbitrary 
+	add_trait=charitable add_trait=humble add_trait=depressed 
+	father=4122	#Pero
+	648.11.15={ birth=yes }
+	704.1.17={ death=yes }
+}
+4129={
+	name=Giano
+	dynasty=4080
+	dna="kanjejdjhab"
+	culture=galiazzana religion=catholic
+	martial=4 diplomacy=4 stewardship=7 intrigue=7 learning=4
+	add_trait=elusive_shadow add_trait=content add_trait=cruel add_trait=zealous add_trait=paranoid 
+	father=4126	#Ottavio
+	665.4.4={ birth=yes }
+	724.5.11={ death=yes }
+}
+4130={
+	name=Zaccaria
+	dynasty=4080
+	dna="kphjogjeccm"
+	culture=galiazzana religion=catholic
+	martial=8 diplomacy=4 stewardship=8 intrigue=7 learning=8
+	add_trait=flamboyant_schemer add_trait=zealous add_trait=lustful add_trait=diligent add_trait=proud 
+	add_trait=paranoid 
+	father=4126	#Ottavio
+	668.11.26={ birth=yes }
+	720.8.4={ death=yes }
+}
+4131={
+	name=Valeria
+	female=yes
+	dynasty=4080
+	dna="idfdodcnhfm"
+	culture=galiazzana religion=catholic
+	father=4126	#Ottavio
+	669.10.24={ birth=yes }
+	729.11.23={ death=yes }
+}
+4132={
+	name=Steffano
+	dynasty=4080
+	dna="knppodcnhcf"
+	culture=galiazzana religion=catholic
+	martial=4 diplomacy=7 stewardship=5 intrigue=6 learning=7
+	add_trait=midas_touched add_trait=cynical add_trait=diligent add_trait=honest add_trait=stressed 
+	father=4126	#Ottavio
+	671.12.14={ birth=yes }
+	733.3.4={ death=yes }
+}
+4133={
+	name=Corsino
+	dynasty=4080
+	dna="knjbbcceccn"
+	culture=galiazzana religion=catholic
+	martial=6 diplomacy=8 stewardship=7 intrigue=8 learning=8
+	add_trait=martial_cleric add_trait=cruel add_trait=cynical 
+	father=4126	#Ottavio
+	674.2.5={ birth=yes }
+	705.5.23={ death=yes }
+}
+4134={
+	name=Lupo
+	dynasty=4080
+	dna="kandejdfhab"
+	culture=galiazzana religion=catholic
+	martial=6 diplomacy=5 stewardship=8 intrigue=7 learning=4
+	add_trait=misguided_warrior add_trait=just add_trait=zealous add_trait=chaste add_trait=cruel 
+	add_trait=possessed 
+	father=4129	#Giano
+	690.5.5={ birth=yes }
+	749.10.11={ death=yes }
+}
+4135={
+	name=Giuliano
+	dynasty=4080
+	dna="knfjejdimlb"
+	culture=galiazzana religion=catholic
+	martial=7 diplomacy=6 stewardship=5 intrigue=6 learning=5
+	add_trait=martial_cleric add_trait=patient add_trait=greedy add_trait=trusting add_trait=gregarious 
+	add_trait=humble add_trait=cynical 
+	father=4129	#Giano
+	696.6.19={ birth=yes }
+	765.2.10={ death=yes }
+}
+4136={
+	name=Andreas
+	dynasty=4080
+	dna="kkhjejpjkaf"
+	culture=galiazzana religion=catholic
+	martial=8 diplomacy=4 stewardship=7 intrigue=6 learning=4
+	add_trait=flamboyant_schemer add_trait=craven add_trait=paranoid 
+	father=4129	#Giano
+	698.7.25={ birth=yes }
+	731.9.29={ death=yes }
+}
+4137={
+	name=Giorgio
+	dynasty=4080
+	dna="kaahcfhfgpl"
+	culture=galiazzana religion=catholic
+	martial=8 diplomacy=7 stewardship=6 intrigue=4 learning=7
+	add_trait=skilled_tactician add_trait=shy add_trait=proud add_trait=patient add_trait=greedy 
+	father=4134	#Lupo
+	711.6.25={ birth=yes }
+	769.6.25={ death=yes }
+}
+4138={
+	name=Ambrogio
+	dynasty=4080
+	dna="kaigcmdkhab"
+	culture=galiazzana religion=catholic
+	martial=7 diplomacy=6 stewardship=5 intrigue=5 learning=8
+	add_trait=misguided_warrior add_trait=proud add_trait=gregarious add_trait=cynical add_trait=paranoid 
+	add_trait=kind 
+	father=4134	#Lupo
+	714.11.27={ birth=yes }
+	767.8.4={ death=yes }
+}
+4139={
+	name=Pia
+	female=yes
+	dynasty=4080
+	dna="kaohcjihmkb"
+	culture=galiazzana religion=catholic
+	father=4137	#Georgio
+	735.10.7={ birth=yes }
+	782.10.7={ death=yes }
+}
+4140={
+	name=Ambrogio
+	dynasty=4080
+	dna="aajeefkfgep"
+	culture=galiazzana religion=catholic
+	martial=8 diplomacy=7 stewardship=4 intrigue=8 learning=6
+	add_trait=midas_touched add_trait=slothful add_trait=gluttonous add_trait=brave add_trait=cruel 
+	add_trait=ill 
+	father=4137	#Georgio
+	736.1.5={ birth=yes }
+	790.5.11={ death=yes }
+}
+4141={
+	name=Russo
+	dynasty=4080
+	dna="kaiacmcfgpa"
+	culture=galiazzana religion=catholic
+	martial=8 diplomacy=4 stewardship=5 intrigue=7 learning=5
+	add_trait=misguided_warrior add_trait=impaler add_trait=greedy add_trait=patient add_trait=honest 
+	add_trait=trusting add_trait=ambitious add_trait=depressed 
+	father=4137	#Georgio
+	739.2.11={ birth=yes }
+	792.1.19={ death=yes }
+}
+4142={
+	name=Ottavio
+	dynasty=4080
+	dna="oaahdfloglf"
+	culture=galiazzana religion=catholic
+	martial=8 diplomacy=8 stewardship=6 intrigue=6 learning=6
+	add_trait=flamboyant_schemer add_trait=duelist add_trait=charitable add_trait=cynical add_trait=envious 
+	add_trait=diligent 
+	father=4137	#Georgio
+	742.5.17={ birth=yes }
+	798.5.14={ death=yes }
+}
+4143={
+	name=Ercole
+	dynasty=4080
+	dna="mkchchfkgdj"
+	culture=galiazzana religion=catholic
+	martial=6 diplomacy=8 stewardship=8 intrigue=8 learning=5
+	add_trait=skilled_tactician add_trait=cynical add_trait=trusting add_trait=honest add_trait=slothful 
+	father=4137	#Georgio
+	745.8.11={ birth=yes }
+	796.2.23={ death=yes }
+}
+4144={
+	name=Valeria
+	female=yes
+	dynasty=4080
+	dna="kmpcoehfipl"
+	culture=galiazzana religion=catholic
+	father=4137	#Georgio
+	748.5.9={ birth=yes }
+	809.1.24={ death=yes }
+}
+4145={
+	name=Daniele
+	dynasty=4080
+	dna="majeeknfoed"
+	culture=galiazzana religion=catholic
+	martial=7 diplomacy=5 stewardship=7 intrigue=6 learning=8
+	add_trait=martial_cleric add_trait=gregarious add_trait=gluttonous add_trait=envious 
+	father=4140	#Ambrogio
+	758.2.11={ birth=yes }
+	823.7.29={ death=yes }
+}
+4146={
+	name=Laurinzo
+	dynasty=4080
+	dna="damjehefhkc"
+	culture=galiazzana religion=catholic
+	martial=4 diplomacy=5 stewardship=7 intrigue=6 learning=7
+	add_trait=martial_cleric add_trait=gregarious add_trait=craven add_trait=wroth add_trait=honest 
+	add_trait=ambitious 
+	father=4140	#Ambrogio
+	762.10.17={ birth=yes }
+	813.9.2={ death=yes }
+}
+4147={
+	name=Nicola
+	dynasty=4080
+	dna="hmjeiobpgep"
+	culture=galiazzana religion=catholic
+	martial=6 diplomacy=7 stewardship=6 intrigue=5 learning=6
+	add_trait=grey_eminence add_trait=gluttonous add_trait=kind add_trait=shy add_trait=diligent 
+	add_trait=paranoid 
+	father=4140	#Ambrogio
+	765.2.14={ birth=yes }
+	815.5.28={ death=yes }
+}
+4148={
+	name=Tiberio
+	dynasty=4080
+	dna="hdjijckfpdf"
+	culture=galiazzana religion=catholic
+	martial=7 diplomacy=5 stewardship=6 intrigue=6 learning=8
+	add_trait=elusive_shadow add_trait=wroth add_trait=gregarious add_trait=honest 
+	father=4140	#Ambrogio
+	769.7.2={ birth=yes }
+	821.12.28={ death=yes }
+}
+4149={
+	name=Fulvia
+	female=yes
+	dynasty=4080
+	dna="mfopekkmghk"
+	culture=galiazzana religion=catholic
+	father=4140	#Ambrogio
+	773.1.20={ birth=yes }
+	830.10.1={ death=yes }
+}
+4150={
+	name=Piero
+	dynasty=4080
+	dna="jgoeelkfkhp"
+	culture=galiazzana religion=catholic
+	martial=7 diplomacy=6 stewardship=4 intrigue=5 learning=6
+	add_trait=charismatic_negotiator add_trait=impaler add_trait=gregarious add_trait=gluttonous add_trait=cynical 
+	add_trait=craven add_trait=honest add_trait=arbitrary add_trait=ill 
+	father=4140	#Ambrogio
+	775.11.13={ birth=yes }
+	838.8.22={ death=yes }
+}
+4151={
+	name=Tiberio
+	dynasty=4080
+	dna="aajnemkjgok"
+	culture=galiazzana religion=catholic
+	martial=6 diplomacy=7 stewardship=7 intrigue=4 learning=4
+	add_trait=naive_appeaser add_trait=chaste add_trait=trusting add_trait=shy 
+	father=4140	#Ambrogio
+	780.5.4={ birth=yes }
+	842.10.15={ death=yes }
+}
+4152={
+	name=Basilico
+	dynasty=4080
+	dna="mljeekefoea"
+	culture=galiazzana religion=catholic
+	martial=7 diplomacy=8 stewardship=7 intrigue=5 learning=7
+	add_trait=mastermind_theologian add_trait=hunter add_trait=craven add_trait=cruel add_trait=ambitious 
+	father=4145	#Daniele
+	781.4.13={ birth=yes }
+	831.9.9={ death=yes }
+}
+4153={
+	name=Roseta
+	female=yes
+	dynasty=4080
+	dna="mbbaeogfoed"
+	culture=galiazzana religion=catholic
+	father=4145	#Daniele
+	785.6.25={ birth=yes }
+	846.4.18={ death=yes }
+}
+4154={
+	name=Rosalba
+	female=yes
+	dynasty=4080
+	dna="jhjeelnfiem"
+	culture=galiazzana religion=catholic
+	father=4145	#Daniele
+	790.5.9={ birth=yes }
+	857.11.11={ death=yes }
+}
+4155={
+	name=Fausta
+	female=yes
+	dynasty=4080
+	dna="mhjeeknoemj"
+	culture=galiazzana religion=catholic
+	father=4145	#Daniele
+	792.2.4={ birth=yes }
+	852.12.6={ death=yes }
+}
+4156={
+	name=Ortensia
+	female=yes
+	dynasty=4080
+	dna="mcpeeenfobd"
+	culture=galiazzana religion=catholic
+	father=4145	#Daniele
+	796.12.23={ birth=yes }
+	856.6.1={ death=yes }
+}
+4157={
+	name=Andria
+	female=yes
+	dynasty=4080
+	dna="bmcedeaffjd"
+	culture=galiazzana religion=catholic
+	father=4145	#Daniele
+	797.5.16={ birth=yes }
+	848.4.28={ death=yes }
+}
+4158={
+	name=Gino
+	dynasty=4080
+	dna="mafdgknppnb"
+	culture=galiazzana religion=catholic
+	martial=8 diplomacy=6 stewardship=8 intrigue=6 learning=7
+	add_trait=misguided_warrior add_trait=kind add_trait=paranoid add_trait=cruel add_trait=shy 
+	add_trait=temperate 
+	father=4145	#Daniele
+	801.9.4={ birth=yes }
+	857.2.24={ death=yes }
+}
+4159={
+	name=Taliona
+	female=yes
+	dynasty=4080
+	dna="gmjaekaflga"
+	culture=galiazzana religion=catholic
+	father=4152	#Bacio
+	809.7.9={ birth=yes }
+	876.1.28={ death=yes }
+}
+4160={
+	name=Anatolio
+	dynasty=4080
+	dna="mflpngdkofa"
+	culture=galiazzana religion=catholic
+	martial=5 diplomacy=8 stewardship=5 intrigue=6 learning=6
+	add_trait=midas_touched add_trait=celibate add_trait=brave add_trait=proud add_trait=greedy 
+	add_trait=slothful 
+	father=4152	#Bacio
+	813.7.20={ birth=yes }
+	870.3.23={ death=yes }
+}
+4161={
+	name=Cesare
+	dynasty=4080
+	dna="mfghbnnfoem"
+	culture=galiazzana religion=catholic
+	martial=5 diplomacy=8 stewardship=5 intrigue=5 learning=8
+	add_trait=midas_touched add_trait=deceitful add_trait=gluttonous add_trait=cruel add_trait=gregarious 
+	father=4152	#Bacio
+	816.9.4={ birth=yes }
+	880.12.19={ death=yes }
+}
+4162={
+	name=Matteo
+	dynasty=4080
+	dna="mpjkekefoea"
+	culture=galiazzana religion=catholic
+	martial=8 diplomacy=5 stewardship=6 intrigue=8 learning=6
+	add_trait=scholarly_theologian add_trait=kind add_trait=paranoid add_trait=just add_trait=content 
+	add_trait=drunkard add_trait=stutter 
+	father=4152	#Bacio
+	820.3.17={ birth=yes }
+	879.12.26={ death=yes }
+}
+4163={
+	name=Fausta
+	female=yes
+	dynasty=4080
+	dna="pmlbnfdkefa"
+	culture=galiazzana religion=catholic
+	father=4160	#Anatolio
+	842.3.6={ birth=yes }
+	902.2.19={ death=yes }
+}
+4164={
+	name=Filippo
+	dynasty=4080
+	dna="omllagddofa"
+	culture=galiazzana religion=catholic
+	martial=6 diplomacy=8 stewardship=4 intrigue=6 learning=8
+	add_trait=detached_priest add_trait=scholar add_trait=lustful add_trait=diligent add_trait=humble 
+	add_trait=cynical 
+	father=4160	#Anatolio
+	845.8.23={ birth=yes }
+	919.3.22={ death=yes }
+}
+4165={
+	name=Gio
+	dynasty=4080
+	dna="mfldjkdkofa"
+	culture=galiazzana religion=catholic
+	martial=4 diplomacy=8 stewardship=7 intrigue=5 learning=5
+	add_trait=midas_touched add_trait=kind add_trait=wroth 
+	father=4160	#Anatolio
+	848.6.15={ birth=yes }
+	921.9.14={ death=yes }
+}
+4166={
+	name=Vivia
+	female=yes
+	dynasty=4080
+	dna="ofblnadjkga"
+	culture=galiazzana religion=catholic
+	father=4160	#Anatolio
+	850.8.13={ birth=yes }
+	920.11.14={ death=yes }
+}
+4167={
+	name=Rosamaria
+	female=yes
+	dynasty=4080
+	dna="aflfnhdlhfe"
+	culture=galiazzana religion=catholic
+	father=4160	#Anatolio
+	854.8.18={ birth=yes }
+	898.4.5={ death=yes }
+}

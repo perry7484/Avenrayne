@@ -1,0 +1,118 @@
+# Province adopts Middlefordish culture
+province_event = {
+	id = avenrayne.meltingpot.1
+	desc = EVTDESC_avenrayne.meltingpot.1
+	picture = GFX_evt_stone_church
+	
+	trigger = {
+		OR = {
+			culture = eascisc
+			culture = mittelander
+		}
+		owner = {
+			OR = {
+				culture = northern_rayne
+				culture = nordval_rayne
+				culture = western_rayne
+				culture = eastern_rayne
+				culture = southern_rayne
+				culture = old_rayne
+				culture = rayne
+			}
+		}
+		NOT = { year = 1200 }
+	}
+	
+	mean_time_to_happen = {
+		months = 600
+		modifier = {
+			factor = 0.3
+			OR = {
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots
+				}
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots_and_slower_normal
+				}
+			}
+		}
+	}
+
+	option = {
+		name = EVTOPTA_avenrayne.meltingpot.1
+		trigger = {
+			NOT = {
+				owner = { culture = middlefordish }
+			}
+		}
+		culture = middlefordish
+	}
+	option = {
+		name = EVTOPTB_avenrayne.meltingpot.1
+		trigger = {
+			owner = { culture = middlefordish }
+		}
+		culture = middlefordish
+	}
+}
+# Middlefordish province adopts Southron culture
+province_event = {
+	id = avenrayne.meltingpot.2
+	desc = EVTDESC_avenrayne.meltingpot.2
+	picture = GFX_evt_stone_church
+	
+	trigger = {
+		region = custom_southron
+		OR = {
+			culture = middlefordish
+		}
+		owner = {
+			OR = {
+				culture = northern_rayne
+				culture = nordval_rayne
+				culture = western_rayne
+				culture = eastern_rayne
+				culture = southern_rayne
+				culture = old_rayne
+				culture = rayne
+			}
+		}
+		{ year = 1100 }
+	}
+	
+	mean_time_to_happen = {
+		months = 600
+		modifier = {
+			factor = 0.3
+			OR = {
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots
+				}
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots_and_slower_normal
+				}
+			}
+		}
+	}
+
+	option = {
+		name = EVTOPTA_avenrayne.meltingpot.2
+		trigger = {
+			NOT = {
+				owner = { culture = southron }
+			}
+		}
+		culture = southron
+	}
+	option = {
+		name = EVTOPTB_avenrayne.meltingpot.2
+		trigger = {
+			owner = { culture = southron }
+		}
+		culture = southron
+	}
+}

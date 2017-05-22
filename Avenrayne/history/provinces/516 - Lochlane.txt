@@ -1,0 +1,21 @@
+# c_lochlane
+
+# County Title
+title = c_lochlane
+
+# Settlements
+max_settlements = 7
+
+b_lochlane = tribal
+#b_lochlane_2 = city
+#b_lochlane_3 = temple
+#b_lochlane_4 = castle
+#b_lochlane_5 = city
+#b_lochlane_6 = temple
+#b_lochlane_7 = castle
+
+# Misc
+culture = ardthirraich
+religion = celtic_pagan
+
+#History

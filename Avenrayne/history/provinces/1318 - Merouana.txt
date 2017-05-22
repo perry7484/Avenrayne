@@ -1,0 +1,21 @@
+# c_merouana
+
+# County Title
+title = c_merouana
+
+# Settlements
+max_settlements = 7
+
+b_merouana = city
+b_seggana = temple
+#b_merouana_2 = temple
+#b_merouana_3 = castle
+#b_merouana_4 = city
+#b_merouana_5 = temple
+#b_merouana_6 = castle
+
+# Misc
+culture = merouani
+religion = miaphysite
+
+#History

@@ -1,0 +1,50 @@
+3841={
+	name=Gausbert
+	dynasty=3840
+	dna="dsjxtfosevz"
+	culture=passa_rayne religion=cathar
+	martial=8 diplomacy=7 stewardship=8 intrigue=6 learning=5
+	add_trait=charismatic_negotiator add_trait=zealous add_trait=just add_trait=trusting 
+	741.10.13={ birth=yes }
+	801.3.14={ death=yes }
+}
+3851={
+	name=Folquet
+	dynasty=3850
+	dna="dsjxtfosevz"
+	culture=passa_rayne religion=cathar
+	martial=8 diplomacy=7 stewardship=8 intrigue=6 learning=5
+	add_trait=charismatic_negotiator add_trait=zealous add_trait=just add_trait=trusting 
+	718.10.13={ birth=yes }
+	782.3.14={ death=yes }
+}
+3861={
+	name=Albert
+	dynasty=3860
+	dna="dsjxtfosevz"
+	culture=passa_rayne religion=cathar
+	martial=8 diplomacy=7 stewardship=8 intrigue=6 learning=5
+	add_trait=charismatic_negotiator add_trait=zealous add_trait=just add_trait=trusting 
+	728.10.13={ birth=yes }
+	789.3.14={ death=yes }
+}
+3871={
+	name=Clamenc
+	dynasty=3870
+	dna="dsjxtfosevz"
+	culture=passa_rayne religion=cathar
+	martial=8 diplomacy=7 stewardship=8 intrigue=6 learning=5
+	add_trait=charismatic_negotiator add_trait=zealous add_trait=just add_trait=trusting 
+	729.10.13={ birth=yes }
+	783.3.14={ death=yes }
+}
+3882={
+	name=Guitart
+	dynasty=3880
+	dna="dsjxtfosevz"
+	culture=passa_rayne religion=hellenic_pagan
+	martial=8 diplomacy=7 stewardship=8 intrigue=6 learning=5
+	add_trait=charismatic_negotiator add_trait=zealous add_trait=just add_trait=trusting
+	732.10.13={ birth=yes }
+	783.3.14={ death=yes }
+}

@@ -1,0 +1,39 @@
+# e_rayne
+2.1.1={
+	liege=e_capraccia
+}
+58.7.7={
+	holder=3 #Tacitus
+}
+267.1.1={
+	liege=e_rayne
+}
+281.1.1={
+	liege=e_capraccia
+}
+457.1.1={
+	liege=0
+}
+541.1.1={
+	liege=e_capraccia
+}
+567.1.1={
+	liege=e_rayne
+}
+587.1.1={
+	liege=0
+}
+587.1.1 = {
+	liege = 0 # De facto
+	set_tribute_suzerain = { who = e_rayne percentage = 0.20 }
+}
+500.1.1={
+	law = cognatic_succession
+	law = succ_primogeniture
+}
+761.12.22={
+	holder=3204
+}
+800.1.1={
+	liege=e_rayne
+}

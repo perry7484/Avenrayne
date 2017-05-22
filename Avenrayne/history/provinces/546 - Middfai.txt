@@ -1,0 +1,21 @@
+# c_middfai
+
+# County Title
+title = c_middfai
+
+# Settlements
+max_settlements = 7
+
+b_middfai = castle
+#b_llanrwst = city
+#b_rhuddlan = temple
+#b_middfai_2 = castle
+#b_middfai_3 = city
+#b_middfai_4 = temple
+#b_middfai_5 = castle
+
+# Misc
+culture = maesmyge
+religion = catholic
+
+#History

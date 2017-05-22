@@ -1,0 +1,21 @@
+# c_aghavea
+
+# County Title
+title = c_aghavea
+
+# Settlements
+max_settlements = 7
+
+b_aghavea = tribal
+#b_killadeas = city
+#b_aghavea_2 = temple
+#b_aghavea_3 = castle
+#b_aghavea_4 = city
+#b_aghavea_5 = temple
+#b_aghavea_6 = castle
+
+# Misc
+culture = ardthirraich
+religion = celtic_pagan
+
+#History

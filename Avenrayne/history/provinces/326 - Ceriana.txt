@@ -1,0 +1,34 @@
+# c_ceriana
+
+# County Title
+title = c_ceriana
+
+# Settlements
+max_settlements = 7
+
+b_ceriana = city
+b_menfi = temple
+#b_forni = temple
+#b_piovega = castle
+#b_ceriana_2 = city
+#b_ceriana_3 = temple
+#b_ceriana_4 = castle
+
+# Misc
+culture = arsiziana
+religion = catholic
+
+#History
+1.1.1 = { 
+religion = hellenic_pagan
+culture = capracciana
+}
+560.1.1 = { 
+culture = arsiziana
+}
+230.1.1 = { 
+religion = orthodox
+}
+598.11.1 = { 
+religion = catholic
+}

@@ -1,0 +1,21 @@
+# c_montain
+
+# County Title
+title = c_montain
+
+# Settlements
+max_settlements = 7
+
+b_montain = castle
+#b_lamatte = city
+#b_lescolir = temple
+#b_arenc = castle
+#b_cahagnes = city
+#b_camprond = temple
+#b_octeville = castle
+
+# Misc
+culture = northern_rayne
+religion = catholic
+
+#History

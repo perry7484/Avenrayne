@@ -1,0 +1,21 @@
+# c_kilraghts
+
+# County Title
+title = c_kilraghts
+
+# Settlements
+max_settlements = 7
+
+b_kilraghts = tribal
+#b_kilraghts_2 = city
+#b_kilraghts_3 = temple
+#b_kilraghts_4 = castle
+#b_kilraghts_5 = city
+#b_kilraghts_6 = temple
+#b_kilraghts_7 = castle
+
+# Misc
+culture = ardthirraich
+religion = celtic_pagan
+
+#History

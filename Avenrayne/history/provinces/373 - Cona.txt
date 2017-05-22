@@ -1,0 +1,21 @@
+# c_cona
+
+# County Title
+title = c_cona
+
+# Settlements
+max_settlements = 7
+
+b_cona = castle
+b_carlantinu = city
+#b_cona_2 = temple
+#b_cona_3 = castle
+#b_cona_4 = city
+#b_cona_5 = temple
+#b_cona_6 = castle
+
+# Misc
+culture = marrùna
+religion = orthodox
+
+#History

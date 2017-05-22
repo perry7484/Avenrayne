@@ -1,0 +1,21 @@
+# c_leiten
+
+# County Title
+title = c_leiten
+
+# Settlements
+max_settlements = 7
+
+b_leiten = castle
+#b_leiten_2 = city
+#b_leiten_3 = temple
+#b_leiten_4 = castle
+#b_leiten_5 = city
+#b_leiten_6 = temple
+#b_leiten_7 = castle
+
+# Misc
+culture = mittelander
+religion = norse_pagan
+
+#History

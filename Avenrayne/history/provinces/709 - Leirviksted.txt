@@ -1,0 +1,24 @@
+# c_leirviksted
+
+# County Title
+title = c_leirviksted
+
+# Settlements
+max_settlements = 7
+
+b_leirviksted = tribal
+#b_rysstad = city
+#b_leirviksted_2 = temple
+#b_leirviksted_3 = castle
+#b_leirviksted_4 = city
+#b_leirviksted_5 = temple
+#b_leirviksted_6 = castle
+
+# Misc
+culture = nordlander
+religion = norse_pagan
+
+#History
+1080.1.1 = {
+culture = leirviksteder
+}

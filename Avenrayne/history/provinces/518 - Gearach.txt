@@ -1,0 +1,21 @@
+# c_gearach
+
+# County Title
+title = c_gearach
+
+# Settlements
+max_settlements = 7
+
+b_gearach = tribal
+#b_gearach_2 = city
+#b_gearach_3 = temple
+#b_gearach_4 = castle
+#b_gearach_5 = city
+#b_gearach_6 = temple
+#b_gearach_7 = castle
+
+# Misc
+culture = ardthirraich
+religion = celtic_pagan
+
+#History

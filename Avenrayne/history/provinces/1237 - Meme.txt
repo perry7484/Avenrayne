@@ -1,0 +1,21 @@
+# c_meme
+
+# County Title
+title = c_meme
+
+# Settlements
+max_settlements = 7
+
+b_meme = castle
+#b_meme_2 = city
+#b_meme_3 = temple
+#b_meme_4 = castle
+#b_meme_5 = city
+#b_meme_6 = temple
+#b_meme_7 = castle
+
+# Misc
+culture = nawwari
+religion = miaphysite
+
+#History

@@ -1,0 +1,21 @@
+# c_aiguevieille
+
+# County Title
+title = c_aiguevieille
+
+# Settlements
+max_settlements = 7
+
+b_aiguevieille = castle
+b_basfort = city
+#b_rocher = temple
+#b_montigny = castle
+#b_saint_andre = city
+#b_elly = temple
+#b_monvalm = castle
+
+# Misc
+culture = northern_rayne
+religion = catholic
+
+#History
