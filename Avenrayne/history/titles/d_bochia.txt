@@ -3,7 +3,7 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-800.1.1={
+600.1.1={
 	liege=k_luncani
 }
 655.1.1={holder=8047} #Moise[8002]
