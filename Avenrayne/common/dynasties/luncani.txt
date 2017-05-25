@@ -14,3 +14,11 @@
 	name="Romangan"
 	culture="varodaesca"
 }
+8004={
+	name="Damteojan"
+	culture="varodaesca"
+}
+8005={
+	name="Valegavriu"
+	culture="varodaesca"
+}

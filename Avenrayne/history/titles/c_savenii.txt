@@ -3,6 +3,8 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-800.1.1={
-	liege=d_orotva
+600.1.1={
+	liege=d_ortovia
 }
+705.1.1={holder=8104} #Valeriu[8005]
+738.02.20={holder=8105} #Mihai[8005]

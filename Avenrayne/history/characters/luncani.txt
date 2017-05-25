@@ -1101,7 +1101,240 @@
 	670.1.1={ add_spouse=8083 }
 	694.7.22={ death=yes }
 }
-### other wives for chars which are not ready ###
+8070={
+	name=Anghel
+	dynasty=8003
+	dna="joenhbdeica"
+	culture=varodaesca 
+	religion=orthodox
+	martial=6 
+	diplomacy=6 
+	stewardship=8 
+	intrigue=6 
+	learning=5
+	trait=charismatic_negotiator
+	trait=gardener 
+	trait=proud 
+	trait=craven 
+	649.11.22={ birth=yes }
+	670.1.1={ add_spouse=8083 }
+	694.7.22={ death=yes }
+}
+8071={
+	name=Petre
+	dynasty=8003
+	dna="jienhbdelpm"
+	culture=varodaesca 
+	religion=orthodox
+	martial=4 
+	diplomacy=4 
+	stewardship=6 
+	intrigue=8 
+	learning=7
+	trait=flamboyant_schemer 
+	trait=duelist 
+	trait=charitable 
+	trait=slothful 
+	trait=honest 
+	trait=paranoid 
+	trait=gregarious 
+	father=8070	#Anghel
+	mother=8083 #Angela
+	673.4.21={ birth=yes }
+	694.1.1={ add_spouse=8084 }
+	737.11.22={ death=yes }
+}
+8072={
+	name=Stana
+	female=yes
+	dynasty=8003
+	dna="aolnhgomijm"
+	culture=varodaesca 
+	religion=orthodox
+	father=8070	#Anghel
+	mother=8083 #Angela
+	676.5.2={ birth=yes }
+	733.12.31={ death=yes }
+}
+8073={
+	name=Iacoba
+	female=yes
+	dynasty=8003
+	dna="jobafkfpiaa"
+	culture=varodaesca 
+	religion=orthodox
+	father=8070	#Anghel
+	mother=8083 #Angela
+	678.8.13={ birth=yes }
+	730.4.8={ death=yes }
+}
+8074={
+	name=Tudor
+	dynasty=8003
+	dna="jfpnhbnpmpb"
+	culture=varodaesca 
+	religion=orthodox
+	martial=8 
+	diplomacy=6 
+	stewardship=6 
+	intrigue=8 
+	learning=7
+	trait=detached_priest 
+	trait=chaste 
+	trait=cynical 
+	trait=brave 
+	trait=gregarious 
+	father=8070	#Anghel
+	mother=8083 #Angela
+	682.4.1={ birth=yes }
+	727.12.9={ death=yes }
+}
+8075={
+	name=Eufroysina
+	female=yes
+	dynasty=8003
+	dna="ljbnhldccpm"
+	culture=varodaesca 
+	religion=orthodox
+	father=8071	#Petre
+	mother=8084 #Ioana
+	694.11.20={ birth=yes }
+	741.2.25={ death=yes }
+}
+8076={
+	name=Bajan
+	dynasty=8003
+	dna="fiencbbjhpm"
+	culture=varodaesca 
+	religion=orthodox
+	martial=5 
+	diplomacy=8 
+	stewardship=8 
+	intrigue=5 
+	learning=6
+	trait=grey_eminence 
+	trait=cynical 
+	trait=paranoid 
+	trait=content 
+	trait=slothful 
+	father=8071	#Petre
+	mother=8084 #Ioana
+	697.10.6={ birth=yes }
+	718.1.1={ add_spouse=8085 }
+	758.7.5={ death=yes }
+}
+8077={
+	name=Iuga
+	dynasty=8003
+	dna="fmeicaljgbo"
+	culture=varodaesca 
+	religion=orthodox
+	martial=7 
+	diplomacy=5 
+	stewardship=5 
+	intrigue=6 
+	learning=7
+	trait=flamboyant_schemer 
+	trait=shy 
+	trait=envious 
+	trait=wroth 
+	trait=cruel 
+	father=8076	#Bajan
+	mother=8085 #Ecatarina
+	722.7.10={ birth=yes }
+	743.1.1={ add_spouse=8086 }
+	770.3.6={ death=yes }
+}
+8078={
+	name=Dragos
+	dynasty=8003
+	dna="fieknmbjldm"
+	culture=varodaesca 
+	religion=orthodox
+	martial=5 
+	diplomacy=4 
+	stewardship=5 
+	intrigue=4 
+	learning=4
+	trait=misguided_warrior 
+	trait=mystic 
+	trait=cruel 
+	trait=slothful 
+	trait=kind 
+	trait=zealous 
+	trait=craven 
+	father=8076	#Bajan
+	mother=8085 #Ecatarina
+	726.4.24={ birth=yes }
+	771.7.15={ death=yes }
+}
+8079={
+	name=Christina
+	female=yes
+	dynasty=8003
+	dna="fiancbejpom"
+	culture=varodaesca 
+	religion=orthodox
+	father=8076	#Bajan
+	mother=8085 #Ecatarina
+	729.11.4={ birth=yes }
+	760.4.1={ death=yes }
+}
+8080={
+	name=Ilie
+	dynasty=8003
+	dna="hmjicalegbo"
+	culture=varodaesca 
+	religion=orthodox
+	martial=6 
+	diplomacy=7 
+	stewardship=8 
+	intrigue=5 
+	learning=6
+	trait=midas_touched 
+	trait=temperate 
+	trait=shy 
+	trait=kind 
+	trait=zealous 
+	father=8077	#Iuga
+	mother=8086 #Floarea
+	747.10.1={ birth=yes }
+	808.1.16={ death=yes }
+}
+8081={
+	name=Monica
+	female=yes
+	dynasty=8003
+	dna="fleicabjcbm"
+	culture=varodaesca 
+	religion=orthodox
+	father=8077	#Iuga
+	mother=8086 #Floarea
+	750.9.9={ birth=yes }
+	818.3.5={ death=yes }
+}
+8082={
+	name=Dragos
+	dynasty=8003
+	dna="fmkijaljfbo"
+	culture=varodaesca 
+	religion=orthodox
+	martial=6 
+	diplomacy=4 
+	stewardship=6 
+	intrigue=5 
+	learning=6
+	trait=elusive_shadow 
+	trait=scholar 
+	trait=paranoid 
+	trait=gregarious 
+	trait=deceitful 
+	trait=content 
+	father=8077	#Iuga
+	mother=8086 #Floarea
+	752.10.9={ birth=yes }
+	834.6.6={ death=yes }
+}
 8083={
 	name=Angela
 	female=yes
@@ -1133,4 +1366,467 @@
 	religion=orthodox
 	722.1.1={ birth=yes }
 	770.1.1={ death=yes }
+}
+8087={
+	name=Damjan
+	dynasty=8004
+	dna="kgknnpnaach"
+	culture=varodaesca 
+	religion=orthodox
+	martial=7 
+	diplomacy=7 
+	stewardship=6 
+	intrigue=8 
+	learning=8
+	trait=charismatic_negotiator 
+	trait=patient 
+	trait=greedy 
+	trait=temperate 
+	trait=arbitrary 
+	659.11.21={ birth=yes }
+	680.1.1={ add_spouse=8100 }
+	720.1.3={ death=yes }
+}
+8088={
+	name=Floarea
+	female=yes
+	dynasty=8004
+	dna="bgdnnbnhodh"
+	culture=varodaesca 
+	religion=orthodox
+	father=8087	#Damjan
+	mother=8100 #Elena
+	684.12.15={ birth=yes }
+	735.9.12={ death=yes }
+}
+8089={
+	name=Gavril
+	dynasty=8004
+	dna="kgkpnpnaoch"
+	culture=varodaesca 
+	religion=orthodox
+	martial=8 
+	diplomacy=6 
+	stewardship=8 
+	intrigue=6 
+	learning=5
+	trait=detached_priest 
+	trait=gluttonous 
+	trait=kind 
+	trait=just 
+	trait=content 
+	trait=cruel 
+	father=8087	#Damjan
+	mother=8100 #Elena
+	688.9.11={ birth=yes }
+	709.1.1={ add_spouse=8101 }
+	732.9.11={ death=yes }
+}
+8090={
+	name=Aron
+	dynasty=8004
+	dna="kmdinggeodj"
+	culture=varodaesca 
+	religion=orthodox
+	martial=8 
+	diplomacy=4 
+	stewardship=4 
+	intrigue=6 
+	learning=4
+	trait=flamboyant_schemer 
+	trait=charitable 
+	trait=gluttonous 
+	trait=paranoid 
+	father=8089	#Gavril
+	mother=8101 #Dana
+	714.1.8={ birth=yes }
+	735.1.1={ add_spouse=8102 }
+	783.3.28={ death=yes }
+}
+8091={
+	name=Violeta
+	female=yes
+	dynasty=8004
+	dna="fgkpnpneomh"
+	culture=varodaesca 
+	religion=orthodox
+	father=8089	#Gavril
+	mother=8101 #Dana
+	716.11.7={ birth=yes }
+	762.10.11={ death=yes }
+}
+8092={
+	name=Eufroysina
+	female=yes
+	dynasty=8004
+	dna="kgkomgfcoch"
+	culture=varodaesca 
+	religion=orthodox
+	father=8089	#Gavril
+	mother=8101 #Dana
+	718.7.26={ birth=yes }
+	783.11.24={ death=yes }
+}
+8093={
+	name=Felicia
+	female=yes
+	dynasty=8004
+	dna="kokpnkgaomh"
+	culture=varodaesca 
+	religion=orthodox
+	father=8089	#Gavril
+	mother=8101 #Dana
+	721.4.4={ birth=yes }
+	778.5.2={ death=yes }
+}
+8094={
+	name=Ioana
+	female=yes
+	dynasty=8004
+	dna="kdkjnpnahch"
+	culture=varodaesca 
+	religion=orthodox
+	father=8089	#Gavril
+	mother=8101 #Dana
+	722.6.6={ birth=yes }
+	794.9.9={ death=yes }
+}
+8095={
+	name=Litovoi
+	dynasty=8004
+	dna="cpcknfgecne"
+	culture=varodaesca 
+	religion=orthodox
+	martial=4 
+	diplomacy=8 
+	stewardship=6 
+	intrigue=6 
+	learning=5
+	trait=detached_priest 
+	trait=hedonist 
+	trait=craven 
+	trait=temperate 
+	trait=zealous 
+	trait=deceitful 
+	trait=slothful 
+	father=8090	#Aron
+	mother=8102 #Christina
+	738.2.11={ birth=yes }
+	759.1.1={ add_spouse=8103 }
+	793.9.8={ death=yes }
+}
+8096={
+	name=Mircea
+	dynasty=8004
+	dna="kihlmdgoodi"
+	culture=varodaesca 
+	religion=orthodox
+	martial=6 
+	diplomacy=8 
+	stewardship=7 
+	intrigue=7 
+	learning=4
+	trait=misguided_warrior 
+	trait=cruel 
+	trait=diligent 
+	father=8090	#Aron
+	mother=8102 #Christina
+	740.4.15={ birth=yes }
+	783.5.26={ death=yes }
+}
+8097={
+	name=Stefana
+	female=yes
+	dynasty=8004
+	dna="cmoinggeodj"
+	culture=varodaesca 
+	religion=orthodox
+	father=8090	#Aron
+	mother=8102 #Christina
+	744.10.18={ birth=yes }
+	790.1.20={ death=yes }
+}
+8098={
+	name=Iosif
+	dynasty=8004
+	dna="kmdiagaeodo"
+	culture=varodaesca 
+	religion=orthodox
+	martial=7 
+	diplomacy=4 
+	stewardship=5 
+	intrigue=6 
+	learning=5
+	trait=tough_soldier 
+	trait=greedy 
+	trait=honest 
+	trait=humble 
+	trait=lustful 
+	trait=gluttonous 
+	father=8090	#Aron
+	mother=8102 #Christina
+	746.11.9={ birth=yes }
+	816.4.23={ death=yes }
+}
+8099={
+	name=Bajan
+	dynasty=8004
+	dna="ciklpfmpcnh"
+	culture=varodaesca 
+	religion=orthodox
+	trait=gregarious 
+	father=8095	#Litovoi
+	mother=8103 #Adelina
+	762.1.2={ birth=yes }
+	828.7.27={ death=yes }
+}
+8100={
+	name=Elena
+	female=yes
+	culture=varodaesca
+	religion=orthodox
+	649.1.1={ birth=yes }
+	694.1.1={ death=yes }
+}
+8101={
+	name=Dana
+	female=yes
+	culture=varodaesca
+	religion=orthodox
+	673.1.1={ birth=yes }
+	737.1.1={ death=yes }
+}
+8102={
+	name=Christina
+	female=yes
+	culture=varodaesca
+	religion=orthodox
+	697.1.1={ birth=yes }
+	758.1.1={ death=yes }
+}
+8103={
+	name=Adelina
+	female=yes
+	culture=varodaesca
+	religion=orthodox
+	722.1.1={ birth=yes }
+	770.1.1={ death=yes }
+}
+8104={
+	name=Valeriu
+	dynasty=8005
+	dna="efaoblgdknp"
+	culture=varodaesca 
+	religion=orthodox
+	martial=8 
+	diplomacy=6
+	stewardship=8 
+	intrigue=7 
+	learning=5
+	trait=tough_soldier 
+	trait=ambitious 
+	trait=arbitrary 
+	trait=cruel 
+	trait=paranoid 
+	trait=honest 
+	680.3.7={ birth=yes }
+	701.1.1={ add_spouse=8115 }
+	738.2.20={ death=yes }
+}
+8105={
+	name=Mihai
+	dynasty=8005
+	dna="efhoefppanp"
+	culture=varodaesca 
+	religion=orthodox
+	martial=4 
+	diplomacy=5 
+	stewardship=6 
+	intrigue=7 
+	learning=5
+	trait=detached_priest 
+	trait=hedonist 
+	trait=proud 
+	trait=patient 
+	father=8104	#Valeriu
+	mother=8115	#Stefana
+	706.1.22={ birth=yes }
+	727.1.1={ add_spouse=8116 }
+	770.9.3={ death=yes }
+}
+8106={
+	name=Natalia
+	female=yes
+	dynasty=8005
+	dna="efakgbgdknp"
+	culture=varodaesca 
+	religion=orthodox
+	father=8104	#Valeriu
+	mother=8115	#Stefana
+	709.10.15={ birth=yes }
+	781.7.13={ death=yes }
+}
+8107={
+	name=Corneliu
+	dynasty=8005
+	dna="eaaoblgfknp"
+	culture=varodaesca 
+	religion=orthodox
+	martial=8 
+	diplomacy=5 
+	stewardship=7 
+	intrigue=5 
+	learning=4
+	trait=martial_cleric 
+	trait=slothful 
+	trait=kind 
+	trait=patient 
+	trait=humble 
+	trait=drunkard 
+	trait=possessed 
+	father=8104	#Valeriu
+	mother=8115	#Stefana
+	711.12.10={ birth=yes }
+	785.12.7={ death=yes }
+}
+8108={
+	name=Lucian
+	dynasty=8005
+	dna="eijcbladljp"
+	culture=varodaesca 
+	religion=orthodox
+	martial=8 
+	diplomacy=6 
+	stewardship=8 
+	intrigue=8 
+	learning=8
+	trait=midas_touched 
+	trait=greedy 
+	trait=lustful 
+	trait=cruel 
+	trait=zealous 
+	trait=ambitious 
+	trait=envious 
+	father=8104	#Valeriu
+	mother=8115	#Stefana
+	715.11.25={ birth=yes }
+	764.9.24={ death=yes }
+}
+8109={
+	name=Mircea
+	dynasty=8005
+	dna="pohokepabjp"
+	culture=varodaesca 
+	religion=orthodox
+	martial=7 
+	diplomacy=8 
+	stewardship=8 
+	intrigue=6 
+	learning=4
+	trait=charismatic_negotiator
+	trait=brave 
+	trait=shy 
+	trait=kind 
+	trait=zealous 
+	father=8105	#Mihai
+	mother=8116 #Vasilica
+	731.10.14={ birth=yes }
+	752.1.1={ add_spouse=8117 }
+	779.3.22={ death=yes }
+}
+8110={
+	name=Bajan
+	dynasty=8005
+	dna="eigepapegng"
+	culture=varodaesca 
+	religion=orthodox
+	martial=7 
+	diplomacy=7 
+	stewardship=4 
+	intrigue=5 
+	learning=5
+	trait=charismatic_negotiator 
+	trait=patient 
+	trait=trusting 
+	trait=cruel 
+	trait=deceitful 
+	trait=slothful 
+	father=8105	#Mihai
+	mother=8116 #Vasilica
+	735.1.15={ birth=yes }
+	772.4.5={ death=yes }
+}
+8111={
+	name=Natalia
+	female=yes
+	dynasty=8005
+	dna="kjhkffhifof"
+	culture=varodaesca 
+	religion=orthodox
+	father=8105	#Mihai
+	mother=8116 #Vasilica
+	737.12.10={ birth=yes }
+	804.12.8={ death=yes }
+}
+8112={
+	name=Ciubar
+	dynasty=8005
+	dna="oofoeephbip"
+	culture=varodaesca 
+	religion=orthodox
+	trait=slothful 
+	trait=zealous
+	trait=lustful
+	trait=drunkard 
+	father=8109	#Mircea
+	mother=8117 #Felicia
+	757.10.18={ birth=yes }
+	828.7.3={ death=yes }
+}
+8113={
+	name=Christina
+	female=yes
+	dynasty=8005
+	dna="adhpkepbimo"
+	culture=varodaesca 
+	religion=orthodox
+	father=8109	#Mircea
+	mother=8117 #Felicia
+	761.7.21={ birth=yes }
+	834.2.14={ death=yes }
+}
+8114={
+	name=Damjan
+	dynasty=8005
+	dna="plnbkepamfg"
+	culture=varodaesca 
+	religion=orthodox
+	father=8109	#Mircea
+	mother=8117 #Felicia
+	766.1.9={ birth=yes }
+	819.6.9={ death=yes }
+}
+8115={
+	name=Stefana
+	female=yes
+	culture=varodaesca
+	religion=orthodox
+	680.1.1={ birth=yes }
+	738.1.1={ death=yes }
+}
+8116={
+	name=Vasilica
+	female=yes
+	culture=varodaesca
+	religion=orthodox
+	706.1.1={ birth=yes }
+	770.1.1={ death=yes }
+}
+8117={
+	name=Felicia
+	female=yes
+	culture=varodaesca
+	religion=orthodox
+	731.1.1={ birth=yes }
+	779.1.1={ death=yes }
 }

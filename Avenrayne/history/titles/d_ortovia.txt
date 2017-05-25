@@ -3,6 +3,9 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-800.1.1={
-	liege=k_ortovia
+600.1.1={
+	liege=k_luncani
 }
+684.1.1={holder=8087} #Damjan[8004]
+720.01.03={holder=8089} #Gavril[8004]
+732.09.11={holder=8090} #Aron[8004]
