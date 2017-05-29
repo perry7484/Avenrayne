@@ -1,0 +1,53 @@
+name = "War of the Leagues - Claim on Rayne"
+
+casus_belli = {
+	actor = 3204 # Augustin of Belieu (claiming Rayne)
+	recipient = 3116 #Lucienne of Rayne
+	casus_belli=invasion
+	landed_title=e_rayne
+	date=769.1.1
+}
+
+769.1.1 = {
+	add_attacker = 3204
+	add_defender = 3116
+	start_war=yes
+}
+769.1.1 = { #Cathar League Cobelligerents
+	add_defender = 3424 #Victor of piedmont
+	add_defender = 3454 #Laurent of picroux
+	add_defender = 3504 #Guy of Rigaille
+	add_defender = 3591 #Auguste of Champtrefle
+	add_defender = 3681 #Valeran of Arlens
+}
+769.1.1 = { #Catholic League Cobelligerents
+	add_attacker = 3544 #Albert of Laval
+	add_attacker = 3721 #Remy of Nordval
+	add_attacker = 3811 #Emery of Castelfol
+	add_attacker = 3781 #Lennard of Mouen
+	add_attacker = 3581 #Catumar of La Paix
+	add_attacker = 251 #Pope Benedictus
+	add_attacker = 4052 #Gianno of Galiazzo
+}
+
+772.2.1 = {
+	rem_attacker = 3204
+	rem_defender = 3116
+	end_war=yes
+}
+772.2.1 = { #Cathar League Cobelligerents
+	rem_defender = 3424 #Victor of piedmont
+	rem_defender = 3454 #Laurent of picroux
+	rem_defender = 3504 #Guy of Rigaille
+	rem_defender = 3591 #Auguste of Champtrefle
+	rem_defender = 3681 #Valeran of Arlens
+}
+772.2.1 = { #Catholic League Cobelligerents
+	rem_attacker = 3544 #Albert of Laval
+	rem_attacker = 3721 #Remy of Nordval
+	rem_attacker = 3811 #Emery of Castelfol
+	rem_attacker = 3781 #Lennard of Mouen
+	rem_attacker = 3581 #Catumar of La Paix
+	rem_attacker = 251 #Pope Benedictus
+	rem_attacker = 4052 #Gianno of Galiazzo
+}

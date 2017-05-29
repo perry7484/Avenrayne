@@ -1,0 +1,20 @@
+name = "Mesìan Conquest of Pieros"
+casus_belli = {
+	actor = 145 ##King Tulio of Mesia
+	recipient = 142 ##King Nuno of Visalia
+	casus_belli=invasion
+	landed_title=d_pieros
+	date=769.1.1
+}
+
+769.1.1 = {
+	add_defender = 145
+	add_attacker = 142
+	start_war=yes
+}
+772.2.1 = {
+	rem_defender = 145
+	rem_attacker = 142
+	end_war=yes
+}
+

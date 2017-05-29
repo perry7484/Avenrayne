@@ -1,0 +1,20 @@
+name = "Minllyn Holy War for Alevia"
+casus_belli = {
+	actor = 231 ##King Frioc of Minllyn
+	recipient = 145 ##King Tulio of Mesia
+	casus_belli=religious
+	landed_title=d_alevia
+	date=769.1.1
+}
+
+769.1.1 = {
+	add_attacker = 231
+	add_defender = 145
+	start_war=yes
+}
+772.2.1 = {
+	rem_attacker = 231
+	rem_defender = 145
+	end_war=yes
+}
+

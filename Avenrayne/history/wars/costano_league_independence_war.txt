@@ -1,0 +1,26 @@
+name = "Costano League Independence War"
+
+casus_belli = {
+	actor = 142
+	recipient = 143
+	casus_belli = cb_faction_independence
+	date = 769.1.1
+}
+
+769.1.1 = {
+	add_defender = 143
+	add_attacker = 142
+	add_attacker = 150
+	add_attacker = 147
+	add_attacker = 148
+	add_attacker = 146
+}
+
+775.1.1 = {
+	rem_attacker = 142
+	rem_attacker = 150
+	rem_attacker = 147
+	rem_attacker = 148
+	rem_attacker = 146
+	rem_defender = 143
+}
