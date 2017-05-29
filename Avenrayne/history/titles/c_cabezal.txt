@@ -1,8 +1,7 @@
-# e_lopera
-500.1.1={
-	law = agnatic_succession
-	law = succ_gavelkind
-}
-800.1.1={
+# e_arenas
+50.1.1={
 	liege=k_arenas
+}
+400.1.1={
+holder=139 #Ernesto
 }

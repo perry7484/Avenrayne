@@ -1,4 +1,0 @@
-# e_arsizia
-1.1.1={
-	liege=k_galiazzo
-}

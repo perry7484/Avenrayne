@@ -1,4 +1,7 @@
 # e_costa_do_sol
 50.1.1={
-liege=k_ereira
+liege=d_fontoira
+}
+766.1.1={
+holder=149 #Gomes
 }

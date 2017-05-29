@@ -160,7 +160,7 @@
 	576.8.6={ death=yes }
 }
 3016={
-	name=Eduard
+	name=Encel
 	dynasty=3000
 	dna="jajpffmlche"
 	culture=old_rayne religion=catholic
@@ -198,29 +198,29 @@
 	culture=old_rayne religion=catholic
 	martial=5 diplomacy=8 stewardship=7 intrigue=4 learning=7
 	add_trait=martial_cleric add_trait=trusting add_trait=shy 
-	father=3016	#Eduard
+	father=3016	#Encel
 	578.1.11={ birth=yes }
 	636.6.26={ death=yes }
 }
 3020={
-	name=Henry
+	name=Héli
 	dynasty=3000
 	dna="jajlffmleoe"
 	culture=old_rayne religion=catholic
 	martial=7 diplomacy=7 stewardship=4 intrigue=6 learning=6
 	add_trait=charismatic_negotiator add_trait=impaler add_trait=wroth add_trait=arbitrary add_trait=ambitious 
 	add_trait=chaste add_trait=cynical 
-	father=3016	#Eduard
+	father=3016	#Encel
 	580.7.12={ birth=yes }
 	651.10.15={ death=yes }
 }
 3021={
-	name=Adelinda
+	name=Adeline
 	female=yes
 	dynasty=3000
 	dna="kabpcfpldip"
 	culture=old_rayne religion=catholic
-	father=3016	#Eduard
+	father=3016	#Encel
 	581.6.27={ birth=yes }
 	635.6.8={ death=yes }
 }
@@ -230,7 +230,7 @@
 	dynasty=3000
 	dna="jfjgnbglpok"
 	culture=old_rayne religion=catholic
-	father=3016	#Eduard
+	father=3016	#Encel
 	583.2.14={ birth=yes }
 	635.1.20={ death=yes }
 }
@@ -240,7 +240,7 @@
 	dynasty=3000
 	dna="lampofaabhd"
 	culture=old_rayne religion=catholic
-	father=3016	#Eduard
+	father=3016	#Encel
 	585.4.26={ birth=yes }
 	658.6.10={ death=yes }
 }
@@ -251,7 +251,7 @@
 	culture=old_rayne religion=catholic
 	martial=8 diplomacy=8 stewardship=8 intrigue=8 learning=8
 	add_trait=indulgent_wastrel add_trait=kind add_trait=humble 
-	father=3016	#Eduard
+	father=3016	#Encel
 	586.11.20={ birth=yes }
 	642.5.31={ death=yes }
 }
@@ -261,7 +261,7 @@
 	dynasty=3000
 	dna="jopmnpmoche"
 	culture=old_rayne religion=catholic
-	father=3016	#Eduard
+	father=3016	#Encel
 	586.3.7={ birth=yes }
 	646.1.25={ death=yes }
 }
@@ -320,7 +320,7 @@
 	659.2.28={ death=yes }
 }
 3031={
-	name=Henri
+	name=Horace
 	dynasty=3000
 	dna="immjfojlecp"
 	culture=old_rayne religion=catholic
@@ -331,7 +331,7 @@
 	684.8.24={ death=yes }
 }
 3032={
-	name=Alda
+	name=Ambrose
 	female=yes
 	dynasty=3000
 	dna="kpjfdhphfcd"
@@ -358,7 +358,7 @@
 	dynasty=3000
 	dna="ikmjmhjlepo"
 	culture=old_rayne religion=catholic
-	father=3031	#Henri
+	father=3031	#Horace
 	643.10.11={ birth=yes }
 	690.11.6={ death=yes }
 }
@@ -370,7 +370,7 @@
 	martial=7 diplomacy=8 stewardship=8 intrigue=8 learning=8
 	add_trait=scholarly_theologian add_trait=shy add_trait=proud add_trait=brave add_trait=chaste 
 	add_trait=deceitful add_trait=ambitious 
-	father=3031	#Henri
+	father=3031	#Horace
 	643.9.11={ birth=yes }
 	711.6.30={ death=yes }
 }
@@ -381,7 +381,7 @@
 	culture=old_rayne religion=catholic
 	martial=5 diplomacy=5 stewardship=6 intrigue=4 learning=8
 	add_trait=indulgent_wastrel add_trait=honest add_trait=gregarious add_trait=kind add_trait=craven 
-	father=3031	#Henri
+	father=3031	#Horace
 	646.11.26={ birth=yes }
 	714.1.11={ death=yes }
 }
@@ -391,7 +391,7 @@
 	dynasty=3000
 	dna="iomjoaglecp"
 	culture=old_rayne religion=catholic
-	father=3031	#Henri
+	father=3031	#Horace
 	647.11.4={ birth=yes }
 	707.12.2={ death=yes }
 }
@@ -401,7 +401,7 @@
 	dynasty=3000
 	dna="iggfnjilalf"
 	culture=old_rayne religion=catholic
-	father=3031	#Henri
+	father=3031	#Horace
 	649.5.20={ birth=yes }
 	705.8.29={ death=yes }
 }
@@ -447,7 +447,7 @@
 		add_spouse=3100 #Vivian
 	}
 	704.2.1={ add_trait=content }
-	730.4.10={ death=yes }
+	741.4.10={ death=yes }
 }
 3042={
 	name=Candida
@@ -484,6 +484,24 @@
 	707.6.20={ death=yes }
 }
 
+3051={
+	name=Bissanne-Olivie
+	female=yes
+	dynasty=3050
+	dna="aagfbvmclbe"
+	culture=rayne religion=cathar
+	trait=fair
+	trait=gluttonous
+	trait=patient
+	trait=paranoid
+	trait=underhanded_rogue
+	trait=shy
+	722.7.31={ birth=yes }
+	744.9.1={
+	spouse=3110	#Claude
+	}
+	771.2.26={ death=yes }
+}
 
 3100={
 	name=Vivian
@@ -510,12 +528,12 @@
 	729.11.6={ death=yes }
 }
 3101={
-	name=Herbert
+	name=Herbe
 	dynasty=3100
 	dna="jepbgbcnkpp"
 	culture=old_rayne religion=catholic
-	father=3100	#Vivian
-	mother=3041 #Seraphina
+	father = 3100	#Vivian
+	mother = 3041	#Seraphina
 	martial=8 diplomacy=7 stewardship=8 intrigue=6 learning=5
 	add_trait=charismatic_negotiator add_trait=sympathy_pagans add_trait=just add_trait=trusting 
 	706.10.13={ birth=yes
@@ -523,13 +541,14 @@
 	747.3.14={ death=yes }
 }
 3102={
-	name=Berthe
+	name=Brenne
 	female=yes
 	dynasty=3100
 	dna="jjdedkfnlnb"
 	culture=rayne religion=catholic
-	father=3101	#Herbert
-	719.5.11={ birth=yes }
+	father = 3100	#Vivian
+	mother = 3041	#Seraphina
+	709.5.11={ birth=yes }
 	768.1.12={ death=yes }
 }
 3103={
@@ -540,28 +559,31 @@
 	martial=4 diplomacy=7 stewardship=5 intrigue=8 learning=7
 	add_trait=indulgent_wastrel add_trait=honest add_trait=greedy add_trait=zealous add_trait=cruel 
 	add_trait=ambitious add_trait=depressed 
-	father=3101	#Herbert
-	726.3.22={ birth=yes
+	father = 3100	#Vivian
+	mother = 3041	#Seraphina
+	708.3.22={ birth=yes
 		wealth = 500 }
 	757.3.14={ death=yes }
 }
 3104={
-	name=Benoîte
+	name=Bénit
 	female=yes
 	dynasty=3100
 	dna="hhdmgbgngpl"
 	culture=rayne religion=cathar
-	father=3101	#Herbert
-	731.12.20={ birth=yes }
+	father = 3100	#Vivian
+	mother = 3041	#Seraphina
+	712.12.20={ birth=yes }
 	757.3.14={ death=yes }
 }
+##############################################
 3105={
 	name=Meline
 	female=yes
 	dynasty=3100
 	dna="aeppggcnppp"
 	culture=rayne religion=catholic
-	father=3101	#Herbert
+	father=3101	#Herbe
 	735.2.10={ birth=yes }
 	802.4.17={ death=yes }
 }
@@ -571,12 +593,12 @@
 	dynasty=3100
 	dna="cppbmbehggp"
 	culture=rayne religion=cathar
-	father=3101	#Herbert
-	741.6.11={ birth=yes }
+	father=3101	#Herbe
+	731.6.11={ birth=yes }
 	802.11.15={ death=yes }
 }
 3107={
-	name=Aymar
+	name=Asce
 	dynasty=3100
 	dna="ecgbonhhkip"
 	culture=rayne religion=catholic
@@ -587,18 +609,18 @@
 	757.3.14={ death=yes }
 }
 3108={
-	name=Baldwin
+	name=Passeleve
 	dynasty=3100
 	dna="gepbglchkbp"
 	culture=rayne religion=catholic
 	martial=8 diplomacy=4 stewardship=8 intrigue=4 learning=7
 	add_trait=charismatic_negotiator add_trait=zealous add_trait=humble add_trait=greedy 
 	father=3103	#Valeran
-	740.5.8={ birth=yes }
+	730.5.8={ birth=yes }
 	802.11.11={ death=yes }
 }
 3109={
-	name=Bernard
+	name=Corbel
 	dynasty=3100
 	dna="hejggegfkmp"
 	culture=rayne religion=cathar
@@ -606,22 +628,26 @@
 	add_trait=misguided_warrior add_trait=paranoid add_trait=temperate add_trait=humble add_trait=slothful 
 	add_trait=craven add_trait=content 
 	father=3103	#Valeran
-	745.6.25={ birth=yes }
+	735.6.25={ birth=yes }
 	803.5.12={ death=yes }
 }
+##########################################################
 3110={
-	name=Hugues
+	name=Claude
 	dynasty=3100
 	dna="lcgbennhfja"
 	culture=rayne religion=cathar
 	martial=8 diplomacy=5 stewardship=8 intrigue=5 learning=8
 	add_trait=midas_touched add_trait=patient add_trait=chaste add_trait=paranoid 
-	father=3103	#Valeran
-	733.1.24={ birth=yes }
-	761.11.2={ death=yes }
+	father=3100 #Vivian
+	705.1.24={ birth=yes }
+	744.9.1={
+	spouse=3051	#Bissanne
+	}
+	769.4.2={ death=yes }
 }
 3111={
-	name=Thomas
+	name=Thumas
 	dynasty=3100
 	dna="fnhbonphkcd"
 	culture=rayne religion=catholic
@@ -637,7 +663,7 @@
 	dynasty=3100
 	dna="acglonejkie"
 	culture=rayne religion=cathar
-	father=3107	#Aymar
+	father=3107	#Asce
 	749.2.14={ birth=yes }
 	837.6.4={ death=yes }
 }
@@ -647,7 +673,7 @@
 	dynasty=3100
 	dna="algogfehane"
 	culture=rayne religion=cathar
-	father=3107	#Aymar
+	father=3107	#Asce
 	758.3.26={ birth=yes }
 	827.6.7={ death=yes }
 }
@@ -658,7 +684,8 @@
 	culture=rayne religion=cathar
 	martial=6 diplomacy=5 stewardship=6 intrigue=4 learning=8
 	add_trait=charismatic_negotiator add_trait=kind add_trait=trusting add_trait=patient add_trait=content 
-	father=3110	#Hugues
+	father=3110	#Claude
+	mother=3051	#Bisanne
 	745.12.6={ birth=yes }
 	805.4.10={ death=yes }
 }
@@ -674,7 +701,8 @@
 	trait=quick
 	trait=naive_appeaser
 	trait=twin
-	father=3110	#Hugues
+	father=3110	#Claude
+	mother=3051	#Bisanne
 	751.9.20={ birth=yes }
 	811.4.16={ death=yes }
 }
@@ -692,14 +720,15 @@
 	trait=naive_appeaser
 	trait=midas_touched
 	trait=twin
-	father=3110	#Hugues
+	father=3110	#Claude
+	mother=3051	#Bisanne
 	751.9.20={ birth=yes
 		wealth = 850 }
 	827.1.1={ death=yes }
 }
 
 3117 = {
-	name=Hubert
+	name=Herve
 	female=no
 	dynasty=3100
 	religion=cathar
@@ -720,7 +749,7 @@
 	}
 }
 3118 = {
-	name=Hubert
+	name=Herve
 	female=no
 	dynasty=3100
 	religion=cathar
@@ -808,7 +837,7 @@
 	968.9.8={ death=yes }
 }
 3124={
-	name=Berthe
+	name=Brenne
 	female=yes
 	dynasty=3100
 	dna="omkkacpohae"
@@ -873,7 +902,7 @@
 	992.12.31={ death=yes }
 }
 3130={
-	name=Robert
+	name=Robin
 	dynasty=3100
 	dna="pcidafpoboh"
 	culture=rayne religion=cathar
@@ -920,7 +949,7 @@
 	dynasty=3100
 	dna="fcidmmfofjp"
 	culture=rayne religion=cathar
-	father=3130	#Robert
+	father=3130	#Robin
 	969.8.27={ birth=yes }
 	1041.3.19={ death=yes }
 }
@@ -932,7 +961,7 @@
 	martial=7 diplomacy=7 stewardship=5 intrigue=4 learning=6
 	add_trait=grey_eminence add_trait=scholar add_trait=craven add_trait=proud add_trait=paranoid 
 	add_trait=cynical 
-	father=3130	#Robert
+	father=3130	#Robin
 	973.1.24={ birth=yes }
 	1026.3.20={ death=yes }
 }
@@ -942,19 +971,19 @@
 	dynasty=3100
 	dna="plkdhahebmk"
 	culture=rayne religion=cathar
-	father=3130	#Robert
+	father=3130	#Robin
 	975.7.16={ birth=yes }
 	1036.12.7={ death=yes }
 }
 3137={
-	name=Édouard
+	name=Blaise
 	dynasty=3100
 	dna="pcidafhodop"
 	culture=rayne religion=cathar
 	martial=5 diplomacy=4 stewardship=8 intrigue=4 learning=6
 	add_trait=scholarly_theologian add_trait=scholar add_trait=cruel add_trait=content add_trait=brave 
 	add_trait=possessed 
-	father=3130	#Robert
+	father=3130	#Robin
 	978.8.9={ birth=yes }
 	1043.6.23={ death=yes }
 }
@@ -964,18 +993,18 @@
 	dynasty=3100
 	dna="lcimafeobhh"
 	culture=rayne religion=cathar
-	father=3130	#Robert
+	father=3130	#Robin
 	981.2.6={ birth=yes }
 	1053.3.10={ death=yes }
 }
 3139={
-	name=Aldéric
+	name=Areis
 	dynasty=3100
 	dna="pcemafpojah"
 	culture=rayne religion=cathar
 	martial=5 diplomacy=4 stewardship=6 intrigue=6 learning=4
 	add_trait=grey_eminence add_trait=cruel add_trait=paranoid 
-	father=3130	#Robert
+	father=3130	#Robin
 	985.12.20={ birth=yes }
 	1032.7.7={ death=yes }
 }
@@ -985,7 +1014,7 @@
 	dynasty=3100
 	dna="ofjddphoboh"
 	culture=rayne religion=cathar
-	father=3130	#Robert
+	father=3130	#Robin
 	988.7.27={ birth=yes }
 	1057.11.29={ death=yes }
 }
@@ -1011,7 +1040,7 @@
 	1060.10.12={ death=yes }
 }
 3143={
-	name=Eustache
+	name=Flouret
 	dynasty=3100
 	dna="gipcaknmdih"
 	culture=rayne religion=cathar
@@ -1023,7 +1052,7 @@
 	1072.3.28={ death=yes }
 }
 3144={
-	name=Anthonie
+	name=Anthoni
 	dynasty=3100
 	dna="gipdakpmfed"
 	culture=rayne religion=cathar
@@ -1067,7 +1096,7 @@
 	1099.7.17={ death=yes }
 }
 3148={
-	name=Ida
+	name=Iva
 	female=yes
 	dynasty=3100
 	dna="bnlhakgmfec"
@@ -1087,25 +1116,25 @@
 	1106.1.23={ death=yes }
 }
 3150={
-	name=Robert
+	name=Robin
 	dynasty=3100
 	dna="oibmlknbhih"
 	culture=rayne religion=cathar
 	martial=8 diplomacy=5 stewardship=4 intrigue=6 learning=5
 	add_trait=misguided_warrior add_trait=paranoid add_trait=charitable add_trait=envious add_trait=just 
-	father=3143	#Eustache
+	father=3143	#Flouret
 	1050.4.15={ birth=yes }
 	1097.5.18={ death=yes }
 }
 3151={
-	name=Godfrey
+	name=Grant
 	dynasty=3100
 	dna="jlpaaknmlip"
 	culture=rayne religion=cathar
 	martial=8 diplomacy=8 stewardship=5 intrigue=8 learning=6
 	add_trait=charismatic_negotiator add_trait=mystic add_trait=slothful add_trait=trusting add_trait=gluttonous 
 	add_trait=greedy 
-	father=3143	#Eustache
+	father=3143	#Flouret
 	1054.7.17={ birth=yes }
 	1112.1.10={ death=yes }
 }
@@ -1115,7 +1144,7 @@
 	dynasty=3100
 	dna="ghpcjkkmdmh"
 	culture=rayne religion=cathar
-	father=3143	#Eustache
+	father=3143	#Flouret
 	1056.3.7={ birth=yes }
 	1140.11.23={ death=yes }
 }
@@ -1126,30 +1155,30 @@
 	culture=rayne religion=cathar
 	martial=5 diplomacy=8 stewardship=4 intrigue=5 learning=5
 	add_trait=martial_cleric add_trait=humble add_trait=deceitful add_trait=diligent add_trait=chaste 
-	father=3150	#Robert
+	father=3150	#Robin
 	1075.7.16={ birth=yes }
 	1133.3.26={ death=yes }
 }
 3154={
-	name=Albert
+	name=Albin
 	dynasty=3100
 	dna="ainmfebphih"
 	culture=rayne religion=cathar
 	martial=6 diplomacy=4 stewardship=7 intrigue=8 learning=5
 	add_trait=flamboyant_schemer add_trait=diligent add_trait=lustful add_trait=cynical 
-	father=3150	#Robert
+	father=3150	#Robin
 	1079.5.14={ birth=yes }
 	1128.6.1={ death=yes }
 }
 3155={
-	name=Yves
+	name=Yver
 	dynasty=3100
 	dna="bibglknbhih"
 	culture=rayne religion=cathar
 	martial=8 diplomacy=5 stewardship=7 intrigue=6 learning=7
 	add_trait=flamboyant_schemer add_trait=duelist add_trait=charitable add_trait=cruel add_trait=diligent 
 	add_trait=envious 
-	father=3150	#Robert
+	father=3150	#Robin
 	1082.5.15={ birth=yes }
 	1135.7.29={ death=yes }
 }
@@ -1159,7 +1188,7 @@
 	dynasty=3100
 	dna="fibmlknbeoh"
 	culture=rayne religion=cathar
-	father=3150	#Robert
+	father=3150	#Robin
 	1088.6.15={ birth=yes }
 	1136.12.22={ death=yes }
 }
@@ -1208,7 +1237,7 @@
 	1181.10.19={ death=yes }
 }
 3161={
-	name=Mahaut
+	name=Vedaste
 	female=yes
 	dynasty=3100
 	dna="hkcmllnpaeh"
@@ -1218,7 +1247,7 @@
 	1150.2.8={ death=yes }
 }
 3162={
-	name=William
+	name=Saus
 	dynasty=3100
 	dna="oobhljiiphi"
 	culture=rayne religion=cathar
@@ -1242,46 +1271,46 @@
 	1184.5.30={ death=yes }
 }
 3164={
-	name=Gauthier
+	name=Deniel
 	dynasty=3100
 	dna="opboljiiijp"
 	culture=rayne religion=cathar
 	martial=5 diplomacy=6 stewardship=6 intrigue=4 learning=6
 	add_trait=grey_eminence add_trait=scholar add_trait=trusting add_trait=envious add_trait=temperate 
 	add_trait=humble 
-	father=3162	#William
+	father=3162	#Saus
 	1157.3.25={ birth=yes }
 	1225.4.13={ death=yes }
 }
 3165={
-	name=Bernard
+	name=Corbel
 	dynasty=3100
 	dna="doifejcbali"
 	culture=rayne religion=cathar
 	martial=7 diplomacy=5 stewardship=6 intrigue=4 learning=7
 	add_trait=tough_soldier add_trait=diligent add_trait=patient add_trait=humble add_trait=cruel 
-	father=3162	#William
+	father=3162	#Saus
 	1161.2.20={ birth=yes }
 	1233.1.31={ death=yes }
 }
 3166={
-	name=Berthe
+	name=Brenne
 	female=yes
 	dynasty=3100
 	dna="bdpelckidei"
 	culture=rayne religion=cathar
-	father=3162	#William
+	father=3162	#Saus
 	1165.8.1={ birth=yes }
 	1240.7.15={ death=yes }
 }
 3167={
-	name=Henry
+	name=Héli
 	dynasty=3100
 	dna="hcbaljdmhho"
 	culture=rayne religion=cathar
 	martial=4 diplomacy=7 stewardship=4 intrigue=5 learning=7
 	add_trait=flamboyant_schemer add_trait=gregarious add_trait=deceitful add_trait=chaste add_trait=ambitious 
-	father=3162	#William
+	father=3162	#Saus
 	1169.12.24={ birth=yes }
 	1222.12.23={ death=yes }
 }
@@ -1291,7 +1320,7 @@
 	dynasty=3100
 	dna="ppoofjgigbp"
 	culture=rayne religion=cathar
-	father=3164	#Gauthier
+	father=3164	#Deniel
 	1180.6.25={ birth=yes }
 	1236.5.31={ death=yes }
 }
@@ -1303,7 +1332,7 @@
 	martial=5 diplomacy=4 stewardship=8 intrigue=4 learning=4
 	add_trait=elusive_shadow add_trait=honest add_trait=wroth add_trait=slothful add_trait=zealous 
 	add_trait=just 
-	father=3164	#Gauthier
+	father=3164	#Deniel
 	1183.6.5={ birth=yes }
 	1257.9.20={ death=yes }
 }
@@ -1313,7 +1342,7 @@
 	dynasty=3100
 	dna="dlkoljiiiep"
 	culture=rayne religion=cathar
-	father=3164	#Gauthier
+	father=3164	#Deniel
 	1184.11.24={ birth=yes }
 	1235.4.7={ death=yes }
 }
@@ -1328,7 +1357,7 @@
 	1272.6.23={ death=yes }
 }
 3172={
-	name=Hugh
+	name=Estienne
 	dynasty=3100
 	dna="npangmiochk"
 	culture=rayne religion=cathar
@@ -1350,7 +1379,7 @@
 	1264.7.30={ death=yes }
 }
 3174={
-	name=Norbert
+	name=Nicols
 	dynasty=3100
 	dna="nlahkjioaje"
 	culture=rayne religion=cathar
@@ -1361,7 +1390,7 @@
 	1260.3.4={ death=yes }
 }
 3175={
-	name=Bernard
+	name=Corbel
 	dynasty=3100
 	dna="npoogoiodfn"
 	culture=rayne religion=cathar
@@ -1377,7 +1406,7 @@
 	dynasty=3100
 	dna="nkfnbnioghj"
 	culture=rayne religion=cathar
-	father=3172	#Hugh
+	father=3172	#Estienne
 	1232.8.13={ birth=yes }
 	1298.5.25={ death=yes }
 }
@@ -1387,18 +1416,18 @@
 	dynasty=3100
 	dna="ofpnemmochh"
 	culture=rayne religion=cathar
-	father=3172	#Hugh
+	father=3172	#Estienne
 	1235.12.12={ birth=yes }
 	1286.1.6={ death=yes }
 }
 3178={
-	name=Frédéric
+	name=Fableor
 	dynasty=3100
 	dna="gpaneenkdik"
 	culture=rayne religion=cathar
 	martial=4 diplomacy=5 stewardship=8 intrigue=4 learning=5
 	add_trait=grey_eminence add_trait=proud add_trait=ambitious add_trait=slothful 
-	father=3172	#Hugh
+	father=3172	#Estienne
 	1237.10.25={ birth=yes }
 	1308.1.9={ death=yes }
 }
@@ -1409,7 +1438,7 @@
 	culture=rayne religion=cathar
 	martial=8 diplomacy=6 stewardship=5 intrigue=5 learning=5
 	add_trait=martial_cleric add_trait=humble add_trait=shy add_trait=wounded 
-	father=3178	#Frédéric
+	father=3178	#Fableor
 	1259.5.9={ birth=yes }
 	1325.5.26={ death=yes }
 }
@@ -1420,19 +1449,19 @@
 	culture=rayne religion=cathar
 	martial=6 diplomacy=8 stewardship=4 intrigue=6 learning=7
 	add_trait=grey_eminence add_trait=brave add_trait=slothful add_trait=chaste add_trait=drunkard 
-	father=3178	#Frédéric
+	father=3178	#Fableor
 	1263.12.23={ birth=yes }
 	1332.10.18={ death=yes }
 }
 3181={
-	name=Joseph
+	name=Jamel
 	dynasty=3100
 	dna="gpakghnkdid"
 	culture=rayne religion=cathar
 	martial=6 diplomacy=8 stewardship=8 intrigue=4 learning=8
 	add_trait=midas_touched add_trait=trusting add_trait=brave add_trait=envious add_trait=gluttonous 
 	add_trait=gregarious add_trait=proud 
-	father=3178	#Frédéric
+	father=3178	#Fableor
 	1268.1.23={ birth=yes }
 	1330.4.26={ death=yes }
 }
@@ -1442,7 +1471,7 @@
 	dynasty=3100
 	dna="gpgnepofhik"
 	culture=rayne religion=cathar
-	father=3178	#Frédéric
+	father=3178	#Fableor
 	1273.12.26={ birth=yes }
 	1347.1.19={ death=yes }
 }
@@ -1452,7 +1481,7 @@
 	dynasty=3100
 	dna="kahneembljj"
 	culture=rayne religion=cathar
-	father=3179	#Gargamel
+	father=3179	#Parolour
 	1281.12.3={ birth=yes }
 	1347.1.21={ death=yes }
 }
@@ -1462,7 +1491,7 @@
 	dynasty=3100
 	dna="daanfebkdjm"
 	culture=rayne religion=cathar
-	father=3179	#Gargamel
+	father=3179	#Parolour
 	1285.1.3={ birth=yes }
 	1343.12.13={ death=yes }
 }
@@ -1474,18 +1503,18 @@
 	martial=6 diplomacy=6 stewardship=6 intrigue=4 learning=8
 	add_trait=midas_touched add_trait=gregarious add_trait=greedy add_trait=ambitious add_trait=honest 
 	add_trait=cruel add_trait=proud add_trait=depressed add_trait=lunatic 
-	father=3179	#Gargamel
+	father=3179	#Parolour
 	1286.3.18={ birth=yes }
 	1335.8.13={ death=yes }
 }
 3186={
-	name=Eudes
+	name=Blan
 	dynasty=3100
 	dna="dganeenkkje"
 	culture=rayne religion=cathar
 	martial=8 diplomacy=6 stewardship=8 intrigue=4 learning=5
 	add_trait=detached_priest add_trait=cynical add_trait=arbitrary add_trait=lustful add_trait=envious 
-	father=3179	#Gargamel
+	father=3179	#Parolour
 	1291.3.6={ birth=yes }
 	1350.5.9={ death=yes }
 }
@@ -1497,7 +1526,7 @@
 	martial=5 diplomacy=5 stewardship=8 intrigue=7 learning=7
 	add_trait=misguided_warrior add_trait=wroth add_trait=brave add_trait=slothful add_trait=cruel 
 	add_trait=ambitious add_trait=ill 
-	father=3185	#Amalric
+	father=3185	#Ambroys
 	1314.7.23={ birth=yes }
 	1371.12.6={ death=yes }
 }
@@ -1507,17 +1536,17 @@
 	dynasty=3100
 	dna="odpjendbolf"
 	culture=rayne religion=cathar
-	father=3185	#Amalric
+	father=3185	#Ambroys
 	1316.4.22={ birth=yes }
 	1373.1.9={ death=yes }
 }
 3189={
-	name=Mathilde
+	name=Élodie
 	female=yes
 	dynasty=3100
 	dna="eiijjkmldeo"
 	culture=rayne religion=cathar
-	father=3185	#Amalric
+	father=3185	#Ambroys
 	1320.11.5={ birth=yes }
 	1386.9.24={ death=yes }
 }
@@ -1528,12 +1557,12 @@
 	culture=rayne religion=cathar
 	martial=7 diplomacy=4 stewardship=6 intrigue=5 learning=8
 	add_trait=intricate_webweaver add_trait=proud add_trait=brave 
-	father=3185	#Amalric
+	father=3185	#Ambroys
 	1324.12.1={ birth=yes }
 	1377.2.4={ death=yes }
 }
 3191={
-	name=Gauthier
+	name=Deniel
 	dynasty=3100
 	dna="ehjjckddghi"
 	culture=rayne religion=cathar

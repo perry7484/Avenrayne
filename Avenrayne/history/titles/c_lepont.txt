@@ -4,7 +4,7 @@
 	law = succ_primogeniture
 }
 730.1.1={
-	liege=d_forgeours
+	liege=d_castellaine
 }
 753.11.7={
 	holder=3821 #Caprac

@@ -115,6 +115,7 @@ trade_median = { ## Medium shipping or land routes
 		297 #Arenas
 		290 #Lopera
 		123 #Castelfol
+		5 #Rocheroyale
 	}
 	#Capraccia - Lerca LAND
 	path = {	# NORTH Capraccia - Sentino - Cileia - Lerca
@@ -179,6 +180,9 @@ trade_median = { ## Medium shipping or land routes
 	path = { #Laval Coline Estre Vigalle
 		55 56 106 107
 	}
+	path = { # Rocheroyale-Rivevaux-Portbrume-Hautroc-Augnon
+		5 6 7 8 9
+	}
 	path = { # Rayne - Rudeforge - Rigaille
 		1 2 43
 	}
@@ -188,8 +192,11 @@ trade_median = { ## Medium shipping or land routes
 	path = { # Castelfol - Forgeours - Quibelle
 		123 126 47
 	}
-	path = { # Mouen - Quibelle
-		108 47
+	path = { # Mouen-Augnon
+		108 9
+	}
+	path = { # Augnon-Quibelle
+		9 47
 	}
 	path = { # Castelfol Ambegles Laplace Mouen
 		123 114 113 108
@@ -218,32 +225,64 @@ trade_median = { ## Medium shipping or land routes
 	path = { # Rognaise - Ausoleil - Pevalle - Mibarne - Vigalle
 		96 95 100 99 107
 	}
-	path = { # Rognaise - Rennaise - Guimon - Lastur
-		96 92 93 472
+	path = { # Rognaise - Rennaise - Guimon - Solano
+		96 92 93 456
 	}
 	path = { # Laronce - Choineuf - Muron - Vigalle
 		102 104 105 107
 	}
-	path = { # Vigalle - Garanou - Prades - Lastur
-		107 244 245 472
+	path = { # Vigalle - Garanou - Prades - Solano
+		107 244 245 456
 	}
-	path = { # Lastur - A Montana - Tres Pinheiros - Monteira
-		472 458 457 437
+	path = { # Solano - Pieros - A Montana - Monteira - Saliaca
+		456 459 458 437 438
+	}
+	path = { # Saliaca - Alevia - Abercywarch - Minllyn
+		438 443 566 563
+	}
+	path = { # Portonovo-Vinhoa-A Montana
+		435 436 458
+	}
+	path = { # Solano-Fonteboa
+		456 455
+	}
+	path = { # Fonteboa-Escuna
+		455 452 
+	}
+	path = { # Escuna-Louro-Oputo
+		452 453 462
+	}
+	path = { # Escuna-Mollo-Abella-Cailla
+		452 249 248 247
 	}
 	#Cailla - Agurain
 	#Agurain - Monteira
 
-	# Arenas - Costa do Sol
-	path = {	# NORTH Arenas Cabezal Sesena Rubias Enseada Costa do Sol
-		297 301 296 468 448 446
+	# Arenas - Portonovo P1
+	path = {	# NORTH Arenas Cabezal Gordoa Lastur Ourovila Corullon Fontoira Enseada Vello_Oso
+
+		297 301 296 476 472 464 463 466 446 449 435
+	}
+	# Arenas - Portonovo P2
+	path = {	# NORTH Vello_Oso Portonovo
+
+		297 301 296 476 472 464 463 466 446 449 435
 	}
 	# Tortella-Arenas
 	path = {	# NE <<Tortella Fares Usall Vilademuls Crespia Penacova Arenas
 		297 302 279 280 281 276 275
 	}
-	# Tortella-Portonovo
+	# Tortella-Oputo
 	path = {	# N Tortella
-		275 274 273 478 462 435
+		275 271 272 273 460 461 462
+	}
+	# Vello Oso - Oputo
+	path = {	# 
+		449 462
+	}
+	# Oputo-Cailla
+	path = {	# E Oputo Tosses Cailla
+		462 250 247
 	}
 	# Lopera-Tortella
 	path = {	# NE
@@ -274,6 +313,10 @@ trade_minor = { # Minor land routes
 	28 #Val D'or
 	375 #Corona
 	365 #Bisenti
+	7 #Portbrume
+	73 #Loverne
+	443 #Alevia
+	438 #Saliaca
 	}
 	# Capraccia - Pettino
 	path = {	# WEST Capraccia-Sentino-Pettino
@@ -324,7 +367,7 @@ trade_minor = { # Minor land routes
 	}
 	# Funtana-Galiazzo
 	path = {	#NORTH Funtana-Galiazzo
-	340 339 338 340
+	340 339 338 342
 	}
 	# Pas - Funtana
 	path = {	# NORTH Pas-Malacanta-Bethval-Funtana
@@ -337,5 +380,18 @@ trade_minor = { # Minor land routes
 	# Meridiano-Tosca
 	path = {	# Meridiano Tosca
 	355 332
+	}
+	#Portbrume-Vauvord-Briban
+	path = {	# Portbrume-Vauvord-Briban
+	7 14 11
+	}
+	path = {	# Loverne-Laennes-Pellieu-Verno
+	73 72 69 70
+	}
+	path = {	# Alevia-Arnados-Monterosso-Carentomagos-Verno
+	443 444 445 71 70
+	}
+	path = {	# Saliaca-Loreto-Canibri-Mivrone-Ernomes-Loverne
+	438 439 103 75 74 73
 	}
 }

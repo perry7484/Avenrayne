@@ -1,0 +1,688 @@
+6001={
+	name=Florint
+	dynasty=6000
+	dna="polofienfbl"
+	culture=avonis religion=catholic
+	martial=7 diplomacy=5 stewardship=4 intrigue=5 learning=6
+	add_trait=grey_eminence add_trait=brave add_trait=just add_trait=lustful add_trait=deceitful 
+	add_trait=stressed 
+	469.1.1={ birth=yes }
+	532.5.15={ death=yes }
+}
+6002={
+	name=Valerin
+	dynasty=6000
+	dna="peaoopekcbk"
+	culture=avonis religion=catholic
+	martial=6 diplomacy=7 stewardship=6 intrigue=7 learning=8
+	add_trait=midas_touched add_trait=gregarious add_trait=brave add_trait=lustful add_trait=charitable 
+	add_trait=zealous add_trait=lunatic 
+	father=6001	#Florint
+	494.4.22={ birth=yes }
+	561.5.30={ death=yes }
+}
+6003={
+	name=Onesimi
+	dynasty=6000
+	dna="pnlnbiefhbl"
+	culture=avonis religion=catholic
+	martial=5 diplomacy=8 stewardship=4 intrigue=5 learning=4
+	add_trait=naive_appeaser add_trait=scholar add_trait=temperate add_trait=zealous add_trait=deceitful 
+	add_trait=patient add_trait=humble 
+	father=6001	#Florint
+	497.7.17={ birth=yes }
+	556.10.1={ death=yes }
+}
+6004={
+	name=Juliana
+	female=yes
+	dynasty=6000
+	dna="poipeigdmbl"
+	culture=avonis religion=catholic
+	father=6001	#Florint
+	502.10.9={ birth=yes }
+	575.4.27={ death=yes }
+}
+6005={
+	name=Catirina
+	female=yes
+	dynasty=6000
+	dna="peboopepcck"
+	culture=avonis religion=catholic
+	father=6002	#Valerin
+	517.9.10={ birth=yes }
+	568.4.30={ death=yes }
+}
+6006={
+	name=Aurelin
+	dynasty=6000
+	dna="pedooefkcbf"
+	culture=avonis religion=catholic
+	martial=4 diplomacy=7 stewardship=5 intrigue=4 learning=5
+	add_trait=misguided_warrior add_trait=celibate add_trait=craven add_trait=proud add_trait=just 
+	add_trait=ambitious 
+	father=6002	#Valerin
+	520.12.1={ birth=yes }
+	593.11.28={ death=yes }
+}
+6007={
+	name=Appolinis
+	dynasty=6000
+	dna="pplokeelcik"
+	culture=avonis religion=catholic
+	martial=6 diplomacy=8 stewardship=8 intrigue=6 learning=5
+	add_trait=mastermind_theologian add_trait=charitable add_trait=just add_trait=kind add_trait=ambitious 
+	add_trait=cynical 
+	father=6002	#Valerin
+	522.1.23={ birth=yes }
+	574.7.17={ death=yes }
+}
+6008={
+	name=Sidonia
+	female=yes
+	dynasty=6000
+	dna="peaoopekcbk"
+	culture=avonis religion=catholic
+	father=6002	#Valerin
+	524.7.18={ birth=yes }
+	582.5.21={ death=yes }
+}
+6009={
+	name=Antoniitta
+	female=yes
+	dynasty=6000
+	dna="lhaoogakibm"
+	culture=avonis religion=catholic
+	father=6002	#Valerin
+	527.9.21={ birth=yes }
+	584.4.8={ death=yes }
+}
+6010={
+	name=Celestis
+	dynasty=6000
+	dna="peaofbejgbb"
+	culture=avonis religion=catholic
+	martial=6 diplomacy=7 stewardship=8 intrigue=6 learning=4
+	add_trait=martial_cleric add_trait=impaler add_trait=charitable add_trait=temperate add_trait=stressed 
+	father=6002	#Valerin
+	528.11.24={ birth=yes }
+	596.5.23={ death=yes }
+}
+6011={
+	name=Solina
+	female=yes
+	dynasty=6000
+	dna="pmaoopckcbi"
+	culture=avonis religion=catholic
+	father=6002	#Valerin
+	532.4.5={ birth=yes }
+	582.2.12={ death=yes }
+}
+6012={
+	name=Vivin
+	dynasty=6000
+	dna="mcdooehpcbc"
+	culture=avonis religion=catholic
+	martial=8 diplomacy=8 stewardship=4 intrigue=7 learning=7
+	add_trait=misguided_warrior add_trait=celibate add_trait=diligent add_trait=arbitrary add_trait=content 
+	add_trait=patient add_trait=kind 
+	father=6006	#Aurelin
+	544.7.13={ birth=yes }
+	618.4.12={ death=yes }
+}
+6013={
+	name=Colom
+	dynasty=6000
+	dna="pookoefdjdi"
+	culture=avonis religion=catholic
+	martial=8 diplomacy=8 stewardship=5 intrigue=7 learning=8
+	add_trait=tough_soldier add_trait=mystic add_trait=arbitrary add_trait=zealous add_trait=cruel 
+	add_trait=diligent add_trait=wounded 
+	father=6006	#Aurelin
+	550.6.14={ birth=yes }
+	597.8.27={ death=yes }
+}
+6014={
+	name=Vivin
+	dynasty=6000
+	dna="phmjoefkkdm"
+	culture=avonis religion=catholic
+	martial=4 diplomacy=7 stewardship=8 intrigue=4 learning=6
+	add_trait=charismatic_negotiator add_trait=humble add_trait=cynical add_trait=gregarious add_trait=charitable 
+	add_trait=just add_trait=honest 
+	father=6006	#Aurelin
+	553.12.7={ birth=yes }
+	601.7.29={ death=yes }
+}
+6015={
+	name=Matun
+	dynasty=6000
+	dna="peaogefkcbf"
+	culture=avonis religion=catholic
+	martial=8 diplomacy=4 stewardship=6 intrigue=6 learning=6
+	add_trait=scholarly_theologian add_trait=shy add_trait=cruel add_trait=diligent add_trait=patient 
+	add_trait=content 
+	father=6006	#Aurelin
+	557.9.10={ birth=yes }
+	625.4.17={ death=yes }
+}
+6016={
+	name=Matun
+	dynasty=6000
+	dna="mddiehpjhgb"
+	culture=avonis religion=catholic
+	martial=8 diplomacy=5 stewardship=4 intrigue=8 learning=4
+	add_trait=thrifty_clerk add_trait=envious add_trait=gluttonous add_trait=honest add_trait=paranoid 
+	father=6012	#Vivin
+	570.5.5={ birth=yes }
+	631.8.22={ death=yes }
+}
+6017={
+	name=Ilianora
+	female=yes
+	dynasty=6000
+	dna="mcdooehjhbb"
+	culture=avonis religion=catholic
+	father=6012	#Vivin
+	572.2.4={ birth=yes }
+	627.1.22={ death=yes }
+}
+6018={
+	name=Iuphrosina
+	female=yes
+	dynasty=6000
+	dna="gceooejccbc"
+	culture=avonis religion=catholic
+	father=6012	#Vivin
+	575.2.14={ birth=yes }
+	645.7.6={ death=yes }
+}
+6019={
+	name=Valintia
+	female=yes
+	dynasty=6000
+	dna="oedooehgmap"
+	culture=avonis religion=catholic
+	father=6012	#Vivin
+	580.2.9={ birth=yes }
+	625.7.26={ death=yes }
+}
+6020={
+	name=Justin
+	dynasty=6000
+	dna="kjdimhejlgb"
+	culture=avonis religion=catholic
+	martial=4 diplomacy=6 stewardship=8 intrigue=5 learning=8
+	add_trait=flamboyant_schemer add_trait=shy add_trait=wroth add_trait=craven add_trait=cynical 
+	father=6016	#Matun
+	596.8.10={ birth=yes }
+	639.4.14={ death=yes }
+}
+6021={
+	name=Agnis
+	female=yes
+	dynasty=6000
+	dna="mcdiohhjmje"
+	culture=avonis religion=catholic
+	father=6016	#Matun
+	599.1.14={ birth=yes }
+	646.8.29={ death=yes }
+}
+6022={
+	name=Basilis
+	dynasty=6000
+	dna="kjhimleklga"
+	culture=avonis religion=catholic
+	martial=4 diplomacy=7 stewardship=8 intrigue=5 learning=7
+	add_trait=tough_soldier add_trait=kind add_trait=honest add_trait=paranoid add_trait=greedy 
+	father=6020	#Justin
+	618.5.2={ birth=yes }
+	680.4.7={ death=yes }
+}
+6023={
+	name=Anatoles
+	dynasty=6000
+	dna="kjdgohejanm"
+	culture=avonis religion=catholic
+	martial=4 diplomacy=8 stewardship=5 intrigue=7 learning=5
+	add_trait=midas_touched add_trait=kind add_trait=ambitious add_trait=cynical add_trait=cruel 
+	add_trait=possessed 
+	father=6020	#Justin
+	621.3.11={ birth=yes }
+	689.6.9={ death=yes }
+}
+6024={
+	name=Amo
+	dynasty=6000
+	dna="ehdikhkjlkc"
+	culture=avonis religion=catholic
+	martial=7 diplomacy=6 stewardship=7 intrigue=4 learning=8
+	add_trait=charismatic_negotiator add_trait=duelist add_trait=cruel add_trait=envious add_trait=charitable 
+	add_trait=diligent add_trait=deceitful add_trait=ambitious 
+	father=6020	#Justin
+	626.9.24={ birth=yes }
+	695.12.25={ death=yes }
+}
+6025={
+	name=Francina
+	female=yes
+	dynasty=6000
+	dna="kpnimcemegb"
+	culture=avonis religion=catholic
+	father=6020	#Justin
+	629.2.17={ birth=yes }
+	696.6.18={ death=yes }
+}
+6026={
+	name=Celestis
+	dynasty=6000
+	dna="kmdmfhcjlgd"
+	culture=avonis religion=catholic
+	martial=8 diplomacy=7 stewardship=4 intrigue=5 learning=8
+	add_trait=tough_soldier add_trait=brave add_trait=cynical add_trait=proud add_trait=arbitrary 
+	add_trait=wroth 
+	father=6020	#Justin
+	632.6.26={ birth=yes }
+	677.9.30={ death=yes }
+}
+6027={
+	name=Victor
+	dynasty=6000
+	dna="kjoimaeklco"
+	culture=avonis religion=catholic
+	martial=7 diplomacy=7 stewardship=6 intrigue=5 learning=8
+	add_trait=intricate_webweaver add_trait=trusting add_trait=kind add_trait=content add_trait=cynical 
+	father=6022	#Basilis
+	642.10.14={ birth=yes }
+	718.12.8={ death=yes }
+}
+6028={
+	name=Anna
+	female=yes
+	dynasty=6000
+	dna="olhimndklpp"
+	culture=avonis religion=catholic
+	father=6022	#Basilis
+	644.11.10={ birth=yes }
+	716.11.7={ death=yes }
+}
+6029={
+	name=Vivianna
+	female=yes
+	dynasty=6000
+	dna="djhimlejcbl"
+	culture=avonis religion=catholic
+	father=6022	#Basilis
+	647.9.7={ birth=yes }
+	696.1.27={ death=yes }
+}
+6030={
+	name=Valeris
+	dynasty=6000
+	dna="djgiplfjdei"
+	culture=avonis religion=catholic
+	martial=7 diplomacy=5 stewardship=6 intrigue=6 learning=8
+	add_trait=midas_touched add_trait=paranoid add_trait=cruel add_trait=zealous add_trait=drunkard 
+	father=6022	#Basilis
+	651.10.22={ birth=yes }
+	702.7.30={ death=yes }
+}
+6031={
+	name=Matin
+	dynasty=6000
+	dna="kjomgodklcd"
+	culture=avonis religion=catholic
+	martial=6 diplomacy=6 stewardship=4 intrigue=8 learning=5
+	add_trait=midas_touched add_trait=lustful add_trait=envious add_trait=brave add_trait=content 
+	add_trait=patient add_trait=trusting 
+	father=6027	#Victor
+	669.2.20={ birth=yes }
+	720.6.29={ death=yes }
+}
+6032={
+	name=Brinna
+	female=yes
+	dynasty=6000
+	dna="kjoimdgjfho"
+	culture=avonis religion=catholic
+	father=6027	#Victor
+	673.10.27={ birth=yes }
+	744.6.6={ death=yes }
+}
+6033={
+	name=Mil
+	dynasty=6000
+	dna="edmicalmlcc"
+	culture=avonis religion=catholic
+	martial=6 diplomacy=4 stewardship=4 intrigue=8 learning=4
+	add_trait=misguided_warrior add_trait=charitable add_trait=content add_trait=cynical add_trait=stressed 
+	father=6027	#Victor
+	675.7.13={ birth=yes }
+	726.8.3={ death=yes }
+}
+6034={
+	name=Iuphrosina
+	female=yes
+	dynasty=6000
+	dna="ljoibdlkacm"
+	culture=avonis religion=catholic
+	father=6027	#Victor
+	677.11.9={ birth=yes }
+	737.5.10={ death=yes }
+}
+6035={
+	name=Brenys
+	dynasty=6000
+	dna="cjmifjgllen"
+	culture=avonis religion=catholic
+	martial=4 diplomacy=4 stewardship=6 intrigue=7 learning=7
+	add_trait=intricate_webweaver add_trait=kind add_trait=shy add_trait=cruel add_trait=just 
+	father=6027	#Victor
+	679.9.5={ birth=yes }
+	753.4.20={ death=yes }
+}
+6036={
+	name=Albin
+	dynasty=6000
+	dna="kjinldckfod"
+	culture=avonis religion=catholic
+	martial=8 diplomacy=6 stewardship=7 intrigue=4 learning=5
+	add_trait=grey_eminence add_trait=zealous add_trait=shy add_trait=craven add_trait=wroth 
+	add_trait=lunatic 
+	father=6031	#Matin
+	693.2.23={ birth=yes }
+	759.10.10={ death=yes }
+}
+6037={
+	name=Annabilla
+	female=yes
+	dynasty=6000
+	dna="kjfmgajclcl"
+	culture=avonis religion=catholic
+	father=6031	#Matin
+	696.10.7={ birth=yes }
+	770.10.3={ death=yes }
+}
+6038={
+	name=Amilla
+	female=yes
+	dynasty=6000
+	dna="ljokmldkkjd"
+	culture=avonis religion=catholic
+	father=6031	#Matin
+	701.1.16={ birth=yes }
+	757.3.6={ death=yes }
+}
+6039={
+	name=Albin
+	dynasty=6000
+	dna="bjioldcgfod"
+	culture=avonis religion=catholic
+	martial=4 diplomacy=4 stewardship=5 intrigue=7 learning=8
+	add_trait=thrifty_clerk add_trait=kind add_trait=diligent add_trait=just add_trait=proud 
+	add_trait=charitable 
+	father=6036	#Alban
+	717.4.7={ birth=yes }
+	781.3.20={ death=yes }
+}
+6040={
+	name=Madoc
+	dynasty=6000
+	dna="kjfnkdcofpj"
+	culture=avonis religion=catholic
+	martial=5 diplomacy=7 stewardship=5 intrigue=7 learning=8
+	add_trait=martial_cleric add_trait=greedy add_trait=patient add_trait=temperate add_trait=humble 
+	add_trait=honest add_trait=trusting add_trait=quick 
+	father=6036	#Alban
+	721.11.7={ birth=yes }
+	763.6.10={ death=yes }
+}
+6041={
+	name=Alicia
+	female=yes
+	dynasty=6000
+	dna="kdinlnbbmfd"
+	culture=avonis religion=catholic
+	father=6036	#Alban
+	722.4.22={ birth=yes }
+	756.4.20={ death=yes }
+}
+6042={
+	name=Constan
+	dynasty=6000
+	dna="klbkllckgdd"
+	culture=avonis religion=catholic
+	martial=7 diplomacy=8 stewardship=5 intrigue=5 learning=7
+	add_trait=midas_touched add_trait=craven add_trait=slothful add_trait=lustful add_trait=paranoid 
+	add_trait=ambitious add_trait=gregarious add_trait=slow 
+	father=6036	#Alban
+	725.9.11={ birth=yes }
+	759.3.31={ death=yes }
+}
+6043={
+	name=Morgan
+	dynasty=6000
+	dna="kdiobbckbad"
+	culture=avonis religion=catholic
+	martial=4 diplomacy=7 stewardship=8 intrigue=4 learning=6
+	add_trait=tough_soldier add_trait=greedy add_trait=zealous add_trait=proud add_trait=ambitious 
+	father=6036	#Alban
+	727.7.8={ birth=yes }
+	794.2.13={ death=yes }
+}
+6044={
+	name=Caro
+	dynasty=6000
+	dna="kocoldlgapd"
+	culture=avonis religion=catholic
+	martial=6 diplomacy=6 stewardship=7 intrigue=6 learning=7
+	add_trait=martial_cleric add_trait=humble add_trait=slothful add_trait=brave add_trait=kind 
+	father=6039	#Justin
+	743.8.22={ birth=yes }
+	816.6.2={ death=yes }
+}
+6045={
+	name=Alda
+	female=yes
+	dynasty=6000
+	dna="dhfpldagbod"
+	culture=avonis religion=catholic
+	father=6039	#Justin
+	746.8.13={ birth=yes }
+	809.11.28={ death=yes }
+}
+6046={
+	name=Julis
+	dynasty=6000
+	dna="kcpoadegagd"
+	culture=avonis religion=catholic
+	martial=8 diplomacy=7 stewardship=8 intrigue=5 learning=6
+	add_trait=martial_cleric add_trait=proud add_trait=brave add_trait=lustful 
+	father=6044	#Leo
+	767.2.23={ birth=yes }
+	811.8.8={ death=yes }
+}
+6047={
+	name=Pirnila
+	female=yes
+	dynasty=6000
+	dna="aodplmlgapd"
+	culture=avonis religion=catholic
+	father=6044	#Leo
+	771.10.10={ birth=yes }
+	843.8.9={ death=yes }
+}
+6048={
+	name=Laurina
+	female=yes
+	dynasty=6000
+	dna="kocoldlhagg"
+	culture=avonis religion=catholic
+	father=6044	#Leo
+	774.1.6={ birth=yes }
+	839.5.25={ death=yes }
+}
+6049={
+	name=Marcilina
+	female=yes
+	dynasty=6000
+	dna="kjckldlgpdd"
+	culture=avonis religion=catholic
+	father=6044	#Leo
+	777.6.16={ birth=yes }
+	836.5.18={ death=yes }
+}
+
+6051={
+	name=Lio
+	dynasty=6050
+	dna="pglnnopglgn"
+	culture=avonis religion=catholic
+	martial=8 diplomacy=7 stewardship=5 intrigue=7 learning=5
+	add_trait=intricate_webweaver add_trait=gregarious add_trait=humble add_trait=lustful add_trait=ambitious 
+	add_trait=trusting 
+	700.7.8={ birth=yes }
+	749.11.26={ death=yes }
+}
+6052={
+	name=Milys #Bris
+	dynasty=6050
+	dna="elloloaglga"
+	culture=avonis religion=catholic
+	martial=6 diplomacy=4 stewardship=4 intrigue=7 learning=6
+	add_trait=flamboyant_schemer add_trait=slothful add_trait=wroth add_trait=honest 
+	father=6051	#Lio
+	725.5.1={ birth=yes }
+	791.10.21={ death=yes }
+}
+6053={
+	name=Andala
+	female=yes
+	dynasty=6050
+	dna="pbcnnopgcmn"
+	culture=avonis religion=catholic
+	father=6051	#Lio
+	726.6.1={ birth=yes }
+	793.6.17={ death=yes }
+}
+6054={
+	name=Florintia
+	female=yes
+	dynasty=6050
+	dna="iglnnebgeep"
+	culture=avonis religion=catholic
+	father=6051	#Lio
+	729.3.22={ birth=yes }
+	784.1.21={ death=yes }
+}
+6055={
+	name=Eli
+	dynasty=6050
+	dna="iigcnopglgn"
+	culture=avonis religion=catholic
+	martial=4 diplomacy=5 stewardship=5 intrigue=8 learning=6
+	add_trait=martial_cleric add_trait=shy add_trait=paranoid add_trait=lustful add_trait=charitable 
+	add_trait=humble 
+	father=6051	#Lio
+	729.4.17={ birth=yes }
+	809.1.8={ death=yes }
+}
+6056={
+	name=Ancil #Bedwyr
+	dynasty=6050
+	dna="ejlolhomlgg"
+	culture=avonis religion=catholic
+	martial=8 diplomacy=5 stewardship=5 intrigue=8 learning=4
+	add_trait=martial_cleric add_trait=humble add_trait=gregarious add_trait=deceitful add_trait=lunatic 
+	father=6052	#Bris
+	750.1.25={ birth=yes }
+	807.3.2={ death=yes }
+}
+6057={
+	name=Pernytta
+	female=yes
+	dynasty=6050
+	dna="emldaflflha"
+	culture=avonis religion=catholic
+	father=6052	#Bris
+	751.4.21={ birth=yes }
+	797.2.5={ death=yes }
+}
+6058={
+	name=Ancyll
+	dynasty=6050
+	dna="endonhoilgg"
+	culture=avonis religion=catholic
+	martial=6 diplomacy=6 stewardship=4 intrigue=8 learning=8
+	add_trait=charismatic_negotiator add_trait=ambitious add_trait=proud add_trait=deceitful add_trait=brave 
+	father=6056	#Bedwir
+	769.4.17={ birth=yes }
+	818.2.14={ death=yes }
+}
+6059={
+	name=Rovica
+	female=yes
+	dynasty=6050
+	dna="ebljlhoelge"
+	culture=avonis religion=catholic
+	father=6056	#Bedwir
+	771.7.3={ birth=yes }
+	820.6.5={ death=yes }
+}
+6060={
+	name=Maxin
+	dynasty=6050
+	dna="egpolhhdndg"
+	culture=avonis religion=catholic
+	martial=8 diplomacy=5 stewardship=7 intrigue=6 learning=6
+	add_trait=detached_priest add_trait=wroth add_trait=temperate add_trait=slothful add_trait=charitable 
+	add_trait=honest 
+	father=6056	#Bedwir
+	774.8.1={ birth=yes }
+	823.9.8={ death=yes }
+}
+6061={
+	name=Plysancia
+	female=yes
+	dynasty=6050
+	dna="mndnnhoilgg"
+	culture=avonis religion=catholic
+	father=6058	#Ancyll
+	789.1.3={ birth=yes }
+	848.7.31={ death=yes }
+}
+6062={
+	name=Maximis
+	dynasty=6050
+	dna="onpbeooilmk"
+	culture=avonis religion=catholic
+	martial=8 diplomacy=6 stewardship=8 intrigue=6 learning=8
+	add_trait=flamboyant_schemer add_trait=greedy add_trait=ambitious add_trait=shy add_trait=zealous 
+	add_trait=drunkard 
+	father=6058	#Ancyll
+	791.10.1={ birth=yes }
+	845.6.28={ death=yes }
+}
+6063={
+	name=Felis
+	dynasty=6050
+	dna="onpbeofilmm"
+	culture=avonis religion=catholic
+	martial=6 diplomacy=4 stewardship=8 intrigue=5 learning=8
+	add_trait=detached_priest add_trait=gluttonous add_trait=charitable add_trait=ambitious add_trait=paranoid 
+	add_trait=deceitful 
+	father=6062	#Maximis
+	812.4.17={ birth=yes }
+	884.7.25={ death=yes }
+}
+6064={
+	name=Eli
+	dynasty=6050
+	dna="nhpehfoilmm"
+	culture=avonis religion=catholic
+	martial=6 diplomacy=4 stewardship=7 intrigue=4 learning=8
+	add_trait=charismatic_negotiator add_trait=chaste add_trait=greedy add_trait=slothful 
+	father=6062	#Maximis
+	813.2.27={ birth=yes }
+	855.7.30={ death=yes }
+}

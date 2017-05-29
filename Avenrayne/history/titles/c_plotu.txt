@@ -3,7 +3,7 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-600.1.1={
+500.1.1={
 	liege=d_luncani
 }
 655.1.1={holder=8025} #Bogdan[8001]

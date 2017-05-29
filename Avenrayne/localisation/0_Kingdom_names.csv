@@ -1,8 +1,6 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 k_a;A;A;A;;A;;;;;;;;;x
 k_a_adj;Aian;;er;;;;;;;;;;;x
-k_abernay;Abernay;Abernay;Abernay;;Abernay;;;;;;;;;x
-k_abernay_adj;Abernaian;;abernaer;;;;;;;;;;;x
 k_aghavea;Aghavea;Aghavea;Aghavea;;Aghavea;;;;;;;;;x
 k_aghavea_adj;Aghavean;;aghaver;;;;;;;;;;;x
 k_al_farrah;Al-Farrah;Al-Farrah;Al-Farrah;;Al-Farrah;;;;;;;;;x
@@ -23,6 +21,8 @@ k_as_sahna;As Sahna;As Sahna;As Sahna;;As Sahna;;;;;;;;;x
 k_as_sahna_adj;As Sahnan;;As Sahner;;;;;;;;;;;x
 k_atessa;Atessa;Atessa;Atessa;;Atessa;;;;;;;;;x
 k_atessa_adj;Atessan;;atesser;;;;;;;;;;;x
+k_averna;Averna;Averna;Averna;;Averna;;;;;;;;;x
+k_averna_adj;Avernan;;averner;;;;;;;;;;;x
 k_b;B;B;B;;B;;;;;;;;;x
 k_b_adj;Bian;;ber;;;;;;;;;;;x
 k_bandar;Bandar;Bandar;Bandar;;Bandar;;;;;;;;;x
@@ -93,8 +93,6 @@ k_laval;Laval;Laval;Laval;;Laval;;;;;;;;;x
 k_laval_adj;Lavalian;;lavaler;;;;;;;;;;;x
 k_lopera;Lopera;Lopera;Lopera;;Lopera;;;;;;;;;x
 k_lopera_adj;Loperan;;loperer;;;;;;;;;;;x
-k_los_vientos;Los Vientos;Los Vientos;Los Vientos;;Los Vientos;;;;;;;;;x
-k_los_vientos_adj;Los Vientosian;;Los Vientoser;;;;;;;;;;;x
 k_luncani;Luncani;Luncani;Luncani;;Luncani;;;;;;;;;x
 k_luncani_adj;Luncanian;;luncaner;;;;;;;;;;;x
 k_maesmynis;Maesmynis;Maesmynis;Maesmynis;;Maesmynis;;;;;;;;;x
@@ -105,8 +103,8 @@ k_marru;Marrù;Marrù;Marrù;;Marrù;;;;;;;;;x
 k_marru_adj;Marrùian;;marrùer;;;;;;;;;;;x
 k_medana;Medana;Medana;Medana;;Medana;;;;;;;;;x
 k_medana_adj;Medanan;;medaner;;;;;;;;;;;x
-k_medford;Medford;Medford;Medford;;Medford;;;;;;;;;x
-k_medford_adj;Medfordian;;medforder;;;;;;;;;;;x
+k_medavon;Medavon;Medavon;Medavon;;Medavon;;;;;;;;;x
+k_medavon_adj;Medavonian;;medavoner;;;;;;;;;;;x
 k_mejeria;Mejeria;Mejeria;Mejeria;;Mejeria;;;;;;;;;x
 k_mejeria_adj;Mejerian;;mejerer;;;;;;;;;;;x
 k_merouana;Merouana;Merouana;Merouana;;Merouana;;;;;;;;;x
@@ -131,12 +129,16 @@ k_nordval;Nordval;Nordval;Nordval;;Nordval;;;;;;;;;x
 k_nordval_adj;Nordvalian;;nordvaler;;;;;;;;;;;x
 k_ortovia;Ortovia;Ortovia;Ortovia;;Ortovia;;;;;;;;;x
 k_ortovia_adj;Ortovian;;ortover;;;;;;;;;;;x
+k_os_ventos;Os Ventos;Os Ventos;Os Ventos;;Os Ventos;;;;;;;;;x
+k_os_ventos_adj;Os Ventosian;;Os Ventoser;;;;;;;;;;;x
 k_passa;Passa;Passa;Passa;;Passa;;;;;;;;;x
 k_passa_adj;Passan;;passer;;;;;;;;;;;x
 k_picroux;Picroux;Picroux;Picroux;;Picroux;;;;;;;;;x
 k_picroux_adj;Picrouxian;;picrouxer;;;;;;;;;;;x
 k_piedmont;Piedmont;Piedmont;Piedmont;;Piedmont;;;;;;;;;x
 k_piedmont_adj;Piedmontian;;piedmonter;;;;;;;;;;;x
+k_porta;Porta;Porta;Porta;;Porta;;;;;;;;;x
+k_porta_adj;Portan;;porter;;;;;;;;;;;x
 k_potoria;Potoria;Potoria;Potoria;;Potoria;;;;;;;;;x
 k_potoria_adj;Potorian;;potorer;;;;;;;;;;;x
 k_pravia;Pravia;Pravia;Pravia;;Pravia;;;;;;;;;x
@@ -169,8 +171,8 @@ k_tortella;Tortella;Tortella;Tortella;;Tortella;;;;;;;;;x
 k_tortella_adj;Tortellan;;torteller;;;;;;;;;;;x
 k_tutun;Tutun;Tutun;Tutun;;Tutun;;;;;;;;;x
 k_tutun_adj;Tutunian;;tutuner;;;;;;;;;;;x
-k_verno;Vern?;Vern?;Vern?;;Vern?;;;;;;;;;x
-k_verno_adj;Vern?ian;;vern?er;;;;;;;;;;;x
+k_verno;Verno;Verno;Verno;;Verno;;;;;;;;;x
+k_verno_adj;Vernian;;verner;;;;;;;;;;;x
 k_visalia;Visalia;Visalia;Visalia;;Visalia;;;;;;;;;x
 k_visalia_adj;Visalian;;visaler;;;;;;;;;;;x
 k_wester_fork;Wester Fork;Wester Fork;Wester Fork;;Wester Fork;;;;;;;;;x

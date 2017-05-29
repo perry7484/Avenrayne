@@ -14,6 +14,126 @@
 	culture="rayne"
 	religion="catholic"
 }
+3101=
+{
+	name="Martin"
+	culture="rayne"
+	religion="catholic"
+}
+3102=
+{
+	name="Delbes"
+	culture="rayne"
+	religion="catholic"
+}
+3103=
+{
+	name="Laurent"
+	culture="rayne"
+	religion="catholic"
+}
+3104=
+{
+	name="Rouss"
+	culture="rayne"
+	religion="catholic"
+}
+3105=
+{
+	name="Legrand"
+	culture="rayne"
+	religion="catholic"
+}
+3106=
+{
+	name="Blanc"
+	culture="rayne"
+	religion="catholic"
+}
+3107=
+{
+	name="Albe"
+	culture="rayne"
+	religion="catholic"
+}
+3108=
+{
+	name="Florien"
+	culture="rayne"
+	religion="catholic"
+}
+3109=
+{
+	name="Bituit"
+	culture="rayne"
+	religion="catholic"
+}
+3110=
+{
+	name="Verles"
+	culture="rayne"
+	religion="catholic"
+}
+3111=
+{
+	name="Elit"
+	culture="rayne"
+	religion="catholic"
+}
+3112=
+{
+	name="Caros"
+	culture="rayne"
+	religion="catholic"
+}
+3113=
+{
+	name="Claude"
+	culture="rayne"
+	religion="catholic"
+}
+3114=
+{
+	name="Aurel"
+	culture="rayne"
+	religion="catholic"
+}
+3115=
+{
+	name="Marcone"
+	culture="rayne"
+	religion="catholic"
+}
+3116=
+{
+	name="Roys"
+	culture="rayne"
+	religion="catholic"
+}
+3117=
+{
+	name="Nicoles"
+	culture="rayne"
+	religion="catholic"
+}
+3118=
+{
+	name="Nerve"
+	culture="rayne"
+	religion="catholic"
+}
+3119=
+{
+	name="Delin"
+	culture="rayne"
+	religion="catholic"
+}
+3120=
+{
+	name="Sangris"
+	culture="rayne"
+	religion="catholic"
+}
 
 ## East Rayne
 
@@ -47,7 +167,7 @@
 
 3420=
 {
-	name="Gigaut"
+	name="Gigas"
 	culture="eastern_rayne"
 	religion="catholic"
 }
@@ -77,21 +197,21 @@
 
 3500=
 {
-	name="Saunier"
+	name="Saniers"
 	culture="western_rayne"
 	religion="catholic"
 }
 
 3510=
 {
-	name="Lafleur"
+	name="Laflour"
 	culture="western_rayne"
 	religion="catholic"
 }
 
 3520=
 {
-	name="Thiers"
+	name="Tieres"
 	culture="western_rayne"
 	religion="catholic"
 }
@@ -115,7 +235,7 @@
 }
 3560=
 {
-	name="LeBlanc"
+	name="L'Albe"
 	culture="western_rayne"
 	religion="catholic"
 }
@@ -178,7 +298,7 @@
 
 3650=
 {
-	name="d'Ausoleil"
+	name="d'Alsoleil"
 	culture="western_rayne"
 	religion="catholic"
 }
@@ -226,21 +346,105 @@
 	culture="passa_rayne"
 	religion="cathar"
 }
+3841=
+{
+	name="Astruc"
+	culture="passa_rayne"
+	religion="cathar"
+}
+3842=
+{
+	name="Barthes"
+	culture="passa_rayne"
+	religion="cathar"
+}
+3843=
+{
+	name="Bordes"
+	culture="passa_rayne"
+	religion="cathar"
+}
+3844=
+{
+	name="Calas"
+	culture="passa_rayne"
+	religion="cathar"
+}
+3845=
+{
+	name="Perese"
+	culture="passa_rayne"
+	religion="cathar"
+}
+3846=
+{
+	name="Theron"
+	culture="passa_rayne"
+	religion="cathar"
+}
+3847=
+{
+	name="Virey"
+	culture="passa_rayne"
+	religion="cathar"
+}
+3848=
+{
+	name="LaFaieta"
+	culture="passa_rayne"
+	religion="cathar"
+}
+3849=
+{
+	name="Garrigues"
+	culture="passa_rayne"
+	religion="cathar"
+}
 3850=
 {
 	name="Braganço"
 	culture="passa_rayne"
 	religion="cathar"
 }
+3851=
+{
+	name="Maysonet"
+	culture="passa_rayne"
+	religion="cathar"
+}
+3852=
+{
+	name="Espaillat"
+	culture="passa_rayne"
+	religion="cathar"
+}
+3853=
+{
+	name="De LaTor"
+	culture="passa_rayne"
+	religion="cathar"
+}
+3854=
+{
+	name="Ponses"
+	culture="passa_rayne"
+	religion="cathar"
+}
+3855=
+{
+	name="Rossina"
+	culture="passa_rayne"
+	religion="cathar"
+}
 3860=
 {
-	name="Faudit"
+	name="Fabre"
 	culture="passa_rayne"
 	religion="cathar"
 }
 3870=
 {
-	name="Carol"
+	name="Cabrol"
 	culture="passa_rayne"
 	religion="cathar"
 }
@@ -803,6 +1007,82 @@
 	religion="orthodox"
 }
 
+##Avonis
+6000={
+	name="Descardia"
+	culture="avonis"
+	religion="catholic"
+}
+6001={
+	name="Guinna"
+	culture="avonis"
+	religion="catholic"
+}
+6002={
+	name="Brigantis"
+	culture="avonis"
+	religion="catholic"
+}
+6003={
+	name="Brysel"
+	culture="avonis"
+	religion="catholic"
+}
+6004={
+	name="Bona"
+	culture="avonis"
+	religion="catholic"
+}
+6005={
+	name="Aurelia"
+	culture="avonis"
+	religion="catholic"
+}
+6006={
+	name="De Isavones"
+	culture="avonis"
+	religion="catholic"
+}
+6007={
+	name="Samos"
+	culture="avonis"
+	religion="catholic"
+}
+6008={
+	name="Cyllos"
+	culture="avonis"
+	religion="catholic"
+}
+6009={
+	name="Marin"
+	culture="avonis"
+	religion="catholic"
+}
+6010={
+	name="Tenno"
+	culture="avonis"
+	religion="catholic"
+}
+6011={
+	name="Renis"
+	culture="avonis"
+	religion="catholic"
+}
+6012={
+	name="Annudos"
+	culture="avonis"
+	religion="catholic"
+}
+6013={
+	name="Brinno"
+	culture="avonis"
+	religion="catholic"
+}
+6050={
+	name="Candidas"
+	culture="avonis"
+	religion="catholic"
+}
 ##Nordlander
 7000=
 {

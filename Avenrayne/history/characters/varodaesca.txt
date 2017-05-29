@@ -1,0 +1,280 @@
+8000={
+	name=Litovi
+	dynasty=8000
+	dna="eeimomdeplh"
+	culture=varodaesca religion=orthodox
+	martial=6 diplomacy=4 stewardship=8 intrigue=6 learning=4
+	add_trait=charismatic_negotiator add_trait=wroth add_trait=craven add_trait=envious add_trait=lunatic 
+	620.10.3={ birth=yes }
+	641.1.1={ add_spouse=8020 }
+	673.11.30={ death=yes }
+}
+8001={
+	name=Iancu
+	dynasty=8000
+	dna="jdlhkmmepnh"
+	culture=varodaesca religion=orthodox
+	martial=4 diplomacy=7 stewardship=5 intrigue=7 learning=8
+	add_trait=flamboyant_schemer add_trait=celibate add_trait=patient add_trait=arbitrary add_trait=lustful 
+	add_trait=brave 
+	father=8000	#Ladislau
+	mother=8020 #Voica
+	645.3.20={ birth=yes }
+	666.1.1={ add_spouse=8021 }
+	704.7.22={ death=yes }
+}
+8002={
+	name=Victor
+	dynasty=8000
+	dna="ebheoddedoi"
+	culture=varodaesca religion=orthodox
+	martial=7 diplomacy=8 stewardship=7 intrigue=8 learning=8
+	add_trait=detached_priest add_trait=gluttonous add_trait=greedy add_trait=craven 
+	father=8000	#Ladislau
+	mother=8020 #Voica
+	648.6.22={ birth=yes }
+	699.12.23={ death=yes }
+}
+8003={
+	name=Iacob
+	dynasty=8000
+	dna="aeimomalpho"
+	culture=varodaesca religion=orthodox
+	martial=7 diplomacy=5 stewardship=7 intrigue=6 learning=5
+	add_trait=mastermind_theologian add_trait=brave add_trait=shy 
+	father=8000	#Ladislau
+	mother=8020 #Voica
+	651.5.4={ birth=yes }
+	720.8.29={ death=yes }
+}
+8004={
+	name=Milos
+	dynasty=8000
+	dna="ehdmmmdepod"
+	culture=varodaesca religion=orthodox
+	martial=4 diplomacy=5 stewardship=6 intrigue=7 learning=5
+	add_trait=midas_touched add_trait=poet add_trait=chaste add_trait=cynical add_trait=wroth 
+	add_trait=envious add_trait=diligent add_trait=content 
+	father=8000	#Ladislau
+	mother=8020 #Voica
+	655.3.11={ birth=yes }
+	722.2.16={ death=yes }
+}
+8005={
+	name=Stefan
+	dynasty=8000
+	dna="eehkimhephj"
+	culture=varodaesca religion=orthodox
+	martial=8 diplomacy=8 stewardship=7 intrigue=5 learning=7
+	add_trait=martial_cleric add_trait=patient add_trait=trusting add_trait=deceitful add_trait=just 
+	add_trait=zealous add_trait=greedy 
+	father=8000	#Ladislau
+	mother=8020 #Voica
+	659.2.16={ birth=yes }
+	730.12.8={ death=yes }
+}
+8006={
+	name=Aron
+	dynasty=8000
+	dna="aglnbhmecnh"
+	culture=varodaesca religion=orthodox
+	martial=7 diplomacy=7 stewardship=4 intrigue=7 learning=8
+	add_trait=tough_soldier add_trait=wroth add_trait=ambitious add_trait=honest add_trait=lustful 
+	add_trait=gregarious add_trait=zealous 
+	father=8001	#Victor
+	mother=8021 #Floarea
+	668.9.10={ birth=yes }
+	689.1.1={ add_spouse=8022 }
+	722.8.24={ death=yes }
+}
+8007={
+	name=Anastasia
+	female=yes
+	dynasty=8000
+	dna="pdlhbageknh"
+	culture=varodaesca religion=orthodox
+	father=8001	#Victor
+	mother=8021 #Floarea
+	673.12.20={ birth=yes }
+	738.8.10={ death=yes }
+}
+8008={
+	name=Tereza
+	female=yes
+	dynasty=8000
+	dna="jdlhlifepnh"
+	culture=varodaesca religion=orthodox
+	father=8001	#Victor
+	mother=8021 #Floarea
+	676.4.19={ birth=yes }
+	729.6.21={ death=yes }
+}
+8009={
+	name=Monica
+	female=yes
+	dynasty=8000
+	dna="cjlhkmgepnh"
+	culture=varodaesca religion=orthodox
+	father=8001	#Victor
+	mother=8021 #Floarea
+	678.9.27={ birth=yes }
+	708.4.26={ death=yes }
+}
+8010={
+	name=Lucian
+	dynasty=8000
+	dna="hglnbfmncnh"
+	culture=varodaesca religion=orthodox
+	martial=5 diplomacy=8 stewardship=6 intrigue=7 learning=6
+	add_trait=martial_cleric add_trait=honest add_trait=paranoid add_trait=proud add_trait=craven 
+	add_trait=just add_trait=depressed 
+	father=8006	#Mihai
+	mother=8022 #Olimpia
+	694.4.1={ birth=yes }
+	715.1.1={ add_spouse=8023 }
+	755.10.29={ death=yes }
+}
+8011={
+	name=Marin
+	dynasty=8000
+	dna="aoojbhmkenh"
+	culture=varodaesca religion=orthodox
+	martial=8 diplomacy=8 stewardship=6 intrigue=6 learning=8
+	add_trait=elusive_shadow add_trait=cruel add_trait=gluttonous add_trait=honest add_trait=chaste 
+	father=8006	#Mihai
+	mother=8022 #Olimpia
+	696.8.6={ birth=yes }
+	770.8.7={ death=yes }
+}
+8012={
+	name=Sophia
+	female=yes
+	dynasty=8000
+	dna="nhnnfgdecib"
+	culture=varodaesca religion=orthodox
+	father=8006	#Mihai
+	mother=8022 #Olimpia
+	700.7.16={ birth=yes }
+	751.1.13={ death=yes }
+}
+8013={
+	name=Aurelian
+	dynasty=8000
+	dna="akkkpgmpcon"
+	culture=varodaesca religion=orthodox
+	martial=7 diplomacy=5 stewardship=7 intrigue=7 learning=8
+	add_trait=charismatic_negotiator add_trait=cruel add_trait=honest add_trait=temperate add_trait=content 
+	father=8006	#Mihai
+	mother=8022 #Olimpia
+	702.1.21={ birth=yes }
+	765.8.15={ death=yes }
+}
+8014={
+	name=Monica
+	female=yes
+	dynasty=8000
+	dna="hglnflapefh"
+	culture=varodaesca religion=orthodox
+	father=8010	#Lucian
+	mother=8023 #Maria
+	718.12.16={ birth=yes }
+	777.7.25={ death=yes }
+}
+8015={
+	name=Dana
+	female=yes
+	dynasty=8000
+	dna="hginlimocoh"
+	culture=varodaesca religion=orthodox
+	father=8010	#Lucian
+	mother=8023 #Maria
+	723.7.7={ birth=yes }
+	774.12.15={ death=yes }
+}
+8016={
+	name=Stefan
+	dynasty=8000
+	dna="gplajcmncok"
+	culture=varodaesca religion=orthodox
+	martial=6 diplomacy=8 stewardship=5 intrigue=6 learning=6
+	add_trait=detached_priest add_trait=trusting add_trait=cruel add_trait=slothful add_trait=drunkard 
+	father=8010	#Lucian
+	mother=8023 #Maria
+	726.10.20={ birth=yes }
+	747.1.1={ add_spouse=8024 }
+	796.11.9={ death=yes }
+}
+8017={
+	name=Victor
+	dynasty=8000
+	dna="aidabcdnhbk"
+	culture=varodaesca religion=orthodox
+	martial=4 diplomacy=7 stewardship=8 intrigue=4 learning=5
+	add_trait=skilled_tactician add_trait=lustful add_trait=greedy add_trait=temperate add_trait=trusting 
+	father=8016	#Roman
+	mother=8024 #Stefania
+	748.6.16={ birth=yes }
+	801.10.19={ death=yes }
+}
+8018={
+	name=Olimpia
+	female=yes
+	dynasty=8000
+	dna="gplpdcfgfom"
+	culture=varodaesca religion=orthodox
+	father=8016	#Roman
+	mother=8024 #Stefania
+	752.12.21={ birth=yes }
+	799.4.24={ death=yes }
+}
+8019={
+	name=Stefana
+	female=yes
+	dynasty=8000
+	dna="kpljjpkncal"
+	culture=varodaesca religion=orthodox
+	father=8016	#Roman
+	mother=8024 #Stefania
+	755.1.12={ birth=yes }
+	804.5.23={ death=yes }
+}
+8020={
+	name=Ruxandra
+	female=yes
+	culture=varodaesca
+	religion=orthodox
+	620.1.1={ birth=yes }
+	673.1.1={ death=yes }
+}
+8021={
+	name=Floarea
+	female=yes
+	culture=varodaesca
+	religion=orthodox
+	645.1.1={ birth=yes }
+	704.1.1={ death=yes }
+}
+8022={
+	name=Olimpia
+	female=yes
+	culture=varodaesca
+	religion=orthodox
+	668.1.1={ birth=yes }
+	722.1.1={ death=yes }
+}
+8023={
+	name=Maria
+	female=yes
+	culture=varodaesca
+	religion=orthodox
+	694.1.1={ birth=yes }
+	755.1.1={ death=yes }
+}
+8024={
+	name=Stefania
+	female=yes
+	culture=varodaesca
+	religion=orthodox
+	726.1.1={ birth=yes }
+	796.1.1={ death=yes }
+}

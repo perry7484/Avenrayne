@@ -3,7 +3,7 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-800.1.1={
+500.1.1={
 	liege=d_bochia
 }
 674.1.1={holder=8070} #Anghel[8003]

@@ -1,24 +1,24 @@
 8000={
-	name="Laditorvic"
+	name="Laditorii"
 	culture="varodaesca"
 }
 8001={
-	name="Bogadgan"
+	name="Boga"
 	culture="varodaesca"
 }
 8002={
-	name="Simmioion"
+	name="Simion"
 	culture="varodaesca"
 }
 8003={
-	name="Romangan"
+	name="Romagan"
 	culture="varodaesca"
 }
 8004={
-	name="Damteojan"
+	name="Damotrajan"
 	culture="varodaesca"
 }
 8005={
-	name="Valegavriu"
+	name="Valegarviu"
 	culture="varodaesca"
 }

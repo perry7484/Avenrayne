@@ -1,0 +1,11 @@
+# e_rayne
+1.1.1={
+	law = cognatic_succession
+	law = succ_primogeniture
+}
+1.1.1={
+	liege=k_castelfol
+}
+761.10.21={
+	holder=3524
+}

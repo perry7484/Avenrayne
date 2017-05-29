@@ -1,8 +1,10 @@
 # e_carnoch
-500.1.1={
-	law = agnatic_succession
-	law = succ_gavelkind
+100.1.1={
+liege=d_minllyn
 }
-800.1.1={
-	liege=k_minllyn
+150.1.1={
+liege=k_minllyn
+}
+766.1.1={
+holder=231 #Frioc
 }

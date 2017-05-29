@@ -109,8 +109,19 @@ pagan_group = {
 		
 		dislike_tribal_organization = yes
 	}
-	
-	egyptian_pagan = { # Use for misc other pagans
+
+	zun_pagan = { 
+		graphical_culture = indiangfx
+
+		pacifist = yes # Makes the AI less likely to start wars, plots and factions
+	}
+	zun_pagan_reformed = { 
+		graphical_culture = indiangfx
+
+		pacifist = yes # Makes the AI less likely to start wars, plots and factions
+	}
+
+	egyptian_pagan = { 
 		graphical_culture = westerngfx
 
 		icon = 5
@@ -141,7 +152,6 @@ pagan_group = {
 		
 		dislike_tribal_organization = yes
 	}
-	
 	inti = {
 		graphical_culture = mesoamericangfx
 		icon = 15

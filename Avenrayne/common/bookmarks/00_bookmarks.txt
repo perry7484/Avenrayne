@@ -66,7 +66,7 @@ bm_old_imperium = {
 bm_great_shifting = {
 	name = "BM_GREAT_SHIFTING"
 	desc = "BM_GREAT_SHIFTING_DESC"
-	date = 769.7.21
+	date = 769.4.2
 	
 	era = yes						## Will be shown on Era screen.
 	picture = GFX_pick_era_image_3

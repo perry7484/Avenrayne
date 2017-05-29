@@ -3457,27 +3457,27 @@ e_carnoch = {
 	color={ 121 110 137 }
 	color2={ 255 255 20 }
 	
-	capital = 147 # c_medford
-	culture = southron
+	capital = 147 # c_medavon
+	culture = avonis
 	
-	k_medford = {
+	k_medavon = {
 		color={ 111 120 132 }
 		color2={ 255 255 255 }
 		
-		capital = 147 # c_medford
-		culture = southron
+		capital = 147 # c_medavon
+		culture = avonis
 		
-		d_medford = {
+		d_medavon = {
 			color={ 91 140 122 }
 			color2={ 255 255 255 }
 			
-			capital = 147 # c_medford
+			capital = 147 # c_medavon
 			
-			c_medford = { # 147
+			c_medavon = { # 147
 				color={ 81 150 117 }
 				color2={ 255 255 255 }
 				
-				b_medford = {
+				b_medavon = {
 				}
 				b_fragrant_hill = {
 				}
@@ -3487,208 +3487,61 @@ e_carnoch = {
 				}
 				b_morgan_2 = {
 				}
-				b_medford_2 = {
+				b_medavon_2 = {
 				}
-				b_medford_3 = {
+				b_medavon_3 = {
 				}
 			}
-			c_blisey = { # 148
+			c_brigantos = { # 148
 				color={ 102 155 130 }
 				color2={ 255 255 255 }
 				
-				b_blisey = {
+				b_brigantos = {
 				}
 				b_moncton = {
 				}
 				b_pleasantvale = {
 				}
-				b_blisey_2 = {
+				b_brigantos_2 = {
 				}
-				b_blisey_3 = {
+				b_brigantos_3 = {
 				}
-				b_blisey_4 = {
+				b_brigantos_4 = {
 				}
-				b_blisey_5 = {
+				b_brigantos_5 = {
 				}
 			}
-			c_westover = { # 149
+			c_cunobris = { # 149
 				color={ 98 174 138 }
 				color2={ 255 255 255 }
 				
-				b_westover = {
+				b_cunobris = {
 				}
-				b_littlebrook = {
+				b_menbrook = {
 				}
 				b_angeline = {
 				}
 				b_bildon = {
 				}
-				b_westover_2 = {
+				b_cunobris_2 = {
 				}
-				b_westover_3 = {
+				b_cunobris_3 = {
 				}
-				b_westover_4 = {
-				}
-			}
-		}
-		d_hayeshire = {
-			color={ 209 105 42 }
-			color2={ 255 255 255 }
-			
-			capital = 176 # c_hayes
-			
-			c_hayes = { # 176
-				color={ 199 115 37 }
-				color2={ 255 255 255 }
-				
-				b_hayes = {
-				}
-				b_hayes_2 = {
-				}
-				b_hayes_3 = {
-				}
-				b_hayes_4 = {
-				}
-				b_hayes_5 = {
-				}
-				b_hayes_6 = {
-				}
-				b_hayes_7 = {
-				}
-			}
-			c_ancaster = { # 178
-				color={ 214 138 67 }
-				color2={ 255 255 255 }
-				
-				b_ancaster = {
-				}
-				b_ancaster_2 = {
-				}
-				b_ancaster_3 = {
-				}
-				b_ancaster_4 = {
-				}
-				b_ancaster_5 = {
-				}
-				b_ancaster_6 = {
-				}
-				b_ancaster_7 = {
-				}
-			}
-			c_scole = { # 177
-				color={ 215 151 91 }
-				color2={ 255 255 255 }
-				
-				b_scole = {
-				}
-				b_scole_2 = {
-				}
-				b_scole_3 = {
-				}
-				b_scole_4 = {
-				}
-				b_scole_5 = {
-				}
-				b_scole_6 = {
-				}
-				b_scole_7 = {
+				b_cunobris_4 = {
 				}
 			}
 		}
-		d_norville = {
-			color={ 174 131 172 }
-			color2={ 255 255 255 }
-			
-			capital = 172 # c_norville
-			
-			c_norville = { # 172
-				color={ 184 121 177 }
-				color2={ 255 255 255 }
-				
-				b_norville = {
-				}
-				b_norville_2 = {
-				}
-				b_norville_3 = {
-				}
-				b_norville_4 = {
-				}
-				b_norville_5 = {
-				}
-				b_norville_6 = {
-				}
-				b_norville_7 = {
-				}
-			}
-			c_ainsley_isle = { # 175
-				color={ 163 90 155 }
-				color2={ 255 255 255 }
-				
-				b_ainsley = {
-				}
-				b_oakhurst = {
-				}
-				b_ainsley_isle = {
-				}
-				b_ainsley_isle_2 = {
-				}
-				b_ainsley_isle_3 = {
-				}
-				b_ainsley_isle_4 = {
-				}
-				b_ainsley_isle_5 = {
-				}
-			}
-			c_riversedge = { # 174
-				color={ 201 128 193 }
-				color2={ 255 255 255 }
-				
-				b_riversedge = {
-				}
-				b_riversedge_2 = {
-				}
-				b_riversedge_3 = {
-				}
-				b_riversedge_4 = {
-				}
-				b_riversedge_5 = {
-				}
-				b_riversedge_6 = {
-				}
-				b_riversedge_7 = {
-				}
-			}
-			c_woodton = { # 173
-				color={ 196 102 186 }
-				color2={ 255 255 255 }
-				
-				b_woodton = {
-				}
-				b_aldbury = {
-				}
-				b_weston = {
-				}
-				b_barrow = {
-				}
-				b_woodton_2 = {
-				}
-				b_woodton_3 = {
-				}
-				b_woodton_4 = {
-				}
-			}
-		}
-		d_selby = {
+		d_brisellos = {
 			color={ 203 35 61 }
 			color2={ 255 255 255 }
 			
-			capital = 150 # c_selby
+			capital = 150 # c_iscarida
 			
-			c_selby = { # 150
+			c_iscarida = { # 150
 				color={ 193 45 56 }
 				color2={ 255 255 255 }
 				
-				b_selby = {
+				b_iscarida = {
 				}
 				b_dillon = {
 				}
@@ -3696,185 +3549,196 @@ e_carnoch = {
 				}
 				b_missery = {
 				}
-				b_selby_2 = {
+				b_iscarida_2 = {
 				}
-				b_selby_3 = {
+				b_iscarida_3 = {
 				}
-				b_selby_4 = {
-				}
-			}
-			c_canternay = { # 152
-				color={ 155 34 44 }
-				color2={ 255 255 255 }
-				
-				b_canternay = {
-				}
-				b_eagle = {
-				}
-				b_june = {
-				}
-				b_canternay_2 = {
-				}
-				b_canternay_3 = {
-				}
-				b_canternay_4 = {
-				}
-				b_canternay_5 = {
+				b_iscarida_4 = {
 				}
 			}
-			c_fulhill = { # 151
+			c_brisellos = { # 151
 				color={ 213 55 67 }
 				color2={ 255 255 255 }
 				
-				b_fulhill = {
+				b_brisellos = {
 				}
 				b_cobalt = {
 				}
 				b_sagemount = {
 				}
-				b_fulhill_2 = {
+				b_brisellos_2 = {
 				}
-				b_fulhill_3 = {
+				b_brisellos_3 = {
 				}
-				b_fulhill_4 = {
+				b_brisellos_4 = {
 				}
-				b_fulhill_5 = {
+				b_brisellos_5 = {
+				}
+			}
+			c_cantonia = { # 152
+				color={ 155 34 44 }
+				color2={ 255 255 255 }
+				
+				b_cantonia = {
+				}
+				b_eagle = {
+				}
+				b_june = {
+				}
+				b_cantonia_2 = {
+				}
+				b_cantonia_3 = {
+				}
+				b_cantonia_4 = {
+				}
+				b_cantonia_5 = {
 				}
 			}
 		}
-	}
-	k_abernay = {
-		color={ 162 121 166 }
-		color2={ 255 255 255 }
-		
-		capital = 154 # c_st_martin
-		culture = southron
-		
-		d_abernay = {
-			color={ 182 101 176 }
+		d_hayeshire = {
+			color={ 209 105 42 }
 			color2={ 255 255 255 }
 			
-			capital = 154 # c_st_martin
+			capital = 176 # c_ancobelia
 			
-			c_st_martin = { # 154
-				color={ 192 91 181 }
+			c_ancobelia = { # 176
+				color={ 199 115 37 }
 				color2={ 255 255 255 }
 				
-				b_st_martin = {
+				b_ancobelia = {
 				}
-				b_arlee = {
+				b_ancobelia_2 = {
 				}
-				b_crane = {
+				b_ancobelia_3 = {
 				}
-				b_st_martin_2 = {
+				b_ancobelia_4 = {
 				}
-				b_st_martin_3 = {
+				b_ancobelia_5 = {
 				}
-				b_st_martin_4 = {
+				b_ancobelia_6 = {
 				}
-				b_st_martin_5 = {
+				b_ancobelia_7 = {
 				}
 			}
-			c_forney = { # 156
-				color={ 158 77 149 }
+			c_bormos = { # 178
+				color={ 214 138 67 }
 				color2={ 255 255 255 }
 				
-				b_nourey = {
+				b_bormos = {
 				}
-				b_forney = {
+				b_bormos_2 = {
 				}
-				b_dosney = {
+				b_bormos_3 = {
 				}
-				b_forney_2 = {
+				b_bormos_4 = {
 				}
-				b_forney_3 = {
+				b_bormos_5 = {
 				}
-				b_forney_4 = {
+				b_bormos_6 = {
 				}
-				b_forney_5 = {
+				b_bormos_7 = {
 				}
 			}
-			c_norborough = { # 155
-				color={ 172 112 165 }
+			c_samosul = { # 177
+				color={ 215 151 91 }
 				color2={ 255 255 255 }
 				
-				b_norborough = {
+				b_samosul = {
 				}
-				b_charlottesville = {
+				b_samosul_2 = {
 				}
-				b_bodinne = {
+				b_samosul_3 = {
 				}
-				b_norborough_2 = {
+				b_samosul_4 = {
 				}
-				b_norborough_3 = {
+				b_samosul_5 = {
 				}
-				b_norborough_4 = {
+				b_samosul_6 = {
 				}
-				b_norborough_5 = {
+				b_samosul_7 = {
 				}
 			}
 		}
-		d_june = {
-			color={ 187 220 114 }
+		d_norville = {
+			color={ 174 131 172 }
 			color2={ 255 255 255 }
 			
-			capital = 157 # c_june
+			capital = 172 # c_ianodervo
 			
-			c_june = { # 157
-				color={ 197 210 119 }
+			c_ianodervo = { # 172
+				color={ 184 121 177 }
 				color2={ 255 255 255 }
 				
-				b_june_2 = {
+				b_ianodervo = {
 				}
-				b_ellsville = {
+				b_ianodervo_2 = {
 				}
-				b_june_3 = {
+				b_ianodervo_3 = {
 				}
-				b_june_4 = {
+				b_ianodervo_4 = {
 				}
-				b_june_5 = {
+				b_ianodervo_5 = {
 				}
-				b_june_6 = {
+				b_ianodervo_6 = {
 				}
-				b_june_7 = {
+				b_ianodervo_7 = {
 				}
 			}
-			c_bleston = { # 159
-				color={ 185 196 120 }
+			c_anslis = { # 175
+				color={ 163 90 155 }
 				color2={ 255 255 255 }
 				
-				b_bleston = {
+				b_anslis = {
 				}
-				b_la_bataille = {
+				b_oakhurst = {
 				}
-				b_bleston_2 = {
+				b_anslis_2 = {
 				}
-				b_bleston_3 = {
+				b_anslis_3 = {
 				}
-				b_bleston_4 = {
+				b_anslis_4 = {
 				}
-				b_bleston_5 = {
+				b_anslis_5 = {
 				}
-				b_bleston_6 = {
+				b_anslis_6 = {
 				}
 			}
-			c_williams = { # 158
-				color={ 163 176 93 }
+			c_bennvernos = { # 174
+				color={ 201 128 193 }
 				color2={ 255 255 255 }
 				
-				b_williams = {
+				b_bennvernos = {
 				}
-				b_williams_2 = {
+				b_bennvernos_2 = {
 				}
-				b_williams_3 = {
+				b_bennvernos_3 = {
 				}
-				b_williams_4 = {
+				b_bennvernos_4 = {
 				}
-				b_williams_5 = {
+				b_bennvernos_5 = {
 				}
-				b_williams_6 = {
+				b_bennvernos_6 = {
 				}
-				b_williams_7 = {
+				b_bennvernos_7 = {
+				}
+			}
+			c_linodervo = { # 173
+				color={ 196 102 186 }
+				color2={ 255 255 255 }
+				
+				b_linodervo = {
+				}
+				b_aldbury = {
+				}
+				b_weston = {
+				}
+				b_barrow = {
+				}
+				b_linodervo_2 = {
+				}
+				b_linodervo_3 = {
+				}
+				b_linodervo_4 = {
 				}
 			}
 		}
@@ -3947,6 +3811,161 @@ e_carnoch = {
 				b_kilraghts_6 = {
 				}
 				b_kilraghts_7 = {
+				}
+			}
+		}
+	}
+	k_averna = {
+		color={ 191 130 193 }
+		color2={ 255 255 255 }
+		
+		capital = 153 # c_ambrin
+		culture = avonis
+		
+		d_ambrin = {
+			color={ 211 110 203 }
+			color2={ 255 255 255 }
+			
+			capital = 153 # c_ambrin
+			
+			c_ambrin = { # 153
+				color={ 221 100 208 }
+				color2={ 255 255 255 }
+				
+				b_ambrin = {
+				}
+				b_crescent = {
+				}
+				b_ambrin_2 = {
+				}
+				b_ambrin_3 = {
+				}
+				b_ambrin_4 = {
+				}
+				b_ambrin_5 = {
+				}
+				b_ambrin_6 = {
+				}
+			}
+			c_boronia = { # 156
+				color={ 158 77 149 }
+				color2={ 255 255 255 }
+				
+				b_boronia = {
+				}
+				b_dosney = {
+				}
+				b_boronia_2 = {
+				}
+				b_boronia_3 = {
+				}
+				b_boronia_4 = {
+				}
+				b_boronia_5 = {
+				}
+				b_boronia_6 = {
+				}
+			}
+			c_limosia = { # 155
+				color={ 172 112 165 }
+				color2={ 255 255 255 }
+				
+				b_limosia = {
+				}
+				b_charlottesville = {
+				}
+				b_bodinne = {
+				}
+				b_limosia_2 = {
+				}
+				b_limosia_3 = {
+				}
+				b_limosia_4 = {
+				}
+				b_limosia_5 = {
+				}
+			}
+			c_sant_martin = { # 154
+				color={ 192 91 181 }
+				color2={ 255 255 255 }
+				
+				b_sant_martin = {
+				}
+				b_arlee = {
+				}
+				b_crane = {
+				}
+				b_sant_martin_2 = {
+				}
+				b_sant_martin_3 = {
+				}
+				b_sant_martin_4 = {
+				}
+				b_sant_martin_5 = {
+				}
+			}
+		}
+		d_linovia = {
+			color={ 187 220 114 }
+			color2={ 255 255 255 }
+			
+			capital = 157 # c_linovia
+			
+			c_linovia = { # 157
+				color={ 197 210 119 }
+				color2={ 255 255 255 }
+				
+				b_linovia = {
+				}
+				b_ellsville = {
+				}
+				b_linovia_2 = {
+				}
+				b_linovia_3 = {
+				}
+				b_linovia_4 = {
+				}
+				b_linovia_5 = {
+				}
+				b_linovia_6 = {
+				}
+			}
+			c_bonaventa = { # 159
+				color={ 185 196 120 }
+				color2={ 255 255 255 }
+				
+				b_bonaventa = {
+				}
+				b_la_bataille = {
+				}
+				b_bonaventa_2 = {
+				}
+				b_bonaventa_3 = {
+				}
+				b_bonaventa_4 = {
+				}
+				b_bonaventa_5 = {
+				}
+				b_bonaventa_6 = {
+				}
+			}
+			c_brigaurelia = { # 158
+				color={ 163 176 93 }
+				color2={ 255 255 255 }
+				
+				b_brigaurelia = {
+				}
+				b_brigaurelia_2 = {
+				}
+				b_brigaurelia_3 = {
+				}
+				b_brigaurelia_4 = {
+				}
+				b_brigaurelia_5 = {
+				}
+				b_brigaurelia_6 = {
+				}
+				b_brigaurelia_7 = {
 				}
 			}
 		}
@@ -4524,8 +4543,6 @@ e_carnoch = {
 				color={ 184 209 89 }
 				color2={ 255 255 255 }
 				
-				b_brimpton = {
-				}
 				b_westbridge = {
 				}
 				b_westbridge_2 = {
@@ -4538,12 +4555,14 @@ e_carnoch = {
 				}
 				b_westbridge_6 = {
 				}
+				b_westbridge_7 = {
+				}
 			}
 			c_brimpton = { # 164
 				color={ 188 232 23 }
 				color2={ 255 255 255 }
 				
-				b_westbridge_7 = {
+				b_brimpton = {
 				}
 				b_salters_flat = {
 				}
@@ -4596,23 +4615,23 @@ e_carnoch = {
 				b_hilt_5 = {
 				}
 			}
-			c_peddleton = { # 160
+			c_pennrigo = { # 160
 				color={ 129 158 20 }
 				color2={ 255 255 255 }
 				
-				b_westover_5 = {
+				b_pennrigo = {
 				}
 				b_broodbrooke = {
 				}
 				b_arnos = {
 				}
-				b_peddleton = {
+				b_pennrigo_2 = {
 				}
-				b_peddleton_2 = {
+				b_pennrigo_3 = {
 				}
-				b_peddleton_3 = {
+				b_pennrigo_4 = {
 				}
-				b_peddleton_4 = {
+				b_pennrigo_5 = {
 				}
 			}
 		}
@@ -6051,318 +6070,166 @@ e_carnoch = {
 	}
 }
 e_costa_do_sol = {
-	color={ 233 69 65 }
+	color={ 184 198 61 }
 	color2={ 255 255 20 }
 	
-	capital = 435 # c_portonovo
+	capital = 434 # c_cabrilho
 	culture = costano
 	
-	k_visalia = {
-		color={ 223 79 60 }
-		color2={ 255 255 255 }
-		
-		capital = 435 # c_portonovo
-		culture = costano
-		
-		d_vinhoa = {
-			color={ 203 99 50 }
-			color2={ 255 255 255 }
-			
-			capital = 435 # c_portonovo
-			
-			c_portonovo = { # 435
-				color={ 193 109 45 }
-				color2={ 255 255 255 }
-				
-				b_portonovo = {
-				}
-				b_xordos = {
-				}
-				b_portonovo_2 = {
-				}
-				b_portonovo_3 = {
-				}
-				b_portonovo_4 = {
-				}
-				b_portonovo_5 = {
-				}
-				b_portonovo_6 = {
-				}
-			}
-			c_obidos = { # 469
-				color={ 196 111 46 }
-				color2={ 255 255 255 }
-				
-				b_obidos = {
-				}
-				b_obidos_2 = {
-				}
-				b_obidos_3 = {
-				}
-				b_obidos_4 = {
-				}
-				b_obidos_5 = {
-				}
-				b_obidos_6 = {
-				}
-				b_obidos_7 = {
-				}
-			}
-			c_vinhoa = { # 436
-				color={ 204 115 48 }
-				color2={ 255 255 255 }
-				
-				b_vinhoa = {
-				}
-				b_cados = {
-				}
-				b_vinhoa_2 = {
-				}
-				b_vinhoa_3 = {
-				}
-				b_vinhoa_4 = {
-				}
-				b_vinhoa_5 = {
-				}
-				b_vinhoa_6 = {
-				}
-			}
-		}
-		d_candeda = {
-			color={ 183 153 63 }
-			color2={ 255 255 255 }
-			
-			capital = 454 # c_candeda
-			
-			c_candeda = { # 454
-				color={ 193 143 68 }
-				color2={ 255 255 255 }
-				
-				b_candeda = {
-				}
-				b_lumeras = {
-				}
-				b_candeda_2 = {
-				}
-				b_candeda_3 = {
-				}
-				b_candeda_4 = {
-				}
-				b_candeda_5 = {
-				}
-				b_candeda_6 = {
-				}
-			}
-			c_fonteboa = { # 455
-				color={ 195 139 55 }
-				color2={ 255 255 255 }
-				
-				b_fonteboa = {
-				}
-				b_fresnedelo = {
-				}
-				b_fonteboa_2 = {
-				}
-				b_fonteboa_3 = {
-				}
-				b_fonteboa_4 = {
-				}
-				b_fonteboa_5 = {
-				}
-				b_fonteboa_6 = {
-				}
-			}
-			c_solano = { # 456
-				color={ 200 150 74 }
-				color2={ 255 255 255 }
-				
-				b_solano = {
-				}
-				b_virigo = {
-				}
-				b_solano_2 = {
-				}
-				b_solano_3 = {
-				}
-				b_solano_4 = {
-				}
-				b_solano_5 = {
-				}
-				b_solano_6 = {
-				}
-			}
-		}
-		d_tres_pinheiros = {
-			color={ 198 140 67 }
-			color2={ 255 255 255 }
-			
-			capital = 457 # c_tres_pinheiros
-			
-			c_tres_pinheiros = { # 457
-				color={ 208 130 72 }
-				color2={ 255 255 255 }
-				
-				b_tres_pinheiros = {
-				}
-				b_lucenza = {
-				}
-				b_tres_pinheiros_2 = {
-				}
-				b_tres_pinheiros_3 = {
-				}
-				b_tres_pinheiros_4 = {
-				}
-				b_tres_pinheiros_5 = {
-				}
-				b_tres_pinheiros_6 = {
-				}
-			}
-			c_a_montana = { # 458
-				color={ 225 137 72 }
-				color2={ 255 255 255 }
-				
-				b_a_montana = {
-				}
-				b_penaverde = {
-				}
-				b_a_montana_2 = {
-				}
-				b_a_montana_3 = {
-				}
-				b_a_montana_4 = {
-				}
-				b_a_montana_5 = {
-				}
-				b_a_montana_6 = {
-				}
-			}
-			c_pieros = { # 459
-				color={ 210 130 70 }
-				color2={ 255 255 255 }
-				
-				b_pieros = {
-				}
-				b_baldriz = {
-				}
-				b_pieros_2 = {
-				}
-				b_pieros_3 = {
-				}
-				b_pieros_4 = {
-				}
-				b_pieros_5 = {
-				}
-				b_pieros_6 = {
-				}
-			}
-		}
-		d_verride = {
-			color={ 186 181 68 }
-			color2={ 255 255 255 }
-			
-			capital = 451 # c_verride
-			
-			c_verride = { # 451
-				color={ 196 171 73 }
-				color2={ 255 255 255 }
-				
-				b_verride = {
-				}
-				b_beade = {
-				}
-				b_codeseda = {
-				}
-				b_verride_2 = {
-				}
-				b_verride_3 = {
-				}
-				b_verride_4 = {
-				}
-				b_verride_5 = {
-				}
-			}
-			c_escuna = { # 452
-				color={ 189 164 64 }
-				color2={ 255 255 255 }
-				
-				b_escuna = {
-				}
-				b_fabero = {
-				}
-				b_escuna_2 = {
-				}
-				b_escuna_3 = {
-				}
-				b_escuna_4 = {
-				}
-				b_escuna_5 = {
-				}
-				b_escuna_6 = {
-				}
-			}
-			c_louro = { # 453
-				color={ 171 148 58 }
-				color2={ 255 255 255 }
-				
-				b_louro = {
-				}
-				b_rubia = {
-				}
-				b_louro_2 = {
-				}
-				b_louro_3 = {
-				}
-				b_louro_4 = {
-				}
-				b_louro_5 = {
-				}
-				b_louro_6 = {
-				}
-			}
-		}
-	}
-	k_calheta = {
-		color={ 194 101 61 }
-		color2={ 255 255 255 }
-		
-		capital = 470 # c_calheta
-		culture = costano
-		
-		d_calheta = {
-			color={ 174 121 51 }
-			color2={ 255 255 255 }
-			
-			capital = 470 # c_calheta
-			
-			c_calheta = { # 470
-				color={ 164 131 46 }
-				color2={ 255 255 255 }
-				
-				b_calheta = {
-				}
-				b_praia) = {
-					holy_site = zun_pagan
-				}
-				b_serreta = {
-				}
-				b_luz = {
-				}
-				b_lajes = {
-				}
-				b_agualva = {
-				}
-				b_calheta_2 = {
-				}
-			}
-		}
-	}
 	k_ereira = {
-		color={ 223 64 60 }
+		color={ 194 188 66 }
 		color2={ 255 255 255 }
 		
-		capital = 446 # c_enseada
+		capital = 434 # c_cabrilho
 		culture = costano
 		
+		d_corullon = {
+			color={ 214 168 76 }
+			color2={ 255 255 255 }
+			
+			capital = 434 # c_cabrilho
+			
+			c_cabrilho = { # 434
+				color={ 224 158 81 }
+				color2={ 255 255 255 }
+				
+				b_pereira = {
+				}
+				b_bolsa = {
+				}
+				b_greiro = {
+				}
+				b_pescadeiro = {
+				}
+				b_tunitas = {
+				}
+				b_mosteiro = {
+				}
+				b_barca = {
+				}
+			}
+			c_corullon = { # 463
+				color={ 216 152 78 }
+				color2={ 255 255 255 }
+				
+				b_corullon = {
+				}
+				b_voces = {
+				}
+				b_corullon_2 = {
+				}
+				b_corullon_3 = {
+				}
+				b_corullon_4 = {
+				}
+				b_corullon_5 = {
+				}
+				b_corullon_6 = {
+				}
+			}
+			c_madeira = { # 465
+				color={ 217 142 54 }
+				color2={ 255 255 255 }
+				
+				b_madeira = {
+				}
+				b_otero = {
+				}
+				b_terrada = {
+				}
+				b_madeira_2 = {
+				}
+				b_madeira_3 = {
+				}
+				b_madeira_4 = {
+				}
+				b_madeira_5 = {
+				}
+			}
+			c_ourovila = { # 464
+				color={ 209 140 59 }
+				color2={ 255 255 255 }
+				
+				b_ourovila = {
+				}
+				b_laza = {
+				}
+				b_ourovila_2 = {
+				}
+				b_ourovila_3 = {
+				}
+				b_ourovila_4 = {
+				}
+				b_ourovila_5 = {
+				}
+				b_ourovila_6 = {
+				}
+			}
+		}
+		d_carrais = {
+			color={ 193 168 31 }
+			color2={ 255 255 255 }
+			
+			capital = 460 # c_carrais
+			
+			c_carrais = { # 460
+				color={ 203 158 36 }
+				color2={ 255 255 255 }
+				
+				b_carrais = {
+				}
+				b_cerdedelo = {
+				}
+				b_carrais_2 = {
+				}
+				b_carrais_3 = {
+				}
+				b_carrais_4 = {
+				}
+				b_carrais_5 = {
+				}
+				b_carrais_6 = {
+				}
+			}
+			c_a_egua = { # 461
+				color={ 203 160 43 }
+				color2={ 255 255 255 }
+				
+				b_a_egua = {
+				}
+				b_cadavos = {
+				}
+				b_a_egua_2 = {
+				}
+				b_a_egua_3 = {
+				}
+				b_a_egua_4 = {
+				}
+				b_a_egua_5 = {
+				}
+				b_a_egua_6 = {
+				}
+			}
+			c_oputo = { # 462
+				color={ 202 163 58 }
+				color2={ 255 255 255 }
+				
+				b_oputo = {
+				}
+				b_casaio = {
+				}
+				b_oputo_2 = {
+				}
+				b_oputo_3 = {
+				}
+				b_oputo_4 = {
+				}
+				b_oputo_5 = {
+				}
+				b_oputo_6 = {
+				}
+			}
+		}
 		d_enseada = {
 			color={ 203 84 50 }
 			color2={ 255 255 255 }
@@ -6447,115 +6314,6 @@ e_costa_do_sol = {
 				}
 			}
 		}
-		d_carrais = {
-			color={ 193 168 31 }
-			color2={ 255 255 255 }
-			
-			capital = 460 # c_carrais
-			
-			c_carrais = { # 460
-				color={ 203 158 36 }
-				color2={ 255 255 255 }
-				
-				b_carrais = {
-				}
-				b_cerdedelo = {
-				}
-				b_carrais_2 = {
-				}
-				b_carrais_3 = {
-				}
-				b_carrais_4 = {
-				}
-				b_carrais_5 = {
-				}
-				b_carrais_6 = {
-				}
-			}
-			c_a_egua = { # 461
-				color={ 203 160 43 }
-				color2={ 255 255 255 }
-				
-				b_a_egua = {
-				}
-				b_cadavos = {
-				}
-				b_a_egua_2 = {
-				}
-				b_a_egua_3 = {
-				}
-				b_a_egua_4 = {
-				}
-				b_a_egua_5 = {
-				}
-				b_a_egua_6 = {
-				}
-			}
-			c_oputo = { # 462
-				color={ 202 163 58 }
-				color2={ 255 255 255 }
-				
-				b_oputo = {
-				}
-				b_casaio = {
-				}
-				b_oputo_2 = {
-				}
-				b_oputo_3 = {
-				}
-				b_oputo_4 = {
-				}
-				b_oputo_5 = {
-				}
-				b_oputo_6 = {
-				}
-			}
-		}
-		d_corullon = {
-			color={ 206 162 73 }
-			color2={ 255 255 255 }
-			
-			capital = 463 # c_corullon
-			
-			c_corullon = { # 463
-				color={ 216 152 78 }
-				color2={ 255 255 255 }
-				
-				b_corullon = {
-				}
-				b_voces = {
-				}
-				b_corullon_2 = {
-				}
-				b_corullon_3 = {
-				}
-				b_corullon_4 = {
-				}
-				b_corullon_5 = {
-				}
-				b_corullon_6 = {
-				}
-			}
-			c_ourovila = { # 464
-				color={ 209 140 59 }
-				color2={ 255 255 255 }
-				
-				b_ourovila = {
-				}
-				b_laza = {
-				}
-				b_ourovila_2 = {
-				}
-				b_ourovila_3 = {
-				}
-				b_ourovila_4 = {
-				}
-				b_ourovila_5 = {
-				}
-				b_ourovila_6 = {
-				}
-			}
-		}
 		d_fontoira = {
 			color={ 199 177 54 }
 			color2={ 255 255 255 }
@@ -6621,36 +6379,37 @@ e_costa_do_sol = {
 			}
 		}
 	}
-	k_los_vientos = {
-		color={ 177 191 75 }
+	k_calheta = {
+		color={ 194 101 61 }
 		color2={ 255 255 255 }
 		
-		capital = 450 # c_illa_de_ventos
+		capital = 470 # c_calheta
 		culture = costano
 		
-		d_los_vientos = {
-			color={ 197 171 85 }
+		d_calheta = {
+			color={ 174 121 51 }
 			color2={ 255 255 255 }
 			
-			capital = 450 # c_illa_de_ventos
+			capital = 470 # c_calheta
 			
-			c_illa_de_ventos = { # 450
-				color={ 207 161 90 }
+			c_calheta = { # 470
+				color={ 164 131 46 }
 				color2={ 255 255 255 }
 				
-				b_illa_de_ventos = {
+				b_calheta = {
 				}
-				b_leiro = {
+				b_praia = {
+					holy_site = zun_pagan
 				}
-				b_tapia = {
+				b_serreta = {
 				}
-				b_illa_de_ventos_2 = {
+				b_luz = {
 				}
-				b_illa_de_ventos_3 = {
+				b_lajes = {
 				}
-				b_illa_de_ventos_4 = {
+				b_agualva = {
 				}
-				b_illa_de_ventos_5 = {
+				b_calheta_2 = {
 				}
 			}
 		}
@@ -6721,6 +6480,8 @@ e_costa_do_sol = {
 				}
 				b_pontepedra = {
 				}
+				b_caldebarcos = {
+				}
 				b_alevia_2 = {
 				}
 				b_alevia_3 = {
@@ -6729,14 +6490,16 @@ e_costa_do_sol = {
 				}
 				b_alevia_5 = {
 				}
-				b_alevia_6 = {
-				}
 			}
 			c_arnados = { # 444
 				color={ 37 110 61 }
 				color2={ 255 255 255 }
 				
 				b_arnados = {
+				}
+				b_codeseda = {
+				}
+				b_tavilo = {
 				}
 				b_arnados_2 = {
 				}
@@ -6745,10 +6508,6 @@ e_costa_do_sol = {
 				b_arnados_4 = {
 				}
 				b_arnados_5 = {
-				}
-				b_arnados_6 = {
-				}
-				b_arnados_7 = {
 				}
 			}
 			c_monterosso = { # 445
@@ -6787,13 +6546,13 @@ e_costa_do_sol = {
 				}
 				b_laxos = {
 				}
+				b_beneso = {
+				}
 				b_loreto_2 = {
 				}
 				b_loreto_3 = {
 				}
 				b_loreto_4 = {
-				}
-				b_loreto_5 = {
 				}
 			}
 			c_xoia = { # 440
@@ -6828,6 +6587,10 @@ e_costa_do_sol = {
 				
 				b_neano = {
 				}
+				b_sestaio = {
+				}
+				b_arriba = {
+				}
 				b_neano_2 = {
 				}
 				b_neano_3 = {
@@ -6835,10 +6598,6 @@ e_costa_do_sol = {
 				b_neano_4 = {
 				}
 				b_neano_5 = {
-				}
-				b_neano_6 = {
-				}
-				b_neano_7 = {
 				}
 			}
 			c_marana = { # 442
@@ -6849,6 +6608,8 @@ e_costa_do_sol = {
 				}
 				b_sovilla = {
 				}
+				b_guldris = {
+				}
 				b_marana_2 = {
 				}
 				b_marana_3 = {
@@ -6857,7 +6618,113 @@ e_costa_do_sol = {
 				}
 				b_marana_5 = {
 				}
-				b_marana_6 = {
+			}
+		}
+	}
+	k_os_ventos = {
+		color={ 177 191 75 }
+		color2={ 255 255 255 }
+		
+		capital = 450 # c_illa_de_ventos
+		culture = costano
+		
+		d_os_ventos = {
+			color={ 197 171 85 }
+			color2={ 255 255 255 }
+			
+			capital = 450 # c_illa_de_ventos
+			
+			c_illa_de_ventos = { # 450
+				color={ 207 161 90 }
+				color2={ 255 255 255 }
+				
+				b_vicesos = {
+				}
+				b_tapia = {
+				}
+				b_venade = {
+				}
+				b_candemil = {
+				}
+				b_portos = {
+				}
+				b_gandra = {
+				}
+				b_moledo = {
+				}
+				b_leiro = {
+				}
+			}
+		}
+	}
+	k_porta = {
+		color={ 223 79 60 }
+		color2={ 255 255 255 }
+		
+		capital = 435 # c_portonovo
+		culture = costano
+		
+		d_vinhoa = {
+			color={ 203 99 50 }
+			color2={ 255 255 255 }
+			
+			capital = 435 # c_portonovo
+			
+			c_portonovo = { # 435
+				color={ 193 109 45 }
+				color2={ 255 255 255 }
+				
+				b_portonovo = {
+				}
+				b_xordos = {
+				}
+				b_portonovo_2 = {
+				}
+				b_portonovo_3 = {
+				}
+				b_portonovo_4 = {
+				}
+				b_portonovo_5 = {
+				}
+				b_portonovo_6 = {
+				}
+			}
+			c_obidos = { # 469
+				color={ 196 111 46 }
+				color2={ 255 255 255 }
+				
+				b_obidos = {
+				}
+				b_obidos_2 = {
+				}
+				b_obidos_3 = {
+				}
+				b_obidos_4 = {
+				}
+				b_obidos_5 = {
+				}
+				b_obidos_6 = {
+				}
+				b_obidos_7 = {
+				}
+			}
+			c_vinhoa = { # 436
+				color={ 204 115 48 }
+				color2={ 255 255 255 }
+				
+				b_vinhoa = {
+				}
+				b_cados = {
+				}
+				b_vinhoa_2 = {
+				}
+				b_vinhoa_3 = {
+				}
+				b_vinhoa_4 = {
+				}
+				b_vinhoa_5 = {
+				}
+				b_vinhoa_6 = {
 				}
 			}
 		}
@@ -6892,25 +6759,6 @@ e_costa_do_sol = {
 				b_ezcaray_6 = {
 				}
 				b_ezcaray_7 = {
-				}
-			}
-			c_lastur = { # 472
-				color={ 91 155 62 }
-				color2={ 255 255 255 }
-				
-				b_lastur = {
-				}
-				b_lastur_2 = {
-				}
-				b_lastur_3 = {
-				}
-				b_lastur_4 = {
-				}
-				b_lastur_5 = {
-				}
-				b_lastur_6 = {
-				}
-				b_lastur_7 = {
 				}
 			}
 		}
@@ -6959,12 +6807,31 @@ e_costa_do_sol = {
 				}
 			}
 		}
-		d_leza = {
-			color={ 68 152 63 }
+		d_lastur = {
+			color={ 101 145 67 }
 			color2={ 255 255 255 }
 			
-			capital = 476 # c_gordoa
+			capital = 472 # c_lastur
 			
+			c_lastur = { # 472
+				color={ 91 155 62 }
+				color2={ 255 255 255 }
+				
+				b_lastur = {
+				}
+				b_lastur_2 = {
+				}
+				b_lastur_3 = {
+				}
+				b_lastur_4 = {
+				}
+				b_lastur_5 = {
+				}
+				b_lastur_6 = {
+				}
+				b_lastur_7 = {
+				}
+			}
 			c_gordoa = { # 476
 				color={ 58 162 58 }
 				color2={ 255 255 255 }
@@ -6982,6 +6849,32 @@ e_costa_do_sol = {
 				b_gordoa_6 = {
 				}
 				b_gordoa_7 = {
+				}
+			}
+		}
+		d_leza = {
+			color={ 63 138 58 }
+			color2={ 255 255 255 }
+			
+			capital = 477 # c_leza
+			
+			c_leza = { # 477
+				color={ 53 148 53 }
+				color2={ 255 255 255 }
+				
+				b_leza = {
+				}
+				b_leza_2 = {
+				}
+				b_leza_3 = {
+				}
+				b_leza_4 = {
+				}
+				b_leza_5 = {
+				}
+				b_leza_6 = {
+				}
+				b_leza_7 = {
 				}
 			}
 			c_azkoitia = { # 478
@@ -7003,23 +6896,204 @@ e_costa_do_sol = {
 				b_azkoitia_7 = {
 				}
 			}
-			c_leza = { # 477
-				color={ 53 148 53 }
+		}
+	}
+	k_visalia = {
+		color={ 166 201 58 }
+		color2={ 255 255 255 }
+		
+		capital = 451 # c_verride
+		culture = costano
+		
+		d_verride = {
+			color={ 186 181 68 }
+			color2={ 255 255 255 }
+			
+			capital = 451 # c_verride
+			
+			c_verride = { # 451
+				color={ 196 171 73 }
 				color2={ 255 255 255 }
 				
-				b_leza = {
+				b_verride = {
 				}
-				b_leza_2 = {
+				b_beade = {
 				}
-				b_leza_3 = {
+				b_verride_2 = {
 				}
-				b_leza_4 = {
+				b_verride_3 = {
 				}
-				b_leza_5 = {
+				b_verride_4 = {
 				}
-				b_leza_6 = {
+				b_verride_5 = {
 				}
-				b_leza_7 = {
+				b_verride_6 = {
+				}
+			}
+			c_escuna = { # 452
+				color={ 189 164 64 }
+				color2={ 255 255 255 }
+				
+				b_escuna = {
+				}
+				b_fabero = {
+				}
+				b_escuna_2 = {
+				}
+				b_escuna_3 = {
+				}
+				b_escuna_4 = {
+				}
+				b_escuna_5 = {
+				}
+				b_escuna_6 = {
+				}
+			}
+			c_louro = { # 453
+				color={ 171 148 58 }
+				color2={ 255 255 255 }
+				
+				b_louro = {
+				}
+				b_rubia = {
+				}
+				b_louro_2 = {
+				}
+				b_louro_3 = {
+				}
+				b_louro_4 = {
+				}
+				b_louro_5 = {
+				}
+				b_louro_6 = {
+				}
+			}
+		}
+		d_candeda = {
+			color={ 183 153 63 }
+			color2={ 255 255 255 }
+			
+			capital = 454 # c_candeda
+			
+			c_candeda = { # 454
+				color={ 193 143 68 }
+				color2={ 255 255 255 }
+				
+				b_candeda = {
+				}
+				b_lumeras = {
+				}
+				b_candeda_2 = {
+				}
+				b_candeda_3 = {
+				}
+				b_candeda_4 = {
+				}
+				b_candeda_5 = {
+				}
+				b_candeda_6 = {
+				}
+			}
+			c_fonteboa = { # 455
+				color={ 195 139 55 }
+				color2={ 255 255 255 }
+				
+				b_fonteboa = {
+				}
+				b_fresnedelo = {
+				}
+				b_fonteboa_2 = {
+				}
+				b_fonteboa_3 = {
+				}
+				b_fonteboa_4 = {
+				}
+				b_fonteboa_5 = {
+				}
+				b_fonteboa_6 = {
+				}
+			}
+			c_solano = { # 456
+				color={ 200 150 74 }
+				color2={ 255 255 255 }
+				
+				b_solano = {
+				}
+				b_virigo = {
+				}
+				b_solano_2 = {
+				}
+				b_solano_3 = {
+				}
+				b_solano_4 = {
+				}
+				b_solano_5 = {
+				}
+				b_solano_6 = {
+				}
+			}
+		}
+		d_pieros = {
+			color={ 198 140 67 }
+			color2={ 255 255 255 }
+			
+			capital = 457 # c_tres_pinheiros
+			
+			c_tres_pinheiros = { # 457
+				color={ 208 130 72 }
+				color2={ 255 255 255 }
+				
+				b_tres_pinheiros = {
+				}
+				b_lucenza = {
+				}
+				b_pias = {
+				}
+				b_sago = {
+				}
+				b_tangil = {
+				}
+				b_crastos = {
+				}
+				b_pomares = {
+				}
+			}
+			c_a_montana = { # 458
+				color={ 225 137 72 }
+				color2={ 255 255 255 }
+				
+				b_a_montana = {
+				}
+				b_penaverde = {
+				}
+				b_lapela = {
+				}
+				b_gulans = {
+				}
+				b_muro = {
+				}
+				b_fundegos = {
+				}
+				b_molegos = {
+				}
+			}
+			c_pieros = { # 459
+				color={ 210 130 70 }
+				color2={ 255 255 255 }
+				
+				b_pieros = {
+				}
+				b_baldriz = {
+				}
+				b_lordelo = {
+				}
+				b_ruivos = {
+				}
+				b_maninho = {
+				}
+				b_sainde = {
+				}
+				b_vilar = {
 				}
 			}
 		}
@@ -11385,7 +11459,7 @@ e_rayne = {
 				color={ 22 156 36 }
 				color2={ 255 255 255 }
 				
-				b_arlens = {
+				b_muron = {
 				}
 				b_lanvron = {
 				}
@@ -11454,7 +11528,7 @@ e_rayne = {
 		capital = 5 # c_rocheroyale
 		culture = eastern_rayne
 		
-		d_rocheroyale = {
+		d_villosque = {
 			color={ 133 253 87 }
 			color2={ 255 255 255 }
 			
@@ -11479,25 +11553,6 @@ e_rayne = {
 				b_aguse = {
 				}
 			}
-			c_portbrume = { # 7
-				color={ 127 46 98 }
-				color2={ 255 255 255 }
-				
-				b_portbrume = {
-				}
-				b_nivront = {
-				}
-				b_lothairville = {
-				}
-				b_fleuris = {
-				}
-				b_vreux = {
-				}
-				b_trellour = {
-				}
-				b_calmille = {
-				}
-			}
 			c_rivevaux = { # 6
 				color={ 170 60 131 }
 				color2={ 255 255 255 }
@@ -11515,122 +11570,6 @@ e_rayne = {
 				b_montseuse = {
 				}
 				b_duvalle = {
-				}
-			}
-		}
-		d_augnon = {
-			color={ 79 145 77 }
-			color2={ 255 255 255 }
-			
-			capital = 9 # c_augnon
-			
-			c_augnon = { # 9
-				color={ 69 155 72 }
-				color2={ 255 255 255 }
-				
-				b_augnon = {
-				}
-				b_catront = {
-				}
-				b_siger = {
-				}
-				b_babeux = {
-				}
-				b_geufont = {
-				}
-				b_monfois = {
-				}
-				b_oidail = {
-				}
-			}
-			c_hautroc = { # 8
-				color={ 83 173 86 }
-				color2={ 255 255 255 }
-				
-				b_hautroc = {
-				}
-				b_montvert = {
-				}
-				b_epois = {
-				}
-				b_ruire = {
-				}
-				b_vivac = {
-				}
-				b_sivrieu = {
-				}
-				b_begneux = {
-				}
-			}
-		}
-		d_lierretour = {
-			color={ 115 210 192 }
-			color2={ 255 255 255 }
-			
-			capital = 10 # c_lierretour
-			
-			c_lierretour = { # 10
-				color={ 125 200 197 }
-				color2={ 255 255 255 }
-				
-				b_lierretour = {
-				}
-				b_gruse = {
-				}
-				b_frontiere = {
-				}
-				b_graal = {
-				}
-				b_rerauld = {
-				}
-				b_vieu = {
-				}
-				b_erasme = {
-				}
-			}
-			c_briban = { # 11
-				color={ 124 179 193 }
-				color2={ 255 255 255 }
-				
-				b_briban = {
-				}
-				b_lufont = {
-				}
-				b_altail = {
-				}
-				b_hocfont = {
-				}
-				b_neuforest = {
-				}
-				b_monpelegrin = {
-				}
-				b_silisle = {
-				}
-			}
-		}
-		d_villosque = {
-			color={ 97 126 174 }
-			color2={ 255 255 255 }
-			
-			capital = 12 # c_villosque
-			
-			c_villosque = { # 12
-				color={ 107 116 179 }
-				color2={ 255 255 255 }
-				
-				b_villosque = {
-				}
-				b_dulieu = {
-				}
-				b_luvry = {
-				}
-				b_bent = {
-				}
-				b_sois = {
-				}
-				b_fontalle = {
-				}
-				b_irnenc = {
 				}
 			}
 			c_trone = { # 13
@@ -11652,11 +11591,139 @@ e_rayne = {
 				b_catranches = {
 				}
 			}
-			c_vauvord = { # 14
+			c_villosque = { # 12
+				color={ 107 116 179 }
+				color2={ 255 255 255 }
+				
+				b_villosque = {
+				}
+				b_dulieu = {
+				}
+				b_luvry = {
+				}
+				b_bent = {
+				}
+				b_sois = {
+				}
+				b_fontalle = {
+				}
+				b_irnenc = {
+				}
+			}
+		}
+		d_lierretour = {
+			color={ 93 163 91 }
+			color2={ 255 255 255 }
+			
+			capital = 8 # c_hautroc
+			
+			c_hautroc = { # 8
+				color={ 83 173 86 }
+				color2={ 255 255 255 }
+				
+				b_hautroc = {
+				}
+				b_montvert = {
+				}
+				b_epois = {
+				}
+				b_ruire = {
+				}
+				b_vivac = {
+				}
+				b_sivrieu = {
+				}
+				b_begneux = {
+				}
+			}
+			c_augnon = { # 9
+				color={ 69 155 72 }
+				color2={ 255 255 255 }
+				
+				b_augnon = {
+				}
+				b_catront = {
+				}
+				b_siger = {
+				}
+				b_babeux = {
+				}
+				b_geufont = {
+				}
+				b_monfois = {
+				}
+				b_oidail = {
+				}
+			}
+			c_lierretour = { # 10
+				color={ 125 200 197 }
+				color2={ 255 255 255 }
+				
+				b_lierretour = {
+				}
+				b_gruse = {
+				}
+				b_frontiere = {
+				}
+				b_graal = {
+				}
+				b_rerauld = {
+				}
+				b_vieu = {
+				}
+				b_erasme = {
+				}
+			}
+		}
+		d_vandovre = {
+			color={ 137 36 103 }
+			color2={ 255 255 255 }
+			
+			capital = 7 # c_blanmue
+			
+			c_blanmue = { # 7
+				color={ 127 46 98 }
+				color2={ 255 255 255 }
+				
+				b_blanmue = {
+				}
+				b_nivront = {
+				}
+				b_lothairville = {
+				}
+				b_fleuris = {
+				}
+				b_vreux = {
+				}
+				b_trellour = {
+				}
+				b_calmille = {
+				}
+			}
+			c_briban = { # 11
+				color={ 124 179 193 }
+				color2={ 255 255 255 }
+				
+				b_briban = {
+				}
+				b_lufont = {
+				}
+				b_altail = {
+				}
+				b_hocfont = {
+				}
+				b_neuforest = {
+				}
+				b_monpelegrin = {
+				}
+				b_silisle = {
+				}
+			}
+			c_vandovre = { # 14
 				color={ 128 136 190 }
 				color2={ 255 255 255 }
 				
-				b_vauvord = {
+				b_vandovre = {
 				}
 				b_lois = {
 				}
@@ -11808,31 +11875,12 @@ e_rayne = {
 				}
 			}
 		}
-		d_forgeours = {
-			color={ 120 40 150 }
+		d_castellaine = {
+			color={ 158 127 191 }
 			color2={ 255 255 255 }
 			
-			capital = 126 # c_forgeours
+			capital = 127 # c_aiguevieille
 			
-			c_forgeours = { # 126
-				color={ 110 50 145 }
-				color2={ 255 255 255 }
-				
-				b_forgeours = {
-				}
-				b_peytois = {
-				}
-				b_brefends = {
-				}
-				b_tamauls = {
-				}
-				b_querny = {
-				}
-				b_vur = {
-				}
-				b_valette_2 = {
-				}
-			}
 			c_aiguevieille = { # 127
 				color={ 168 117 196 }
 				color2={ 255 255 255 }
@@ -12776,26 +12824,26 @@ e_rayne = {
 		color={ 162 113 109 }
 		color2={ 255 255 255 }
 		
-		capital = 73 # c_pontneuf
+		capital = 73 # c_loverne
 		culture = nordval_rayne
 		
-		d_pontneuf = {
+		d_loverne = {
 			color={ 182 93 119 }
 			color2={ 255 255 255 }
 			
-			capital = 73 # c_pontneuf
+			capital = 73 # c_loverne
 			
-			c_pontneuf = { # 73
+			c_loverne = { # 73
 				color={ 192 83 124 }
 				color2={ 255 255 255 }
 				
-				b_pontneuf = {
-				}
-				b_sparmont = {
+				b_loverne = {
 				}
 				b_andesne = {
 				}
 				b_valotte = {
+				}
+				b_domors = {
 				}
 				b_pointeclaire = {
 				}
@@ -12804,30 +12852,11 @@ e_rayne = {
 				b_chervey = {
 				}
 			}
-			c_heure = { # 72
-				color={ 189 67 113 }
-				color2={ 255 255 255 }
-				
-				b_heure = {
-				}
-				b_mongral = {
-				}
-				b_briant = {
-				}
-				b_lacerte = {
-				}
-				b_lovragne = {
-				}
-				b_payns = {
-				}
-				b_chevreul = {
-				}
-			}
-			c_laigle = { # 74
+			c_ernomes = { # 74
 				color={ 163 59 98 }
 				color2={ 255 255 255 }
 				
-				b_laigle = {
+				b_ernomes = {
 				}
 				b_contec = {
 				}
@@ -12840,6 +12869,25 @@ e_rayne = {
 				b_sophie = {
 				}
 				b_pitres = {
+				}
+			}
+			c_laennes = { # 72
+				color={ 189 67 113 }
+				color2={ 255 255 255 }
+				
+				b_laennes = {
+				}
+				b_mongral = {
+				}
+				b_briant = {
+				}
+				b_lacerte = {
+				}
+				b_lovragne = {
+				}
+				b_payns = {
+				}
+				b_chevreul = {
 				}
 			}
 		}
@@ -13706,6 +13754,25 @@ e_rayne = {
 				b_epinac = {
 				}
 			}
+			c_cerfval = { # 50
+				color={ 199 113 66 }
+				color2={ 255 255 255 }
+				
+				b_cerfval = {
+				}
+				b_masimon = {
+				}
+				b_catasque = {
+				}
+				b_muse = {
+				}
+				b_verdier = {
+				}
+				b_digoin = {
+				}
+				b_lantilly = {
+				}
+			}
 			c_nicolet = { # 44
 				color={ 144 72 96 }
 				color2={ 255 255 255 }
@@ -13751,51 +13818,6 @@ e_rayne = {
 				b_vievy = {
 				}
 			}
-			c_longueuil = { # 46
-				color={ 186 169 80 }
-				color2={ 255 255 255 }
-				
-				b_longueuil = {
-				}
-				b_rognaix = {
-				}
-				b_fortel = {
-				}
-				b_ivec = {
-				}
-				b_bregout = {
-				}
-				b_graal_2 = {
-				}
-				b_magnien = {
-				}
-			}
-			c_quibelle = { # 47
-				color={ 156 140 56 }
-				color2={ 255 255 255 }
-				
-				b_quibelle = {
-				}
-				b_laurence = {
-				}
-				b_la_poile = {
-				}
-				b_vers = {
-				}
-				b_mezurat = {
-				}
-				b_curdin = {
-				}
-				b_eguilly = {
-				}
-			}
-		}
-		d_lamont = {
-			color={ 195 96 68 }
-			color2={ 255 255 255 }
-			
-			capital = 48 # c_lamont
-			
 			c_lamont = { # 48
 				color={ 185 106 63 }
 				color2={ 255 255 255 }
@@ -13815,25 +13837,6 @@ e_rayne = {
 				b_chassey = {
 				}
 			}
-			c_cerfval = { # 50
-				color={ 199 113 66 }
-				color2={ 255 255 255 }
-				
-				b_cerfval = {
-				}
-				b_masimon = {
-				}
-				b_catasque = {
-				}
-				b_muse = {
-				}
-				b_verdier = {
-				}
-				b_digoin = {
-				}
-				b_lantilly = {
-				}
-			}
 			c_rigauche = { # 49
 				color={ 151 89 54 }
 				color2={ 255 255 255 }
@@ -13851,6 +13854,70 @@ e_rayne = {
 				b_chaleis = {
 				}
 				b_brauls = {
+				}
+			}
+		}
+		d_quibelle = {
+			color={ 176 179 75 }
+			color2={ 255 255 255 }
+			
+			capital = 46 # c_longueuil
+			
+			c_longueuil = { # 46
+				color={ 186 169 80 }
+				color2={ 255 255 255 }
+				
+				b_longueuil = {
+				}
+				b_rognaix = {
+				}
+				b_fortel = {
+				}
+				b_ivec = {
+				}
+				b_bregout = {
+				}
+				b_graal_2 = {
+				}
+				b_magnien = {
+				}
+			}
+			c_forgeours = { # 126
+				color={ 110 50 145 }
+				color2={ 255 255 255 }
+				
+				b_forgeours = {
+				}
+				b_peytois = {
+				}
+				b_brefends = {
+				}
+				b_tamauls = {
+				}
+				b_querny = {
+				}
+				b_vur = {
+				}
+				b_valette_2 = {
+				}
+			}
+			c_quibelle = { # 47
+				color={ 156 140 56 }
+				color2={ 255 255 255 }
+				
+				b_quibelle = {
+				}
+				b_laurence = {
+				}
+				b_la_poile = {
+				}
+				b_vers = {
+				}
+				b_mezurat = {
+				}
+				b_curdin = {
+				}
+				b_eguilly = {
 				}
 			}
 		}
@@ -13899,6 +13966,25 @@ e_rayne = {
 				b_treogan = {
 				}
 			}
+			c_canibri = { # 103
+				color={ 201 140 166 }
+				color2={ 255 255 255 }
+				
+				b_canibri = {
+				}
+				b_medulla = {
+				}
+				b_miobri = {
+				}
+				b_percunos = {
+				}
+				b_canibri_2 = {
+				}
+				b_canibri_3 = {
+				}
+				b_canibri_4 = {
+				}
+			}
 			c_carentomagos = { # 71
 				color={ 195 136 161 }
 				color2={ 255 255 255 }
@@ -13926,32 +14012,6 @@ e_rayne = {
 				b_arradon = {
 				}
 				b_rivou = {
-				}
-			}
-		}
-		d_turcotte = {
-			color={ 191 150 161 }
-			color2={ 255 255 255 }
-			
-			capital = 103 # c_canibri
-			
-			c_canibri = { # 103
-				color={ 201 140 166 }
-				color2={ 255 255 255 }
-				
-				b_canibri = {
-				}
-				b_medulla = {
-				}
-				b_miobri = {
-				}
-				b_percunos = {
-				}
-				b_canibri_2 = {
-				}
-				b_canibri_3 = {
-				}
-				b_canibri_4 = {
 				}
 			}
 		}

@@ -3,9 +3,9 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-761.12.22={
-	holder=3204
+759.4.4={
+	holder=3304
 }
 762.1.1={
-	liege=k_belieu
+	liege=d_villosque
 }

@@ -1,6 +1,9 @@
 50.1.1={
-liege=d_vinhoa
+liege=k_porta
 }
 385.1.1={
 holder=128
+}
+766.1.1={
+holder=143
 }

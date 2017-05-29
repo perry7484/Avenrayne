@@ -9,8 +9,6 @@ d_abercywarch;Abercywarch;Abercywarch;Abercywarch;;Abercywarch;;;;;;;;;x
 d_abercywarch_adj;Abercywarchian;;abercywarcher;;;;;;;;;;;x
 d_abergweysn;Abergweysn;Abergweysn;Abergweysn;;Abergweysn;;;;;;;;;x
 d_abergweysn_adj;Abergweysnian;;abergweysner;;;;;;;;;;;x
-d_abernay;Abernay;Abernay;Abernay;;Abernay;;;;;;;;;x
-d_abernay_adj;Abernaian;;abernaer;;;;;;;;;;;x
 d_abrera;Abrera;Abrera;Abrera;;Abrera;;;;;;;;;x
 d_abrera_adj;Abreran;;abrerer;;;;;;;;;;;x
 d_achelos;Achelos;Achelos;Achelos;;Achelos;;;;;;;;;x
@@ -33,6 +31,8 @@ d_alevia;Alevia;Alevia;Alevia;;Alevia;;;;;;;;;x
 d_alevia_adj;Alevian;;alever;;;;;;;;;;;x
 d_alssahil_khasibatan;Alssahil Khasibatan;Alssahil Khasibatan;Alssahil Khasibatan;;Alssahil Khasibatan;;;;;;;;;x
 d_alssahil_khasibatan_adj;Alssahil Khasibatanian;;Alssahil Khasibataner;;;;;;;;;;;x
+d_ambrin;Ambrin;Ambrin;Ambrin;;Ambrin;;;;;;;;;x
+d_ambrin_adj;Ambrinian;;ambriner;;;;;;;;;;;x
 d_amianti;Amianti;Amianti;Amianti;;Amianti;;;;;;;;;x
 d_amianti_adj;Amiantian;;amianter;;;;;;;;;;;x
 d_amnu;Amnu;Amnu;Amnu;;Amnu;;;;;;;;;x
@@ -61,8 +61,6 @@ d_aschau;Aschau;Aschau;Aschau;;Aschau;;;;;;;;;x
 d_aschau_adj;Aschian;;ascher;;;;;;;;;;;x
 d_asele;Asele;Asele;Asele;;Asele;;;;;;;;;x
 d_asele_adj;Aselean;;aseler;;;;;;;;;;;x
-d_augnon;Augnon;Augnon;Augnon;;Augnon;;;;;;;;;x
-d_augnon_adj;Augnonian;;augnoner;;;;;;;;;;;x
 d_ausoleil;Ausoleil;Ausoleil;Ausoleil;;Ausoleil;;;;;;;;;x
 d_ausoleil_adj;Ausoleilian;;ausoleiler;;;;;;;;;;;x
 d_austurfjoerdhur;Austurfjörður;Austurfjörður;Austurfjörður;;Austurfjörður;;;;;;;;;x
@@ -95,6 +93,8 @@ d_brearton;Brearton;Brearton;Brearton;;Brearton;;;;;;;;;x
 d_brearton_adj;Breartonian;;breartoner;;;;;;;;;;;x
 d_bringen;Bringen;Bringen;Bringen;;Bringen;;;;;;;;;x
 d_bringen_adj;Bringenian;;bringener;;;;;;;;;;;x
+d_brisellos;Brisellos;Brisellos;Brisellos;;Brisellos;;;;;;;;;x
+d_brisellos_adj;Brisellosian;;briselloser;;;;;;;;;;;x
 d_cagac;Cagac;Cagac;Cagac;;Cagac;;;;;;;;;x
 d_cagac_adj;Cagacian;;cagacer;;;;;;;;;;;x
 d_cailla;Cailla;Cailla;Cailla;;Cailla;;;;;;;;;x
@@ -119,6 +119,8 @@ d_carrais;Carrais;Carrais;Carrais;;Carrais;;;;;;;;;x
 d_carrais_adj;Carraisian;;carraiser;;;;;;;;;;;x
 d_castelfol;Castelfol;Castelfol;Castelfol;;Castelfol;;;;;;;;;x
 d_castelfol_adj;Castelfolian;;castelfoler;;;;;;;;;;;x
+d_castellaine;Castellaine;Castellaine;Castellaine;;Castellaine;;;;;;;;;x
+d_castellaine_adj;Castellainean;;castellainer;;;;;;;;;;;x
 d_celra;Celrà;Celrà;Celrà;;Celrà;;;;;;;;;x
 d_celra_adj;Celràian;;celràer;;;;;;;;;;;x
 d_cerratina;Cerratina;Cerratina;Cerratina;;Cerratina;;;;;;;;;x
@@ -177,8 +179,6 @@ d_fontoira;Fontoira;Fontoira;Fontoira;;Fontoira;;;;;;;;;x
 d_fontoira_adj;Fontoiran;;fontoirer;;;;;;;;;;;x
 d_fordhamshire;Fordhamshire;Fordhamshire;Fordhamshire;;Fordhamshire;;;;;;;;;x
 d_fordhamshire_adj;Fordhamshirean;;fordhamshirer;;;;;;;;;;;x
-d_forgeours;Forgeours;Forgeours;Forgeours;;Forgeours;;;;;;;;;x
-d_forgeours_adj;Forgeoursian;;forgeourser;;;;;;;;;;;x
 d_fortineau;Fortineau;Fortineau;Fortineau;;Fortineau;;;;;;;;;x
 d_fortineau_adj;Fortinian;;fortiner;;;;;;;;;;;x
 d_friog;Friog;Friog;Friog;;Friog;;;;;;;;;x
@@ -233,8 +233,6 @@ d_isle_de_rayne;Isle-de-Rayne;Isle-de-Rayne;Isle-de-Rayne;;Isle-de-Rayne;;;;;;;;
 d_isle_de_rayne_adj;Isle-de-Raynean;;isle-de-rayner;;;;;;;;;;;x
 d_jubek;Jubek;Jubek;Jubek;;Jubek;;;;;;;;;x
 d_jubek_adj;Jubekian;;jubeker;;;;;;;;;;;x
-d_june;June;June;June;;June;;;;;;;;;x
-d_june_adj;Junean;;juner;;;;;;;;;;;x
 d_kajce;Kajce;Kajce;Kajce;;Kajce;;;;;;;;;x
 d_kajce_adj;Kajcean;;kajcer;;;;;;;;;;;x
 d_ketunkorpi;Ketunkorpi;Ketunkorpi;Ketunkorpi;;Ketunkorpi;;;;;;;;;x
@@ -251,10 +249,10 @@ d_la_paix;La Paix;La Paix;La Paix;;La Paix;;;;;;;;;x
 d_la_paix_adj;La Paixian;;La Paixer;;;;;;;;;;;x
 d_laea;Laea;Laea;Laea;;Laea;;;;;;;;;x
 d_laea_adj;Laean;;ler;;;;;;;;;;;x
-d_lamont;Lamont;Lamont;Lamont;;Lamont;;;;;;;;;x
-d_lamont_adj;Lamontian;;lamonter;;;;;;;;;;;x
 d_lanteira;Lanteira;Lanteira;Lanteira;;Lanteira;;;;;;;;;x
 d_lanteira_adj;Lanteiran;;lanteirer;;;;;;;;;;;x
+d_lastur;Lastur;Lastur;Lastur;;Lastur;;;;;;;;;x
+d_lastur_adj;Lasturian;;lasturer;;;;;;;;;;;x
 d_laugarvik;Laugarvik;Laugarvik;Laugarvik;;Laugarvik;;;;;;;;;x
 d_laugarvik_adj;Laugarvikian;;laugarviker;;;;;;;;;;;x
 d_laval;Laval;Laval;Laval;;Laval;;;;;;;;;x
@@ -277,6 +275,8 @@ d_liland;Liland;Liland;Liland;;Liland;;;;;;;;;x
 d_liland_adj;Lilandian;;lilander;;;;;;;;;;;x
 d_linosa;Linosa;Linosa;Linosa;;Linosa;;;;;;;;;x
 d_linosa_adj;Linosan;;linoser;;;;;;;;;;;x
+d_linovia;Linovia;Linovia;Linovia;;Linovia;;;;;;;;;x
+d_linovia_adj;Linovian;;linover;;;;;;;;;;;x
 d_lipica;Lipica;Lipica;Lipica;;Lipica;;;;;;;;;x
 d_lipica_adj;Lipican;;lipicer;;;;;;;;;;;x
 d_lisia;Lisia;Lisia;Lisia;;Lisia;;;;;;;;;x
@@ -285,8 +285,8 @@ d_lopera;Lopera;Lopera;Lopera;;Lopera;;;;;;;;;x
 d_lopera_adj;Loperan;;loperer;;;;;;;;;;;x
 d_loreto;Loreto;Loreto;Loreto;;Loreto;;;;;;;;;x
 d_loreto_adj;Loretian;;loreter;;;;;;;;;;;x
-d_los_vientos;Los Vientos;Los Vientos;Los Vientos;;Los Vientos;;;;;;;;;x
-d_los_vientos_adj;Los Vientosian;;Los Vientoser;;;;;;;;;;;x
+d_loverne;Loverne;Loverne;Loverne;;Loverne;;;;;;;;;x
+d_loverne_adj;Lovernean;;loverner;;;;;;;;;;;x
 d_luncani;Luncani;Luncani;Luncani;;Luncani;;;;;;;;;x
 d_luncani_adj;Luncanian;;luncaner;;;;;;;;;;;x
 d_luss;Luss;Luss;Luss;;Luss;;;;;;;;;x
@@ -311,8 +311,8 @@ d_matherton;Matherton;Matherton;Matherton;;Matherton;;;;;;;;;x
 d_matherton_adj;Mathertonian;;mathertoner;;;;;;;;;;;x
 d_medana;Medana;Medana;Medana;;Medana;;;;;;;;;x
 d_medana_adj;Medanan;;medaner;;;;;;;;;;;x
-d_medford;Medford;Medford;Medford;;Medford;;;;;;;;;x
-d_medford_adj;Medfordian;;medforder;;;;;;;;;;;x
+d_medavon;Medavon;Medavon;Medavon;;Medavon;;;;;;;;;x
+d_medavon_adj;Medavonian;;medavoner;;;;;;;;;;;x
 d_merouana;Merouana;Merouana;Merouana;;Merouana;;;;;;;;;x
 d_merouana_adj;Merouanan;;merouaner;;;;;;;;;;;x
 d_milhonta;Milhonta;Milhonta;Milhonta;;Milhonta;;;;;;;;;x
@@ -361,6 +361,8 @@ d_onarheim;Onarheim;Onarheim;Onarheim;;Onarheim;;;;;;;;;x
 d_onarheim_adj;Onarheimian;;onarheimer;;;;;;;;;;;x
 d_ortovia;Ortovia;Ortovia;Ortovia;;Ortovia;;;;;;;;;x
 d_ortovia_adj;Ortovian;;ortover;;;;;;;;;;;x
+d_os_ventos;Os Ventos;Os Ventos;Os Ventos;;Os Ventos;;;;;;;;;x
+d_os_ventos_adj;Os Ventosian;;Os Ventoser;;;;;;;;;;;x
 d_paltamo;Paltamo;Paltamo;Paltamo;;Paltamo;;;;;;;;;x
 d_paltamo_adj;Paltamian;;paltamer;;;;;;;;;;;x
 d_patoco;Patoco;Patoco;Patoco;;Patoco;;;;;;;;;x
@@ -377,10 +379,10 @@ d_picroux;Picroux;Picroux;Picroux;;Picroux;;;;;;;;;x
 d_picroux_adj;Picrouxian;;picrouxer;;;;;;;;;;;x
 d_piedmont;Piedmont;Piedmont;Piedmont;;Piedmont;;;;;;;;;x
 d_piedmont_adj;Piedmontian;;piedmonter;;;;;;;;;;;x
+d_pieros;Pieros;Pieros;Pieros;;Pieros;;;;;;;;;x
+d_pieros_adj;Pierosian;;pieroser;;;;;;;;;;;x
 d_poloria;Poloria;Poloria;Poloria;;Poloria;;;;;;;;;x
 d_poloria_adj;Polorian;;polorer;;;;;;;;;;;x
-d_pontneuf;Pontneuf;Pontneuf;Pontneuf;;Pontneuf;;;;;;;;;x
-d_pontneuf_adj;Pontneufian;;pontneufer;;;;;;;;;;;x
 d_porlammi;Porlammi;Porlammi;Porlammi;;Porlammi;;;;;;;;;x
 d_porlammi_adj;Porlammian;;porlammer;;;;;;;;;;;x
 d_prado;Prado;Prado;Prado;;Prado;;;;;;;;;x
@@ -395,6 +397,8 @@ d_punto;Punto;Punto;Punto;;Punto;;;;;;;;;x
 d_punto_adj;Puntian;;punter;;;;;;;;;;;x
 d_qirum;Qirum;Qirum;Qirum;;Qirum;;;;;;;;;x
 d_qirum_adj;Qirumian;;qirumer;;;;;;;;;;;x
+d_quibelle;Quibelle;Quibelle;Quibelle;;Quibelle;;;;;;;;;x
+d_quibelle_adj;Quibellean;;quibeller;;;;;;;;;;;x
 d_quillazu;Quillazù;Quillazù;Quillazù;;Quillazù;;;;;;;;;x
 d_quillazu_adj;Quillazùian;;quillazùer;;;;;;;;;;;x
 d_raippo;Raippo;Raippo;Raippo;;Raippo;;;;;;;;;x
@@ -407,8 +411,6 @@ d_rennaise;Rennaise;Rennaise;Rennaise;;Rennaise;;;;;;;;;x
 d_rennaise_adj;Rennaisean;;rennaiser;;;;;;;;;;;x
 d_rigaille;Rigaille;Rigaille;Rigaille;;Rigaille;;;;;;;;;x
 d_rigaille_adj;Rigaillean;;rigailler;;;;;;;;;;;x
-d_rocheroyale;Rocheroyale;Rocheroyale;Rocheroyale;;Rocheroyale;;;;;;;;;x
-d_rocheroyale_adj;Rocheroyalean;;rocheroyaler;;;;;;;;;;;x
 d_rohrbach;Rohrbach;Rohrbach;Rohrbach;;Rohrbach;;;;;;;;;x
 d_rohrbach_adj;Rohrbachian;;rohrbacher;;;;;;;;;;;x
 d_romissa;Romissa;Romissa;Romissa;;Romissa;;;;;;;;;x
@@ -425,8 +427,6 @@ d_scalasaig;Scalasaig;Scalasaig;Scalasaig;;Scalasaig;;;;;;;;;x
 d_scalasaig_adj;Scalasaigian;;scalasaiger;;;;;;;;;;;x
 d_selas;Selas;Selas;Selas;;Selas;;;;;;;;;x
 d_selas_adj;Selasian;;selaser;;;;;;;;;;;x
-d_selby;Selby;Selby;Selby;;Selby;;;;;;;;;x
-d_selby_adj;Selbian;;selber;;;;;;;;;;;x
 d_semacria;Semacria;Semacria;Semacria;;Semacria;;;;;;;;;x
 d_semacria_adj;Semacrian;;semacrer;;;;;;;;;;;x
 d_semna;Semna;Semna;Semna;;Semna;;;;;;;;;x
@@ -483,12 +483,8 @@ d_tosses;Tosses;Tosses;Tosses;;Tosses;;;;;;;;;x
 d_tosses_adj;Tossesian;;tosseser;;;;;;;;;;;x
 d_totana;Totana;Totana;Totana;;Totana;;;;;;;;;x
 d_totana_adj;Totanan;;totaner;;;;;;;;;;;x
-d_tres_pinheiros;Três Pinheiros;Três Pinheiros;Três Pinheiros;;Três Pinheiros;;;;;;;;;x
-d_tres_pinheiros_adj;Três Pinheirosian;;Três Pinheiroser;;;;;;;;;;;x
 d_tromvik;Tromvik;Tromvik;Tromvik;;Tromvik;;;;;;;;;x
 d_tromvik_adj;Tromvikian;;tromviker;;;;;;;;;;;x
-d_turcotte;Turcotte;Turcotte;Turcotte;;Turcotte;;;;;;;;;x
-d_turcotte_adj;Turcottean;;turcotter;;;;;;;;;;;x
 d_tutun;Tutun;Tutun;Tutun;;Tutun;;;;;;;;;x
 d_tutun_adj;Tutunian;;tutuner;;;;;;;;;;;x
 d_tywyn;Tywyn;Tywyn;Tywyn;;Tywyn;;;;;;;;;x
@@ -501,8 +497,10 @@ d_val_dor;Val D'or;Val D'or;Val D'or;;Val D'or;;;;;;;;;x
 d_val_dor_adj;Val D'orian;;Val D'orer;;;;;;;;;;;x
 d_valeni;Valeni;Valeni;Valeni;;Valeni;;;;;;;;;x
 d_valeni_adj;Valenian;;valener;;;;;;;;;;;x
-d_verno;Vern?;Vern?;Vern?;;Vern?;;;;;;;;;x
-d_verno_adj;Vern?ian;;vern?er;;;;;;;;;;;x
+d_vandovre;Vandovre;Vandovre;Vandovre;;Vandovre;;;;;;;;;x
+d_vandovre_adj;Vandovrean;;vandovrer;;;;;;;;;;;x
+d_verno;Verno;Verno;Verno;;Verno;;;;;;;;;x
+d_verno_adj;Vernian;;verner;;;;;;;;;;;x
 d_verride;Verride;Verride;Verride;;Verride;;;;;;;;;x
 d_verride_adj;Verridean;;verrider;;;;;;;;;;;x
 d_vigalle;Vigalle;Vigalle;Vigalle;;Vigalle;;;;;;;;;x

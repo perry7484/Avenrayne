@@ -1084,15 +1084,15 @@
 	dynasty=18
 	dna="wzwicyjybes"
 	portrait="chzdck00000000"
-	culture=costano religion=zunist
+	culture=costano religion=zun_pagan
 	361.5.4={ birth=yes }
 	411.9.12={ death=yes }
 }
 129={
-	name=Muno
+	name=Munio
 	dynasty=19
   dna="b0be00egda0"
-	culture=costano religion=zunist
+	culture=costano religion=zun_pagan
 	361.5.4={ birth=yes }
 	411.9.12={ death=yes }
 }
@@ -1100,7 +1100,7 @@
 	name=Lopo
 	dynasty=20
   dna="bggif0ea0a0"
-	culture=costano religion=zunist
+	culture=costano religion=zun_pagan
 	361.5.4={ birth=yes }
 	411.9.12={ death=yes }
 }
@@ -1108,7 +1108,7 @@
 	name=Ario
 	dynasty=21
 	dna="a0wi00ea0a0"
-	culture=pravio religion=zunist
+	culture=pravio religion=zun_pagan
 	361.5.4={ birth=yes }
 	411.9.12={ death=yes }
 }
@@ -1166,4 +1166,142 @@
 	culture=capracciana religion=hellenic_pagan
 	378.10.29={ birth=yes }
 	434.2.15={ death=yes }
+}
+139={
+	name=Ernesto
+	dynasty=29
+	culture=soreno religion=miaphysite
+	361.5.30={ birth=yes }
+	434.2.15={ death=yes }
+}
+140={
+	name=Domenico
+	dynasty=30
+	culture=soreno religion=miaphysite
+	363.1.2={ birth=yes }
+	434.2.15={ death=yes }
+}
+141={
+	name=Giles
+	dynasty=31
+	culture=soreno religion=miaphysite
+	363.1.2={ birth=yes }
+	434.2.15={ death=yes }
+}
+142={
+	name=Nuno #Visalia 769
+	dynasty=32
+	culture=costano religion=zun_pagan
+	723.1.2={ birth=yes }
+	784.2.15={ death=yes }
+}
+143={
+	name=Diniz #CoDoSol 769
+	dynasty=33
+	culture=costano religion=zun_pagan
+	723.1.2={ birth=yes }
+	784.2.15={ death=yes }
+}
+144={
+	name=Vasco #Ereira 769
+	dynasty=34
+	culture=costano religion=zun_pagan
+	723.1.2={ birth=yes }
+	784.2.15={ death=yes }
+}
+145={
+	name=Túlio #Mesìa 769
+	dynasty=35
+	culture=meiro religion=zun_pagan
+	723.1.2={ birth=yes }
+	784.2.15={ death=yes }
+}
+146={
+	name=Jorge #Illa de Ventos 769
+	dynasty=36
+	culture=costano religion=zun_pagan
+	723.1.2={ birth=yes }
+	784.2.15={ death=yes }
+}
+147={
+	name=Toninho #Calheta 769
+	dynasty=37
+	culture=costano religion=zun_pagan
+	723.1.2={ birth=yes }
+	784.2.15={ death=yes }
+}
+148={
+	name=Graciano #Curullon 769
+	dynasty=38
+	culture=costano religion=zun_pagan
+	723.1.2={ birth=yes }
+	784.2.15={ death=yes }
+}
+149={
+	name=Gomes #Fontoira 769
+	dynasty=39
+	culture=costano religion=zun_pagan
+	723.1.2={ birth=yes }
+	784.2.15={ death=yes }
+}
+150={
+	name=Leandro #Carrais 769
+	dynasty=40
+	culture=costano religion=zun_pagan
+	723.1.2={ birth=yes }
+	784.2.15={ death=yes }
+}
+151={
+	name=Serin #Corviglia, 769
+	dynasty=41
+	culture=corvigliana religion=cathar
+	361.5.9={ birth=yes }
+	424.12.1={ death=yes }
+}
+
+
+
+
+
+201={
+	name=Goennoc #Minllyn duke, 390
+	dynasty=200
+	culture=minllyge religion=celtic_pagan
+	353.1.2={ birth=yes }
+	411.2.15={ death=yes }
+}
+206={
+	name=Ridoredh #Minllyn duke, 390
+	dynasty=205
+	culture=minllyge religion=celtic_pagan
+	353.1.2={ birth=yes }
+	411.2.15={ death=yes }
+}
+211={
+	name=Nodethael #Minllyn duke, 390
+	dynasty=210
+	culture=minllyge religion=celtic_pagan
+	353.1.2={ birth=yes }
+	411.2.15={ death=yes }
+}
+216={
+	name=Guobrian #Minllyn duke, 390
+	dynasty=215
+	culture=minllyge religion=celtic_pagan
+	353.1.2={ birth=yes }
+	411.2.15={ death=yes }
+}
+221={
+	name=Ilcarthon #Minllyn duke, 390
+	dynasty=220
+	culture=minllyge religion=celtic_pagan
+	353.1.2={ birth=yes }
+	411.2.15={ death=yes }
+}
+231={
+	name=Frioc #Minllyn king, 769
+	dynasty=230
+	culture=minllyge religion=celtic_pagan
+	713.1.2={ birth=yes }
+	771.2.15={ death=yes }
 }

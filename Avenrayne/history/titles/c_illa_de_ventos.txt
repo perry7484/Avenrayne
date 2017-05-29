@@ -1,8 +1,7 @@
 # e_costa_do_sol
-500.1.1={
-	law = agnatic_succession
-	law = succ_gavelkind
+100.1.1={
+	liege=d_os_ventos
 }
-800.1.1={
-	liege=d_los_vientos
+766.1.1={
+holder=146 #Jorge
 }

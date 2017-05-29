@@ -12,10 +12,26 @@ silianigfx = {
 raynegfx = {
 	skin_tone = 0
 }
+nordvalgfx = {
+	skin_tone = 0
+}
 passagfx = {
 	skin_tone = 0
 }
 
 costanogfx = {
+	skin_tone = 1
+}
+
+
+##Religious##
+
+hellenicgfx = {
+	skin_tone = 1
+}
+zoroastriangfx = {
+	skin_tone = 1
+}
+zungfx = {
 	skin_tone = 1
 }

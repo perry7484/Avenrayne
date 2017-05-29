@@ -1,0 +1,29 @@
+	k_mesia = {
+		color={ 94 139 114 }
+		color2={ 255 255 255 }
+		
+		capital = 438 # c_saliaca
+		culture = meiro
+		
+		d_saliaca = {
+			color={ 74 159 104 }
+			color2={ 255 255 255 }
+			
+			capital = 438 # c_saliaca
+		}
+	}
+	k_ereira = {
+		color={ 223 64 60 }
+		color2={ 255 255 255 }
+		
+		capital = 446 # c_enseada
+		culture = costano
+		
+	}
+e_costa_do_sol = {
+	color={ 233 69 65 }
+	color2={ 255 255 20 }
+
+	capital = 435 # c_portonovo
+	culture = costano
+}

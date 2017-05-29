@@ -20,3 +20,6 @@ de_jure_liege=e_costa_do_sol
 561.1.1={
 liege=0
 }
+766.1.1={
+holder=145 #Tulio
+}

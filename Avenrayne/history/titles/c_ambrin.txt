@@ -1,0 +1,11 @@
+# e_carnoch
+1.1.1={
+	law = cognatic_succession
+	law = succ_primogeniture
+}
+1.1.1={
+	liege=k_averna
+}
+749.11.26={
+holder=6052 #Milys
+}

@@ -1,7 +1,0 @@
-# d_ocero
-50.1.1={
-liege=d_agurain
-}
-401.1.1={
-holder=131
-}

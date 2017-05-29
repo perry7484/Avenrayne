@@ -1,0 +1,16 @@
+# k_porta
+150.1.1={
+de_jure_liege=e_sonoria
+}
+500.1.1={
+de_jure_liege=e_costa_do_sol
+}
+450.1.1={
+	liege=e_costa_do_sol
+}
+380.1.1={
+liege=e_costa_do_sol
+}
+766.1.1={
+holder=143
+}

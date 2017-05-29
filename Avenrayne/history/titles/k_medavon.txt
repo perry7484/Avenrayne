@@ -1,0 +1,11 @@
+# k_medavon
+1.1.1={
+	law = cognatic_succession
+	law = succ_primogeniture
+}
+726.6.9={
+holder=6036 #Albin I
+}
+759.10.10={
+holder=6039 #Albin II
+}

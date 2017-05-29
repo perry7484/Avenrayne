@@ -1,7 +1,9 @@
-# e_costa_do_sol
 50.1.1={
 liege=k_ereira
 }
 401.1.1={
 holder=130
+}
+766.1.1={
+holder=144 #Vasco
 }

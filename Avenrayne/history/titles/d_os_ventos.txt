@@ -1,0 +1,7 @@
+# e_costa_do_sol
+400.1.1={
+	liege=e_costa_do_sol
+}
+766.1.1={
+holder=146 #Jorge
+}

@@ -1,7 +1,0 @@
-#e_costa_do_sol
-50.1.1={
-liege=k_visalia
-}
-385.1.1={
-holder=128
-}

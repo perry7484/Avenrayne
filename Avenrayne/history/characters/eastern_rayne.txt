@@ -10,7 +10,8 @@
 	trait=patient
 	trait=cynical
 	trait=naive_appeaser
-	father=3201
+	trait=legitimized_bastard
+	father=3100
 	716.4.11={
 		birth=yes
 	}

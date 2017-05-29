@@ -181,9 +181,23 @@ e_rayne = {
 		color={ 153 34 107 }
 		color2={ 255 255 255 }
 		
-		capital = 5 # c_rocheroyale
+		capital = 7 # c_rivevaux
 		culture = eastern_rayne
+
+		d_villosque = {
+			color={ 97 126 174 }
+			color2={ 255 255 255 }
+			
+			capital = 12 # c_villosque
+		}
+		d_vauvord = {
+			color={ 125 88 130 }
+			color2={ 255 255 255 }
+			
+			capital = 14 # c_vauvord
+		}
 	}
+
 	k_la_paix = {
 		color={ 195 195 99 }
 		color2={ 255 255 255 }

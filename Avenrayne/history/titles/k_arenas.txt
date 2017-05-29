@@ -1,13 +1,13 @@
-# e_lopera
+# e_arenas
 150.1.1={
 de_jure_liege=e_sonoria
 }
-100.1.1={
-liege=e_capraccia
-}
-450.1.1={
-liege=e_lopera
-}
-550.1.1={
+500.1.1={
 de_jure_liege=e_lopera
+}
+400.1.1={
+	liege=e_lopera
+}
+400.1.1={
+holder=139 #Ernesto
 }
