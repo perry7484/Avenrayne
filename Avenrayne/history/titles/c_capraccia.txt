@@ -119,7 +119,7 @@
 	liege="k_papal_state"
 }
 768.12.21={
-	holder=231
+	holder=251
 }
 1095.1.1={
 	set_global_flag = christian_crusades_unlocked
